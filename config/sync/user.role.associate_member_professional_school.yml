@@ -1,0 +1,9 @@
+uuid: bd402c1a-c571-45c1-ad29-1b2305bcb6d4
+langcode: en
+status: true
+dependencies: {  }
+id: associate_member_professional_school
+label: 'Associate Member (Professional School)'
+weight: 10
+is_admin: null
+permissions: {  }

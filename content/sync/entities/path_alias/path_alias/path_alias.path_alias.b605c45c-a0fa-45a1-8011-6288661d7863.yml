@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b605c45c-a0fa-45a1-8011-6288661d7863
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/181
+alias:
+  -
+    value: /event/panel-advanced-ai-user-interfaces
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

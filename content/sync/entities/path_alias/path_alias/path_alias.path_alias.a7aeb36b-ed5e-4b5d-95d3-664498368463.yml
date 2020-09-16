@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a7aeb36b-ed5e-4b5d-95d3-664498368463
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/511
+alias:
+  -
+    value: /job/digital-back-end-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

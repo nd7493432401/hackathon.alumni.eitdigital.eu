@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a6e38ba4-f8b1-4f51-8e3c-e6f9b20ad8c6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/102
+alias:
+  -
+    value: /article/showcase-your-startup-techcrunch-disrupt-berlin-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

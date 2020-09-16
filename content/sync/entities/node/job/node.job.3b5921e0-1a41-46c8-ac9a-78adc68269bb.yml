@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 3b5921e0-1a41-46c8-ac9a-78adc68269bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Data Scientist'
+created:
+  -
+    value: '2019-08-09T13:01:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:11:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/data-scientist-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.astroscreen.com/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Astroscreen
+    format: full_html
+    processed: Astroscreen
+field_expiration_date:
+  -
+    value: '2019-10-09T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>Who We Are:</strong></p>\r\n\r\n<p>At Astroscreen, we protect brands and defend democracy from harmful social media manipulation campaigns also known as astroturfing. We use machine learning aided by disinformation analysts to detect social media manipulation and disinformation. We are looking for a Data Scientist to join our growing team.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>What You’ll Do:</strong></p>\r\n\r\n<p>As part of our Data Science team, you will establish and improve the core of our Detection Methods Library. You will research on current state-of-the-art methods for NLP, Graph Analysis and Time Series, among others. You will come up with new verticals for the detection of inorganic activity, and help Astroscreen become a world-leading company for Cybersecurity in Social Networks.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<p>Develop, evaluate and improve models for detecting social media manipulation (e.g. inorganic activity and botnet detection)</p>\r\n\r\n<p>Create self-contained examples of your models for reproducibility</p>\r\n\r\n<p>Analyze trends and detect inorganic activity in different social media platforms with the help of your models</p>\r\n\r\n<p>Explain your insights and findings through data visualizations</p>\r\n\r\n<p>Communicate with our product and engineering teams to deploy your models into production</p>\r\n\r\n<p>Contribute with features for our Intelligence Platform, which the analysts use for tracking down misinformation campaigns</p>\r\n\r\n<p>Imagine and engineer new ways of collecting data from social media platforms to upload our Data Warehouse</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>About you:</strong></p>\r\n\r\n<p>Excellent understanding of machine learning techniques and algorithms, such as Decision Trees, k-NN and Neural Networks.</p>\r\n\r\n<p>Good applied statistics skills, such as distributions, statistical testing, regression, etc.</p>\r\n\r\n<p>You have good Python skills and have experience with its Data Science ecosystem (Pandas, Scikit-learn, Matplotlib, IPython, etc.)</p>\r\n\r\n<p>You are comfortable implementing research papers, and can develop these algorithms by yourself, end to end</p>\r\n\r\n<p>You are comfortable querying and filtering data from APIs, NoSQL databases, web scrapers, etc.&nbsp;</p>\r\n\r\n<p>You have experience analyzing and modeling data, and have worked in projects that showcase your skills</p>\r\n\r\n<p>You have a startup mentality, and enjoy getting your hands dirty with tasks outside the scope of your role or experience</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Our Benefits:</strong></p>\r\n\r\n<p>You will work at the edge of technology, with exposure to the latest research in social network analysis and machine learning</p>\r\n\r\n<p>You will have meaningful impact in the decisions made creating and maintaining a world class company, from the earliest stage.</p>\r\n\r\n<p>Lots of room for creativity, new ideas and testing new technology</p>\r\n\r\n<p>Learning and personal development sponsored by us</p>\r\n\r\n<p>Competitive pay and benefits</p>\r\n"
+    format: full_html
+    processed: "<p><strong>Who We Are:</strong></p>\n\n<p>At Astroscreen, we protect brands and defend democracy from harmful social media manipulation campaigns also known as astroturfing. We use machine learning aided by disinformation analysts to detect social media manipulation and disinformation. We are looking for a Data Scientist to join our growing team.</p>\n\n<p>\_</p>\n\n<p><strong>What You’ll Do:</strong></p>\n\n<p>As part of our Data Science team, you will establish and improve the core of our Detection Methods Library. You will research on current state-of-the-art methods for NLP, Graph Analysis and Time Series, among others. You will come up with new verticals for the detection of inorganic activity, and help Astroscreen become a world-leading company for Cybersecurity in Social Networks.</p>\n\n<p>\_</p>\n\n<p><strong>Responsibilities:</strong></p>\n\n<p>Develop, evaluate and improve models for detecting social media manipulation (e.g. inorganic activity and botnet detection)</p>\n\n<p>Create self-contained examples of your models for reproducibility</p>\n\n<p>Analyze trends and detect inorganic activity in different social media platforms with the help of your models</p>\n\n<p>Explain your insights and findings through data visualizations</p>\n\n<p>Communicate with our product and engineering teams to deploy your models into production</p>\n\n<p>Contribute with features for our Intelligence Platform, which the analysts use for tracking down misinformation campaigns</p>\n\n<p>Imagine and engineer new ways of collecting data from social media platforms to upload our Data Warehouse</p>\n\n<p>\_</p>\n\n<p><strong>About you:</strong></p>\n\n<p>Excellent understanding of machine learning techniques and algorithms, such as Decision Trees, k-NN and Neural Networks.</p>\n\n<p>Good applied statistics skills, such as distributions, statistical testing, regression, etc.</p>\n\n<p>You have good Python skills and have experience with its Data Science ecosystem (Pandas, Scikit-learn, Matplotlib, IPython, etc.)</p>\n\n<p>You are comfortable implementing research papers, and can develop these algorithms by yourself, end to end</p>\n\n<p>You are comfortable querying and filtering data from APIs, NoSQL databases, web scrapers, etc.\_</p>\n\n<p>You have experience analyzing and modeling data, and have worked in projects that showcase your skills</p>\n\n<p>You have a startup mentality, and enjoy getting your hands dirty with tasks outside the scope of your role or experience</p>\n\n<p>\_</p>\n\n<p><strong>Our Benefits:</strong></p>\n\n<p>You will work at the edge of technology, with exposure to the latest research in social network analysis and machine learning</p>\n\n<p>You will have meaningful impact in the decisions made creating and maintaining a world class company, from the earliest stage.</p>\n\n<p>Lots of room for creativity, new ideas and testing new technology</p>\n\n<p>Learning and personal development sponsored by us</p>\n\n<p>Competitive pay and benefits</p>\n"
+field_job_location:
+  -
+    value: London
+    format: full_html
+    processed: London
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

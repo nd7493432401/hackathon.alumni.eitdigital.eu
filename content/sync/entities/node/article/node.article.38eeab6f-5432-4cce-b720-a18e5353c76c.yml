@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 38eeab6f-5432-4cce-b720-a18e5353c76c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:24:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Spotlight on: App''ero'
+created:
+  -
+    value: '2017-08-08T12:19:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:24:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/spotlight-appero
+body:
+  -
+    value: "<p>App'ero, a team who took their first steps during the <a href=\"http://eitalumni.eu\">EIT Alumni</a> Startup Days 2016, were recently announced as the <a href=\"http://www.finnishnews.fi/tech-science/the-winners-of-the-junior-achievements-ja-europe-enterprise-challenge-2017-in-helsinki/\">2nd runners up</a> of the JA Europe Enterprise Challenge 2017 in Helsinki!</p>\r\n\r\n<p>The International team, composed entirely of EIT Digital students, namely, Ana Gonzalez Plaza, Andrea Vallejo, Devrat Shekawat, Emmanuel Chaudron, Jaechul Lee, and Wissem Chouk, have created&nbsp;an innovative app for bar-goers across the world.&nbsp;Their app allows users to find local bars, place orders through their phone (removing queue time!) and split the bill between friends.</p>\r\n\r\n<p>They were also the winners of our startup competition: <a href=\"/node/238\">read about their journey to SLUSH here</a>!</p>\r\n\r\n<p>Find more info in the following article on the <a href=\"https://eitalumni.eu/blog/2017/07/17/appero-order-like-a-hero/\">EIT Alumni website here</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>App'ero, a team who took their first steps during the <a href=\"http://eitalumni.eu\">EIT Alumni</a> Startup Days 2016, were recently announced as the <a href=\"http://www.finnishnews.fi/tech-science/the-winners-of-the-junior-achievements-ja-europe-enterprise-challenge-2017-in-helsinki/\">2nd runners up</a> of the JA Europe Enterprise Challenge 2017 in Helsinki!</p>\n\n<p>The International team, composed entirely of EIT Digital students, namely, Ana Gonzalez Plaza, Andrea Vallejo, Devrat Shekawat, Emmanuel Chaudron, Jaechul Lee, and Wissem Chouk, have created\_an innovative app for bar-goers across the world.\_Their app allows users to find local bars, place orders through their phone (removing queue time!) and split the bill between friends.</p>\n\n<p>They were also the winners of our startup competition: <a href=\"/node/238\">read about their journey to SLUSH here</a>!</p>\n\n<p>Find more info in the following article on the <a href=\"https://eitalumni.eu/blog/2017/07/17/appero-order-like-a-hero/\">EIT Alumni website here</a>!</p>\n"
+    summary: 'App''ero, a team who took their first steps during the EIT Alumni Startup Days 2016, were recently an'
+    summary_processed: 'App''ero, a team who took their first steps during the EIT Alumni Startup Days 2016, were recently an'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 034bd80d-abe2-4174-a34e-635367169c76
+field_article_introduction:
+  -
+    value: 'EIT Digital students score second runner up in JA Europe Enterprise Challenge with bargoer app'
+field_image:
+  -
+    target_type: media
+    target_uuid: c6521030-c7e8-4522-a5d8-1a7de83fa9a7
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.034bd80d-abe2-4174-a34e-635367169c76
+    media:
+      - media.image.c6521030-c7e8-4522-a5d8-1a7de83fa9a7

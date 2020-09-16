@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 777c9f42-dbe3-407e-ba8f-e35a14c2411a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/36
+alias:
+  -
+    value: /article/attending-climate-heroes-reunion
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

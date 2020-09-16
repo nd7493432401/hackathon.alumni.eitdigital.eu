@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 5918bd6a-7e31-4ce4-8c97-6a20ed0f577d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:58:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Growing Together'
+created:
+  -
+    value: '2019-12-05T08:58:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:58:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-digital-growing-together
+body: {  }
+field_event_:
+  -
+    value: 'The University of Zagreb Student Centre, Savska cesta 25, 10000, Zagreb, Croatia'
+    format: full_html
+    processed: 'The University of Zagreb Student Centre, Savska cesta 25, 10000, Zagreb, Croatia'
+field_event_date:
+  -
+    value: '2019-12-13T17:00:00+01:00'
+    end_value: '2019-12-13T20:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>The purpose of this event is to present to the students of the <strong>University of Zagreb</strong>&nbsp;and in particular the faculties of the technical field, the different opportunities to participate in the EIT Digital programs, which include the Master School, Summer School, Startup Accelerator, scholarship through ARISE Europe and a lot more activities after graduation through the EIT Digital Alumni community.</p>\r\n\r\n<p>The vision of this event is the <strong>growth of the two systems</strong>. On the one hand, the promotion of EIT Digital, and on the other, helping developing countries through co-financing programs. Our <strong>alumni based in&nbsp;Croatia</strong> want to initiate processes to involve the students from their country&nbsp;in EIT Digital programs. Their aim is to establish an entrepreneurial society with&nbsp;wide scope of influence at EU and worldwide level, contribute&nbsp;to the advancement of their homeland and&nbsp;the neighboring region through&nbsp;innovation, innovative products and services for a sustainable well-being society.</p>\r\n\r\n<p>After the presentations there will be the opportunity for the attendees to meet our <strong>local Alumni</strong> and talk over a networking session with snacks and drinks.</p>\r\n\r\n<p>The event program and speakers will be as follows:</p>\r\n\r\n<ul>\r\n\t<li>EIT Digital: <a href=\"https://alumni.eitdigital.eu/users/martonbelik\" target=\"_blank\">Márton Bélik</a></li>\r\n\t<li>Experiences in the Master School and as an EIT Digital Alumnus:&nbsp;<a href=\"https://alumni.eitdigital.eu/users/korac\" target=\"_blank\">Kristijan Korać</a></li>\r\n\t<li>Summer School alumni:&nbsp;Filip Buturić,&nbsp;<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\" target=\"_blank\">Marija Matijević</a>,&nbsp;Tomislav Starčević</li>\r\n\t<li>ARISE Europe: <a href=\"https://alumni.eitdigital.eu/users/martonbelik\" target=\"_blank\">Márton Bélik</a></li>\r\n\t<li>Discussion, Q&amp;A session</li>\r\n\t<li>Informal networking session</li>\r\n</ul>\r\n\r\n<p>This event is free of charge. For more information and registrations, please contact&nbsp;<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\" target=\"_blank\">Marija Matijević</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>The purpose of this event is to present to the students of the <strong>University of Zagreb</strong>\_and in particular the faculties of the technical field, the different opportunities to participate in the EIT Digital programs, which include the Master School, Summer School, Startup Accelerator, scholarship through ARISE Europe and a lot more activities after graduation through the EIT Digital Alumni community.</p>\n\n<p>The vision of this event is the <strong>growth of the two systems</strong>. On the one hand, the promotion of EIT Digital, and on the other, helping developing countries through co-financing programs. Our <strong>alumni based in\_Croatia</strong> want to initiate processes to involve the students from their country\_in EIT Digital programs. Their aim is to establish an entrepreneurial society with\_wide scope of influence at EU and worldwide level, contribute\_to the advancement of their homeland and\_the neighboring region through\_innovation, innovative products and services for a sustainable well-being society.</p>\n\n<p>After the presentations there will be the opportunity for the attendees to meet our <strong>local Alumni</strong> and talk over a networking session with snacks and drinks.</p>\n\n<p>The event program and speakers will be as follows:</p>\n\n<ul>\n\t<li>EIT Digital: <a href=\"https://alumni.eitdigital.eu/users/martonbelik\" target=\"_blank\">Márton Bélik</a></li>\n\t<li>Experiences in the Master School and as an EIT Digital Alumnus:\_<a href=\"https://alumni.eitdigital.eu/users/korac\" target=\"_blank\">Kristijan Korać</a></li>\n\t<li>Summer School alumni:\_Filip Buturić,\_<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\" target=\"_blank\">Marija Matijević</a>,\_Tomislav Starčević</li>\n\t<li>ARISE Europe: <a href=\"https://alumni.eitdigital.eu/users/martonbelik\" target=\"_blank\">Márton Bélik</a></li>\n\t<li>Discussion, Q&amp;A session</li>\n\t<li>Informal networking session</li>\n</ul>\n\n<p>This event is free of charge. For more information and registrations, please contact\_<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\" target=\"_blank\">Marija Matijević</a>.</p>\n\n<p>\_</p>\n"
+field_event_duration:
+  -
+    value: '17:00 - 20:00'
+    format: full_html
+    processed: '17:00 - 20:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 953cdd72-44f7-43d9-839d-27b1df4b9435
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 953cdd72-44f7-43d9-839d-27b1df4b9435
+field_event_introduction:
+  -
+    value: "<p>Our Alumni based in Zagreb present EIT Digital to potential applicants</p>\r\n"
+    format: full_html
+    processed: "<p>Our Alumni based in Zagreb present EIT Digital to potential applicants</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3bb412fd-fae9-44b7-a5b0-e39487bc4870
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.953cdd72-44f7-43d9-839d-27b1df4b9435
+    taxonomy_term:
+      - taxonomy_term.event_type.3bb412fd-fae9-44b7-a5b0-e39487bc4870

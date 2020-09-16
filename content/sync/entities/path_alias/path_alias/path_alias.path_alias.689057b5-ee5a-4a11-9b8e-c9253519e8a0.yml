@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 689057b5-ee5a-4a11-9b8e-c9253519e8a0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/16
+alias:
+  -
+    value: /article/present-your-startup-slush
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

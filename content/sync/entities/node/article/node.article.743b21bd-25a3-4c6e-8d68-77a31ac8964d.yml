@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 743b21bd-25a3-4c6e-8d68-77a31ac8964d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:46:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'The journey towards #digitalumni18'
+created:
+  -
+    value: '2018-05-05T10:16:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:46:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/journey-towards-digitalumni18
+body:
+  -
+    value: "<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p>Back from some very intense and amazing four days of Annual Meeting 2018, organized by the EIT Digital Alumni foundation. It has been a great experience with so many activities, workshops, inspiring talks and knowledge-exchanges among the former students of this active ecosystem. This “fairytale” took place around the stunning Val Di Sole, completely surrounded by the positive vibes and quietness that only such natural landscapes can give to people. A unique way to have a break from the routine of the everyday life and recharge the batteries.<br />\r\nI want to briefly describe what #digitalumni18 meant to me, even though I do believe that certain experiences need to be fully lived in order to be completely understood.</p>\r\n\r\n<p><strong>Day 1</strong>: The digital journey kicked off from the small – but awesome - Trento (located in the Northern part of Italy) with the official welcome in Piazza Duomo, where a guided tour started. This gave us a full immersion into the culture, history and habits of Trento by visiting the main landmarks this town offers: Buonconsiglio Castle, San Vigilio cathedral, Neptune Fountain and much more! This was followed by a smooth transit by train to Val Di Sole, where we were hosted by the <a href=\"http://www.alpholiday.it/\">Alpholiday Dolomiti</a> (4-star) hotel. Here we had a chance to taste a delicious traditional gourmet dinner, followed by an amazing British pop-music concert by Poor Works and a DJ-set which made the night enjoyable till late! It was a full day and I could not even realize how fast time flew!</p>\r\n\r\n<p><strong>Day 2</strong>: We started the morning with a huge and energizing breakfast before leaving for a walk in the forest, an outdoor lunch and amazing open-air activities organized by <em>Val di Sole <a href=\"http://raftingcenter.it\">Rafting Center</a></em>. Our Alumni could choose among <a href=\"https://alumni.eitdigital.eu/outdoor-activities\">5 adrenalinic activities</a>: cliffhanger, tarzaning, flying park, rafting and climbing. A very exciting and exhausting day which let the participants better get to know each other, by spending some unforgettable moments together. After all, what we will remember in our lives are the experiences we pass through and the time we share with others! Is there a better way than doing it with the members of our community?!<br />\r\nBack to the hotel, the wellness area was totally taken under siege by all of us: a tired generation of young entrepreneurs. The day ended with a community-building activity - which followed yet another delicious dinner - which consisted of around 50 tricky questions to be answered in groups on Kahoot – mainly focused on tech topics and on the EIT (Digital Alumni) ecosystem!</p>\r\n\r\n<p><strong>Day 3</strong>: Another amazing breakfast gave us the good morning and the strength to start what would have been a day packed with professional activities! We started with the presentation of the state of play of the EIT Digital Alumni community by our President <a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a>.<br />\r\nWe then had the pleasure to listen to a keynote talk by our new friend and speaker <strong>Ranveig Strøm</strong>. She is responsible for the entrepreneurship activities of CERN and came directly from Geneve to inspire us by presenting what is being done in the largest particle physics laboratory in the world.</p>\r\n\r\n<p>This was followed by 4 five-minute pitches by the tech companies supporting the event:</p>\r\n\r\n<p>- <a href=\"http://www.noovle.com/\"><strong>Noovle</strong></a>: company focusing on cloud architectures and among the top 50 GC partners in the world!<br />\r\n- <a href=\"http://www.eng.it/\"><strong>Engineering</strong></a>: company with more 50 worldwide offices. They run projects in all business areas.<br />\r\n- <a href=\"http://flexidao.com/\"><strong>Flexidao</strong></a>: startup company which provides decentralized, low-cost, transparent control of small loads to balance the grid.<br />\r\n- <a href=\"https://www.thron.com/en/\"><strong>Thron</strong></a>: organization which provides an Intelligent DAM that helps companies manage the entire content lifecycle, allowing total control thanks to integrated delivery and 1st Party Data collection with the support of Content Intelligence.</p>\r\n\r\n<p>Once the pitches were over we had a long networking lunch, which was then followed by the “Career Fair” – where everyone had the opportunity to talk directly with the companies and explore some of their job opportunities, ranging for UX Designers to Machine Learning Engineers.<br />\r\nThe afternoon offered several workshops and talks held in four different rooms in parallel, arranged into five different “areas of interest”: Process, Internet of Things, Career, Blockchain and Machine Learning.</p>\r\n\r\n<p>Unfortunately, as everything else in life, also our wonderful time in Val Di Sole had to come to an end: we finally moved back to Trento, but something really unforgettable was going to happen! We visited and had a guided tour of <a href=\"http://muse.it\">MUSE</a> (the science museum of this lovely city), we watched the stars and the Moon via a telescope on the terrace at the top floor of the building and… we slept inside the museum! Yes, I wonder how many people could ever experience throughout their life something as crazy as this! It has been unbelievable, I felt like being the actor of a new movie being premiered at the cinema! Time to switch the light off and take some rest.</p>\r\n\r\n<p><strong>Day 4</strong>: The very last day of this exciting event! We were woken up by the howl of a wolf and, at around 07:00, we had a light breakfast (at the museum, of course!). At 10 am the event was officially closed, and all the participants exchanged the last greetings before moving back to their houses and daily routines… but something will probably change, after all we lived!</p>\r\n\r\n<p>See you soon, dear Alumni! Already excited to join #digitalumni19 - and waiting for new contributions, <strong>from all of us</strong>, to make this community even more “awesomissima”!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>[Our Alumnus &amp; Marketing Communications Officer <a href=\"https://alumni.eitdigital.eu/users/tizianoantico\"><strong>Tiziano Antico</strong></a>]</p>\r\n"
+    format: full_html
+    processed: "<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\n\n<p>Back from some very intense and amazing four days of Annual Meeting 2018, organized by the EIT Digital Alumni foundation. It has been a great experience with so many activities, workshops, inspiring talks and knowledge-exchanges among the former students of this active ecosystem. This “fairytale” took place around the stunning Val Di Sole, completely surrounded by the positive vibes and quietness that only such natural landscapes can give to people. A unique way to have a break from the routine of the everyday life and recharge the batteries.<br />\nI want to briefly describe what #digitalumni18 meant to me, even though I do believe that certain experiences need to be fully lived in order to be completely understood.</p>\n\n<p><strong>Day 1</strong>: The digital journey kicked off from the small – but awesome - Trento (located in the Northern part of Italy) with the official welcome in Piazza Duomo, where a guided tour started. This gave us a full immersion into the culture, history and habits of Trento by visiting the main landmarks this town offers: Buonconsiglio Castle, San Vigilio cathedral, Neptune Fountain and much more! This was followed by a smooth transit by train to Val Di Sole, where we were hosted by the <a href=\"http://www.alpholiday.it/\">Alpholiday Dolomiti</a> (4-star) hotel. Here we had a chance to taste a delicious traditional gourmet dinner, followed by an amazing British pop-music concert by Poor Works and a DJ-set which made the night enjoyable till late! It was a full day and I could not even realize how fast time flew!</p>\n\n<p><strong>Day 2</strong>: We started the morning with a huge and energizing breakfast before leaving for a walk in the forest, an outdoor lunch and amazing open-air activities organized by <em>Val di Sole <a href=\"http://raftingcenter.it\">Rafting Center</a></em>. Our Alumni could choose among <a href=\"https://alumni.eitdigital.eu/outdoor-activities\">5 adrenalinic activities</a>: cliffhanger, tarzaning, flying park, rafting and climbing. A very exciting and exhausting day which let the participants better get to know each other, by spending some unforgettable moments together. After all, what we will remember in our lives are the experiences we pass through and the time we share with others! Is there a better way than doing it with the members of our community?!<br />\nBack to the hotel, the wellness area was totally taken under siege by all of us: a tired generation of young entrepreneurs. The day ended with a community-building activity - which followed yet another delicious dinner - which consisted of around 50 tricky questions to be answered in groups on Kahoot – mainly focused on tech topics and on the EIT (Digital Alumni) ecosystem!</p>\n\n<p><strong>Day 3</strong>: Another amazing breakfast gave us the good morning and the strength to start what would have been a day packed with professional activities! We started with the presentation of the state of play of the EIT Digital Alumni community by our President <a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a>.<br />\nWe then had the pleasure to listen to a keynote talk by our new friend and speaker <strong>Ranveig Strøm</strong>. She is responsible for the entrepreneurship activities of CERN and came directly from Geneve to inspire us by presenting what is being done in the largest particle physics laboratory in the world.</p>\n\n<p>This was followed by 4 five-minute pitches by the tech companies supporting the event:</p>\n\n<p>- <a href=\"http://www.noovle.com/\"><strong>Noovle</strong></a>: company focusing on cloud architectures and among the top 50 GC partners in the world!<br />\n- <a href=\"http://www.eng.it/\"><strong>Engineering</strong></a>: company with more 50 worldwide offices. They run projects in all business areas.<br />\n- <a href=\"http://flexidao.com/\"><strong>Flexidao</strong></a>: startup company which provides decentralized, low-cost, transparent control of small loads to balance the grid.<br />\n- <a href=\"https://www.thron.com/en/\"><strong>Thron</strong></a>: organization which provides an Intelligent DAM that helps companies manage the entire content lifecycle, allowing total control thanks to integrated delivery and 1st Party Data collection with the support of Content Intelligence.</p>\n\n<p>Once the pitches were over we had a long networking lunch, which was then followed by the “Career Fair” – where everyone had the opportunity to talk directly with the companies and explore some of their job opportunities, ranging for UX Designers to Machine Learning Engineers.<br />\nThe afternoon offered several workshops and talks held in four different rooms in parallel, arranged into five different “areas of interest”: Process, Internet of Things, Career, Blockchain and Machine Learning.</p>\n\n<p>Unfortunately, as everything else in life, also our wonderful time in Val Di Sole had to come to an end: we finally moved back to Trento, but something really unforgettable was going to happen! We visited and had a guided tour of <a href=\"http://muse.it\">MUSE</a> (the science museum of this lovely city), we watched the stars and the Moon via a telescope on the terrace at the top floor of the building and… we slept inside the museum! Yes, I wonder how many people could ever experience throughout their life something as crazy as this! It has been unbelievable, I felt like being the actor of a new movie being premiered at the cinema! Time to switch the light off and take some rest.</p>\n\n<p><strong>Day 4</strong>: The very last day of this exciting event! We were woken up by the howl of a wolf and, at around 07:00, we had a light breakfast (at the museum, of course!). At 10 am the event was officially closed, and all the participants exchanged the last greetings before moving back to their houses and daily routines… but something will probably change, after all we lived!</p>\n\n<p>See you soon, dear Alumni! Already excited to join #digitalumni19 - and waiting for new contributions, <strong>from all of us</strong>, to make this community even more “awesomissima”!</p>\n\n<p>\_</p>\n\n<p>[Our Alumnus &amp; Marketing Communications Officer <a href=\"https://alumni.eitdigital.eu/users/tizianoantico\"><strong>Tiziano Antico</strong></a>]</p>\n"
+    summary: 'Back from some very intense and amazing four days of Annual Meeting 2018, organized by the EIT Digit'
+    summary_processed: 'Back from some very intense and amazing four days of Annual Meeting 2018, organized by the EIT Digit'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'Tiziano describes what #digitalumni18 has been about! Enjoy the reading!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 16f86512-f6d6-4f74-b684-e6efac1a1817
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.16f86512-f6d6-4f74-b684-e6efac1a1817

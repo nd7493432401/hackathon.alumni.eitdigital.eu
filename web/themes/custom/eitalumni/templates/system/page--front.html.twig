@@ -1,0 +1,92 @@
+{#/**
+ * @file
+ * Default theme implementation to display a single Drupal page.
+ *
+ * The doctype, html, head and body tags are not in this template. Instead they
+ * can be found in the html.tpl.php template in this directory.
+ *
+ */ 
+#}
+
+{{ base_url }}
+
+{% include '@eitalumni/includes/header.html.twig' %}
+
+{% if (page.carousel is not empty) %}
+	<div class="container-fluid container-carousel nopadding">{{ page.carousel }}</div>
+{% endif %}
+
+<div class="container-fluid home-section home-news-events">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-xs-12 col-md-8">
+				{{ page.home1 }}
+			</div>
+			
+			<div class="col-xs-12 col-md-4">
+				{{ page.home2 }}
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+{# Header #}
+{% if page.header %}
+  {% block header %}
+    <div class="col-sm-12" role="heading">
+      {{ page.header }}
+    </div>
+  {% endblock %}
+{% endif %}
+ 
+{# We need to print page content for metatags to work - then we hide it #}
+{# <div class="hide-page-content">
+	{{ 'page.content'|render }}
+</div> #}
+
+<div class="container-fluid home-section home-alumni">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<h2 class="block-title">Our Alumni &amp; Friends</h2>
+			</div>
+			<div class="col-xs-12 col-sm-4">
+				{{ page.home3 }}
+			</div>
+
+			<div class="col-xs-12 col-sm-8 home-alumni-map">
+				<div class="home-alumni-map-inner">
+					<h2 class="alumni-map-h2">Find alumni near you, or see who you can meet on your next travel</h2>
+					<a href="#" class="btn btn-glass">Alumni Map</a>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+{# <div class="container-fluid home-section home-teasers-three">
+	<div class="container">
+		<div class="row">
+			{{ 'page.home2'|render }}
+		</div>
+	</div>
+</div> #}
+
+{# <div class="container-fluid footer-top">
+	{{ 'page.footer_top'|render }}
+</div> #}
+
+{% if page.footer %}
+  <footer class="container-fluid footer footer-main text-center">
+	  <div class="container">
+	  	{{ render_var(page.footer) }}
+	  </div>
+  </footer>
+{% endif %}
+
+<div class="container-fluid footer-note">
+	{{ render_var(page.footer_bottom) }}
+</div>

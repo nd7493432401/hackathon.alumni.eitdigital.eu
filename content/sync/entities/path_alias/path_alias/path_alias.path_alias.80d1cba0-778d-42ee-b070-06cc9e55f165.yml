@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 80d1cba0-778d-42ee-b070-06cc9e55f165
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/573
+alias:
+  -
+    value: /job/data-operations-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 49eaba68-c4ea-464b-b712-91c752b23b5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:44:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Pitch SCAN @ EIT Alumni'
+created:
+  -
+    value: '2019-05-10T18:02:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:44:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/pitch-scan-eit-alumni
+body: {  }
+field_event_:
+  -
+    value: 'SUND Hub Copenhangen'
+    format: full_html
+    processed: 'SUND Hub Copenhangen'
+field_event_date:
+  -
+    value: '2019-09-13T09:00:00+02:00'
+    end_value: '2019-09-13T21:00:00+02:00'
+field_event_description:
+  -
+    value: "<p><strong>== Pitch SCAN @ EIT Health Alumni –&nbsp;Open to cross-KIC Alumni!&nbsp;==</strong></p>\r\n\r\n<p>Do you have a great idea but cannot find the right words to bring it across in front of a larger audience? Are you looking for a certain collaboration but find it hard to convince the very busy partner in only a few minutes? Are you interested in receiving a <strong>one-day training in pitching</strong> to make a lasting impression from&nbsp;a top pitching trainer&nbsp;and&nbsp;also meeting SCAN alumni from other KICs?</p>\r\n\r\n<p>On&nbsp;<strong>13 May</strong>, the EIT Health Alumni Network will offer a pitching training, free of charge, exclusive to our Alumni based in the greater Scandinavia Region. We have partnered up with the SUND Hub, the Health Innovation Hub of the University of Copenhagen kindly hosting our event.&nbsp;The event will be followed by <strong>networking drinks and dinner</strong>. Alumni from other EIT Alumni Communities based in Copenhagen are welcome to join!&nbsp;</p>\r\n\r\n<p>Apply here:&nbsp;http://bit.ly/PitchSCANatEITHealthAlumni&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><strong>== Pitch SCAN @ EIT Health Alumni –\_Open to cross-KIC Alumni!\_==</strong></p>\n\n<p>Do you have a great idea but cannot find the right words to bring it across in front of a larger audience? Are you looking for a certain collaboration but find it hard to convince the very busy partner in only a few minutes? Are you interested in receiving a <strong>one-day training in pitching</strong> to make a lasting impression from\_a top pitching trainer\_and\_also meeting SCAN alumni from other KICs?</p>\n\n<p>On\_<strong>13 May</strong>, the EIT Health Alumni Network will offer a pitching training, free of charge, exclusive to our Alumni based in the greater Scandinavia Region. We have partnered up with the SUND Hub, the Health Innovation Hub of the University of Copenhagen kindly hosting our event.\_The event will be followed by <strong>networking drinks and dinner</strong>. Alumni from other EIT Alumni Communities based in Copenhagen are welcome to join!\_</p>\n\n<p>Apply here:\_http://bit.ly/PitchSCANatEITHealthAlumni\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: e25bc0c4-2e7a-4112-a2b1-e299c9724757
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: e25bc0c4-2e7a-4112-a2b1-e299c9724757
+field_event_introduction:
+  -
+    value: "<p>On&nbsp;13 May, the EIT Health Alumni Network will offer a pitching training, free of charge, exclusive to our Alumni based in the greater Scandinavia Region.</p>\r\n"
+    format: full_html
+    processed: "<p>On\_13 May, the EIT Health Alumni Network will offer a pitching training, free of charge, exclusive to our Alumni based in the greater Scandinavia Region.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: f518ad22-8d3e-4297-99fc-8048a794fde4
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.e25bc0c4-2e7a-4112-a2b1-e299c9724757
+    taxonomy_term:
+      - taxonomy_term.event_type.f518ad22-8d3e-4297-99fc-8048a794fde4

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 76c55162-956a-4268-bfcf-daa1f32ff9c9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/359
+alias:
+  -
+    value: /job/artificial-intelligence-expertdata-scientist
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fe89ef2a-1f7c-46c6-91b1-ff005b449102
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/241
+alias:
+  -
+    value: /event/landing-festival-lisbon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

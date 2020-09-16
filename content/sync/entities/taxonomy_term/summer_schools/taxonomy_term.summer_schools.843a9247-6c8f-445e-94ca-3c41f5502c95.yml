@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 843a9247-6c8f-445e-94ca-3c41f5502c95
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: summer_schools
+    target_type: taxonomy_vocabulary
+    target_uuid: c23d0838-0417-48e1-994f-7f67fa7b0f13
+revision_created:
+  -
+    value: '2020-03-24T10:49:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2014 - Trento, Privacy, Security & Trust'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:49:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /summer-schools/2014-trento-privacy-security-trust
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

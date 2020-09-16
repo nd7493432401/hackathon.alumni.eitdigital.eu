@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 96e427c6-ab59-4bb3-ba48-1f3b48eb7730
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/29
+alias:
+  -
+    value: /article/land-great-job-berlin
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

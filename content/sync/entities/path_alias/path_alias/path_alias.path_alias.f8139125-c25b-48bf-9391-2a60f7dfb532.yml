@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f8139125-c25b-48bf-9391-2a60f7dfb532
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/305
+alias:
+  -
+    value: /group/madrid-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

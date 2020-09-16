@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7f11055e-2c3f-46eb-b708-e6d0b0cfbfac
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/284
+alias:
+  -
+    value: /event/researchers-meet-innovators
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

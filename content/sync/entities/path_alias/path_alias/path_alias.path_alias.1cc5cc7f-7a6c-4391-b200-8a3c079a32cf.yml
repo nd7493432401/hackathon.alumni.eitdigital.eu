@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1cc5cc7f-7a6c-4391-b200-8a3c079a32cf
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/64
+alias:
+  -
+    value: /entry-universities/aalto-university-helsinki-finland
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

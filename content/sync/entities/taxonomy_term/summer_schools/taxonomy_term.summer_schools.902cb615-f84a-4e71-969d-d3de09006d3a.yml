@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 902cb615-f84a-4e71-969d-d3de09006d3a
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: summer_schools
+    target_type: taxonomy_vocabulary
+    target_uuid: c23d0838-0417-48e1-994f-7f67fa7b0f13
+revision_created:
+  -
+    value: '2020-03-24T10:48:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2013 - Trento, Service Design for Quality of Life'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:48:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /summer-schools/2013-trento-service-design-quality-life
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

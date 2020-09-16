@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8f4e745a-801e-4003-bded-fe5203b3aea3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/418
+alias:
+  -
+    value: /job/phd-vehicle-everything
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

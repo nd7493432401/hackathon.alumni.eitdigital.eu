@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: ac40360a-6461-4bf0-9c23-ed845e78722c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:50:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Spotlight on: Francesco Bonadiman'
+created:
+  -
+    value: '2018-07-04T14:56:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:50:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/spotlight-francesco-bonadiman
+body:
+  -
+    value: "<p>Have you ever seen any community grow exponentially in under 2 years? I’m not talking about a double-digit growth — this wouldn’t be surprising in the era of social media and advanced marketing technologies. How about 300%? 500%? 1000%?</p>\r\n\r\n<p>In the last 2 years, I’ve witnessed the number of members in our&nbsp;<a href=\"https://alumni.eitdigital.eu/\">EIT Digital Alumni</a>&nbsp;community to skyrocket and the activity level to increase dramatically. One of the major drivers behind this process is&nbsp;<a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a> — the President of the EIT Digital Alumni network. So, if you want to learn HOW this all is possible — read further. In my eyes, Francesco is a shining talent when it comes to community engagement, so, it’s only natural I interrogated him about the secret sauce of this spectacular success.&nbsp;Listen to the full version of the <a href=\"https://soundcloud.com/daryakamkalova/community-engagement\">interview on SoundCloud</a> or read the highlights below.</p>\r\n\r\n<p><iframe frameborder=\"no\" height=\"166\" scrolling=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/443517978&amp;color=ff5500\" width=\"100%\"></iframe></p>\r\n\r\n<p><strong>Francesco, people like numbers. Give us some details about the membership growth rate.</strong></p>\r\n\r\n<p>I stepped in as Marketing &amp; Communications Officer in May 2016. Back then we had 72 members registered on our alumni portal. After almost 2 years of scaling, we have 990 members. And we’re unlikely to stop.</p>\r\n\r\n<p><strong>So, almost 1.300% growth?</strong></p>\r\n\r\n<p>Yes, it was a massive growth, especially at the beginning. We re-designed our portal and invited a lot of new people to get involved in our activities. Recent graduates added on to the numbers.</p>\r\n\r\n<p><strong>That’s impressive. Tell our listeners a bit about EIT Digital and its alumni. What kind of network are we? What is so special about this community?</strong></p>\r\n\r\n<p>Our community is probably unique, in the first place due to the ecosystem of&nbsp;<a href=\"https://www.eitdigital.eu/\">EIT Digital</a>&nbsp;which consists of academia (universities), research centres and businesses. Our alumni come from all over the world and have an entrepreneurial mindset.</p>\r\n\r\n<p><strong>Going back to that enormous increase of membership. Tell me: how? What’s the secret sauce?</strong></p>\r\n\r\n<p>I don’t think there’s a secret sauce apart from passion. Our background in user experience might have been a key element as well. We analysed our members from a user point of view. What are the necessities of young and seasoned professionals? What are they looking for after having finished their journey with EIT Digital?</p>\r\n\r\n<p><strong>Walk me through the process. What was the starting point? Your first steps?</strong></p>\r\n\r\n<p>The first step was learning from the best. We examined the alumni websites of other universities like Berkeley or Stanford to see what they offer to their alumni, how people contribute to their community, how universities scale the network. We wanted to understand why people see the potential in such communities. A clear hint was job opportunities for our members. Another benefit was professional events that would be valuable for people with busy schedules.</p>\r\n\r\n<p><strong>The alumni board is very active on social media. Which channels do you use?</strong></p>\r\n\r\n<p>It’s easier to say which channels we don’t use. There was a pivot in our social media strategy in terms of quality and quantity of content we share. We also didn’t have an&nbsp;<a href=\"https://www.instagram.com/digitalumni/\">Instagram</a>&nbsp;account until one year ago. As a marketing channel, Instagram, in general, offers fewer possibilities than&nbsp;<a href=\"https://www.facebook.com/digitalumni/\">Facebook</a>. On the other hand, with all the novelties in Facebook algorithms, we had to shift our focus to Instagram. Consider the following example: tagging people in a picture was previously a good and easy way to boost the visibility of a Facebook page. Now Facebook flags this action as “spam” and hides posts from people’s walls.&nbsp;<a href=\"https://www.linkedin.com/company/eit-digital-alumni/\">LinkedIn</a>&nbsp;is yet another channel with similar content but often “served” in a different format.</p>\r\n\r\n<p><strong>Apart from membership numbers as well as likes and shares in social media, how do you measure the results of your work?</strong></p>\r\n\r\n<p>We have a number of KPIs to track. In the first place, it’s the number of events we organise per year as well as the number of attendees of those. Secondly, it’s the activity of our members at third-party events which means increased visibility for our community. Thirdly, it’s a number of startups stemming from our community where our members found a company or join other startups as co-founders. The latter showcases well the entrepreneurial mindset of our community.</p>\r\n\r\n<p><strong>Last year you introduced the concept of&nbsp;<a href=\"https://alumni.eitdigital.eu/local-representatives\">Local Reps</a>. What stands behind this idea?</strong></p>\r\n\r\n<p>Our alumni network is highly decentralised across Europe and beyond and our members are very mobile. It’s challenging to build up a community within a city where people would catch up on a regular basis. For the Board, it’s difficult to have a good overview of the career paths of our members and their whereabouts. The Board members are mostly based in Italy and in the Netherlands which makes it hard to know what’s going on in Finland or Spain. The goal of Local Reps is to have eyes and ears in the city. Local Reps communicate to us what’s happening there. They are also the local points of contact for those alumni willing to launch an initiative.</p>\r\n\r\n<p><strong>What’s the most difficult part of community work?</strong></p>\r\n\r\n<p>In our case, it’s clearly the level of complexity attributable to our relationship with EIT Digital and the whole ecosystem.</p>\r\n\r\n<p><strong>And what’s the most rewarding part?</strong></p>\r\n\r\n<p>It’s those moments when after a big event people come to thank you and you notice how their attitude changed. Many people realised after our last year event how much effort we put in and decided to contribute, to give back: become a local rep, launch an initiative, lead a mentorship programme, re-design our website or organise an event. You notice a shift in their mindset which is probably there forever.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>What are your experiences in community engagement? Our alumni network is still growing and we have a lot to learn! Share your expertise with us.</em></p>\r\n\r\n<p><a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya Kamkalova</a></p>\r\n\r\n<p>[originally posted&nbsp;on <a href=\"https://bit.ly/d18-franz\">Medium</a>]</p>\r\n"
+    format: full_html
+    processed: "<p>Have you ever seen any community grow exponentially in under 2 years? I’m not talking about a double-digit growth — this wouldn’t be surprising in the era of social media and advanced marketing technologies. How about 300%? 500%? 1000%?</p>\n\n<p>In the last 2 years, I’ve witnessed the number of members in our\_<a href=\"https://alumni.eitdigital.eu/\">EIT Digital Alumni</a>\_community to skyrocket and the activity level to increase dramatically. One of the major drivers behind this process is\_<a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a> — the President of the EIT Digital Alumni network. So, if you want to learn HOW this all is possible — read further. In my eyes, Francesco is a shining talent when it comes to community engagement, so, it’s only natural I interrogated him about the secret sauce of this spectacular success.\_Listen to the full version of the <a href=\"https://soundcloud.com/daryakamkalova/community-engagement\">interview on SoundCloud</a> or read the highlights below.</p>\n\n<p><iframe frameborder=\"no\" height=\"166\" scrolling=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/443517978&amp;color=ff5500\" width=\"100%\"></iframe></p>\n\n<p><strong>Francesco, people like numbers. Give us some details about the membership growth rate.</strong></p>\n\n<p>I stepped in as Marketing &amp; Communications Officer in May 2016. Back then we had 72 members registered on our alumni portal. After almost 2 years of scaling, we have 990 members. And we’re unlikely to stop.</p>\n\n<p><strong>So, almost 1.300% growth?</strong></p>\n\n<p>Yes, it was a massive growth, especially at the beginning. We re-designed our portal and invited a lot of new people to get involved in our activities. Recent graduates added on to the numbers.</p>\n\n<p><strong>That’s impressive. Tell our listeners a bit about EIT Digital and its alumni. What kind of network are we? What is so special about this community?</strong></p>\n\n<p>Our community is probably unique, in the first place due to the ecosystem of\_<a href=\"https://www.eitdigital.eu/\">EIT Digital</a>\_which consists of academia (universities), research centres and businesses. Our alumni come from all over the world and have an entrepreneurial mindset.</p>\n\n<p><strong>Going back to that enormous increase of membership. Tell me: how? What’s the secret sauce?</strong></p>\n\n<p>I don’t think there’s a secret sauce apart from passion. Our background in user experience might have been a key element as well. We analysed our members from a user point of view. What are the necessities of young and seasoned professionals? What are they looking for after having finished their journey with EIT Digital?</p>\n\n<p><strong>Walk me through the process. What was the starting point? Your first steps?</strong></p>\n\n<p>The first step was learning from the best. We examined the alumni websites of other universities like Berkeley or Stanford to see what they offer to their alumni, how people contribute to their community, how universities scale the network. We wanted to understand why people see the potential in such communities. A clear hint was job opportunities for our members. Another benefit was professional events that would be valuable for people with busy schedules.</p>\n\n<p><strong>The alumni board is very active on social media. Which channels do you use?</strong></p>\n\n<p>It’s easier to say which channels we don’t use. There was a pivot in our social media strategy in terms of quality and quantity of content we share. We also didn’t have an\_<a href=\"https://www.instagram.com/digitalumni/\">Instagram</a>\_account until one year ago. As a marketing channel, Instagram, in general, offers fewer possibilities than\_<a href=\"https://www.facebook.com/digitalumni/\">Facebook</a>. On the other hand, with all the novelties in Facebook algorithms, we had to shift our focus to Instagram. Consider the following example: tagging people in a picture was previously a good and easy way to boost the visibility of a Facebook page. Now Facebook flags this action as “spam” and hides posts from people’s walls.\_<a href=\"https://www.linkedin.com/company/eit-digital-alumni/\">LinkedIn</a>\_is yet another channel with similar content but often “served” in a different format.</p>\n\n<p><strong>Apart from membership numbers as well as likes and shares in social media, how do you measure the results of your work?</strong></p>\n\n<p>We have a number of KPIs to track. In the first place, it’s the number of events we organise per year as well as the number of attendees of those. Secondly, it’s the activity of our members at third-party events which means increased visibility for our community. Thirdly, it’s a number of startups stemming from our community where our members found a company or join other startups as co-founders. The latter showcases well the entrepreneurial mindset of our community.</p>\n\n<p><strong>Last year you introduced the concept of\_<a href=\"https://alumni.eitdigital.eu/local-representatives\">Local Reps</a>. What stands behind this idea?</strong></p>\n\n<p>Our alumni network is highly decentralised across Europe and beyond and our members are very mobile. It’s challenging to build up a community within a city where people would catch up on a regular basis. For the Board, it’s difficult to have a good overview of the career paths of our members and their whereabouts. The Board members are mostly based in Italy and in the Netherlands which makes it hard to know what’s going on in Finland or Spain. The goal of Local Reps is to have eyes and ears in the city. Local Reps communicate to us what’s happening there. They are also the local points of contact for those alumni willing to launch an initiative.</p>\n\n<p><strong>What’s the most difficult part of community work?</strong></p>\n\n<p>In our case, it’s clearly the level of complexity attributable to our relationship with EIT Digital and the whole ecosystem.</p>\n\n<p><strong>And what’s the most rewarding part?</strong></p>\n\n<p>It’s those moments when after a big event people come to thank you and you notice how their attitude changed. Many people realised after our last year event how much effort we put in and decided to contribute, to give back: become a local rep, launch an initiative, lead a mentorship programme, re-design our website or organise an event. You notice a shift in their mindset which is probably there forever.</p>\n\n<p>\_</p>\n\n<p><em>What are your experiences in community engagement? Our alumni network is still growing and we have a lot to learn! Share your expertise with us.</em></p>\n\n<p><a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya Kamkalova</a></p>\n\n<p>[originally posted\_on <a href=\"https://bit.ly/d18-franz\">Medium</a>]</p>\n"
+    summary: 'Have you ever seen any community grow exponentially in under 2 years? I’m not talking about a doub'
+    summary_processed: 'Have you ever seen any community grow exponentially in under 2 years? I’m not talking about a doub'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 034bd80d-abe2-4174-a34e-635367169c76
+field_article_introduction:
+  -
+    value: 'Have you ever seen any community grow exponentially in under 2 years?'
+field_image:
+  -
+    target_type: media
+    target_uuid: 35b7f7b0-d545-4137-8352-5ec5eaa0b29b
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.034bd80d-abe2-4174-a34e-635367169c76
+    media:
+      - media.image.35b7f7b0-d545-4137-8352-5ec5eaa0b29b

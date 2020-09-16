@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d8af0d6f-2b9b-49e8-a0d2-2481734dd6a4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/44
+alias:
+  -
+    value: /event-type/eit-digital-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

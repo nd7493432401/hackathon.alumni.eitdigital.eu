@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: de3fc03c-69d3-4764-860e-108bc912cecd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/46
+alias:
+  -
+    value: /article/spotlight-tobias-boelter
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

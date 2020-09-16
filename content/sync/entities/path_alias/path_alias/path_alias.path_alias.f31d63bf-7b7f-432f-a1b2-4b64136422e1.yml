@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f31d63bf-7b7f-432f-a1b2-4b64136422e1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/4
+alias:
+  -
+    value: /governance
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a255d9be-c861-4dda-8266-cc3abee00ed2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/171
+alias:
+  -
+    value: /summer-schools/2015-london-urban-life-and-mobility
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

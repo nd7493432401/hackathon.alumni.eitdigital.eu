@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 915fde07-47ce-47c0-a26c-ce2e36e87ec4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Luca Vavassori'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/luca-vavassori
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>Once upon a time, in a small village in the north of Italy, a guy decided to step out of his comfort zone and embrace a decision that a few years later he discovered to be lifechanging: joining the EIT Digital Master School program. Looking back at myself two years ago, I see an ambitious yet shy youngster with almost no fluency in English, nor international experience or stamps on his passport, but a dream: acquiring an entrepreneurial mindset and solve actual social problems.</p><p>During the last few years I visoted more than 15 new cities all around Europe, I took an infinite number of trains, buses (thank you Flixbus discount!), and flights, and I''ve even had a road trip from Morocco to Italy passing through Spain and France! The most extraordinary part of it is that all those journeys allowed me to visit friends&nbsp;I have met during the EIT studies. Traveling is only of the goals I have achieved during my master''s. I also founded my Data Science student association in Politecnico, I helped the Milan EIT Digital Community by arranging meetings and mentorships, I gave inspiring presentations and practiced my public speaking in English (still have an Italian accent, mamma mia!).&nbsp;</p><p>All of it is mainly due to the fervid, stimulating and vibrant environment you are immersed in when joining EIT. It is now my time to give it all back to the Digital Alumni community. I believe my motivation, attitude, creativity, and dedication will come in handy to support the great initiatives the board is promoting.</p>'
+    format: full_html
+    processed: "<p>Once upon a time, in a small village in the north of Italy, a guy decided to step out of his comfort zone and embrace a decision that a few years later he discovered to be lifechanging: joining the EIT Digital Master School program. Looking back at myself two years ago, I see an ambitious yet shy youngster with almost no fluency in English, nor international experience or stamps on his passport, but a dream: acquiring an entrepreneurial mindset and solve actual social problems.</p><p>During the last few years I visoted more than 15 new cities all around Europe, I took an infinite number of trains, buses (thank you Flixbus discount!), and flights, and I've even had a road trip from Morocco to Italy passing through Spain and France! The most extraordinary part of it is that all those journeys allowed me to visit friends\_I have met during the EIT studies. Traveling is only of the goals I have achieved during my master's. I also founded my Data Science student association in Politecnico, I helped the Milan EIT Digital Community by arranging meetings and mentorships, I gave inspiring presentations and practiced my public speaking in English (still have an Italian accent, mamma mia!).\_</p><p>All of it is mainly due to the fervid, stimulating and vibrant environment you are immersed in when joining EIT. It is now my time to give it all back to the Digital Alumni community. I believe my motivation, attitude, creativity, and dedication will come in handy to support the great initiatives the board is promoting.</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Luca Vavassori'
+    format: full_html
+    processed: 'Luca Vavassori'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>"Once EIT, Always EIT". This motto is something that came to my mind while arranging a meeting with the student coordinator of the EIT Digital Milan node. I strongly believe it should also be the leitmotiv of the EIT Digital alumni''s life. Following the end of the master, many of us get a nice job back in the native country or somewhere else around Europe, &nbsp;undertaking a new challenge. At first, in both cases, you have the feeling that your EIT life will soon belong to the past. After all the amazing experiences, memories, and people, do you really want to give up on it? Of course not!&nbsp;</p><p>I have recently moved to Amsterdam and I didn''t know any EIT Digital alumni out here. A couple of days later I went to Trento Kickoff as a mentor, and on my flight I met two other mentors, Anna and Krishna. Not even to say, the way back to "the Venice of the North" we were already planning an A''dam EIT Digital Alumni meeting. In less than two weeks I discovered that there are more than 50 alumni somewhere between Amsterdam and the rest of The Netherlands and most of them will join the event on December 14th (in case you want to join too!)</p><p>What I have mentioned above is exactly what I would like to create on a larger scale. The annual meeting is cool but it is held only once a year, obviously. I aim to help local communities in the main cities of Europe to arrange events, meetings, and talks im order to periodically reconnect with the EIT Digital environment, get inspired, keep pushing your entrepreneurial mindset and meet new people you were not aware of. The dream would be, on a second horizon, to promote cross-KICs and cross-countries events. Imagine local communities gathered together on the same day, connected around Europe in a single web conference, or, why not, a simultaneous hackathon sponsored by tech companies. Wouldn''t it be great?&nbsp;</p>'
+    format: full_html
+    processed: "<p>\"Once EIT, Always EIT\". This motto is something that came to my mind while arranging a meeting with the student coordinator of the EIT Digital Milan node. I strongly believe it should also be the leitmotiv of the EIT Digital alumni's life. Following the end of the master, many of us get a nice job back in the native country or somewhere else around Europe, \_undertaking a new challenge. At first, in both cases, you have the feeling that your EIT life will soon belong to the past. After all the amazing experiences, memories, and people, do you really want to give up on it? Of course not!\_</p><p>I have recently moved to Amsterdam and I didn't know any EIT Digital alumni out here. A couple of days later I went to Trento Kickoff as a mentor, and on my flight I met two other mentors, Anna and Krishna. Not even to say, the way back to \"the Venice of the North\" we were already planning an A'dam EIT Digital Alumni meeting. In less than two weeks I discovered that there are more than 50 alumni somewhere between Amsterdam and the rest of The Netherlands and most of them will join the event on December 14th (in case you want to join too!)</p><p>What I have mentioned above is exactly what I would like to create on a larger scale. The annual meeting is cool but it is held only once a year, obviously. I aim to help local communities in the main cities of Europe to arrange events, meetings, and talks im order to periodically reconnect with the EIT Digital environment, get inspired, keep pushing your entrepreneurial mindset and meet new people you were not aware of. The dream would be, on a second horizon, to promote cross-KICs and cross-countries events. Imagine local communities gathered together on the same day, connected around Europe in a single web conference, or, why not, a simultaneous hackathon sponsored by tech companies. Wouldn't it be great?\_</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>During my first year of EIT Digital, I co-founded a student association named Polimi Data Scientists, with the intention of creating a community of enthusiasts in the field and doing so fill a gap, which is present in most of the Italian universities: a lack of direct channels capable of connecting students and companies. Starting from zero, we contacted firms, startups, and organizations to propose meetings, workshops, and talks for students. I sat at a table with CEOs, Heads of Technology, HRs and other ubiquitous figures to negotiate and arrange more than one event every two months, often hosted in the company''s offices or at the Milan CLC. From a base of around 30 students, in less than two years we reached a community of more than 400 members actively participating and we host events always fully booked every month. We provided networking opportunities and received several feedbacks from students who have been contacted for interviews as a follow-up.&nbsp;</p><p>On top of this activity, I also put myself at service of the new cohorts of EIT Digital students in Milan in order to pass on to them the values and the spirit of EIT Digital, answer their questions, provide suggestions and mentor them enabling them to live the EIT experience at the best of their possibilities. I have also unofficially worn the shoes of an ambassador, promoting the program among bachelor students giving inspiring pitches and showing them the potential of the program.&nbsp;</p><p>To sum up, I think I have practiced all the skills and executed all the tasks required by this position. I believe I am a good communicator and I have the right attitude, motivation, and experience to step up the EIT Digital Alumni community game by joining the board and serve you, EIT Digital people! If you see in me the best candidate for this position, vote for me!&nbsp;</p>'
+    format: full_html
+    processed: "<p>During my first year of EIT Digital, I co-founded a student association named Polimi Data Scientists, with the intention of creating a community of enthusiasts in the field and doing so fill a gap, which is present in most of the Italian universities: a lack of direct channels capable of connecting students and companies. Starting from zero, we contacted firms, startups, and organizations to propose meetings, workshops, and talks for students. I sat at a table with CEOs, Heads of Technology, HRs and other ubiquitous figures to negotiate and arrange more than one event every two months, often hosted in the company's offices or at the Milan CLC. From a base of around 30 students, in less than two years we reached a community of more than 400 members actively participating and we host events always fully booked every month. We provided networking opportunities and received several feedbacks from students who have been contacted for interviews as a follow-up.\_</p><p>On top of this activity, I also put myself at service of the new cohorts of EIT Digital students in Milan in order to pass on to them the values and the spirit of EIT Digital, answer their questions, provide suggestions and mentor them enabling them to live the EIT experience at the best of their possibilities. I have also unofficially worn the shoes of an ambassador, promoting the program among bachelor students giving inspiring pitches and showing them the potential of the program.\_</p><p>To sum up, I think I have practiced all the skills and executed all the tasks required by this position. I believe I am a good communicator and I have the right attitude, motivation, and experience to step up the EIT Digital Alumni community game by joining the board and serve you, EIT Digital people! If you see in me the best candidate for this position, vote for me!\_</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

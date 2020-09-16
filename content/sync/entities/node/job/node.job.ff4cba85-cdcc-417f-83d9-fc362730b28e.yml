@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: ff4cba85-cdcc-417f-83d9-fc362730b28e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Junior UX Designer'
+created:
+  -
+    value: '2018-04-17T14:04:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:26:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/junior-ux-designer
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:job@noovle.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Noovle
+    format: full_html
+    processed: Noovle
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<div><a href=\"http://www.noovle.it/\">Noovle</a>, leading company in ICT Development and Digital Innovation Services in Italy, Google Cloud Premier Partner, is hiring for its Milan main branch a Junior UX Designer</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><strong>Main Tasks and Responsibilities</strong></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The candidate will work on UX design projects related to Chatbot Technology, focusing</div>\r\n\r\n<div>specifically on the conversational nature of the solutions, namely with these focuses:</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>● collecting and analysing the needs pertaining to the applicative domain</div>\r\n\r\n<div>● building the Persona component and characterisation of the knowledgebase of the project</div>\r\n\r\n<div>● outlining the conversational fluxes</div>\r\n\r\n<div>● creating, setting and training the agent on Dialogflow</div>\r\n\r\n<div>● post-release technical support;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><strong>Requirements</strong><br />\r\n&nbsp;</div>\r\n\r\n<div>● Bachelor’s degree in communication and Design-related fields (e.g. Human.computer interaction)</div>\r\n\r\n<div>● Knowledge of assessment methodologies related to usability interface, both visual&nbsp;and&nbsp; &nbsp;communication-wise</div>\r\n\r\n<div>● Good grasp of formalization and schematization of the founding processes of&nbsp; &nbsp; communication</div>\r\n\r\n<div>● Fluent English</div>\r\n\r\n<div>● Teamwork and working by objectives</div>\r\n\r\n<div>● Good relational skills with clients and colleagues</div>\r\n\r\n<div>● Prior experience in role is a plus</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div><strong>How to apply</strong></div>\r\n\r\n<div>Candidates can submit their resumè to job@noovle.com</div>\r\n"
+    format: full_html
+    processed: "<div><a href=\"http://www.noovle.it/\">Noovle</a>, leading company in ICT Development and Digital Innovation Services in Italy, Google Cloud Premier Partner, is hiring for its Milan main branch a Junior UX Designer</div>\n\n<div>\_</div>\n\n<div><strong>Main Tasks and Responsibilities</strong></div>\n\n<div>\_</div>\n\n<div>The candidate will work on UX design projects related to Chatbot Technology, focusing</div>\n\n<div>specifically on the conversational nature of the solutions, namely with these focuses:</div>\n\n<div>\_</div>\n\n<div>● collecting and analysing the needs pertaining to the applicative domain</div>\n\n<div>● building the Persona component and characterisation of the knowledgebase of the project</div>\n\n<div>● outlining the conversational fluxes</div>\n\n<div>● creating, setting and training the agent on Dialogflow</div>\n\n<div>● post-release technical support;</div>\n\n<div>\_</div>\n\n<div><strong>Requirements</strong><br />\n\_</div>\n\n<div>● Bachelor’s degree in communication and Design-related fields (e.g. Human.computer interaction)</div>\n\n<div>● Knowledge of assessment methodologies related to usability interface, both visual\_and\_ \_communication-wise</div>\n\n<div>● Good grasp of formalization and schematization of the founding processes of\_ \_ communication</div>\n\n<div>● Fluent English</div>\n\n<div>● Teamwork and working by objectives</div>\n\n<div>● Good relational skills with clients and colleagues</div>\n\n<div>● Prior experience in role is a plus</div>\n\n<div>\_</div>\n\n<div><strong>How to apply</strong></div>\n\n<div>Candidates can submit their resumè to job@noovle.com</div>\n"
+field_job_location:
+  -
+    value: 'Milan, Italy'
+    format: full_html
+    processed: 'Milan, Italy'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

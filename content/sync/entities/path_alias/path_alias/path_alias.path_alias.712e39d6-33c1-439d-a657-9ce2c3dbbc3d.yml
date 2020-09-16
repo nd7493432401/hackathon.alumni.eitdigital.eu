@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 712e39d6-33c1-439d-a657-9ce2c3dbbc3d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/533
+alias:
+  -
+    value: /job/python-developer-cloud-devops
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

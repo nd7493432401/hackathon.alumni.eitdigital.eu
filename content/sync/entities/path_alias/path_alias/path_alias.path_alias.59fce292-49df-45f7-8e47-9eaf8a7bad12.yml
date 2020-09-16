@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 59fce292-49df-45f7-8e47-9eaf8a7bad12
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/238
+alias:
+  -
+    value: /event/ice-skating-stockholm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

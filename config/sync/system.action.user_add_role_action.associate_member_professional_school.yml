@@ -1,0 +1,14 @@
+uuid: 75f7909d-d4ec-494a-9ea7-8ab985a189e3
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_professional_school
+  module:
+    - user
+id: user_add_role_action.associate_member_professional_school
+label: 'Add the Associate Member (Professional School) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: associate_member_professional_school

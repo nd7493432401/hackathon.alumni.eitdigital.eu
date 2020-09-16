@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2f6ce5bf-8e96-44c2-b7bd-afd0dbd576a3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/214
+alias:
+  -
+    value: /event/quantum-cryptography-what-exactly
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

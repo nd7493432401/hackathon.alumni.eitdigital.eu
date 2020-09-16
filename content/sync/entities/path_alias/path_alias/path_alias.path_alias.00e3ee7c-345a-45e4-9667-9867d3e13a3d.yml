@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 00e3ee7c-345a-45e4-9667-9867d3e13a3d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/92
+alias:
+  -
+    value: /article/annual-meeting-2020-social-responsibility-tech
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

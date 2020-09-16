@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: 5e51bece-5ed5-4077-a9bb-e885b1fb6117
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: eitdigital1.jpg
+uri:
+  -
+    value: 'public://inline-images/eitdigital1.jpg'
+    url: /sites/default/files/inline-images/eitdigital1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 291897
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-05-06T13:15:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-06T13:15:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

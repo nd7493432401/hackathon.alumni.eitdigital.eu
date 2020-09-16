@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1188e9c5-1970-4e1b-b092-4e7e22af794b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/189
+alias:
+  -
+    value: /summer-schools/2016-stockholm-future-networking-solutions
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

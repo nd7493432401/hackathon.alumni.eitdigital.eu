@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 11144e9a-67c5-44b6-960b-7116634b3d9c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/139
+alias:
+  -
+    value: /candidate/mohit-ahuja
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

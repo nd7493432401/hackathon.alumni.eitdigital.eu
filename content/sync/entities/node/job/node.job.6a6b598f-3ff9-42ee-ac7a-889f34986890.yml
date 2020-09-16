@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 6a6b598f-3ff9-42ee-ac7a-889f34986890
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'SAP (e)WM Consultant'
+created:
+  -
+    value: '2019-11-25T17:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:41:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/sap-ewm-consultant
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000FH&tz=GMT%2B01%3A00&tzname'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p style=\"margin-top:0px; margin-bottom:0px\">&nbsp;</p>\r\n\r\n<p style=\"margin-top:0px; margin-bottom:0px\"><span style=\"font-size:12px;\"><font face=\"Arial\"><font face=\"Arial\"><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.<br />\r\nOur <b>Consulting</b> practice within Deloitte has a strong reputation and track record as Business Performance Consultants. We are a recognized leader in helping clients solve complex business problems, differentiated by our ability to execute on the advice we provide. Our multi-disciplinary competencies allow us to address CXO issues from every angle.<br />\r\n<br />\r\n<b>Your Responsibilities</b>: </font></font></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12px;\">You will participate in the implementation of SCM solutions at the client. More specifically you will be responsible for delivering Warehouse Management (WM) solutions. Depending on the level of knowledge and experience, tasks include project management, business process analysis, defining to-be processes, tool selection, change management, implementation support &amp; training; </span></li>\r\n\t<li><span style=\"font-size:12px;\">In your role, you will participate in/or facilitate business process definition and modeling, check the feasibility of this business model against the capabilities of the used packages and configuration of the software to replicate the required business processes and analytical/reporting needs; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You will identify and compare the global requirements versus the local requirements and advise on appropriate design and organizational changes to be made.</span></li>\r\n</ul>\r\n\r\n<div class=\"inlinepanel\" title=\"\">&nbsp;</div>\r\n\r\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span style=\"font-size:12px;\"><font face=\"Arial\"><font face=\"Arial\"><b>Your Profile</b>: </font></font></span></div>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12px;\"><font face=\"Arial\">You have solid knowledge of the warehouse management processes; </font></span></li>\r\n\t<li><span style=\"font-size:12px;\">You have a good understanding of the supply chain management processes;</span></li>\r\n\t<li><span style=\"font-size:12px;\">You have at least 2-3 years of project experience in the SAP Warehouse Management (WM) or Extended Warehouse Management (EWM) modules;</span></li>\r\n\t<li><span style=\"font-size:12px;\">Experience in other SAP modules as MM or SD is an asset; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You have good analytical and modeling skills; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You are a team player with strong communication skills; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You are open to work in an international environment and must be willing to work abroad if needed; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You have a university degree or the equivalent by experience; </span></li>\r\n\t<li><span style=\"font-size:12px;\">You are fluent in English. Knowledge of Dutch and/or French is an asset.</span></li>\r\n</ul>\r\n\r\n<p style=\"margin-top:0px; margin-bottom:0px\">&nbsp;</p>\r\n\r\n<p style=\"margin-top:0px; margin-bottom:0px\"><span style=\"font-size:12px;\"><font face=\"Arial\"><b>Our Offer</b> </font></span></p>\r\n\r\n<ul>\r\n\t<li><span style=\"font-size:12px;\">A challenging, innovating environment where personal development and growth are encouraged; </span></li>\r\n\t<li><span style=\"font-size:12px;\">Opportunities for learning where needed; </span></li>\r\n\t<li><span style=\"font-size:12px;\">An attractive and competitive salary with fringe benefits. </span></li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p style=\"margin-top:0px; margin-bottom:0px\">\_</p>\n\n<p style=\"margin-top:0px; margin-bottom:0px\"><span style=\"font-size:12px;\"><font face=\"Arial\"><font face=\"Arial\"><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.<br />\nOur <b>Consulting</b> practice within Deloitte has a strong reputation and track record as Business Performance Consultants. We are a recognized leader in helping clients solve complex business problems, differentiated by our ability to execute on the advice we provide. Our multi-disciplinary competencies allow us to address CXO issues from every angle.<br />\n<br />\n<b>Your Responsibilities</b>: </font></font></span></p>\n\n<ul>\n\t<li><span style=\"font-size:12px;\">You will participate in the implementation of SCM solutions at the client. More specifically you will be responsible for delivering Warehouse Management (WM) solutions. Depending on the level of knowledge and experience, tasks include project management, business process analysis, defining to-be processes, tool selection, change management, implementation support &amp; training; </span></li>\n\t<li><span style=\"font-size:12px;\">In your role, you will participate in/or facilitate business process definition and modeling, check the feasibility of this business model against the capabilities of the used packages and configuration of the software to replicate the required business processes and analytical/reporting needs; </span></li>\n\t<li><span style=\"font-size:12px;\">You will identify and compare the global requirements versus the local requirements and advise on appropriate design and organizational changes to be made.</span></li>\n</ul>\n\n<div class=\"inlinepanel\" title=\"\">\_</div>\n\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span style=\"font-size:12px;\"><font face=\"Arial\"><font face=\"Arial\"><b>Your Profile</b>: </font></font></span></div>\n\n<ul>\n\t<li><span style=\"font-size:12px;\"><font face=\"Arial\">You have solid knowledge of the warehouse management processes; </font></span></li>\n\t<li><span style=\"font-size:12px;\">You have a good understanding of the supply chain management processes;</span></li>\n\t<li><span style=\"font-size:12px;\">You have at least 2-3 years of project experience in the SAP Warehouse Management (WM) or Extended Warehouse Management (EWM) modules;</span></li>\n\t<li><span style=\"font-size:12px;\">Experience in other SAP modules as MM or SD is an asset; </span></li>\n\t<li><span style=\"font-size:12px;\">You have good analytical and modeling skills; </span></li>\n\t<li><span style=\"font-size:12px;\">You are a team player with strong communication skills; </span></li>\n\t<li><span style=\"font-size:12px;\">You are open to work in an international environment and must be willing to work abroad if needed; </span></li>\n\t<li><span style=\"font-size:12px;\">You have a university degree or the equivalent by experience; </span></li>\n\t<li><span style=\"font-size:12px;\">You are fluent in English. Knowledge of Dutch and/or French is an asset.</span></li>\n</ul>\n\n<p style=\"margin-top:0px; margin-bottom:0px\">\_</p>\n\n<p style=\"margin-top:0px; margin-bottom:0px\"><span style=\"font-size:12px;\"><font face=\"Arial\"><b>Our Offer</b> </font></span></p>\n\n<ul>\n\t<li><span style=\"font-size:12px;\">A challenging, innovating environment where personal development and growth are encouraged; </span></li>\n\t<li><span style=\"font-size:12px;\">Opportunities for learning where needed; </span></li>\n\t<li><span style=\"font-size:12px;\">An attractive and competitive salary with fringe benefits. </span></li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

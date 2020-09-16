@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c8f48a97-a222-48c8-a280-b1d1ac6863d0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/328
+alias:
+  -
+    value: /job/junior-python-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

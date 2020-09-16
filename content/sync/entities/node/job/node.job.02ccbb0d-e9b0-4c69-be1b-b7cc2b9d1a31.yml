@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 02ccbb0d-e9b0-4c69-be1b-b7cc2b9d1a31
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Positions 2018'
+created:
+  -
+    value: '2017-11-30T08:26:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:34:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-positions-2018
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:postmaster2018@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital'
+    format: full_html
+    processed: 'EIT Digital'
+field_expiration_date:
+  -
+    value: '2017-12-17T00:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>EIT Digital offers 25 new <strong>post-master positions for 2018</strong>. The positions are open to all graduates of the EIT Digital Master School. The post-master works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</p>\r\n\r\n<p><strong>General Conditions</strong></p>\r\n\r\n<p>- One year full-time contract with possibility of renewal for another year.</p>\r\n\r\n<p>- Salary of approximately <strong>30.000 Euro gross per year</strong>.</p>\r\n\r\n<p>- Place of Employment is one of the EIT Digital Co-location Centers.</p>\r\n\r\n<p>- Occasional European travel to be expected.</p>\r\n\r\n<p>- Guidance by Action Line Leader.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The 7 positions which had no eligible applicants are now back on the website with an <strong>extended application deadline until December 17th</strong>.</p>\r\n\r\n<p>Please email <strong>your CV </strong>and <strong>motivation letter</strong> to:&nbsp;postmaster2018@eitdigital.eu. Please specify the Action Line, Activity Name, position and location you are applying for.</p>\r\n\r\n<p>See all the details <a href=\"https://masterschool.eitdigital.eu/post-master-positions/\">at the link below</a>. For further information on the content please refer to the respective Action Line Leader.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>The selection of candidates is foreseen for early/mid-December. On-boarding of successful candidates as of January 2018 (depending on country specifics and administrative processes that may be required, e.g. visa, work permit, etc.).</em></p>\r\n"
+    format: full_html
+    processed: "<p>EIT Digital offers 25 new <strong>post-master positions for 2018</strong>. The positions are open to all graduates of the EIT Digital Master School. The post-master works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</p>\n\n<p><strong>General Conditions</strong></p>\n\n<p>- One year full-time contract with possibility of renewal for another year.</p>\n\n<p>- Salary of approximately <strong>30.000 Euro gross per year</strong>.</p>\n\n<p>- Place of Employment is one of the EIT Digital Co-location Centers.</p>\n\n<p>- Occasional European travel to be expected.</p>\n\n<p>- Guidance by Action Line Leader.</p>\n\n<p>\_</p>\n\n<p>The 7 positions which had no eligible applicants are now back on the website with an <strong>extended application deadline until December 17th</strong>.</p>\n\n<p>Please email <strong>your CV </strong>and <strong>motivation letter</strong> to:\_postmaster2018@eitdigital.eu. Please specify the Action Line, Activity Name, position and location you are applying for.</p>\n\n<p>See all the details <a href=\"https://masterschool.eitdigital.eu/post-master-positions/\">at the link below</a>. For further information on the content please refer to the respective Action Line Leader.</p>\n\n<p>\_</p>\n\n<p><em>The selection of candidates is foreseen for early/mid-December. On-boarding of successful candidates as of January 2018 (depending on country specifics and administrative processes that may be required, e.g. visa, work permit, etc.).</em></p>\n"
+field_job_location:
+  -
+    value: 'EIT Digital Nodes & Satellites'
+    format: full_html
+    processed: 'EIT Digital Nodes &amp; Satellites'
+field_more_details_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

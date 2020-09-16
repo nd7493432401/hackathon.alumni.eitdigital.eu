@@ -1,0 +1,83 @@
+uuid:
+  -
+    value: b73b8f95-9c0b-474a-bd02-46b01cee3b5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: carousel
+    target_type: node_type
+    target_uuid: 2ab1e90e-a282-4c3b-949d-61adea69ea18
+revision_timestamp:
+  -
+    value: '2020-04-17T12:43:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'A global community!'
+created:
+  -
+    value: '2020-04-17T12:40:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T12:43:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+body: {  }
+field_carousel_button_text:
+  -
+    value: 'View the map'
+    format: basic_html
+    processed: 'View the map'
+field_carousel_button_url:
+  -
+    uri: 'https://alumni.eitdigital.eu/alumni-map'
+    title: 'View the map'
+    options: {  }
+field_carousel_image:
+  -
+    target_type: media
+    target_uuid: c0f2813a-63ed-416d-abd8-a909c7a581ab
+field_carousel_subtitle:
+  -
+    value: "<p>Update your profile and location and check where your friends are based!</p>\r\n"
+    format: basic_html
+    processed: "<p>Update your profile and location and check where your friends are based!</p>\n"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.c0f2813a-63ed-416d-abd8-a909c7a581ab

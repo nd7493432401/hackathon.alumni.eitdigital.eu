@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2706f3c5-7d89-4f5b-9925-d5e880cd8022
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/481
+alias:
+  -
+    value: /job/summer-jobs-sw-developers-ux-designers-sem
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

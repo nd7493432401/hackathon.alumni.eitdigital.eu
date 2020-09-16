@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: 71f25440-e88e-4939-a21e-23964f9b46a7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: group
+    target_type: node_type
+    target_uuid: 5a7a2c83-1d9b-4fa9-b57e-077492357b47
+revision_timestamp:
+  -
+    value: '2020-03-26T14:19:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Paris Local Community'
+created:
+  -
+    value: '2020-03-26T14:18:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T09:28:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /group/paris-local-community
+body: {  }
+field_external_group_webpage:
+  -
+    uri: 'https://www.facebook.com/groups/133096317449816/'
+    title: 'Join our Facebook group!'
+    options: {  }
+field_group_dec:
+  -
+    value: "<p>Even before the Paris Local Community was established in&nbsp;<strong>2018</strong>, our members in the city had been quite active - organizing the&nbsp;<a href=\"https://eitalumnistartupdays.wordpress.com/\">EIT Alumni Startup Days</a>&nbsp;both in&nbsp;<strong>2015</strong>&nbsp;and&nbsp;<strong>2016</strong>.</p>\r\n\r\n<p>In 2018&nbsp;we organized an event, together with Climate-KIC Alumni,&nbsp;named&nbsp;\"<a href=\"https://alumni.eitdigital.eu/event/blockchain-innovation-green-business\">Blockchain Innovation for Green Business</a>\", where our Sandip also gave a talk on how to get involved in cryptocurrencies and&nbsp;create a&nbsp;virtual wallet.</p>\r\n\r\n<p>The Master School Kick-Off 2018 in&nbsp;Paris was then a&nbsp;fantastic opportunity to gather&nbsp;our members for the&nbsp;<a href=\"https://alumni.eitdigital.eu/event/paris-xeitd-tech-meetup\">Paris xEITD Tech Meetup</a>. This was hosted by our local representative <a href=\"https://alumni.eitdigital.eu/users/ndiaz\">Natalia </a>and&nbsp;key speakers were&nbsp;our former Board members, <a href=\"https://alumni.eitdigital.eu/users/carla-griggio\">Carla</a>&nbsp;and&nbsp;<a href=\"https://alumni.eitdigital.eu/users/germanleiva\">German</a>,&nbsp;who&nbsp;presented their PhD research.<br />\r\n<br />\r\nWe are&nbsp;excited to be welcoming more people in our team!&nbsp;Feel free to join our&nbsp;<strong><a href=\"https://www.facebook.com/groups/133096317449816/\">Facebook group</a></strong>&nbsp;and help us&nbsp;organize&nbsp;/ suggest even more events!</p>\r\n\r\n<p><strong>Special thanks&nbsp;</strong>to all group members who have contributed to the Paris Local Community and made it what it is today:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/ndiaz\">Natalia Diaz</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/lucadm\">Luca De Mori</a></li>\r\n</ul>\r\n"
+    format: basic_html
+    processed: "<p>Even before the Paris Local Community was established in\_<strong>2018</strong>, our members in the city had been quite active - organizing the\_<a href=\"https://eitalumnistartupdays.wordpress.com/\">EIT Alumni Startup Days</a>\_both in\_<strong>2015</strong>\_and\_<strong>2016</strong>.</p>\n\n<p>In 2018\_we organized an event, together with Climate-KIC Alumni,\_named\_\"<a href=\"https://alumni.eitdigital.eu/event/blockchain-innovation-green-business\">Blockchain Innovation for Green Business</a>\", where our Sandip also gave a talk on how to get involved in cryptocurrencies and\_create a\_virtual wallet.</p>\n\n<p>The Master School Kick-Off 2018 in\_Paris was then a\_fantastic opportunity to gather\_our members for the\_<a href=\"https://alumni.eitdigital.eu/event/paris-xeitd-tech-meetup\">Paris xEITD Tech Meetup</a>. This was hosted by our local representative <a href=\"https://alumni.eitdigital.eu/users/ndiaz\">Natalia </a>and\_key speakers were\_our former Board members, <a href=\"https://alumni.eitdigital.eu/users/carla-griggio\">Carla</a>\_and\_<a href=\"https://alumni.eitdigital.eu/users/germanleiva\">German</a>,\_who\_presented their PhD research.<br />\n<br />\nWe are\_excited to be welcoming more people in our team!\_Feel free to join our\_<strong><a href=\"https://www.facebook.com/groups/133096317449816/\">Facebook group</a></strong>\_and help us\_organize\_/ suggest even more events!</p>\n\n<p><strong>Special thanks\_</strong>to all group members who have contributed to the Paris Local Community and made it what it is today:</p>\n\n<ul>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/ndiaz\">Natalia Diaz</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/lucadm\">Luca De Mori</a></li>\n</ul>\n"
+field_group_image:
+  -
+    target_type: media
+    target_uuid: d4a77a90-aad5-4aa9-835f-563bcfedbcd6
+field_group_intro_image:
+  -
+    target_type: media
+    target_uuid: d4a77a90-aad5-4aa9-835f-563bcfedbcd6
+field_group_introduction:
+  -
+    value: "<p>The official group of the EIT Digital Alumni in Paris</p>\r\n"
+    format: basic_html
+    processed: "<p>The official group of the EIT Digital Alumni in Paris</p>\n"
+field_group_leader:
+  -
+    value: 'Natalia Diaz'
+    format: basic_html
+    processed: 'Natalia Diaz'
+field_group_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1792da6-0a9c-4e09-b6a3-123e2766ebc8
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.d4a77a90-aad5-4aa9-835f-563bcfedbcd6
+    taxonomy_term:
+      - taxonomy_term.alumni_group_type.b1792da6-0a9c-4e09-b6a3-123e2766ebc8

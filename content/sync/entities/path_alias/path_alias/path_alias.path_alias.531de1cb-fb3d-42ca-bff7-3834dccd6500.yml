@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 531de1cb-fb3d-42ca-bff7-3834dccd6500
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/99
+alias:
+  -
+    value: /exit-year/2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 367f8746-55cc-459b-8ada-156c1ec53d95
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/508
+alias:
+  -
+    value: /job/video-streaming-software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

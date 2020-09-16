@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2100bce4-437d-4a10-a83b-9ee30f0604e8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/517
+alias:
+  -
+    value: /job/full-stack-developer-2
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

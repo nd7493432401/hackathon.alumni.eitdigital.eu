@@ -1,0 +1,155 @@
+uuid: 991b250f-45bb-4911-81fa-13b4b29697e5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.job.body
+    - field.field.node.job.field_apply_link
+    - field.field.node.job.field_company
+    - field.field.node.job.field_expiration_date
+    - field.field.node.job.field_job_description
+    - field.field.node.job.field_job_location
+    - field.field.node.job.field_more_details_link
+    - node.type.job
+  module:
+    - datetime
+    - ds
+    - fences
+    - link
+    - text
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: bs_3col_stacked
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          top:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+          left:
+            wrapper: div
+            classes:
+              col-sm-4: col-sm-4
+            add_region_classes: 1
+            attributes: ''
+          middle:
+            wrapper: div
+            classes:
+              col-sm-4: col-sm-4
+            add_region_classes: 1
+            attributes: ''
+          right:
+            wrapper: div
+            classes:
+              col-sm-4: col-sm-4
+            add_region_classes: 1
+            attributes: ''
+          bottom:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: job-call-to-action
+    regions:
+      top:
+        - node_title
+        - field_job_description
+      left:
+        - field_company
+      middle:
+        - field_job_location
+      right:
+        - field_expiration_date
+      bottom:
+        - field_apply_link
+        - field_more_details_link
+    fields:
+      node_title:
+        plugin_id: node_title
+        weight: 0
+        label: hidden
+        formatter: default
+id: node.job.default
+targetEntityType: node
+bundle: job
+mode: default
+content:
+  field_apply_link:
+    weight: 5
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: bottom
+  field_company:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: left
+  field_expiration_date:
+    weight: 4
+    label: above
+    settings:
+      timezone_override: ''
+      date_format: 'l, d F, Y'
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: datetime_custom
+    region: right
+  field_job_description:
+    type: text_default
+    weight: 1
+    region: top
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+  field_job_location:
+    weight: 3
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: middle
+  field_more_details_link:
+    weight: 6
+    label: hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: bottom
+hidden:
+  body: true
+  langcode: true
+  links: true

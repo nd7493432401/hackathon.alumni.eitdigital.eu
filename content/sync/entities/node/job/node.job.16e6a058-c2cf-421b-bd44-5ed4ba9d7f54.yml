@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 16e6a058-c2cf-421b-bd44-5ed4ba9d7f54
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'PhD on Persuasive Computing'
+created:
+  -
+    value: '2018-08-06T17:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:26:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/phd-persuasive-computing
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:mauro.cherubini@unil.ch'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'University of Lausanne'
+    format: full_html
+    processed: 'University of Lausanne'
+field_expiration_date:
+  -
+    value: '2018-08-10T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>A fully-funded PhD studentship is available in the areas of Human-Computer Interaction and Persuasive Computing at the University of Lausanne, Switzerland. The studentship will cover tuition fees and maintenance costs. The successful candidate is expected to start in September 2018.&nbsp;Deadline for applicants: 30th of June 2018.</p>\r\n\r\n<p><strong>Research topic</strong></p>\r\n\r\n<p>In recent years behavioral economics research has revealed that people make systematic mistakes in decision making. We fail in predictable ways not because we lack knowledge, practice, or willingness, but because we are limited in the way we make decisions: our brains are tricked by “forces” that influence us (e.g., emotions, relativity, social norms, etc.). However, we are not helpless. Once we understand when and where we might make erroneous decisions, we can force ourselves to think differently. Technology can play a major role in “empowering” users to overcome their natural limitations and embrace more rational and healthier behaviors.&nbsp;The goal of this research is to develop and compare different technological interventions and measure long-term their ability to provoke positive changes in the life of the users.</p>\r\n\r\n<p>Furthermore, the application domain of this research is supporting users during the life-changing event related to&nbsp;entering and exiting from unemployment. Getting the unemployed back into work is an important policy agenda and the central mandate for employment agencies. Yet the tools available to employment agencies do not help much in one key task that job seekers need to solve: applying to the right vacancy. Solving this task is challenging since many job seekers experience anxiety and stress, which reduce working memory and impair decisions, affecting their capacity to learn from their own experience. Also, job seekers may procrastinate job search, and not search sufficiently strongly. The goal of this research will be to design a technological intervention to support job seekers during this challenging time.</p>\r\n\r\n<p><strong>Supervisor</strong></p>\r\n\r\n<p>The successful candidate will be supervised by Prof. Mauro Cherubini. He joined the University of Lausanne, in 2016. Prior to that, he worked as a Research Scientist at Google in Zurich and at Telefónica Research in Barcelona. He received his PhD in Computer Science from the Swiss Institute of Technology in Lausanne (EPFL) in 2008. Before his time at EPFL, he conducted research at the MIT Media Lab in Boston. Prof. Cherubini has accumulated over 15 years of experience conducting research in HCI and publishing in the top venues of this field.</p>\r\n\r\n<p><strong>About the Department of Information Systems</strong></p>\r\n\r\n<p>The Department of Information Systems (DESI) seeks to build the skills and competencies required for the digital society with its research activities and teaching programs. Information systems are at the heart of any organization of a certain size. In recent decades, information and communication technologies have profoundly changed the way we search, produce, communicate and manage information, both in our private and professional lives. The department is home of 10 renowned scholars of different disciplines of Information Systems and Computer Science.</p>\r\n\r\n<p><strong>About UNIL and HEC</strong></p>\r\n\r\n<p>The University of Lausanne is one of the top institutions in Switzerland and in Europe. It is home to 14K students of which more than a third come from abroad. It is a truly&nbsp;international&nbsp;campus: more than 120 distinct nationalities are represented. It is a&nbsp;multidisciplinary&nbsp;school: Medicine, Biology, Law, Sociology, Business and Economics, Geosciences and Environment, and Information Systems provide a unique mix of research methods and backgrounds.</p>\r\n\r\n<p><strong>The HEC Lausanne</strong> – The Faculty of Business and Economics of UNIL was ranked in the top 30 institutions in the world by the Financial Times. The school offers one of the best Executive MBA in Europe.</p>\r\n\r\n<p>Last but not least, the University is situated in one of the most beautiful places in Switzerland: an exceptionally green and spacious lakeside setting. In just a few minutes an excellent public transport network links the university campus to Lausanne, the capital of Vaud, noted for its varied cultural activities.</p>\r\n\r\n<p><strong>Desired qualifications</strong></p>\r\n\r\n<ul>\r\n\t<li>Master’s degree in Computer Science. Related degrees will be also considered (e.g., Information Systems). Specialization in Human-Computer Interaction is a plus</li>\r\n\t<li>Strong abilities in software development. Prototyping abilities for web and for mobile devices</li>\r\n\t<li>Publications in HCI venues (e.g., ACM CHI, ToCHI, CSCW, DIS, Ubicomp, etc.) is a plus</li>\r\n\t<li>Good analytical and communication skills are essential</li>\r\n\t<li>Fluency in English. &nbsp;Knowledge of French is a plus</li>\r\n</ul>\r\n\r\n<p style=\"text-align: center;\"><strong>Informal inquiries and how to apply</strong></p>\r\n\r\n<p>All applicants should submit:</p>\r\n\r\n<ul>\r\n\t<li>Curriculum Vitae,</li>\r\n\t<li>a Statement of Purpose clearly describing their research interests,</li>\r\n\t<li>two recommendation letters,</li>\r\n\t<li>their University Transcripts (bachelor and master level)</li>\r\n\t<li>and an electronic version of a recent research project (e.g. master thesis, scientific publication)</li>\r\n</ul>\r\n\r\n<p>The application material should be submitted electronically to&nbsp;Prof. Cherubini at:</p>\r\n\r\n<p><a href=\"mailto:mauro.cherubini@unil.ch?subject=PhD%20position\">mauro.cherubini@unil.ch</a></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Contact our Alumna <a href=\"http://alumni.eitdigital.eu/users/gavizu\">Gabriela</a> to know more details!&nbsp;</p>\r\n\r\n<p><strong>Related resources</strong></p>\r\n\r\n<ul>\r\n\t<li>PErsuasive Technology Lab -&nbsp;<a href=\"https://www.google.com/url?q=http://wp.unil.ch/persuasivelab/&amp;sa=D&amp;ust=1533579300266000\">http://wp.unil.ch/persuasivelab/</a></li>\r\n\t<li>The Department of Information Systems Department ISI -&nbsp;<a href=\"https://www.google.com/url?q=http://www.unil.ch/desi/&amp;sa=D&amp;ust=1533579300266000\">http://www.unil.ch/desi/</a></li>\r\n\t<li>HEC Lausanne – The Faculty of Business and Economics of UNIL -&nbsp;<a href=\"https://www.google.com/url?q=http://www.hec.unil.ch/&amp;sa=D&amp;ust=1533579300267000\">http://www.hec.unil.ch/</a></li>\r\n\t<li>University of Lausanne (UNIL) -&nbsp;<a href=\"https://www.google.com/url?q=http://www.unil.ch/&amp;sa=D&amp;ust=1533579300267000\">http://www.unil.ch/</a></li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p>A fully-funded PhD studentship is available in the areas of Human-Computer Interaction and Persuasive Computing at the University of Lausanne, Switzerland. The studentship will cover tuition fees and maintenance costs. The successful candidate is expected to start in September 2018.\_Deadline for applicants: 30th of June 2018.</p>\n\n<p><strong>Research topic</strong></p>\n\n<p>In recent years behavioral economics research has revealed that people make systematic mistakes in decision making. We fail in predictable ways not because we lack knowledge, practice, or willingness, but because we are limited in the way we make decisions: our brains are tricked by “forces” that influence us (e.g., emotions, relativity, social norms, etc.). However, we are not helpless. Once we understand when and where we might make erroneous decisions, we can force ourselves to think differently. Technology can play a major role in “empowering” users to overcome their natural limitations and embrace more rational and healthier behaviors.\_The goal of this research is to develop and compare different technological interventions and measure long-term their ability to provoke positive changes in the life of the users.</p>\n\n<p>Furthermore, the application domain of this research is supporting users during the life-changing event related to\_entering and exiting from unemployment. Getting the unemployed back into work is an important policy agenda and the central mandate for employment agencies. Yet the tools available to employment agencies do not help much in one key task that job seekers need to solve: applying to the right vacancy. Solving this task is challenging since many job seekers experience anxiety and stress, which reduce working memory and impair decisions, affecting their capacity to learn from their own experience. Also, job seekers may procrastinate job search, and not search sufficiently strongly. The goal of this research will be to design a technological intervention to support job seekers during this challenging time.</p>\n\n<p><strong>Supervisor</strong></p>\n\n<p>The successful candidate will be supervised by Prof. Mauro Cherubini. He joined the University of Lausanne, in 2016. Prior to that, he worked as a Research Scientist at Google in Zurich and at Telefónica Research in Barcelona. He received his PhD in Computer Science from the Swiss Institute of Technology in Lausanne (EPFL) in 2008. Before his time at EPFL, he conducted research at the MIT Media Lab in Boston. Prof. Cherubini has accumulated over 15 years of experience conducting research in HCI and publishing in the top venues of this field.</p>\n\n<p><strong>About the Department of Information Systems</strong></p>\n\n<p>The Department of Information Systems (DESI) seeks to build the skills and competencies required for the digital society with its research activities and teaching programs. Information systems are at the heart of any organization of a certain size. In recent decades, information and communication technologies have profoundly changed the way we search, produce, communicate and manage information, both in our private and professional lives. The department is home of 10 renowned scholars of different disciplines of Information Systems and Computer Science.</p>\n\n<p><strong>About UNIL and HEC</strong></p>\n\n<p>The University of Lausanne is one of the top institutions in Switzerland and in Europe. It is home to 14K students of which more than a third come from abroad. It is a truly\_international\_campus: more than 120 distinct nationalities are represented. It is a\_multidisciplinary\_school: Medicine, Biology, Law, Sociology, Business and Economics, Geosciences and Environment, and Information Systems provide a unique mix of research methods and backgrounds.</p>\n\n<p><strong>The HEC Lausanne</strong> – The Faculty of Business and Economics of UNIL was ranked in the top 30 institutions in the world by the Financial Times. The school offers one of the best Executive MBA in Europe.</p>\n\n<p>Last but not least, the University is situated in one of the most beautiful places in Switzerland: an exceptionally green and spacious lakeside setting. In just a few minutes an excellent public transport network links the university campus to Lausanne, the capital of Vaud, noted for its varied cultural activities.</p>\n\n<p><strong>Desired qualifications</strong></p>\n\n<ul>\n\t<li>Master’s degree in Computer Science. Related degrees will be also considered (e.g., Information Systems). Specialization in Human-Computer Interaction is a plus</li>\n\t<li>Strong abilities in software development. Prototyping abilities for web and for mobile devices</li>\n\t<li>Publications in HCI venues (e.g., ACM CHI, ToCHI, CSCW, DIS, Ubicomp, etc.) is a plus</li>\n\t<li>Good analytical and communication skills are essential</li>\n\t<li>Fluency in English. \_Knowledge of French is a plus</li>\n</ul>\n\n<p style=\"text-align: center;\"><strong>Informal inquiries and how to apply</strong></p>\n\n<p>All applicants should submit:</p>\n\n<ul>\n\t<li>Curriculum Vitae,</li>\n\t<li>a Statement of Purpose clearly describing their research interests,</li>\n\t<li>two recommendation letters,</li>\n\t<li>their University Transcripts (bachelor and master level)</li>\n\t<li>and an electronic version of a recent research project (e.g. master thesis, scientific publication)</li>\n</ul>\n\n<p>The application material should be submitted electronically to\_Prof. Cherubini at:</p>\n\n<p><a href=\"mailto:mauro.cherubini@unil.ch?subject=PhD%20position\">mauro.cherubini@unil.ch</a></p>\n\n<p>\_</p>\n\n<p>Contact our Alumna <a href=\"http://alumni.eitdigital.eu/users/gavizu\">Gabriela</a> to know more details!\_</p>\n\n<p><strong>Related resources</strong></p>\n\n<ul>\n\t<li>PErsuasive Technology Lab -\_<a href=\"https://www.google.com/url?q=http://wp.unil.ch/persuasivelab/&amp;sa=D&amp;ust=1533579300266000\">http://wp.unil.ch/persuasivelab/</a></li>\n\t<li>The Department of Information Systems Department ISI -\_<a href=\"https://www.google.com/url?q=http://www.unil.ch/desi/&amp;sa=D&amp;ust=1533579300266000\">http://www.unil.ch/desi/</a></li>\n\t<li>HEC Lausanne – The Faculty of Business and Economics of UNIL -\_<a href=\"https://www.google.com/url?q=http://www.hec.unil.ch/&amp;sa=D&amp;ust=1533579300267000\">http://www.hec.unil.ch/</a></li>\n\t<li>University of Lausanne (UNIL) -\_<a href=\"https://www.google.com/url?q=http://www.unil.ch/&amp;sa=D&amp;ust=1533579300267000\">http://www.unil.ch/</a></li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Lausanne, Switzerland'
+    format: full_html
+    processed: 'Lausanne, Switzerland'
+field_more_details_link:
+  -
+    uri: 'http://www.unil.ch/desi/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

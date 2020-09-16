@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ac16d1d0-1b88-4d03-b41c-282566ea68e7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/292
+alias:
+  -
+    value: /event/national-museum-art-design
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

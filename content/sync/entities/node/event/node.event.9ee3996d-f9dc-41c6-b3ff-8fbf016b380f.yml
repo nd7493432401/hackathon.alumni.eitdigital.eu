@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 9ee3996d-f9dc-41c6-b3ff-8fbf016b380f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T09:34:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Landing Festival - Lisbon'
+created:
+  -
+    value: '2018-05-06T11:38:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T09:34:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/landing-festival-lisbon
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2018-06-29T13:30:00+02:00'
+    end_value: '2018-06-30T19:00:00+02:00'
+field_event_description:
+  -
+    value: "<h3><strong>WHAT IS LANDING FESTIVAL?</strong></h3>\r\n\r\n<p><a href=\"https://landingfestival.com/lisbon\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Landing Festival</a>&nbsp;is the focal point for tech professionals to meet with top tech European companies. In the past four years, Landing Festival has grown from a Lisbon-based tech recruitment event to the biggest tech careers event in Europe, reaching 1500 attendees from 30 different countries in 2017.</p>\r\n\r\n<p><strong>HOW DOES IT WORK?</strong></p>\r\n\r\n<p>Landing Festival provides a killer combination of content and network. The event incorporates learning opportunities (workshops, expert sessions, talks and panels) with recruitment opportunities. The cherry on top of the cake is the boat party that wraps up the event. There are also plenty of entertainment moments in the course of the event itself.&nbsp;</p>\r\n\r\n<p><strong>WHEN WILL IT HAPPEN?</strong></p>\r\n\r\n<p>The two-day event will take place in Lisbon on&nbsp;<strong>June, 29-30.&nbsp;</strong>Doors Open at 16.30.</p>\r\n\r\n<p><br />\r\n<strong>ARE YOU PART OF THE&nbsp;EIT DIGITAL&nbsp;ALUMNI?</strong></p>\r\n\r\n<p><a href=\"https://flytolisbon.carrd.co/\">WIN OUR CONTEST</a> and&nbsp;fly to the event for <strong>free</strong>!&nbsp;Get in quick, the winner will be drawn at random on 17th&nbsp;May.<br />\r\n&nbsp;</p>\r\n\r\n<p><strong>Get unplugged, Landing Festival&nbsp;is&nbsp;waiting!</strong></p>\r\n"
+    format: full_html
+    processed: "<h3><strong>WHAT IS LANDING FESTIVAL?</strong></h3>\n\n<p><a href=\"https://landingfestival.com/lisbon\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Landing Festival</a>\_is the focal point for tech professionals to meet with top tech European companies. In the past four years, Landing Festival has grown from a Lisbon-based tech recruitment event to the biggest tech careers event in Europe, reaching 1500 attendees from 30 different countries in 2017.</p>\n\n<p><strong>HOW DOES IT WORK?</strong></p>\n\n<p>Landing Festival provides a killer combination of content and network. The event incorporates learning opportunities (workshops, expert sessions, talks and panels) with recruitment opportunities. The cherry on top of the cake is the boat party that wraps up the event. There are also plenty of entertainment moments in the course of the event itself.\_</p>\n\n<p><strong>WHEN WILL IT HAPPEN?</strong></p>\n\n<p>The two-day event will take place in Lisbon on\_<strong>June, 29-30.\_</strong>Doors Open at 16.30.</p>\n\n<p><br />\n<strong>ARE YOU PART OF THE\_EIT DIGITAL\_ALUMNI?</strong></p>\n\n<p><a href=\"https://flytolisbon.carrd.co/\">WIN OUR CONTEST</a> and\_fly to the event for <strong>free</strong>!\_Get in quick, the winner will be drawn at random on 17th\_May.<br />\n\_</p>\n\n<p><strong>Get unplugged, Landing Festival\_is\_waiting!</strong></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 7f1056ac-47ed-4035-b607-67fc53fe19ee
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 7f1056ac-47ed-4035-b607-67fc53fe19ee
+field_event_introduction:
+  -
+    value: "<p>Join Europe's top tech careers event</p>\r\n"
+    format: full_html
+    processed: "<p>Join Europe's top tech careers event</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.7f1056ac-47ed-4035-b607-67fc53fe19ee

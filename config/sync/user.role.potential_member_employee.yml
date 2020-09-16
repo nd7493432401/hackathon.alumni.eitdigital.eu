@@ -1,0 +1,9 @@
+uuid: dce6f817-4d94-4d84-8b07-71a0d88929e6
+langcode: en
+status: true
+dependencies: {  }
+id: potential_member_employee
+label: 'Potential Member (Employee)'
+weight: 5
+is_admin: null
+permissions: {  }

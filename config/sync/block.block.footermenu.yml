@@ -1,0 +1,29 @@
+uuid: fa49e099-b651-4e24-93b4-f5ca2aacb659
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer-menu
+  module:
+    - block_class
+    - system
+  theme:
+    - eitalumni
+third_party_settings:
+  block_class:
+    classes: 'col-sm-3 col-xs-6'
+id: footermenu
+theme: eitalumni
+region: footer
+weight: -5
+provider: null
+plugin: 'system_menu_block:footer-menu'
+settings:
+  id: 'system_menu_block:footer-menu'
+  label: 'EIT Ecosystem'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

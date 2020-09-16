@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 04df21ad-a510-40eb-b45c-a7c4641a45c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:44:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Annual Meeting 2018'
+created:
+  -
+    value: '2017-11-21T23:17:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:44:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/annual-meeting-2018
+body: {  }
+field_event_:
+  -
+    value: Trentino
+    format: full_html
+    processed: Trentino
+field_event_date:
+  -
+    value: '2018-04-28T11:00:00+02:00'
+    end_value: '2018-05-01T06:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>View the event's <strong>amazing&nbsp;aftermovie</strong> below:</p>\r\n\r\n<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"100%\"></iframe></p>\r\n\r\n<p>Check out&nbsp;<strong>our enticing complete programme</strong> below: this event has been memorable!</p>\r\n\r\n<p><iframe height=\"385px\" src=\"https://drive.google.com/file/d/1DYXWfkA-VSzSqMtrETqgSj8E29V6_YGl/preview\" style=\"border: none; max-width: 100%\" width=\"100%\"></iframe></p>\r\n\r\n<ul>\r\n\t<li>You can also find more details about the <a href=\"/node/259\">outdoor activities here</a>.</li>\r\n\t<li>Show your <strong>employer</strong> <a href=\"http://bit.ly/employee-permit\">this invitation letter</a> to be granted a day permit.</li>\r\n\t<li>Don't you get our emails? Check your spam or promotion folders and whitelist us!</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>OUR SPONSORS</h2>\r\n\r\n<p>Would you like to sponsor this event? Contact us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\r\n"
+    format: full_html
+    processed: "<p>View the event's <strong>amazing\_aftermovie</strong> below:</p>\n\n<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"100%\"></iframe></p>\n\n<p>Check out\_<strong>our enticing complete programme</strong> below: this event has been memorable!</p>\n\n<p><iframe height=\"385px\" src=\"https://drive.google.com/file/d/1DYXWfkA-VSzSqMtrETqgSj8E29V6_YGl/preview\" style=\"border: none; max-width: 100%\" width=\"100%\"></iframe></p>\n\n<ul>\n\t<li>You can also find more details about the <a href=\"/node/259\">outdoor activities here</a>.</li>\n\t<li>Show your <strong>employer</strong> <a href=\"http://bit.ly/employee-permit\">this invitation letter</a> to be granted a day permit.</li>\n\t<li>Don't you get our emails? Check your spam or promotion folders and whitelist us!</li>\n</ul>\n\n<p>\_</p>\n\n<h2>OUR SPONSORS</h2>\n\n<p>Would you like to sponsor this event? Contact us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 1f68d5b5-1c30-4b7d-974d-4ff0ec5eb7d2
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 1f68d5b5-1c30-4b7d-974d-4ff0ec5eb7d2
+field_event_introduction:
+  -
+    value: "<p>28 April - 1 May 2018: our Annual Meeting in the Alps!</p>\r\n"
+    format: full_html
+    processed: "<p>28 April - 1 May 2018: our Annual Meeting in the Alps!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3cc31a60-2a0b-4585-be4c-13232ee423d3
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.1f68d5b5-1c30-4b7d-974d-4ff0ec5eb7d2
+    taxonomy_term:
+      - taxonomy_term.event_type.3cc31a60-2a0b-4585-be4c-13232ee423d3

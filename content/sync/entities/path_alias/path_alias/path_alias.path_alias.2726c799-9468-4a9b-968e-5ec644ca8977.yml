@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2726c799-9468-4a9b-968e-5ec644ca8977
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/250
+alias:
+  -
+    value: /event/budapest-community-building
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

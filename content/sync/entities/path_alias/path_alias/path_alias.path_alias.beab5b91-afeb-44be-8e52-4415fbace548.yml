@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: beab5b91-afeb-44be-8e52-4415fbace548
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/333
+alias:
+  -
+    value: /job/rd-engineer-mechanics
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

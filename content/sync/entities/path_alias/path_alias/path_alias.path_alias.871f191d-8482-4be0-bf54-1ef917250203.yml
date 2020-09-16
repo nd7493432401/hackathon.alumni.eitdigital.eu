@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 871f191d-8482-4be0-bf54-1ef917250203
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/261
+alias:
+  -
+    value: /event/blockchain-innovation-green-business
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

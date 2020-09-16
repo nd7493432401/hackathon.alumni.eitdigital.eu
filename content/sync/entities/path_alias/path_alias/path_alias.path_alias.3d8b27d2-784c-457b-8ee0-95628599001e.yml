@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3d8b27d2-784c-457b-8ee0-95628599001e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/215
+alias:
+  -
+    value: /tracks-master-school/digital-media-technology-dmt
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

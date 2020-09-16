@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4dd0d018-47dd-4ead-a956-717ba80df3ad
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/55
+alias:
+  -
+    value: /article/summary-2015
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

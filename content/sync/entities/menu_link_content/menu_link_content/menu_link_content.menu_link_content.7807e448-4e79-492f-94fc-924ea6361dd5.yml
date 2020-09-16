@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: 7807e448-4e79-492f-94fc-924ea6361dd5
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-26T10:31:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Get involved'
+description: {  }
+menu_name:
+  -
+    value: hamburger-menu
+link:
+  -
+    uri: 'route:<nolink>'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -48
+expanded:
+  -
+    value: true
+parent: {  }
+changed:
+  -
+    value: '2020-03-26T10:32:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

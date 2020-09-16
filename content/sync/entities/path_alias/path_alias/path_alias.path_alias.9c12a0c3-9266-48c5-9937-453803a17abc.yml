@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9c12a0c3-9266-48c5-9937-453803a17abc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/18
+alias:
+  -
+    value: /event-type/talk-networking-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

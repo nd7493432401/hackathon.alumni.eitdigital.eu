@@ -1,0 +1,17 @@
+multiple_registration_pages_white_list:
+  potential_member_master: potential_member_master
+  potential_member_phd: potential_member_phd
+  potential_member_employee: potential_member_employee
+  associate_member_master: associate_member_master
+  associate_member_phd: associate_member_phd
+  alumni_member_employee: alumni_member_employee
+  associate_member_summer_school: associate_member_summer_school
+  associate_member_professional_school: associate_member_professional_school
+  alumni_member_master: alumni_member_master
+  alumni_member_phd: alumni_member_phd
+  friend_member: friend_member
+  anonymous: 0
+  authenticated: 0
+  administrator: 0
+  board_member: 0
+  editor: 0

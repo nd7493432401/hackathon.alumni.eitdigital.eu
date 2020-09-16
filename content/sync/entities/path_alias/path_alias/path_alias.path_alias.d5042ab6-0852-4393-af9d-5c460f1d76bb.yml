@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d5042ab6-0852-4393-af9d-5c460f1d76bb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/152
+alias:
+  -
+    value: /candidate/panagiotis-michail-tsakiris
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

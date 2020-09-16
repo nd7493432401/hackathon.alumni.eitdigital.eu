@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 247981d4-1811-49bd-8206-1ba836114011
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/553
+alias:
+  -
+    value: /job/junior-project-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 9afd2d54-352f-407d-b594-2f3d6d742ec3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-02T13:22:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT #5: Spotify visit'
+created:
+  -
+    value: '2017-09-08T09:29:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T14:27:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/womeneit-5-spotify-visit
+body: {  }
+field_event_:
+  -
+    value: 'Spotify HQ'
+    format: full_html
+    processed: 'Spotify HQ'
+field_event_date:
+  -
+    value: '2017-09-20T13:00:00+02:00'
+    end_value: '2017-09-20T15:00:00+02:00'
+field_event_description:
+  -
+    value: "<p><u><strong>THE EVENT IS HOPEFULLY BEING RESCHEDULED.</strong></u><br />\r\nFollow our channels to stay updated: <a href=\"https://www.facebook.com/digitalumni\">Facebook</a>, <a href=\"https://www.linkedin.com/company/eit-digital-alumni\">LinkedIn</a>, <a href=\"https://www.instagram.com/digitalumni/\">Instagram</a>, <a href=\"https://twitter.com/digitalumni\">Twitter</a>, <a href=\"https://t.me/digitalumni\">Telegram</a>.</p>\r\n\r\n<p>---</p>\r\n\r\n<p>It's the beginning of a new year, so time to welcome our EIT students in Stockholm with an exciting event! This time, we are going to visit Spotify, where we will receive a short tour through the facilities before starting the panel of technologists of Spotify's core disciplines: <strong>Development, Product, Design and Insights</strong>. They will talk about their most difficult leadership challenges and how they overcame them.<br />\r\n<br />\r\nFurther details, as speakers and the exact starting time, will be announced within the next days <a href=\"https://www.facebook.com/events/536404430052627/\">on the Facebook event</a>. On a side note: Male attendants and non-EIT students are as usual cordially welcome!<br />\r\n<br />\r\nIf you plan to attend our event, please <a href=\"https://goo.gl/forms/BRhTpkmxGcVxxOSG3\">fill out this form</a>, this will help us in preparing!&nbsp;Hope to see you all there!</p>\r\n"
+    format: full_html
+    processed: "<p><u><strong>THE EVENT IS HOPEFULLY BEING RESCHEDULED.</strong></u><br />\nFollow our channels to stay updated: <a href=\"https://www.facebook.com/digitalumni\">Facebook</a>, <a href=\"https://www.linkedin.com/company/eit-digital-alumni\">LinkedIn</a>, <a href=\"https://www.instagram.com/digitalumni/\">Instagram</a>, <a href=\"https://twitter.com/digitalumni\">Twitter</a>, <a href=\"https://t.me/digitalumni\">Telegram</a>.</p>\n\n<p>---</p>\n\n<p>It's the beginning of a new year, so time to welcome our EIT students in Stockholm with an exciting event! This time, we are going to visit Spotify, where we will receive a short tour through the facilities before starting the panel of technologists of Spotify's core disciplines: <strong>Development, Product, Design and Insights</strong>. They will talk about their most difficult leadership challenges and how they overcame them.<br />\n<br />\nFurther details, as speakers and the exact starting time, will be announced within the next days <a href=\"https://www.facebook.com/events/536404430052627/\">on the Facebook event</a>. On a side note: Male attendants and non-EIT students are as usual cordially welcome!<br />\n<br />\nIf you plan to attend our event, please <a href=\"https://goo.gl/forms/BRhTpkmxGcVxxOSG3\">fill out this form</a>, this will help us in preparing!\_Hope to see you all there!</p>\n"
+field_event_duration: {  }
+field_event_image: {  }
+field_event_intro_image: {  }
+field_event_introduction:
+  -
+    value: "<p>We are going to visit Spotify, where we will receive a short tour through the facilities before starting the panel of technologists of Spotify's core disciplines: Development, Product, Design and Insights</p>\r\n"
+    format: full_html
+    processed: "<p>We are going to visit Spotify, where we will receive a short tour through the facilities before starting the panel of technologists of Spotify's core disciplines: Development, Product, Design and Insights</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

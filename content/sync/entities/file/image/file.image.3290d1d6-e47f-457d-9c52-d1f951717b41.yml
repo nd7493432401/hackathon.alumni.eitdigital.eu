@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: 3290d1d6-e47f-457d-9c52-d1f951717b41
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: 'LFB_19__Digital Allumni.png'
+uri:
+  -
+    value: 'public://2020-05/LFB_19__Digital Allumni.png'
+    url: /sites/default/files/2020-05/LFB_19__Digital%20Allumni.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1104839
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-05-02T10:17:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T10:17:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

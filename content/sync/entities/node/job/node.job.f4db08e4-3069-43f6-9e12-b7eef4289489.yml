@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f4db08e4-3069-43f6-9e12-b7eef4289489
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'SoC/IP Engineer'
+created:
+  -
+    value: '2019-02-09T18:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:06:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/socip-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/jaisal'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Nokia Technologies'
+    format: full_html
+    processed: 'Nokia Technologies'
+field_expiration_date:
+  -
+    value: '2019-12-01T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>Company</strong></p>\r\n\r\n<p><a href=\"https://www.nokia.com/\" target=\"_blank\">Nokia </a>is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things.</p>\r\n\r\n<p>Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.</p>\r\n\r\n<div>\r\n<p><strong>Job Description</strong></p>\r\n\r\n<p>We’re looking for an engineer of all experience level (including freshers) to be part of our design teams where you will be working with latest FPGA and SoC based technologies for Nokia 5G-NR (New Radio) and LTE base stations. Focus areas for your work would be related to:</p>\r\n\r\n<ul>\r\n\t<li>SOC/IP implementation on the world leading System-on-chips based on latest technology ASICs and FPGA’s</li>\r\n\t<li>Algorithm development, fixed-point modelling and fixed-point performance verification</li>\r\n\t<li>Working with experts of different areas to ensure most competitive solutions</li>\r\n\t<li>Cooperating with system engineers, HW/SW development, suppliers and other relevant functions to solve technical issues</li>\r\n\t<li>Supporting HW/SW bring-up and debug</li>\r\n</ul>\r\n\r\n<p>More detailed planning of your role in the team will be done based on your current skill set and interest areas. Master students will be able to do thesis.</p>\r\n\r\n<p><strong>Optional Skills</strong></p>\r\n\r\n<ul>\r\n\t<li>Wireless/telecom receiver algorithm development</li>\r\n\t<li>ASIC, FPGA or low-level SW development</li>\r\n\t<li>Implementation of DSP functions on HW accelerators and/or DSP processors</li>\r\n\t<li>LTE and/or 5G-NR know how</li>\r\n\t<li>Coding (Matlab, C++, VHDL, Verilog, System Verilog, UVM)</li>\r\n\t<li>Fluent spoken and written English</li>\r\n\t<li>Pro-activity and independent problem solving through own experience and network</li>\r\n</ul>\r\n\r\n<p>You don’t need to master everything, but you should match to at least some of the above mention key words.</p>\r\n\r\n<p><strong>Contact Details</strong></p>\r\n\r\n<p><a href=\"https://alumni.eitdigital.eu/users/jaisal\" target=\"_blank\">Jaisal Ashraf</a><br />\r\nashraf.jaisal@nokia.com<br />\r\n+358417517580</p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p><strong>Company</strong></p>\n\n<p><a href=\"https://www.nokia.com/\" target=\"_blank\">Nokia </a>is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things.</p>\n\n<p>Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.</p>\n\n<div>\n<p><strong>Job Description</strong></p>\n\n<p>We’re looking for an engineer of all experience level (including freshers) to be part of our design teams where you will be working with latest FPGA and SoC based technologies for Nokia 5G-NR (New Radio) and LTE base stations. Focus areas for your work would be related to:</p>\n\n<ul>\n\t<li>SOC/IP implementation on the world leading System-on-chips based on latest technology ASICs and FPGA’s</li>\n\t<li>Algorithm development, fixed-point modelling and fixed-point performance verification</li>\n\t<li>Working with experts of different areas to ensure most competitive solutions</li>\n\t<li>Cooperating with system engineers, HW/SW development, suppliers and other relevant functions to solve technical issues</li>\n\t<li>Supporting HW/SW bring-up and debug</li>\n</ul>\n\n<p>More detailed planning of your role in the team will be done based on your current skill set and interest areas. Master students will be able to do thesis.</p>\n\n<p><strong>Optional Skills</strong></p>\n\n<ul>\n\t<li>Wireless/telecom receiver algorithm development</li>\n\t<li>ASIC, FPGA or low-level SW development</li>\n\t<li>Implementation of DSP functions on HW accelerators and/or DSP processors</li>\n\t<li>LTE and/or 5G-NR know how</li>\n\t<li>Coding (Matlab, C++, VHDL, Verilog, System Verilog, UVM)</li>\n\t<li>Fluent spoken and written English</li>\n\t<li>Pro-activity and independent problem solving through own experience and network</li>\n</ul>\n\n<p>You don’t need to master everything, but you should match to at least some of the above mention key words.</p>\n\n<p><strong>Contact Details</strong></p>\n\n<p><a href=\"https://alumni.eitdigital.eu/users/jaisal\" target=\"_blank\">Jaisal Ashraf</a><br />\nashraf.jaisal@nokia.com<br />\n+358417517580</p>\n</div>\n"
+field_job_location:
+  -
+    value: 'Espoo, Finland'
+    format: full_html
+    processed: 'Espoo, Finland'
+field_more_details_link:
+  -
+    uri: 'mailto:ashraf.jaisal@nokia.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

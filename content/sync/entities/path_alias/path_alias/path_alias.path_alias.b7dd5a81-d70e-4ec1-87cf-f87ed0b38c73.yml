@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b7dd5a81-d70e-4ec1-87cf-f87ed0b38c73
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/208
+alias:
+  -
+    value: /event/womeneit-she-innovates
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

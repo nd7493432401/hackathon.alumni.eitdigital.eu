@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 4c55042c-c31f-4e0e-8113-410f4d5f2bc1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'LoRaWAN Workshop'
+created:
+  -
+    value: '2019-04-02T20:59:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:39:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/lorawan-workshop
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital Berlin CLC, Ernst Reuter Platz 7, 6th Floor, Berlin'
+    format: full_html
+    processed: 'EIT Digital Berlin CLC, Ernst Reuter Platz 7, 6th Floor, Berlin'
+field_event_date:
+  -
+    value: '2019-04-11T17:30:00+02:00'
+    end_value: '2019-04-11T21:30:00+02:00'
+field_event_description:
+  -
+    value: "<p style=\"text-align:justify\"><strong><a href=\"https://forms.gle/LieHEVV61y2xTv8e9?fbclid=IwAR2_U9gSfh6U5vefV9fPVudWVujzILrXske1EpWZQBH8tC4CHy40QI4EKP0\">Please register here!</a></strong></p>\r\n\r\n<p style=\"text-align:justify\">We are no more living in a world of connected people only. Things have come into our network and has widened the network connectivity from people &lt;-&gt; things &lt;-&gt; things &lt;-&gt; people. In other words we have started interacting with various physical things and vice-versa. IOT is a concept and there are various ways to implement it. At the heart of IOT lies the infrastructure and technology for providing connectivity. Various wireless communication technologies have evolved over the years such as WiFi, Bluetooth, Zigbee, Cellular and a lot more. But these technologies were not developed keeping in mind the various use cases of IOT or in other words these wireless technologies were not developed for connecting things and people together.</p>\r\n\r\n<p style=\"text-align:justify\">This necessity paved the way for <strong>a new concept called LPWAN</strong> (low power wide area network) which is specifically conceptualized keeping in mind the various use cases of IOT, M2M (machine to machine) communication. There are 3 emerging implementation standards to realize the concept of LPWAN named as follows:</p>\r\n\r\n<ol>\r\n\t<li style=\"text-align:justify\">Sigfox (the oldest amongst the three)</li>\r\n\t<li style=\"text-align:justify\">LORAWAN (Long Range Wide Area Network)</li>\r\n\t<li style=\"text-align:justify\">Nb-IOT, LTE/Cat-M1</li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\">Amongst the above three technologies, the one which has got the most popularity is <strong>LORAWAN, which is increasingly becoming the de-facto standard for LPWA</strong>&nbsp;<strong>networks</strong>.</p>\r\n\r\n<p style=\"text-align:justify\">This <strong>3-hour-long&nbsp;workshop</strong> is aimed to present an overview of LPWAN technologies designed especially for the majority of IOT use cases. In particular, LORAWAN will be discussed in detail along with <strong>hands-on practicals with hardware&nbsp;</strong>(gateways and end devices/sensors) provided from our friends from <a href=\"https://www.matchx.io\">MatchX</a>, <a href=\"https://alumni.eitdigital.eu/users/sheenhx\">Xin</a>'s company. At the end of the workshop you will have a comprehensive knowledge of LORAWAN technology and will be able to <strong>develop an end-to-end LORAWAN solution</strong>, provided you have the required hardware SDK kit.</p>\r\n\r\n<p>We invite you to join us in this great collaboration and event:&nbsp;<strong><a href=\"https://forms.gle/LieHEVV61y2xTv8e9?fbclid=IwAR2_U9gSfh6U5vefV9fPVudWVujzILrXske1EpWZQBH8tC4CHy40QI4EKP0\">please register your participation here</a></strong> to provide the tools needed and, as well, the right amount of food :)</p>\r\n"
+    format: full_html
+    processed: "<p style=\"text-align:justify\"><strong><a href=\"https://forms.gle/LieHEVV61y2xTv8e9?fbclid=IwAR2_U9gSfh6U5vefV9fPVudWVujzILrXske1EpWZQBH8tC4CHy40QI4EKP0\">Please register here!</a></strong></p>\n\n<p style=\"text-align:justify\">We are no more living in a world of connected people only. Things have come into our network and has widened the network connectivity from people &lt;-&gt; things &lt;-&gt; things &lt;-&gt; people. In other words we have started interacting with various physical things and vice-versa. IOT is a concept and there are various ways to implement it. At the heart of IOT lies the infrastructure and technology for providing connectivity. Various wireless communication technologies have evolved over the years such as WiFi, Bluetooth, Zigbee, Cellular and a lot more. But these technologies were not developed keeping in mind the various use cases of IOT or in other words these wireless technologies were not developed for connecting things and people together.</p>\n\n<p style=\"text-align:justify\">This necessity paved the way for <strong>a new concept called LPWAN</strong> (low power wide area network) which is specifically conceptualized keeping in mind the various use cases of IOT, M2M (machine to machine) communication. There are 3 emerging implementation standards to realize the concept of LPWAN named as follows:</p>\n\n<ol>\n\t<li style=\"text-align:justify\">Sigfox (the oldest amongst the three)</li>\n\t<li style=\"text-align:justify\">LORAWAN (Long Range Wide Area Network)</li>\n\t<li style=\"text-align:justify\">Nb-IOT, LTE/Cat-M1</li>\n</ol>\n\n<p style=\"text-align:justify\">Amongst the above three technologies, the one which has got the most popularity is <strong>LORAWAN, which is increasingly becoming the de-facto standard for LPWA</strong>\_<strong>networks</strong>.</p>\n\n<p style=\"text-align:justify\">This <strong>3-hour-long\_workshop</strong> is aimed to present an overview of LPWAN technologies designed especially for the majority of IOT use cases. In particular, LORAWAN will be discussed in detail along with <strong>hands-on practicals with hardware\_</strong>(gateways and end devices/sensors) provided from our friends from <a href=\"https://www.matchx.io\">MatchX</a>, <a href=\"https://alumni.eitdigital.eu/users/sheenhx\">Xin</a>'s company. At the end of the workshop you will have a comprehensive knowledge of LORAWAN technology and will be able to <strong>develop an end-to-end LORAWAN solution</strong>, provided you have the required hardware SDK kit.</p>\n\n<p>We invite you to join us in this great collaboration and event:\_<strong><a href=\"https://forms.gle/LieHEVV61y2xTv8e9?fbclid=IwAR2_U9gSfh6U5vefV9fPVudWVujzILrXske1EpWZQBH8tC4CHy40QI4EKP0\">please register your participation here</a></strong> to provide the tools needed and, as well, the right amount of food :)</p>\n"
+field_event_duration:
+  -
+    value: '17:30 - 21:30'
+    format: full_html
+    processed: '17:30 - 21:30'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: df25d8f3-1df9-49be-beb4-7e4ac1967d9a
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: df25d8f3-1df9-49be-beb4-7e4ac1967d9a
+field_event_introduction:
+  -
+    value: "<p>This workshop is aimed to present an overview of LPWAN technologies designed especially for the majority of IOT use cases</p>\r\n"
+    format: full_html
+    processed: "<p>This workshop is aimed to present an overview of LPWAN technologies designed especially for the majority of IOT use cases</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b63221f6-a610-4b97-915c-c8b087f730ad
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.df25d8f3-1df9-49be-beb4-7e4ac1967d9a
+    taxonomy_term:
+      - taxonomy_term.event_type.b63221f6-a610-4b97-915c-c8b087f730ad

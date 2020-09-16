@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 648836e9-37ef-4b84-a792-ce3c0954f310
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/6
+alias:
+  -
+    value: /faqs-about-organizing-events
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

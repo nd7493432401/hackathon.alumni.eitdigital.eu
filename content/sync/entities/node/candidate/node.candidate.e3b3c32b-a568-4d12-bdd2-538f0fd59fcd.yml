@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: e3b3c32b-a568-4d12-bdd2-538f0fd59fcd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Erik Wouters'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/erik-wouters-0
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>I have been involved in student associations during my studies and have been in many committees. The best thing about being a part of a student society is that you organize events with your friends while learning valuable skills at the same time.</p><p>The committees I have been a part of before include the yearbook, education, bar and travel committee. I organized an event for the EIT community in Eindhoven last year and I am involved in organizing an alumni event for the people who studied in Stockholm stayed there.</p><p>Check my <a href="https://www.linkedin.com/in/ehwouters/" target="_blank">Linkedin</a> for more background information.</p>'
+    format: full_html
+    processed: '<p>I have been involved in student associations during my studies and have been in many committees. The best thing about being a part of a student society is that you organize events with your friends while learning valuable skills at the same time.</p><p>The committees I have been a part of before include the yearbook, education, bar and travel committee. I organized an event for the EIT community in Eindhoven last year and I am involved in organizing an alumni event for the people who studied in Stockholm stayed there.</p><p>Check my <a href="https://www.linkedin.com/in/ehwouters/" target="_blank">Linkedin</a> for more background information.</p>'
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Erik Wouters'
+    format: full_html
+    processed: 'Erik Wouters'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I’d like to contribute to the EIT Digital Alumni foundation by making the platform for the engagement of the alumni work better and help to organize relevant and fun events and activities as well as support other alumni who would like to organize events.</p>'
+    format: full_html
+    processed: '<p>I’d like to contribute to the EIT Digital Alumni foundation by making the platform for the engagement of the alumni work better and help to organize relevant and fun events and activities as well as support other alumni who would like to organize events.</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>Because I’m committed to make the EIT Digital Alumni foundation flourish, and I’m dedicated to strengthen the alumni network for everyone.</p>'
+    format: full_html
+    processed: '<p>Because I’m committed to make the EIT Digital Alumni foundation flourish, and I’m dedicated to strengthen the alumni network for everyone.</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,8 @@
+uuid: 7362754c-25ec-4269-87d2-62a23554489e
+langcode: en
+status: true
+dependencies: {  }
+name: 'Question tags'
+vid: question_tags
+description: ''
+weight: 0

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 80a1dbc3-0650-44c7-a46b-5df078e3b563
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/236
+alias:
+  -
+    value: /event/privacy-and-security-europe-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

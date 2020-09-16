@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3289bd5b-440a-4ece-a543-0dc949752b34
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/449
+alias:
+  -
+    value: /job/hardware-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

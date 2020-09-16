@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5e2b945d-4bbe-411b-9e90-17ca0cf70fac
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/155
+alias:
+  -
+    value: /event/first-cybersecurity-meetup-hungary
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: edd2c577-f25c-47f8-9b3d-f03bc40b5e12
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/87
+alias:
+  -
+    value: /article/spotlight-francesco-bonadiman
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

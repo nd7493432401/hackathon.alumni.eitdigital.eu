@@ -1,0 +1,20 @@
+uuid: f645d5cc-b718-4a26-98a6-fdf589e30719
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - taxonomy
+id: profile.field_entry_university
+field_name: field_entry_university
+entity_type: profile
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

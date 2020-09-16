@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2be3c990-d21d-4a0a-ae5a-d6c9bcc929f2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/124
+alias:
+  -
+    value: /candidate/sandip-pandey
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

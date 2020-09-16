@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 3b194612-951b-40a4-a0d2-edcde1841760
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:25:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Present your startup at SLUSH 2017'
+created:
+  -
+    value: '2017-09-07T08:28:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:25:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/present-your-startup-slush-2017
+body:
+  -
+    value: "<p><a href=\"https://alumni.eitdigital.eu/article/one-ticket-slush-2016\">As done last year</a>, the EIT Digital Alumni community wants to support your entrepreneurial journey by presenting your <strong>early-stage startup at SLUSH</strong>!</p>\r\n\r\n<p><a href=\"http://www.slush.org/\">SLUSH</a> is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, from 30 November to 1 December 2017.</p>\r\n\r\n<p>During this great event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\r\n\r\n<p>You will also have the chance to enter and win the <strong>Slush 100 pitching</strong>, or attend the <strong>Demo Booth</strong> - where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at <a href=\"http://www.slush.org\">www.slush.org</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you are a member of the EIT Digital Alumni community* and you want to boost and advance your entrepreneurial venture, we invite you to participate in this fantastic opportunity by joining our <strong>“digitalumni vs. Slush 2017” Competition</strong>!</p>\r\n\r\n<p>The winner(s) will see <em>their trip, stay and participation at Slush 2017</em> sponsored by the Alumni community. In order to participate, we ask you to follow these <strong>3 easy steps</strong>:</p>\r\n\r\n<ol>\r\n\t<li>Fill in <a href=\"http://bit.ly/digitalumniSlush2017\">this short&nbsp;form</a> with all the details about your early-stage startup or project (website, media coverage, presentation, etc.) and a short motivational paragraph stating your interest in presenting your startup and being our ambassador at this year’s Slush event. The <strong>deadline </strong>for submitting your application is <em>Sunday 17th September</em>, 23.59 CET.<br />\r\n\t&nbsp;</li>\r\n\t<li>The Alumni Board will publish a post on our Social Media channels <strong>for each</strong> early-stage startup before <em>Thursday 21st September</em>. You will then be able to <strong>share and promote</strong> your project within your network and externally: we want the audience to choose the coolest startup ideas! How?<br />\r\n\tEach of the following activities will be worth points:\r\n\t<ul>\r\n\t\t<li>activity on the <a href=\"https://www.facebook.com/digitalumni/\">Facebook</a> post (reaction, comment, public share)</li>\r\n\t\t<li>activity on the <a href=\"https://www.linkedin.com/company/eit-digital-alumni\">LinkedIn</a> post (like, comment, public share)</li>\r\n\t\t<li>activity on the <a href=\"https://twitter.com/digitalumni\">Twitter</a> tweet (like, retweet, reply)</li>\r\n\t\t<li>activity on the <a href=\"https://www.instagram.com/digitalumni/\">Instagram</a> post (like, comment)</li>\r\n\t</ul>\r\n\r\n\t<p>This contest will last <strong>4 weeks</strong>: you will have time <em>till Thursday 19th October</em> to spread your success by sharing the posts on your channels and engage with the audience!</p>\r\n\r\n\t<p>The top 3 candidates will be selected based on a <em>preliminary evaluation</em> by the Board (worth 50% of the score) and the <em>Social Media outreach</em> of the project idea (worth 50%). These <strong>3 most voted startups</strong>&nbsp;will access <strong>the Finals</strong>!<br />\r\n\t&nbsp;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>The 3 startups which received <em>most general acclaim</em> will&nbsp;be finally evaluated by a <strong>selected jury</strong> of Business Developers of <a href=\"http://eitdigital.eu\">EIT Digital</a>, who will proclaim the overall winner(s)!</p>\r\n\t</li>\r\n</ol>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Do not miss this awesome chance! <a href=\"http://bit.ly/digitalumniSlush2017\">Send your application now</a>!</p>\r\n\r\n<p>---</p>\r\n\r\n<p>If you have general inquiries about this opportunity, please get in touch with us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels.</p>\r\n\r\n<p><span style=\"font-size: 13.008px;\">* you need to be a registered member at </span><a href=\"http://alumni.eitdigital.eu\" style=\"font-size: 13.008px;\">alumni.eitdigital.eu</a><span style=\"font-size: 13.008px;\">. Depending on the size and membership status of the winning team, one or more representatives could be covered.</span></p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://alumni.eitdigital.eu/article/one-ticket-slush-2016\">As done last year</a>, the EIT Digital Alumni community wants to support your entrepreneurial journey by presenting your <strong>early-stage startup at SLUSH</strong>!</p>\n\n<p><a href=\"http://www.slush.org/\">SLUSH</a> is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, from 30 November to 1 December 2017.</p>\n\n<p>During this great event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\n\n<p>You will also have the chance to enter and win the <strong>Slush 100 pitching</strong>, or attend the <strong>Demo Booth</strong> - where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at <a href=\"http://www.slush.org\">www.slush.org</a>.</p>\n\n<p>\_</p>\n\n<p>If you are a member of the EIT Digital Alumni community* and you want to boost and advance your entrepreneurial venture, we invite you to participate in this fantastic opportunity by joining our <strong>“digitalumni vs. Slush 2017” Competition</strong>!</p>\n\n<p>The winner(s) will see <em>their trip, stay and participation at Slush 2017</em> sponsored by the Alumni community. In order to participate, we ask you to follow these <strong>3 easy steps</strong>:</p>\n\n<ol>\n\t<li>Fill in <a href=\"http://bit.ly/digitalumniSlush2017\">this short\_form</a> with all the details about your early-stage startup or project (website, media coverage, presentation, etc.) and a short motivational paragraph stating your interest in presenting your startup and being our ambassador at this year’s Slush event. The <strong>deadline </strong>for submitting your application is <em>Sunday 17th September</em>, 23.59 CET.<br />\n\t\_</li>\n\t<li>The Alumni Board will publish a post on our Social Media channels <strong>for each</strong> early-stage startup before <em>Thursday 21st September</em>. You will then be able to <strong>share and promote</strong> your project within your network and externally: we want the audience to choose the coolest startup ideas! How?<br />\n\tEach of the following activities will be worth points:\n\t<ul>\n\t\t<li>activity on the <a href=\"https://www.facebook.com/digitalumni/\">Facebook</a> post (reaction, comment, public share)</li>\n\t\t<li>activity on the <a href=\"https://www.linkedin.com/company/eit-digital-alumni\">LinkedIn</a> post (like, comment, public share)</li>\n\t\t<li>activity on the <a href=\"https://twitter.com/digitalumni\">Twitter</a> tweet (like, retweet, reply)</li>\n\t\t<li>activity on the <a href=\"https://www.instagram.com/digitalumni/\">Instagram</a> post (like, comment)</li>\n\t</ul>\n\n\t<p>This contest will last <strong>4 weeks</strong>: you will have time <em>till Thursday 19th October</em> to spread your success by sharing the posts on your channels and engage with the audience!</p>\n\n\t<p>The top 3 candidates will be selected based on a <em>preliminary evaluation</em> by the Board (worth 50% of the score) and the <em>Social Media outreach</em> of the project idea (worth 50%). These <strong>3 most voted startups</strong>\_will access <strong>the Finals</strong>!<br />\n\t\_</p>\n\t</li>\n\t<li>\n\t<p>The 3 startups which received <em>most general acclaim</em> will\_be finally evaluated by a <strong>selected jury</strong> of Business Developers of <a href=\"http://eitdigital.eu\">EIT Digital</a>, who will proclaim the overall winner(s)!</p>\n\t</li>\n</ol>\n\n<p>\_</p>\n\n<p>Do not miss this awesome chance! <a href=\"http://bit.ly/digitalumniSlush2017\">Send your application now</a>!</p>\n\n<p>---</p>\n\n<p>If you have general inquiries about this opportunity, please get in touch with us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels.</p>\n\n<p><span style=\"font-size: 13.008px;\">* you need to be a registered member at </span><a href=\"http://alumni.eitdigital.eu\" style=\"font-size: 13.008px;\">alumni.eitdigital.eu</a><span style=\"font-size: 13.008px;\">. Depending on the size and membership status of the winning team, one or more representatives could be covered.</span></p>\n"
+    summary: 'As done last year, the EIT Digital Alumni community wants to support your entrepreneurial journey by'
+    summary_processed: 'As done last year, the EIT Digital Alumni community wants to support your entrepreneurial journey by'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Get your trip, stay and participation at Slush 2017 sponsored by the Alumni community!'
+field_image:
+  -
+    target_type: media
+    target_uuid: f6914920-2500-4cd9-881c-bfb16f2d2d64
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.f6914920-2500-4cd9-881c-bfb16f2d2d64

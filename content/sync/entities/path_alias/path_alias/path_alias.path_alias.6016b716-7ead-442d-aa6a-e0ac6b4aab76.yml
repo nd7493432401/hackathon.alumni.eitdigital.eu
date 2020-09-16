@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6016b716-7ead-442d-aa6a-e0ac6b4aab76
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/136
+alias:
+  -
+    value: /candidate/davor-ljubenkov
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

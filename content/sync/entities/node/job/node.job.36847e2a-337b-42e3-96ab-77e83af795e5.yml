@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 36847e2a-337b-42e3-96ab-77e83af795e5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Data scientist'
+created:
+  -
+    value: '2017-05-17T11:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:43:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/data-scientist
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:daniele.miorandi@u-hopper.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: U-Hopper
+    format: full_html
+    processed: U-Hopper
+field_expiration_date:
+  -
+    value: '2017-07-17T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>U-Hopper, an innovative big data startup located in Trento (Italy) is seeking a top-notch data scientist for working on its customer intelligence service <a href=\"http://www.tapoi.me\">Tapoi</a>. Tapoi leverages online activities of users to build rich user profiles that can be used to optimize offers and contents and to improve the user experience. Tapoi makes use of state-of-the-art semantic analysis and big data tools.</p>\r\n\r\n<p>The candidate will be responsible for the design of data science-powered approaches able to improve the Tapoi service. The candidate will receive tailored training organised by the company and will be enrolled in external courses on big data technologies and innovation&amp;entrepreneurship. The candidate will work in close cooperation with the Tapoi product development team to make sure the proposed solutions can be easily integrated within the current infrastructure and platform. The product development team will be in charge of implementing the proposed solutions and integrating them in the current platform.</p>\r\n\r\n<p>The ideal candidate has a PhD in computer science or mathematics,&nbsp; with a strong background in statistics, machine learning and data mining. The duration of the contract is one (1) year.</p>\r\n"
+    format: full_html
+    processed: "<p>U-Hopper, an innovative big data startup located in Trento (Italy) is seeking a top-notch data scientist for working on its customer intelligence service <a href=\"http://www.tapoi.me\">Tapoi</a>. Tapoi leverages online activities of users to build rich user profiles that can be used to optimize offers and contents and to improve the user experience. Tapoi makes use of state-of-the-art semantic analysis and big data tools.</p>\n\n<p>The candidate will be responsible for the design of data science-powered approaches able to improve the Tapoi service. The candidate will receive tailored training organised by the company and will be enrolled in external courses on big data technologies and innovation&amp;entrepreneurship. The candidate will work in close cooperation with the Tapoi product development team to make sure the proposed solutions can be easily integrated within the current infrastructure and platform. The product development team will be in charge of implementing the proposed solutions and integrating them in the current platform.</p>\n\n<p>The ideal candidate has a PhD in computer science or mathematics,\_ with a strong background in statistics, machine learning and data mining. The duration of the contract is one (1) year.</p>\n"
+field_job_location:
+  -
+    value: Trento
+    format: full_html
+    processed: Trento
+field_more_details_link:
+  -
+    uri: 'https://euraxess.ec.europa.eu/jobs/194141'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

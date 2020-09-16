@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 2933f1e0-289f-40e7-9ecb-5595b6fcd6db
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'AI & Machine Learning Engineer'
+created:
+  -
+    value: '2020-03-08T17:19:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:07:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ai-machine-learning-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://careers.nectarinehealth.com/jobs/836995-ai-machine-learning-engineer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Nectarine Health'
+    format: full_html
+    processed: 'Nectarine Health'
+field_expiration_date:
+  -
+    value: '2020-05-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>About Nectarine Health</strong></p>\r\n\r\n<p>Nectarine Health’s goal is to give older people the confidence to live independently in their own home for longer. We believe that better, more intelligent tools can help society maintain high quality care for its ageing global population.</p>\r\n\r\n<p>Designed to provide peace of mind for families caring for their loved ones, and for professional caregivers, the Nectarine solution provides them with tailored alerts and health insights, helping them to provide more effective care when required.&nbsp; By monitoring well-being patterns and alerting care providers to key health events more common in an older population, such as a fall, we hope to alleviate some of the burden on the primary care system, and help more people enjoy independent living for longer.</p>\r\n\r\n<p>Nectarine connects a state-of-the-art wearable wristband with a streaming IoT platform, analyzing real-time sensor data 24/7 using state of the art deep learning models. These insights are then presented as alerts, patterns of well-being through a simple mobile and web user experience.</p>\r\n\r\n<p>Founded in 2016, we started off providing this solution for nurses, carers and administrators in nursing homes to help them look after their residents more effectively, enabling the delivery of better, more timely care.&nbsp; We now have billions of data points and insights into patterns of activity allowing us to detect falls and provide alerts with ever greater accuracy and make proactive assessment of well-being possible.</p>\r\n\r\n<p>Nectarine Health is an international company with headquarters in Gamla Stan, Stockholm, Sweden. We are expanding rapidly and looking for those passionate about building great products.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Why are we different?</strong></p>\r\n\r\n<p>- Our always-on 24/7 streaming AIoT platform</p>\r\n\r\n<p>- Our stylish, durable long life wristband</p>\r\n\r\n<p>- Our state of the art machine learning applications</p>\r\n\r\n<p>- Unique and rapidly growing datasets</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>What’s next?</strong></p>\r\n\r\n<p>In 2020 we will take Nectarine to consumers and their carers in their own home, irrespective of whether care is provided by a family member or neighbor, a professional care provider or someone else. We will be looking to enter markets outside of Sweden, starting with the USA and UK, and to grow our business operations to meet the needs of our international customers.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Role description</strong></p>\r\n\r\n<p>Nectarines Health’s AI team is responsible for developing a system that reliable and with high performance can deliver life-critical individual insights on large amounts of data. This requires great engineering (for example designing, implementing, and improving a massive-scale distributed machine learning system), validating, deploying and updating models, and researching and developing new model architectures. In all the projects this role pursues, the ultimate goal is to push the field forward. Technology-wise you will work in a tech-landscape of Python and Tensorflow/Keras as the primary frameworks, training using Google AI Platform, and operationalizing using an in-house platform for model management and execution. This is an engineering role responsible for making sophisticated data products possible only with a strong specialized team. You will exercise your strong analytical capability, use your ability to translate business requirements into actionable technical solutions. But also, utilize your ability to explain solutions to people with other domain expertise to take part in user-studies, assist in data collection and labeling, etc. Taking on this role, you are welcomed to an environment where quality work is encouraged, noticed, and rewarded and where individuals carry significant responsibility. You will play a central role in the AI team, developing, researching, and deploying real-time streaming AI models.</p>\r\n\r\n<p><strong>In this role you will:&nbsp;</strong></p>\r\n\r\n<p>- Identify and develop machine learning based solutions to a wide variety of e-health challenges</p>\r\n\r\n<p>- Develop data-driven models for descriptive, diagnostic, predictive and prescriptive analytics</p>\r\n\r\n<p>- Develop time-series anomaly detection models</p>\r\n\r\n<p>- Establish reusable data processing pipelines to enable rapid re-training and iteration through different ML methodologies</p>\r\n\r\n<p>- Design experiments and analysis methodologies that are statistically rigorous</p>\r\n\r\n<p>- Assist in data collection and labeling</p>\r\n\r\n<p>- Develop and improve existing schema for algorithm performance monitoring and failure analysis</p>\r\n\r\n<p>You will report to the Chief AI Officer Nils Svangård.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Your skills and profile&nbsp;</strong></p>\r\n\r\n<p>- Experienced/Senior Machine Learning Engineer, at least 3+ years (but preferably more) of experience developing and deploying machine learning in production</p>\r\n\r\n<p>- A scientific approach to solving problems in an agile environment</p>\r\n\r\n<p>- Strong proficiency with Python, Golang and other languages are a plus but not necessary</p>\r\n\r\n<p>- Excels in the documentation of methods, analysis, and results</p>\r\n\r\n<p>- Experience working with building and cleaning datasets</p>\r\n\r\n<p>- Experience with TensorFlow and Keras&nbsp;</p>\r\n\r\n<p>- Experience with deep learning, feature learning, anomaly detection, boosting, and decision trees</p>\r\n\r\n<p>- Experience with Cloud platforms such as GCP or AWS</p>\r\n\r\n<p>- Proficiency in statistical analysis and data visualization</p>\r\n\r\n<p>- Strong organizational skills with meticulous attention to detail</p>\r\n\r\n<p>- Self-propelled and feels tremendous ownership over the outcomes</p>\r\n\r\n<p>- Exemplary verbal and written communication skills</p>\r\n\r\n<p>- Experienced working with Unix/Linux, Git, etc.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Come and join us if&nbsp;you&nbsp;</strong></p>\r\n\r\n<p>- Thrive in a workplace that is characterized by deep technical expertise, dedication, transparency and having fun</p>\r\n\r\n<p>- Welcome collaboration with talented teams committed to a common cause</p>\r\n\r\n<p>- Are energized by a fast-paced and inspiring start-up environment</p>\r\n\r\n<p>- Are excited by&nbsp;our global ambitions&nbsp;</p>\r\n\r\n<p>- Are looking for personal and professional development opportunities</p>\r\n\r\n<p>- Want to apply AI and Machine Learning on real problems and data sets, and see them implemented in production within weeks</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>You couldn’t be joining Nectarine at a more exciting time!</p>\r\n"
+    format: full_html
+    processed: "<p><strong>About Nectarine Health</strong></p>\n\n<p>Nectarine Health’s goal is to give older people the confidence to live independently in their own home for longer. We believe that better, more intelligent tools can help society maintain high quality care for its ageing global population.</p>\n\n<p>Designed to provide peace of mind for families caring for their loved ones, and for professional caregivers, the Nectarine solution provides them with tailored alerts and health insights, helping them to provide more effective care when required.\_ By monitoring well-being patterns and alerting care providers to key health events more common in an older population, such as a fall, we hope to alleviate some of the burden on the primary care system, and help more people enjoy independent living for longer.</p>\n\n<p>Nectarine connects a state-of-the-art wearable wristband with a streaming IoT platform, analyzing real-time sensor data 24/7 using state of the art deep learning models. These insights are then presented as alerts, patterns of well-being through a simple mobile and web user experience.</p>\n\n<p>Founded in 2016, we started off providing this solution for nurses, carers and administrators in nursing homes to help them look after their residents more effectively, enabling the delivery of better, more timely care.\_ We now have billions of data points and insights into patterns of activity allowing us to detect falls and provide alerts with ever greater accuracy and make proactive assessment of well-being possible.</p>\n\n<p>Nectarine Health is an international company with headquarters in Gamla Stan, Stockholm, Sweden. We are expanding rapidly and looking for those passionate about building great products.</p>\n\n<p>\_</p>\n\n<p><strong>Why are we different?</strong></p>\n\n<p>- Our always-on 24/7 streaming AIoT platform</p>\n\n<p>- Our stylish, durable long life wristband</p>\n\n<p>- Our state of the art machine learning applications</p>\n\n<p>- Unique and rapidly growing datasets</p>\n\n<p>\_</p>\n\n<p><strong>What’s next?</strong></p>\n\n<p>In 2020 we will take Nectarine to consumers and their carers in their own home, irrespective of whether care is provided by a family member or neighbor, a professional care provider or someone else. We will be looking to enter markets outside of Sweden, starting with the USA and UK, and to grow our business operations to meet the needs of our international customers.</p>\n\n<p>\_</p>\n\n<p><strong>Role description</strong></p>\n\n<p>Nectarines Health’s AI team is responsible for developing a system that reliable and with high performance can deliver life-critical individual insights on large amounts of data. This requires great engineering (for example designing, implementing, and improving a massive-scale distributed machine learning system), validating, deploying and updating models, and researching and developing new model architectures. In all the projects this role pursues, the ultimate goal is to push the field forward. Technology-wise you will work in a tech-landscape of Python and Tensorflow/Keras as the primary frameworks, training using Google AI Platform, and operationalizing using an in-house platform for model management and execution. This is an engineering role responsible for making sophisticated data products possible only with a strong specialized team. You will exercise your strong analytical capability, use your ability to translate business requirements into actionable technical solutions. But also, utilize your ability to explain solutions to people with other domain expertise to take part in user-studies, assist in data collection and labeling, etc. Taking on this role, you are welcomed to an environment where quality work is encouraged, noticed, and rewarded and where individuals carry significant responsibility. You will play a central role in the AI team, developing, researching, and deploying real-time streaming AI models.</p>\n\n<p><strong>In this role you will:\_</strong></p>\n\n<p>- Identify and develop machine learning based solutions to a wide variety of e-health challenges</p>\n\n<p>- Develop data-driven models for descriptive, diagnostic, predictive and prescriptive analytics</p>\n\n<p>- Develop time-series anomaly detection models</p>\n\n<p>- Establish reusable data processing pipelines to enable rapid re-training and iteration through different ML methodologies</p>\n\n<p>- Design experiments and analysis methodologies that are statistically rigorous</p>\n\n<p>- Assist in data collection and labeling</p>\n\n<p>- Develop and improve existing schema for algorithm performance monitoring and failure analysis</p>\n\n<p>You will report to the Chief AI Officer Nils Svangård.</p>\n\n<p>\_</p>\n\n<p><strong>Your skills and profile\_</strong></p>\n\n<p>- Experienced/Senior Machine Learning Engineer, at least 3+ years (but preferably more) of experience developing and deploying machine learning in production</p>\n\n<p>- A scientific approach to solving problems in an agile environment</p>\n\n<p>- Strong proficiency with Python, Golang and other languages are a plus but not necessary</p>\n\n<p>- Excels in the documentation of methods, analysis, and results</p>\n\n<p>- Experience working with building and cleaning datasets</p>\n\n<p>- Experience with TensorFlow and Keras\_</p>\n\n<p>- Experience with deep learning, feature learning, anomaly detection, boosting, and decision trees</p>\n\n<p>- Experience with Cloud platforms such as GCP or AWS</p>\n\n<p>- Proficiency in statistical analysis and data visualization</p>\n\n<p>- Strong organizational skills with meticulous attention to detail</p>\n\n<p>- Self-propelled and feels tremendous ownership over the outcomes</p>\n\n<p>- Exemplary verbal and written communication skills</p>\n\n<p>- Experienced working with Unix/Linux, Git, etc.</p>\n\n<p>\_</p>\n\n<p><strong>Come and join us if\_you\_</strong></p>\n\n<p>- Thrive in a workplace that is characterized by deep technical expertise, dedication, transparency and having fun</p>\n\n<p>- Welcome collaboration with talented teams committed to a common cause</p>\n\n<p>- Are energized by a fast-paced and inspiring start-up environment</p>\n\n<p>- Are excited by\_our global ambitions\_</p>\n\n<p>- Are looking for personal and professional development opportunities</p>\n\n<p>- Want to apply AI and Machine Learning on real problems and data sets, and see them implemented in production within weeks</p>\n\n<p>\_</p>\n\n<p>You couldn’t be joining Nectarine at a more exciting time!</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

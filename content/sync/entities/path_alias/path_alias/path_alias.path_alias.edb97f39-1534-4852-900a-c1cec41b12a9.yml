@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: edb97f39-1534-4852-900a-c1cec41b12a9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/58
+alias:
+  -
+    value: /article/digital-transformation-triple-play
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

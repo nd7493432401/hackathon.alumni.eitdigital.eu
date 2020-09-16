@@ -1,0 +1,10 @@
+uuid: 96489925-ea80-47e9-8ae2-6afafdc7dd32
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.friend_edit
+label: 'Friend Edit'
+targetEntityType: user
+cache: true

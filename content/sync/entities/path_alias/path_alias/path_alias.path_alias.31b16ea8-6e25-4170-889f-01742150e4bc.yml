@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 31b16ea8-6e25-4170-889f-01742150e4bc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/49
+alias:
+  -
+    value: /users/vocululupa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

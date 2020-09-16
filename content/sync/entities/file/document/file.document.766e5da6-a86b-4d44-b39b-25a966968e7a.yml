@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: 766e5da6-a86b-4d44-b39b-25a966968e7a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: document
+    target_type: file_type
+    target_uuid: ab508441-233e-48a9-8969-76242ad028ea
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: 'August strategy consulting internship 2018.pdf'
+uri:
+  -
+    value: 'public://2020-05/August strategy consulting internship 2018.pdf'
+    url: /sites/default/files/2020-05/August%20strategy%20consulting%20internship%202018.pdf
+filemime:
+  -
+    value: application/pdf
+filesize:
+  -
+    value: 480482
+status:
+  -
+    value: false
+created:
+  -
+    value: '2020-05-05T20:14:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T20:14:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

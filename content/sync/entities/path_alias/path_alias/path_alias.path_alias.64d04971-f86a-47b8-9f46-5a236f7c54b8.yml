@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 64d04971-f86a-47b8-9f46-5a236f7c54b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/404
+alias:
+  -
+    value: /job/data-engineering-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

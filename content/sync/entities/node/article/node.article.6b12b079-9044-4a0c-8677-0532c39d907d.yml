@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 6b12b079-9044-4a0c-8677-0532c39d907d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:12:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Physical Board Meeting 2020 Jan'
+created:
+  -
+    value: '2020-01-26T08:12:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:12:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/physical-board-meeting-2020-jan
+body:
+  -
+    value: "<p>A couple of weeks ago, the EIT Digital Alumni Board had its second physical meeting together in Berlin. This time, the board gathered after the online elections that led to the opening of two new board positions as well as the designation of a new Treasurer. For this reason, the main topic on the agenda was <strong>the handover to the new board members</strong> and getting them up to speed with the plans we have for the beginning of 2020. We welcome once again, <a href=\"https://alumni.eitdigital.eu/users/davor\">Davor Ljubenkov</a>, <a href=\"https://alumni.eitdigital.eu/users/teodorpatras\">Teodor Patras</a> and <a href=\"https://alumni.eitdigital.eu/users/paulvelthuis\">Paul Velthuis</a>, as the Outreach &amp; Partnerships Officer, Technology Officer and Treasurer respectively.</p>\r\n\r\n<p>Another big topic on our agenda was <strong>this year’s <a href=\"https://alumni.eitdigital.eu/article/annual-meeting-2020-location-announcement\">Annual Meeting</a></strong>. We had the valuable time to sit together and brainstorm our ideas, plan out the schedule of the meeting itself and how we want to work together with our Annual Meeting Working group. We have already announced the location (Split, Croatia) and we will soon announce this year’s main theme (!) and the opening of the event registration.&nbsp;Keep tuned to our upcoming newsletter for more details (and we also suggest you to keep your alumni profile updated ;)</p>\r\n\r\n<p>The weekend get-together also allowed the board to finalise all the details for an important event that we have coming up, which is <strong>our <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\">Local Reps Gathering</a> in Madrid</strong> on the 8th and 9th February. We invited our most engaged alumni volunteers and event organizers&nbsp;from all EIT Digital Alumni working groups to a weekend packed with brainstorming, workshops and trainings. We hope this meeting will help them get new ideas and energy to power-up their local communities!&nbsp;&nbsp;</p>\r\n\r\n<p>We will get back with more news soon, but in the meantime, don't hesitate to contact us via <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a> :)&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>You can read&nbsp;<a href=\"http://bit.ly/digitalumni_report_2019\"><strong>a full summary</strong> </a>of the activities carried out by the Alumni Foundation&nbsp;in the year 2019 (link to our Annual Report).</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>A couple of weeks ago, the EIT Digital Alumni Board had its second physical meeting together in Berlin. This time, the board gathered after the online elections that led to the opening of two new board positions as well as the designation of a new Treasurer. For this reason, the main topic on the agenda was <strong>the handover to the new board members</strong> and getting them up to speed with the plans we have for the beginning of 2020. We welcome once again, <a href=\"https://alumni.eitdigital.eu/users/davor\">Davor Ljubenkov</a>, <a href=\"https://alumni.eitdigital.eu/users/teodorpatras\">Teodor Patras</a> and <a href=\"https://alumni.eitdigital.eu/users/paulvelthuis\">Paul Velthuis</a>, as the Outreach &amp; Partnerships Officer, Technology Officer and Treasurer respectively.</p>\n\n<p>Another big topic on our agenda was <strong>this year’s <a href=\"https://alumni.eitdigital.eu/article/annual-meeting-2020-location-announcement\">Annual Meeting</a></strong>. We had the valuable time to sit together and brainstorm our ideas, plan out the schedule of the meeting itself and how we want to work together with our Annual Meeting Working group. We have already announced the location (Split, Croatia) and we will soon announce this year’s main theme (!) and the opening of the event registration.\_Keep tuned to our upcoming newsletter for more details (and we also suggest you to keep your alumni profile updated ;)</p>\n\n<p>The weekend get-together also allowed the board to finalise all the details for an important event that we have coming up, which is <strong>our <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\">Local Reps Gathering</a> in Madrid</strong> on the 8th and 9th February. We invited our most engaged alumni volunteers and event organizers\_from all EIT Digital Alumni working groups to a weekend packed with brainstorming, workshops and trainings. We hope this meeting will help them get new ideas and energy to power-up their local communities!\_\_</p>\n\n<p>We will get back with more news soon, but in the meantime, don't hesitate to contact us via <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a> :)\_</p>\n\n<p>\_</p>\n\n<p>You can read\_<a href=\"http://bit.ly/digitalumni_report_2019\"><strong>a full summary</strong> </a>of the activities carried out by the Alumni Foundation\_in the year 2019 (link to our Annual Report).</p>\n\n<p>\_</p>\n"
+    summary: 'A couple of weeks ago, the EIT Digital Alumni Board had its second physical meeting together in Berl'
+    summary_processed: 'A couple of weeks ago, the EIT Digital Alumni Board had its second physical meeting together in Berl'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The Board had its physical meeting in Berlin, with 3 new members.'
+field_image:
+  -
+    target_type: media
+    target_uuid: 786efd16-8876-42fb-af5a-472073bde3d7
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.786efd16-8876-42fb-af5a-472073bde3d7

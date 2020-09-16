@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 404baa1b-b601-45e5-8ec8-3adcdbe91382
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/177
+alias:
+  -
+    value: /summer-schools/2013-trento-service-design-quality-life
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

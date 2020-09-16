@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 2dc01e13-c6c4-43ac-b97c-0b7f2e908d2e
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: entry_universities
+    target_type: taxonomy_vocabulary
+    target_uuid: 190fae9d-e83d-4692-be91-d7764283310a
+revision_created:
+  -
+    value: '2020-03-24T10:13:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Sorbonne University (Paris, France)'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:13:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /entry-universities/sorbonne-university-paris-france
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

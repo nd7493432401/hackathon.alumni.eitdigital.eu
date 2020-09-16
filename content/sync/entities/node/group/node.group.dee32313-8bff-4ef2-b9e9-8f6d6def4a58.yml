@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: dee32313-8bff-4ef2-b9e9-8f6d6def4a58
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: group
+    target_type: node_type
+    target_uuid: 5a7a2c83-1d9b-4fa9-b57e-077492357b47
+revision_timestamp:
+  -
+    value: '2020-03-26T14:49:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Trento Local Community'
+created:
+  -
+    value: '2020-03-26T14:47:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T09:21:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /group/trento-local-community
+body: {  }
+field_external_group_webpage:
+  -
+    uri: 'https://t.me/joinchat/A_c6JxGX9mfJXwQ2kje5ow'
+    title: 'Join our Telegram group!'
+    options: {  }
+field_group_dec:
+  -
+    value: "<p>Our Trento Local Group was established in <strong>2016</strong>, with some initial collaborations with <a href=\"http://speckand.tech\">Speck&amp;Tech</a>.&nbsp;Since then, we have organized several interesting events in <strong>Trento</strong> and <strong>Milan</strong>, and created strong synergies with the Italian Node:</p>\r\n\r\n<p>In Milan, we co-organized&nbsp;<a href=\"http://alumni.eitdigital.eu/event/deep-learning-trueyou-talk-image-classification\">Deep Learning - TrueYou</a>, an event focusing on how Image Classification can provide an innovative system for auto-smashing in dating apps. This was followed by another event on <a href=\"https://alumni.eitdigital.eu/event/machine-learning-healthcare-empatica\">Machine Learning for Healthcare</a>.</p>\r\n\r\n<p>Trento was also the location for our unforgettable second&nbsp;<strong><a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2018\">Annual Meeting</a></strong>, which amplified our visibility and recognition towards the whole EIT (Digital) ecosystem. This event brought together <strong>more than 100 alumni</strong> and friends from the EIT Digital Alumni community to network, socialize&nbsp;and reconnect!</p>\r\n\r\n<p>We also supported the Trento CLC in organizing various events where our Alumni were speakers:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/wdron\">Wilfried</a>&nbsp;- one of our Doctoral Alumni and founder of Wisebatt - presented his entrepreneurial journey and <a href=\"https://alumni.eitdigital.eu/article/spotlight-wilfried-dron\">how he raised 1M€</a>;</li>\r\n\t<li>Xin Hu gave a talk about the <a href=\"https://alumni.eitdigital.eu/event/challenges-iot-and-blockchain-europe\">challenges of IoT and Blockchain in Europe</a></li>\r\n</ul>\r\n\r\n<p>At the end of 2018, we had a&nbsp;<strong><a href=\"https://alumni.eitdigital.eu/event/pre-xmas-trento-alumni-meetup\">Pre-Xmas Alumni meetup</a></strong>, where we listened to a talk from Ivan, summarized what happened during the year and celebrated many more to come!</p>\r\n\r\n<p dir=\"ltr\">We are looking forward&nbsp;to welcoming more people in our team -&nbsp;join our <a href=\"https://t.me/joinchat/A_c6JxGX9mfJXwQ2kje5ow\">Telegram group</a> and help us <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a> / suggest even <strong>more events</strong>!</p>\r\n\r\n<p dir=\"ltr\"><strong>Special thanks</strong> to all group members who have contributed to the Trento Local Community and made it what it is today:</p>\r\n\r\n<ul dir=\"ltr\">\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/preben\">Luca Manara</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/mpitt\">Michele Pittoni</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a></li>\r\n</ul>\r\n"
+    format: basic_html
+    processed: "<p>Our Trento Local Group was established in <strong>2016</strong>, with some initial collaborations with <a href=\"http://speckand.tech\">Speck&amp;Tech</a>.\_Since then, we have organized several interesting events in <strong>Trento</strong> and <strong>Milan</strong>, and created strong synergies with the Italian Node:</p>\n\n<p>In Milan, we co-organized\_<a href=\"http://alumni.eitdigital.eu/event/deep-learning-trueyou-talk-image-classification\">Deep Learning - TrueYou</a>, an event focusing on how Image Classification can provide an innovative system for auto-smashing in dating apps. This was followed by another event on <a href=\"https://alumni.eitdigital.eu/event/machine-learning-healthcare-empatica\">Machine Learning for Healthcare</a>.</p>\n\n<p>Trento was also the location for our unforgettable second\_<strong><a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2018\">Annual Meeting</a></strong>, which amplified our visibility and recognition towards the whole EIT (Digital) ecosystem. This event brought together <strong>more than 100 alumni</strong> and friends from the EIT Digital Alumni community to network, socialize\_and reconnect!</p>\n\n<p>We also supported the Trento CLC in organizing various events where our Alumni were speakers:</p>\n\n<ul>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/wdron\">Wilfried</a>\_- one of our Doctoral Alumni and founder of Wisebatt - presented his entrepreneurial journey and <a href=\"https://alumni.eitdigital.eu/article/spotlight-wilfried-dron\">how he raised 1M€</a>;</li>\n\t<li>Xin Hu gave a talk about the <a href=\"https://alumni.eitdigital.eu/event/challenges-iot-and-blockchain-europe\">challenges of IoT and Blockchain in Europe</a></li>\n</ul>\n\n<p>At the end of 2018, we had a\_<strong><a href=\"https://alumni.eitdigital.eu/event/pre-xmas-trento-alumni-meetup\">Pre-Xmas Alumni meetup</a></strong>, where we listened to a talk from Ivan, summarized what happened during the year and celebrated many more to come!</p>\n\n<p dir=\"ltr\">We are looking forward\_to welcoming more people in our team -\_join our <a href=\"https://t.me/joinchat/A_c6JxGX9mfJXwQ2kje5ow\">Telegram group</a> and help us <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a> / suggest even <strong>more events</strong>!</p>\n\n<p dir=\"ltr\"><strong>Special thanks</strong> to all group members who have contributed to the Trento Local Community and made it what it is today:</p>\n\n<ul dir=\"ltr\">\n\t<li><a href=\"https://alumni.eitdigital.eu/users/preben\">Luca Manara</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/mpitt\">Michele Pittoni</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco Bonadiman</a></li>\n</ul>\n"
+field_group_image:
+  -
+    target_type: media
+    target_uuid: 1931eed5-1533-4861-8fe9-fe541195b5c4
+field_group_intro_image:
+  -
+    target_type: media
+    target_uuid: 1931eed5-1533-4861-8fe9-fe541195b5c4
+field_group_introduction:
+  -
+    value: "<p>The official group of the EIT Digital Alumni in Trento (and surrounding areas)</p>\r\n"
+    format: basic_html
+    processed: "<p>The official group of the EIT Digital Alumni in Trento (and surrounding areas)</p>\n"
+field_group_leader:
+  -
+    value: ' Francesco Bonadiman'
+    format: basic_html
+    processed: ' Francesco Bonadiman'
+field_group_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1792da6-0a9c-4e09-b6a3-123e2766ebc8
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.1931eed5-1533-4861-8fe9-fe541195b5c4
+    taxonomy_term:
+      - taxonomy_term.alumni_group_type.b1792da6-0a9c-4e09-b6a3-123e2766ebc8

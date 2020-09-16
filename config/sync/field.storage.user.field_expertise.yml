@@ -1,0 +1,21 @@
+uuid: ce0b4110-66c6-475e-b3d2-5d00d13cc10f
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.field_expertise
+field_name: field_expertise
+entity_type: user
+type: string
+settings:
+  max_length: 90
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

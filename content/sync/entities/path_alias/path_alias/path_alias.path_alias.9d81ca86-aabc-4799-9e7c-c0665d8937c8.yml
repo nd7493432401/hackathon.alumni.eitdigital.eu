@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9d81ca86-aabc-4799-9e7c-c0665d8937c8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/623
+alias:
+  -
+    value: /job/junior-software-engineer-booking-mfd
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

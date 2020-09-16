@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c16cb02b-a17e-4ccc-ad08-46193475edfd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/551
+alias:
+  -
+    value: /job/deep-fuzzing-iiots
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

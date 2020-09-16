@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fbb3d1e8-75d9-47b9-bba7-2b50f3cdfe11
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/269
+alias:
+  -
+    value: /event/tuesday-afterwork-responsible-design-development
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,9 @@
+uuid: 30a67d5e-6f9b-40fe-9444-03da281336a1
+langcode: en
+status: true
+dependencies: {  }
+id: alumni_member_master
+label: 'Alumni Member (Master)'
+weight: 11
+is_admin: null
+permissions: {  }

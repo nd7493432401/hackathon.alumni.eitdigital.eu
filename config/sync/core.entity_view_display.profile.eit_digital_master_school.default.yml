@@ -1,0 +1,162 @@
+uuid: 3b8362fc-8074-4b22-b74c-8622e5732039
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_master_school.field_entry_university
+    - field.field.profile.eit_digital_master_school.field_entry_year
+    - field.field.profile.eit_digital_master_school.field_exit_university
+    - field.field.profile.eit_digital_master_school.field_graduation_year
+    - field.field.profile.eit_digital_master_school.field_summer_school_attended
+    - field.field.profile.eit_digital_master_school.field_track
+    - profile.type.eit_digital_master_school
+  module:
+    - ds
+    - fences
+third_party_settings:
+  ds:
+    layout:
+      id: bs_2col_stacked
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          top:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+          left:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          right:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          bottom:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      top:
+        - field_track
+      left:
+        - field_entry_university
+        - field_entry_year
+      right:
+        - field_exit_university
+        - field_graduation_year
+      bottom:
+        - field_summer_school_attended
+id: profile.eit_digital_master_school.default
+targetEntityType: profile
+bundle: eit_digital_master_school
+mode: default
+content:
+  field_entry_university:
+    weight: 1
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: left
+  field_entry_year:
+    weight: 2
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: left
+  field_exit_university:
+    weight: 3
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: right
+  field_graduation_year:
+    weight: 4
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: right
+  field_summer_school_attended:
+    weight: 5
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: bottom
+  field_track:
+    weight: 0
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: top
+hidden: {  }

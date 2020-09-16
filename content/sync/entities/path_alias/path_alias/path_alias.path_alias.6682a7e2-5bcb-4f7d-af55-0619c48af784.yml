@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6682a7e2-5bcb-4f7d-af55-0619c48af784
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/197
+alias:
+  -
+    value: /summer-schools/2019-stockholm-internet-things-and-business-transformation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

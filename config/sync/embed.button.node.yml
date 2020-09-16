@@ -1,0 +1,33 @@
+uuid: 5e46a12d-b239-4b94-9d39-9b16d2407df6
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.article
+    - node.type.discussion
+    - node.type.event
+    - node.type.group
+    - node.type.job
+    - node.type.page
+  module:
+    - entity_embed
+    - node
+_core:
+  default_config_hash: xgvZUh-eaMilacE1XYCQ9nLH-2-meOjCyofXSO82gqg
+label: Node
+id: node
+type_id: entity
+type_settings:
+  entity_type: node
+  bundles:
+    - article
+    - page
+    - discussion
+    - event
+    - group
+    - job
+  display_plugins: {  }
+  entity_browser: ''
+  entity_browser_settings: {  }
+icon: {  }
+icon_uuid: null

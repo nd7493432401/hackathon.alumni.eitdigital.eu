@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4c6d2646-c045-4ce2-8c23-54ada03c82d3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/286
+alias:
+  -
+    value: /event/master-school-kick-2015
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

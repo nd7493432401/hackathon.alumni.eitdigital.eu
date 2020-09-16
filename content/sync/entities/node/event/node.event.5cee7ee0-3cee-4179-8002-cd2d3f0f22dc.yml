@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 5cee7ee0-3cee-4179-8002-cd2d3f0f22dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:33:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'SLUSH 2017'
+created:
+  -
+    value: '2017-09-07T08:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:33:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/slush-2017
+body: {  }
+field_event_:
+  -
+    value: Helsinki
+    format: full_html
+    processed: Helsinki
+field_event_date:
+  -
+    value: '2017-11-30T07:00:00+01:00'
+    end_value: '2017-12-01T16:00:00+01:00'
+field_event_description:
+  -
+    value: "<p><a href=\"http://slush.org\">SLUSH</a>&nbsp;is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, from 30 November to 1 December 2017. During this great event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\r\n\r\n<p>You will also have the chance to enter and win the&nbsp;<strong>Slush 100 pitching</strong>, or attend the&nbsp;<strong>Demo Booth</strong>- where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at&nbsp;<a href=\"http://www.slush.org\">www.slush.org</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Would you like to attend SLUSH 2017 sponsored by the Alumni Community?&nbsp;<a href=\"http://bit.ly/SLUSH2017\">Read more here</a>!</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"http://slush.org\">SLUSH</a>\_is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, from 30 November to 1 December 2017. During this great event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\n\n<p>You will also have the chance to enter and win the\_<strong>Slush 100 pitching</strong>, or attend the\_<strong>Demo Booth</strong>- where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at\_<a href=\"http://www.slush.org\">www.slush.org</a>.</p>\n\n<p>\_</p>\n\n<p>Would you like to attend SLUSH 2017 sponsored by the Alumni Community?\_<a href=\"http://bit.ly/SLUSH2017\">Read more here</a>!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 3bced8cc-bb5c-4a49-80b9-872ead73fe6c
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 3bced8cc-bb5c-4a49-80b9-872ead73fe6c
+field_event_introduction:
+  -
+    value: "<p>SLUSH is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors.</p>\r\n"
+    format: full_html
+    processed: "<p>SLUSH is one of the Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: a0404581-92a5-4218-ab02-9a7bcf59180d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.3bced8cc-bb5c-4a49-80b9-872ead73fe6c
+    taxonomy_term:
+      - taxonomy_term.event_type.a0404581-92a5-4218-ab02-9a7bcf59180d

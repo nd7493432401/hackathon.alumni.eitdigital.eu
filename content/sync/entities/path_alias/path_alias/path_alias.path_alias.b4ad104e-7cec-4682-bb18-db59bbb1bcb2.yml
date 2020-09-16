@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b4ad104e-7cec-4682-bb18-db59bbb1bcb2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/137
+alias:
+  -
+    value: /local-representative/netherlands-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 49786059-7f3a-44e0-ae38-2b2eb8a52548
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/56
+alias:
+  -
+    value: /article/womeneit-leadership-intensive
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

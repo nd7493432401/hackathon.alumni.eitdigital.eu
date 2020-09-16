@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 39fac55f-f99d-430c-bfab-73465c30f21a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/209
+alias:
+  -
+    value: /tracks-master-school/cyber-security-cse
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f160c645-0ce4-4619-91c5-2fcbb3df794f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:08:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Rethinking our Local Communities and Events'
+created:
+  -
+    value: '2019-11-05T23:03:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:08:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/rethinking-our-local-communities-and-events
+body:
+  -
+    value: "<div><strong>A bit of background</strong></div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Since long time ago, the EIT Digital Alumni has been structured as a <strong>bottom-up network</strong>. This means that our activities are not exclusively planned and decided by the Alumni Board, but rather organized according to the interests and needs of our members distributed all over Europe&nbsp;or in the rest of the world. The latest version of our <a href=\"https://alumni.eitdigital.eu/foundation-laws\" target=\"_blank\">Foundation by-laws</a>, approved in 2017, already provided a mechanism to decentralize the organization of alumni initiatives through the so-called <strong>Working Groups</strong>, which could be either geographical- or activity- based. Since then, multiple \"local communities\" emerged, which are currently <a href=\"https://alumni.eitdigital.eu/groups\" target=\"_blank\">listed on our website</a> and in many cases have even their own Facebook or Telegram group. These local communities are essentially Working Groups of the \"geographical basis\" type, which are formally led by a <strong>Local Representative</strong>, often simply called \"Local Rep\".</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Local Reps coordinate the events of the alumni in their community and interact directly with the board, thus giving them more or less an <strong>official status</strong> within our network. This operating model was quite effective in the last years, because Local Reps were frequently engaged in the organization of events, were listed in the alumni website and invited to participate in&nbsp;<a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering\" target=\"_blank\">physical gatherings</a>, with <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-2019\" target=\"_blank\">the most recent one</a> taking place on July 2019 in Brussels at the same time as the Alumni Board handover. To align as much as possible with the distribution of our community, the yearly budget of the Alumni Foundation contemplated that each Local Rep would organize&nbsp;<strong>two events per year</strong> in each location with a significant presence of alumni, or in other words, those same places where a CLC, node or satellite of EIT Digital could be found.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>\r\n<p><strong>The way ahead</strong></p>\r\n\r\n<p>Since the current Alumni Board took over the management of the Foundation for the next two years in July 2019, we scheduled many conference calls with the existing Local Reps over the first three months. Our first conclusion was that for several Local Reps it was not possible to continue organizing alumni events, because of lack of <strong>time, vision or plans</strong> for their community. During the last two years, locations such as Budapest, Helsinki or Stockholm have been quite active and self-managed, whereas there has been virtually no alumni events happening in Eindhoven, Madrid or Trento. As a result, we have often underspent the budget preassigned to idle locations, which could have rather been more flexibly directed&nbsp;towards our most engaged local communities.</p>\r\n\r\n<p>Furthermore, as our network keeps growing and the list of universities participating in the EIT Digital education programmes changes, we need to rethink the way that we structure our local groups to keep our Foundation&nbsp;<strong>sustainable</strong> and our members&nbsp;<strong>actively engaged</strong>. We can anticipate a demographic shift in the upcoming years, as we receive larger batches of alumni who completed their studies in Milan, Ljubljana or Tallinn. And why should we even keep ourselves constrained to the geographical limits of Europe, if we already have large representation from alumni coming from other locations such as China?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Encouraging more alumni initiatives</strong></p>\r\n\r\n<p>In terms of <strong>activity- based Working Groups</strong>, the story is somehow similar. The only initiative that we consider currently fits&nbsp;that category is Women&nbsp;@ EIT, a cross-KIC project aimed at promoting women inclusion and gender balance in tech-related fields. We want to continue supporting these initiatives and&nbsp;facilitate the development of new ones, not only to highlight the variety of demographic groups within&nbsp;our network,&nbsp;but also&nbsp;to unite our alumni&nbsp;around&nbsp;topics of shared&nbsp;interest such as hackathons, workshops, training and education -&nbsp;regardless of their current location, gender, ethnicity, nationality&nbsp;or any other distinction.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Let's roll sleeves up!</strong></p>\r\n\r\n<p>For all these reasons, the Alumni Board considers necessary to establish new ways of following-up, financing and supporting geographical- and activity-based Working Groups who organize alumni events. Thus, we have decided to introduce a document called <a href=\"http://bit.ly/digitalumni-wgs\" target=\"_blank\"><strong>Working Group Survey (WGS)</strong></a>, which will be sent twice per year to our current Local Reps,&nbsp;to get a better understanding of their team status, executed/planned activities and resource needs.</p>\r\n\r\n<p>Based on the answers to the WGS, the Alumni Board will decide to continue providing <strong>financial and logistical support</strong> to each group, or whether those funds should rather be reallocated to other value activities for our network. This could also mean that the current Facebook group and listing in the alumni website for a certain location could be discontinued if we conclude that such community has become inactive or has no&nbsp;Local Rep for a long time.</p>\r\n\r\n<p>The WGS will also become the primary source to periodically update our list of <strong>current Local Reps</strong> and&nbsp;<strong>recruit new ones</strong>. It will be available all year round in our website to be filled out by any member of our community who wants to propose the creation of a new local- or activity-based Working Group within the EIT Digital Alumni. The Alumni Board will review every Working Group application and will be happy to support new projects&nbsp;aligned with the vision&nbsp;and mission of our community&nbsp;without&nbsp;geographical boundaries.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Finally, some practical matters...</strong></p>\r\n\r\n<p><a href=\"http://bit.ly/digitalumni-wgs\" target=\"_blank\"><strong>The first WGS</strong></a> shall be completed and submitted back no later than <strong>December 15th, 2019</strong>. Based on the results,&nbsp;the Alumni Board will decide who gets invited to <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\" target=\"_blank\">our next Local Reps Gathering in February&nbsp;2020</a>, in order to discuss and define the Working Groups strategy and operational plan for the following two years.</p>\r\n\r\n<p>As always, do not hesitate to reach back to us at alumni@eitdigital.eu in case of questions!</p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<div><strong>A bit of background</strong></div>\n\n<div>\_</div>\n\n<div>Since long time ago, the EIT Digital Alumni has been structured as a <strong>bottom-up network</strong>. This means that our activities are not exclusively planned and decided by the Alumni Board, but rather organized according to the interests and needs of our members distributed all over Europe\_or in the rest of the world. The latest version of our <a href=\"https://alumni.eitdigital.eu/foundation-laws\" target=\"_blank\">Foundation by-laws</a>, approved in 2017, already provided a mechanism to decentralize the organization of alumni initiatives through the so-called <strong>Working Groups</strong>, which could be either geographical- or activity- based. Since then, multiple \"local communities\" emerged, which are currently <a href=\"https://alumni.eitdigital.eu/groups\" target=\"_blank\">listed on our website</a> and in many cases have even their own Facebook or Telegram group. These local communities are essentially Working Groups of the \"geographical basis\" type, which are formally led by a <strong>Local Representative</strong>, often simply called \"Local Rep\".</div>\n\n<div>\_</div>\n\n<div>Local Reps coordinate the events of the alumni in their community and interact directly with the board, thus giving them more or less an <strong>official status</strong> within our network. This operating model was quite effective in the last years, because Local Reps were frequently engaged in the organization of events, were listed in the alumni website and invited to participate in\_<a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering\" target=\"_blank\">physical gatherings</a>, with <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-2019\" target=\"_blank\">the most recent one</a> taking place on July 2019 in Brussels at the same time as the Alumni Board handover. To align as much as possible with the distribution of our community, the yearly budget of the Alumni Foundation contemplated that each Local Rep would organize\_<strong>two events per year</strong> in each location with a significant presence of alumni, or in other words, those same places where a CLC, node or satellite of EIT Digital could be found.</div>\n\n<div>\_</div>\n\n<div>\_</div>\n\n<div>\n<p><strong>The way ahead</strong></p>\n\n<p>Since the current Alumni Board took over the management of the Foundation for the next two years in July 2019, we scheduled many conference calls with the existing Local Reps over the first three months. Our first conclusion was that for several Local Reps it was not possible to continue organizing alumni events, because of lack of <strong>time, vision or plans</strong> for their community. During the last two years, locations such as Budapest, Helsinki or Stockholm have been quite active and self-managed, whereas there has been virtually no alumni events happening in Eindhoven, Madrid or Trento. As a result, we have often underspent the budget preassigned to idle locations, which could have rather been more flexibly directed\_towards our most engaged local communities.</p>\n\n<p>Furthermore, as our network keeps growing and the list of universities participating in the EIT Digital education programmes changes, we need to rethink the way that we structure our local groups to keep our Foundation\_<strong>sustainable</strong> and our members\_<strong>actively engaged</strong>. We can anticipate a demographic shift in the upcoming years, as we receive larger batches of alumni who completed their studies in Milan, Ljubljana or Tallinn. And why should we even keep ourselves constrained to the geographical limits of Europe, if we already have large representation from alumni coming from other locations such as China?</p>\n\n<p>\_</p>\n\n<p><strong>Encouraging more alumni initiatives</strong></p>\n\n<p>In terms of <strong>activity- based Working Groups</strong>, the story is somehow similar. The only initiative that we consider currently fits\_that category is Women\_@ EIT, a cross-KIC project aimed at promoting women inclusion and gender balance in tech-related fields. We want to continue supporting these initiatives and\_facilitate the development of new ones, not only to highlight the variety of demographic groups within\_our network,\_but also\_to unite our alumni\_around\_topics of shared\_interest such as hackathons, workshops, training and education -\_regardless of their current location, gender, ethnicity, nationality\_or any other distinction.</p>\n\n<p>\_</p>\n\n<p><strong>Let's roll sleeves up!</strong></p>\n\n<p>For all these reasons, the Alumni Board considers necessary to establish new ways of following-up, financing and supporting geographical- and activity-based Working Groups who organize alumni events. Thus, we have decided to introduce a document called <a href=\"http://bit.ly/digitalumni-wgs\" target=\"_blank\"><strong>Working Group Survey (WGS)</strong></a>, which will be sent twice per year to our current Local Reps,\_to get a better understanding of their team status, executed/planned activities and resource needs.</p>\n\n<p>Based on the answers to the WGS, the Alumni Board will decide to continue providing <strong>financial and logistical support</strong> to each group, or whether those funds should rather be reallocated to other value activities for our network. This could also mean that the current Facebook group and listing in the alumni website for a certain location could be discontinued if we conclude that such community has become inactive or has no\_Local Rep for a long time.</p>\n\n<p>The WGS will also become the primary source to periodically update our list of <strong>current Local Reps</strong> and\_<strong>recruit new ones</strong>. It will be available all year round in our website to be filled out by any member of our community who wants to propose the creation of a new local- or activity-based Working Group within the EIT Digital Alumni. The Alumni Board will review every Working Group application and will be happy to support new projects\_aligned with the vision\_and mission of our community\_without\_geographical boundaries.</p>\n\n<p>\_</p>\n\n<p><strong>Finally, some practical matters...</strong></p>\n\n<p><a href=\"http://bit.ly/digitalumni-wgs\" target=\"_blank\"><strong>The first WGS</strong></a> shall be completed and submitted back no later than <strong>December 15th, 2019</strong>. Based on the results,\_the Alumni Board will decide who gets invited to <a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\" target=\"_blank\">our next Local Reps Gathering in February\_2020</a>, in order to discuss and define the Working Groups strategy and operational plan for the following two years.</p>\n\n<p>As always, do not hesitate to reach back to us at alumni@eitdigital.eu in case of questions!</p>\n</div>\n"
+    summary: 'A bit of background&nbsp;Since long time ago, the EIT Digital Alumni has been structured as a bottom'
+    summary_processed: "A bit of background\_Since long time ago, the EIT Digital Alumni has been structured as a bottom"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Defining a strategy to keep our alumni network sustainable.'
+field_image:
+  -
+    target_type: media
+    target_uuid: 13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.13c3fd46-1154-4b09-b85b-ef80c01ac5e1

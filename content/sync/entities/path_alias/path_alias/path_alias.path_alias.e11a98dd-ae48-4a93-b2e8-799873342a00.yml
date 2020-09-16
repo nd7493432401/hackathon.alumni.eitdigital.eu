@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e11a98dd-ae48-4a93-b2e8-799873342a00
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/174
+alias:
+  -
+    value: /summer-schools/2014-trento-privacy-security-trust
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

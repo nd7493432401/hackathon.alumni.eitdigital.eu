@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9b2edfc0-b738-4fd0-a8c0-f30248269db0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/69
+alias:
+  -
+    value: /entry-universities/upm-universidad-politecnica-de-madrid-madrid-spain
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

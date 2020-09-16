@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4969ab52-3ab2-4a11-b9dc-cf64a657ffeb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/499
+alias:
+  -
+    value: /job/senior-frontend-engineer-mfd-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

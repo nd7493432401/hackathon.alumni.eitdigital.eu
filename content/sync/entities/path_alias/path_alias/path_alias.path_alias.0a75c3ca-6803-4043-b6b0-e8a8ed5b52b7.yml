@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0a75c3ca-6803-4043-b6b0-e8a8ed5b52b7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/15
+alias:
+  -
+    value: /article/call-applications-connect19
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

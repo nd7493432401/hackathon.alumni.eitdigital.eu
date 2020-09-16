@@ -1,0 +1,9 @@
+uuid: 70eed94d-020c-4e9c-889c-6a9432be00b5
+langcode: en
+status: true
+dependencies: {  }
+id: alumni_member_phd
+label: 'Alumni Member (PHD)'
+weight: 12
+is_admin: null
+permissions: {  }

@@ -1,0 +1,21 @@
+uuid: 51cd923f-c315-4549-8c64-249699b2d1f2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_office
+    - profile.type.eit_digital_employee
+  module:
+    - options
+id: profile.eit_digital_employee.field_office
+field_name: field_office
+entity_type: profile
+bundle: eit_digital_employee
+label: Office
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

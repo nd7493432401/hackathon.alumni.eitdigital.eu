@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 17c6aafd-d858-4c1e-b7ed-6ff6b1e3189f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/245
+alias:
+  -
+    value: /event/eit-alumni-startup-days-x-womeneit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

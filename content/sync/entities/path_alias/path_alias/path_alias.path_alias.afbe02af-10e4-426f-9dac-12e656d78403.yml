@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: afbe02af-10e4-426f-9dac-12e656d78403
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/84
+alias:
+  -
+    value: /article/ledlife-refugee-empowerment
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

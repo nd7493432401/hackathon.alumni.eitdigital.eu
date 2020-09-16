@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 0ed7f8f4-7523-4f29-a3a3-52c510e8831e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-29T16:18:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 30510614144_6df4fa7a63_o.jpg
+thumbnail:
+  -
+    alt: 'Nils Rodday'
+    title: null
+    width: 2835
+    height: 1890
+    target_type: file
+    target_uuid: d5364d77-ba52-4b96-a8a8-ba425703e24f
+created:
+  -
+    value: '2020-06-29T16:18:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-29T16:18:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Nils Rodday'
+    title: ''
+    width: 2835
+    height: 1890
+    target_type: file
+    target_uuid: d5364d77-ba52-4b96-a8a8-ba425703e24f
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.d5364d77-ba52-4b96-a8a8-ba425703e24f

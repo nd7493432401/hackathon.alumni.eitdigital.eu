@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a186b5d0-ee0d-445f-a16d-c9e3bf1dfab6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/117
+alias:
+  -
+    value: /exit-universities/institut-mines-telecom-rennes-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

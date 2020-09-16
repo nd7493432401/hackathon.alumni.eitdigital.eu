@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2a16ecd2-7cc2-4ec7-8305-5b0e19f12505
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/424
+alias:
+  -
+    value: /job/back-end-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

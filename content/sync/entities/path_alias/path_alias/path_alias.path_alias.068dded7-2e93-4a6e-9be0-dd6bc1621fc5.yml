@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 068dded7-2e93-4a6e-9be0-dd6bc1621fc5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/246
+alias:
+  -
+    value: /event/london-service-design-workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

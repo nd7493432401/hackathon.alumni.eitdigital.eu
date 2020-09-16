@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 672c8661-e0f3-4094-a372-cf7b278c50fe
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: IMG_0448.jpg
+thumbnail:
+  -
+    alt: 'Business Development workshop'
+    title: null
+    width: 3264
+    height: 1399
+    target_type: file
+    target_uuid: 4746b22f-a367-4752-881e-65f6b308e6a7
+created:
+  -
+    value: '2020-05-05T09:29:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T09:29:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Business Development workshop'
+    title: ''
+    width: 3264
+    height: 1399
+    target_type: file
+    target_uuid: 4746b22f-a367-4752-881e-65f6b308e6a7
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.4746b22f-a367-4752-881e-65f6b308e6a7

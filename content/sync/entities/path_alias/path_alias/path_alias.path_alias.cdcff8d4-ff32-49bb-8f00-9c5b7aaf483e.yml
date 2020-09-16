@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cdcff8d4-ff32-49bb-8f00-9c5b7aaf483e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/288
+alias:
+  -
+    value: /event/alpine-talks-postponed
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

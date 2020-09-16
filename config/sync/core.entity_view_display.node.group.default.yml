@@ -1,0 +1,98 @@
+uuid: ed3a4181-fbbc-458d-8050-3298f6eaab53
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.group.body
+    - field.field.node.group.field_external_group_webpage
+    - field.field.node.group.field_group_dec
+    - field.field.node.group.field_group_image
+    - field.field.node.group.field_group_intro_image
+    - field.field.node.group.field_group_introduction
+    - field.field.node.group.field_group_leader
+    - field.field.node.group.field_group_type
+    - node.type.group
+  module:
+    - ds
+    - link
+    - text
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: ds_2col_stacked
+      library: ds/ds_2col_stacked
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        wrappers:
+          header: div
+          left: div
+          right: div
+          footer: div
+        outer_wrapper: div
+        attributes: ''
+        link_attribute: ''
+        link_custom: ''
+        classes:
+          layout_class: {  }
+          header: {  }
+          left: {  }
+          right: {  }
+          footer: {  }
+    regions:
+      header:
+        - field_group_dec
+      left:
+        - field_group_type
+      right:
+        - field_group_leader
+      footer:
+        - field_external_group_webpage
+id: node.group.default
+targetEntityType: node
+bundle: group
+mode: default
+content:
+  field_external_group_webpage:
+    weight: 3
+    label: visually_hidden
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: footer
+  field_group_dec:
+    weight: 0
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: header
+  field_group_leader:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: right
+  field_group_type:
+    weight: 1
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: left
+hidden:
+  body: true
+  field_group_image: true
+  field_group_intro_image: true
+  field_group_introduction: true
+  langcode: true
+  links: true

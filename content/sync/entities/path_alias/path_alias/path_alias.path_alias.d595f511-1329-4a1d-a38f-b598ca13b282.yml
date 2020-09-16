@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d595f511-1329-4a1d-a38f-b598ca13b282
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/176
+alias:
+  -
+    value: /summer-schools/2014-ouluhelsinki-future-cloud
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

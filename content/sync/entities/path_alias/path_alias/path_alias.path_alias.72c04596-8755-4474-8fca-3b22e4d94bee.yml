@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 72c04596-8755-4474-8fca-3b22e4d94bee
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/23
+alias:
+  -
+    value: /article/cybersecurity-alumni-talks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

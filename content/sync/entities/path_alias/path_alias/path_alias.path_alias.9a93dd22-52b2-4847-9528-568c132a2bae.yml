@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9a93dd22-52b2-4847-9528-568c132a2bae
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/19
+alias:
+  -
+    value: /article/spotlight-wilfried-dron
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

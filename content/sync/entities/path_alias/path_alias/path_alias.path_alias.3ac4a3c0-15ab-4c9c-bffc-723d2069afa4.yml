@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3ac4a3c0-15ab-4c9c-bffc-723d2069afa4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/583
+alias:
+  -
+    value: /job/sap-tm-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

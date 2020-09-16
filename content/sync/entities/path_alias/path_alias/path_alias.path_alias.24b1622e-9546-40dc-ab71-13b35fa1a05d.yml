@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 24b1622e-9546-40dc-ab71-13b35fa1a05d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/298
+alias:
+  -
+    value: /event/doctoral-school-graduation-ceremony-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

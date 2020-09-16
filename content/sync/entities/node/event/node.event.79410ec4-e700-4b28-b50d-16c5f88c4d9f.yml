@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 79410ec4-e700-4b28-b50d-16c5f88c4d9f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:15:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT #2 - 3D printing & modeling workshop'
+created:
+  -
+    value: '2016-11-05T10:58:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:15:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/womeneit-2-3d-printing-modeling-workshop
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2016-11-24T14:00:00+01:00'
+    end_value: '2016-11-24T16:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Hey everyone!<br />\r\n<br />\r\nSince the first Women@EIT event was such a success, we want to continue that journey to slowly build up a female community of EIT! We fill the event with a Blender workshop to get female students familiar with a 3D modeling software. During the workshop, we also want to allow the female students from EIT to have informal talks with snacks and drinks where they could get to know each other better. At the end of the two hours, students can send their files to the lecturer, who can then print their models, which will be given to the students in the following days.<br />\r\n<br />\r\nHope to see you all there! :)&nbsp;If you want to participate, please fill out <a href=\"https://goo.gl/forms/rn3KqqW4LI4O7Eqk2\">this Form</a>&nbsp;and join <a href=\"https://www.facebook.com/events/629834743863523/\">our Facebook event</a>!<br />\r\n&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Hey everyone!<br />\n<br />\nSince the first Women@EIT event was such a success, we want to continue that journey to slowly build up a female community of EIT! We fill the event with a Blender workshop to get female students familiar with a 3D modeling software. During the workshop, we also want to allow the female students from EIT to have informal talks with snacks and drinks where they could get to know each other better. At the end of the two hours, students can send their files to the lecturer, who can then print their models, which will be given to the students in the following days.<br />\n<br />\nHope to see you all there! :)\_If you want to participate, please fill out <a href=\"https://goo.gl/forms/rn3KqqW4LI4O7Eqk2\">this Form</a>\_and join <a href=\"https://www.facebook.com/events/629834743863523/\">our Facebook event</a>!<br />\n\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: e7938a3f-6153-483f-830b-7385ddf76a27
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: e7938a3f-6153-483f-830b-7385ddf76a27
+field_event_introduction:
+  -
+    value: "<p>Join our 2nd Women@EIT event!</p>\r\n"
+    format: full_html
+    processed: "<p>Join our 2nd Women@EIT event!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8338ce99-2940-448d-9e57-7618a26fc16d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.e7938a3f-6153-483f-830b-7385ddf76a27
+    taxonomy_term:
+      - taxonomy_term.event_type.8338ce99-2940-448d-9e57-7618a26fc16d

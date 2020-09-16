@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 61038410-51c2-4d8b-89fb-32d81144ce60
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:14:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Alumni-Students Meet & Share'
+created:
+  -
+    value: '2016-10-18T16:22:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:14:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/alumni-students-meet-share
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2016-10-24T15:00:00+02:00'
+    end_value: '2016-10-24T17:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>We would like to invite our dearest alumni and 2nd year students to meet each other and share their (positive ;-)) experiences about everything EIT Digital (thesis, internships, jobs, etc.)</p>\r\n\r\n<p><strong>Agenda</strong><br />\r\n- Intro &amp; EIT Digital Alumni (Roman)<br />\r\n- Sharing EIT Digital experience + Q&amp;A (Alumni representatives)<br />\r\n- Mingling<br />\r\n- Closing &amp; What's next (Yassin)</p>\r\n\r\n<p>The event will be held at EIT Digital CLC in Kista with snacks provided.</p>\r\n\r\n<p>Please confirm your attendance before Thursday 19:00.<br />\r\nJoin <a href=\"https://www.facebook.com/events/1797352200520938/\">our Facebook event</a>!</p>\r\n\r\n<p>See you there!</p>\r\n\r\n<p>Regards,<br />\r\nRoman, Yassin and Xiaopeng</p>\r\n"
+    format: full_html
+    processed: "<p>We would like to invite our dearest alumni and 2nd year students to meet each other and share their (positive ;-)) experiences about everything EIT Digital (thesis, internships, jobs, etc.)</p>\n\n<p><strong>Agenda</strong><br />\n- Intro &amp; EIT Digital Alumni (Roman)<br />\n- Sharing EIT Digital experience + Q&amp;A (Alumni representatives)<br />\n- Mingling<br />\n- Closing &amp; What's next (Yassin)</p>\n\n<p>The event will be held at EIT Digital CLC in Kista with snacks provided.</p>\n\n<p>Please confirm your attendance before Thursday 19:00.<br />\nJoin <a href=\"https://www.facebook.com/events/1797352200520938/\">our Facebook event</a>!</p>\n\n<p>See you there!</p>\n\n<p>Regards,<br />\nRoman, Yassin and Xiaopeng</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 68a167cc-c1f9-4d36-a94d-d37a10d2b9b4
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 68a167cc-c1f9-4d36-a94d-d37a10d2b9b4
+field_event_introduction:
+  -
+    value: "<p>We invite alumni and 2nd year students to meet each other and share their experiences</p>\r\n"
+    format: full_html
+    processed: "<p>We invite alumni and 2nd year students to meet each other and share their experiences</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.68a167cc-c1f9-4d36-a94d-d37a10d2b9b4
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

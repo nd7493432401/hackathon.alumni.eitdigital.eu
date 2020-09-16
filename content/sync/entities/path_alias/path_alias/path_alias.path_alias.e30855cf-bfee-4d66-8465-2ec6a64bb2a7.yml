@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e30855cf-bfee-4d66-8465-2ec6a64bb2a7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/205
+alias:
+  -
+    value: /event/eit-digital-venture-program
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

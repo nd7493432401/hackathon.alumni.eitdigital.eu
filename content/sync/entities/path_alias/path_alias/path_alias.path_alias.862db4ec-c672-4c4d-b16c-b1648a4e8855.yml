@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 862db4ec-c672-4c4d-b16c-b1648a4e8855
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/275
+alias:
+  -
+    value: /event/cern-hackathon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

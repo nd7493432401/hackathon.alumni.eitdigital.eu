@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ae27a850-e4af-4a72-83b9-7bcae9dc704c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/253
+alias:
+  -
+    value: /event/tuesday-afterwork-lifelong-learning
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

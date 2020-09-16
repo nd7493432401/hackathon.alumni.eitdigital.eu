@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4f9de9cd-672f-4a13-bb8d-9d8f0ed99e05
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/503
+alias:
+  -
+    value: /job/image-processing-specialist
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

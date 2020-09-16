@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5185937b-51b8-475b-b390-9bd1a7a378a5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/317
+alias:
+  -
+    value: /job/cto-iot-startup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

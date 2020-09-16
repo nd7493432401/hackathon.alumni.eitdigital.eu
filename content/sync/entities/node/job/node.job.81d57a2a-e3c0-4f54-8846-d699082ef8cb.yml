@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 81d57a2a-e3c0-4f54-8846-d699082ef8cb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Embedded Engineer'
+created:
+  -
+    value: '2018-04-04T15:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:20:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/embedded-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:christina.schmid@getkisi.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Kisi
+    format: full_html
+    processed: Kisi
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>Access every thing. <a href=\"http://www.getkisi.com/\">Kisi</a> is one of the major disruptive players in the access control industry, bringing a fully cloud based approach to managing and monitoring physical security for offices and many more highly frequented spaces. We envision a world in which access is fully digitized, easy to manage, and not constrained by keys, cards, fobs or transponders. We offer state of the art apps that make sharing as convenient as entering an email address.</p>\r\n\r\n<p>Join us as an <strong>embedded engineer</strong> to build the next generation of Kisi's IoT security hardware controlling access for hundreds of thousands of users around the world. We're looking forward to speaking to you!&nbsp;</p>\r\n\r\n<div>\r\n<div><strong>There’s always exciting tasks ahead.</strong></div>\r\n\r\n<ul>\r\n\t<li>\r\n\t<div>Building the next generation of Kisi’s hardware portfolio, from readers to panels and other sensors as part of a team with great experience in the matter</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Working with very interesting and high profile partners and customers to gain valuable insights into needs &amp; areas for improvements that will allow you to grow quickly in your role</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Co-Coordinating the development of new products with our partner agency in Croatia</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Co-Coordinating the production with our contract manufacturer in the US</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Design architectures and concepts for entirely new products together with our product team</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Ensuring rigid acceptance tests and supervise the rollout of new products and features to our remotely managed worldwide fleet of hardware devices</div>\r\n\t</li>\r\n</ul>\r\n</div>\r\n\r\n<div>\r\n<div><strong>Requirements</strong></div>\r\n\r\n<ul>\r\n\t<li>\r\n\t<div>Experience building solutions on resource constrained embedded systems</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Experience with electronic circuits and circuit boards</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Experience with microcontrollers and fluent in programming for them (C, C++)</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Experience with low level data communication interfaces (UART, RS-485, …)</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Understanding of wireless communication protocols (Bluetooth, NFC, Wi-Fi)</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Understanding of encryption schemes</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Proficiency in higher level programming languages and object-oriented patterns</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>Experience working with REST-based APIs</div>\r\n\t</li>\r\n</ul>\r\n\r\n<div><strong>Why Kisi?</strong></div>\r\n\r\n<ul>\r\n\t<li>\r\n\t<div>Join a diverse team with offices in two locations (Stockholm and New York)</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>You will be working closely with engineers in all other areas, from the mobile side all the way to the backend</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>One to two tech bootcamps a year where we all retreat to nature and sync on products and roadmaps for the next six to twelve months, so prepare to meet colleagues all the way from Colombia to India! =)</div>\r\n\t</li>\r\n\t<li>\r\n\t<div>All the other things (team events, lunches, the usual perks)</div>\r\n\t</li>\r\n</ul>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Get in touch at&nbsp;<a href=\"mailto:christina.schmid@getkisi.com\" target=\"_blank\">christina.schmid@getkisi.com</a>&nbsp;or on our website&nbsp;<a data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.getkisi.com/about&amp;source=gmail&amp;ust=1522941119198000&amp;usg=AFQjCNFvqp-48Jt0pB7pvn00cMj50ky55A\" href=\"http://www.getkisi.com/about\" target=\"_blank\">www.getkisi.com/about</a>&nbsp;</div>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>Access every thing. <a href=\"http://www.getkisi.com/\">Kisi</a> is one of the major disruptive players in the access control industry, bringing a fully cloud based approach to managing and monitoring physical security for offices and many more highly frequented spaces. We envision a world in which access is fully digitized, easy to manage, and not constrained by keys, cards, fobs or transponders. We offer state of the art apps that make sharing as convenient as entering an email address.</p>\n\n<p>Join us as an <strong>embedded engineer</strong> to build the next generation of Kisi's IoT security hardware controlling access for hundreds of thousands of users around the world. We're looking forward to speaking to you!\_</p>\n\n<div>\n<div><strong>There’s always exciting tasks ahead.</strong></div>\n\n<ul>\n\t<li>\n\t<div>Building the next generation of Kisi’s hardware portfolio, from readers to panels and other sensors as part of a team with great experience in the matter</div>\n\t</li>\n\t<li>\n\t<div>Working with very interesting and high profile partners and customers to gain valuable insights into needs &amp; areas for improvements that will allow you to grow quickly in your role</div>\n\t</li>\n\t<li>\n\t<div>Co-Coordinating the development of new products with our partner agency in Croatia</div>\n\t</li>\n\t<li>\n\t<div>Co-Coordinating the production with our contract manufacturer in the US</div>\n\t</li>\n\t<li>\n\t<div>Design architectures and concepts for entirely new products together with our product team</div>\n\t</li>\n\t<li>\n\t<div>Ensuring rigid acceptance tests and supervise the rollout of new products and features to our remotely managed worldwide fleet of hardware devices</div>\n\t</li>\n</ul>\n</div>\n\n<div>\n<div><strong>Requirements</strong></div>\n\n<ul>\n\t<li>\n\t<div>Experience building solutions on resource constrained embedded systems</div>\n\t</li>\n\t<li>\n\t<div>Experience with electronic circuits and circuit boards</div>\n\t</li>\n\t<li>\n\t<div>Experience with microcontrollers and fluent in programming for them (C, C++)</div>\n\t</li>\n\t<li>\n\t<div>Experience with low level data communication interfaces (UART, RS-485, …)</div>\n\t</li>\n\t<li>\n\t<div>Understanding of wireless communication protocols (Bluetooth, NFC, Wi-Fi)</div>\n\t</li>\n\t<li>\n\t<div>Understanding of encryption schemes</div>\n\t</li>\n\t<li>\n\t<div>Proficiency in higher level programming languages and object-oriented patterns</div>\n\t</li>\n\t<li>\n\t<div>Experience working with REST-based APIs</div>\n\t</li>\n</ul>\n\n<div><strong>Why Kisi?</strong></div>\n\n<ul>\n\t<li>\n\t<div>Join a diverse team with offices in two locations (Stockholm and New York)</div>\n\t</li>\n\t<li>\n\t<div>You will be working closely with engineers in all other areas, from the mobile side all the way to the backend</div>\n\t</li>\n\t<li>\n\t<div>One to two tech bootcamps a year where we all retreat to nature and sync on products and roadmaps for the next six to twelve months, so prepare to meet colleagues all the way from Colombia to India! =)</div>\n\t</li>\n\t<li>\n\t<div>All the other things (team events, lunches, the usual perks)</div>\n\t</li>\n</ul>\n\n<div>\_</div>\n\n<div>Get in touch at\_<a href=\"mailto:christina.schmid@getkisi.com\" target=\"_blank\">christina.schmid@getkisi.com</a>\_or on our website\_<a data-saferedirecturl=\"https://www.google.com/url?hl=en&amp;q=http://www.getkisi.com/about&amp;source=gmail&amp;ust=1522941119198000&amp;usg=AFQjCNFvqp-48Jt0pB7pvn00cMj50ky55A\" href=\"http://www.getkisi.com/about\" target=\"_blank\">www.getkisi.com/about</a>\_</div>\n</div>\n"
+field_job_location:
+  -
+    value: 'Stockholm / remote'
+    format: full_html
+    processed: 'Stockholm / remote'
+field_more_details_link:
+  -
+    uri: 'http://www.getkisi.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

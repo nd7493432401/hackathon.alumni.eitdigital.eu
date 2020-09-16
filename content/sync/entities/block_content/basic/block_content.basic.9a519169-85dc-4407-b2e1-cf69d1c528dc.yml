@@ -1,0 +1,46 @@
+uuid:
+  -
+    value: 9a519169-85dc-4407-b2e1-cf69d1c528dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: 55d481fb-f6b9-408c-9efb-048e433bdab0
+revision_created:
+  -
+    value: '2020-02-27T08:54:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Footer Copyright 2'
+changed:
+  -
+    value: '2020-02-27T08:54:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<p><img alt=\"EU Flag\" data-entity-type=\"file\" data-entity-uuid=\"1d864ff3-1e24-4cb1-92f8-ba73cc05c772\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/EU%20flag.jpg\" />&nbsp;EIT Digital Alumni and EIT Digital are supported by the EIT, a body of the European Union</p>\r\n"
+    format: basic_html
+    processed: "<p><img alt=\"Image removed.\" data-entity-type=\"file\" data-entity-uuid=\"1d864ff3-1e24-4cb1-92f8-ba73cc05c772\" src=\"/sites/default/files/inline-images/EU%20flag.jpg\" title=\"This image has been removed. For security reasons, only images from the local domain are allowed.\" height=\"16\" width=\"16\" class=\"filter-image-invalid\" />\_EIT Digital Alumni and EIT Digital are supported by the EIT, a body of the European Union</p>\n"
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

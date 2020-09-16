@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fc25ad41-53c1-4ddb-ae70-db56c7cc800f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/90
+alias:
+  -
+    value: /event-type/innovation-day
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 91e212df-9b9c-4a83-a47a-8fe409bfa13c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/619
+alias:
+  -
+    value: /job/working-student-ux-researcher-mfd
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

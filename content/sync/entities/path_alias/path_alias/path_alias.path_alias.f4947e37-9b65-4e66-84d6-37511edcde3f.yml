@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f4947e37-9b65-4e66-84d6-37511edcde3f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/200
+alias:
+  -
+    value: /summer-schools/2016-paris-cyber-physical-systems
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

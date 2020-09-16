@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a98d2dfc-3a9d-4b77-b628-3bdb566184f5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/57
+alias:
+  -
+    value: /article/community-plays-great-often-undervalued-role
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

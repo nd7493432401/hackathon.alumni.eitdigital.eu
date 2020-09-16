@@ -1,0 +1,29 @@
+uuid: d34a79d1-d735-498a-89f3-e3a18d4345f9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_doctoral_training_centre
+    - profile.type.eit_digital_doctoral_school
+    - taxonomy.vocabulary.doctoral_training_centre_dtc_
+id: profile.eit_digital_doctoral_school.field_doctoral_training_centre
+field_name: field_doctoral_training_centre
+entity_type: profile
+bundle: eit_digital_doctoral_school
+label: 'Doctoral Training Centre (DTC)'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      doctoral_training_centre_dtc_: doctoral_training_centre_dtc_
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

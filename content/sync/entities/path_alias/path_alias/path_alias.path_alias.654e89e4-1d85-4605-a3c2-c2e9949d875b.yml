@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 654e89e4-1d85-4605-a3c2-c2e9949d875b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/493
+alias:
+  -
+    value: /job/chief-technology-officer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

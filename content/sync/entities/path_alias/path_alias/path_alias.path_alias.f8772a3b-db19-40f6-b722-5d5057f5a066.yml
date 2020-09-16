@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f8772a3b-db19-40f6-b722-5d5057f5a066
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/540
+alias:
+  -
+    value: /job/software-engineer-frontend-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

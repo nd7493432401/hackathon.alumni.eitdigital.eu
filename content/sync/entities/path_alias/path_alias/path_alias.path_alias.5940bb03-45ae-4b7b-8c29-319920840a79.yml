@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5940bb03-45ae-4b7b-8c29-319920840a79
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/1
+alias:
+  -
+    value: /networking
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f54d63b9-8007-4646-adac-b44876f5e90b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Professional '
+created:
+  -
+    value: '2019-02-08T14:09:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:05:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-professional-8
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/cities/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital, LMAD '
+    format: full_html
+    processed: 'EIT Digital, LMAD '
+field_expiration_date:
+  -
+    value: '2019-02-28T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>EIT Digital seeks a Post-Master Professional for its Last Mile Autonomous Delivery Innovation Activity</strong></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">The Post-Master Professional vacancies are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. </span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development. </span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Action Line:</span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\"> The Post-Master Professional will report to the Digital Cities Action Line Leader </span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Activity Name: </span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Last Mile Autonomous Delivery (LMAD)</span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">This activity creates a software platform for transportation solutions to facilitate last mile delivery in cities by meeting the needs of consumers (highly responsive) and clients (less costs). The activity will also have a specific focus on autonomous transportation solutions by robotic vehicles. In the first stage, the activity will be executed in Paris and Helsinki in close collaboration with EIT Digital partners. The activity aims at creating a new venture in 2019.</span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Job Profile</span></span></b></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">We are looking for one Post-Masters Professional that will work on the following tasks: </span></span></p>\r\n\r\n<ul>\r\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">evaluate technology options, </span></span></li>\r\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">define the functionality of the last mile delivery platform, </span></span></li>\r\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">iteratively develop the initial versions of the platform, </span></span></li>\r\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">create the first Minimum Valuable Product (MVP) offerings of the new venture.</span></span></li>\r\n</ul>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. The working language of the activity is English.</span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Location</span></span></b></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Place of Employment is the EIT Digital Co-Location Centre in <strong>Paris</strong>, France or <strong>Helsinki</strong>, Finland. &nbsp;</span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Occasional travel within the EU to be expected.</span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Offer</span></span></b></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">One-year full-time contract with possibility of renewal for another year.*</span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Guidance by Action Line Leader and Node Director in Paris, France or Helsinki, Finland. </span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">*<i>Contract duration may vary between different Nodes and Countries due to national legislation</i>.</span></span></p>\r\n\r\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">To Apply </span></span></b></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Please email your CV and motivation letter in English to: </span></span><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\"><a href=\"mailto:postmasterapplication@eitdigital.eu\">postmasterapplication@eitdigital.eu</a></span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">, highlighting how your skills and experience meet the qualifications requested for this position. </span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Applications without a motivation letter will not be considered.</span></span></p>\r\n\r\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Please specify the <b>Activity Name, position and location</b> you are applying for.</span></span></p>\r\n\r\n<p><i><span lang=\"EN-GB\" style=\"font-size:11.0pt\"><span style=\"line-height:110%\">Applications should be submitted until <b>February 28th, 2019, 5 PM CET.</b>&nbsp; </span></span></i></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><strong>EIT Digital seeks a Post-Master Professional for its Last Mile Autonomous Delivery Innovation Activity</strong></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">The Post-Master Professional vacancies are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. </span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development. </span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Action Line:</span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\"> The Post-Master Professional will report to the Digital Cities Action Line Leader </span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Activity Name: </span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Last Mile Autonomous Delivery (LMAD)</span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">This activity creates a software platform for transportation solutions to facilitate last mile delivery in cities by meeting the needs of consumers (highly responsive) and clients (less costs). The activity will also have a specific focus on autonomous transportation solutions by robotic vehicles. In the first stage, the activity will be executed in Paris and Helsinki in close collaboration with EIT Digital partners. The activity aims at creating a new venture in 2019.</span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Job Profile</span></span></b></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">We are looking for one Post-Masters Professional that will work on the following tasks: </span></span></p>\n\n<ul>\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">evaluate technology options, </span></span></li>\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">define the functionality of the last mile delivery platform, </span></span></li>\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">iteratively develop the initial versions of the platform, </span></span></li>\n\t<li><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">create the first Minimum Valuable Product (MVP) offerings of the new venture.</span></span></li>\n</ul>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. The working language of the activity is English.</span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Location</span></span></b></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Place of Employment is the EIT Digital Co-Location Centre in <strong>Paris</strong>, France or <strong>Helsinki</strong>, Finland. \_</span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Occasional travel within the EU to be expected.</span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Offer</span></span></b></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">One-year full-time contract with possibility of renewal for another year.*</span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Guidance by Action Line Leader and Node Director in Paris, France or Helsinki, Finland. </span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">*<i>Contract duration may vary between different Nodes and Countries due to national legislation</i>.</span></span></p>\n\n<p><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">To Apply </span></span></b></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Please email your CV and motivation letter in English to: </span></span><b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\"><a href=\"mailto:postmasterapplication@eitdigital.eu\">postmasterapplication@eitdigital.eu</a></span></span></b><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">, highlighting how your skills and experience meet the qualifications requested for this position. </span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Applications without a motivation letter will not be considered.</span></span></p>\n\n<p><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Please specify the <b>Activity Name, position and location</b> you are applying for.</span></span></p>\n\n<p><i><span lang=\"EN-GB\" style=\"font-size:11.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Applications should be submitted until <b>February 28th, 2019, 5 PM CET.</b>\_ </span></span></i></p>\n\n<p>\_</p>\n\n<p>\_</p>\n"
+field_job_location:
+  -
+    value: 'Paris or Helsinki'
+    format: full_html
+    processed: 'Paris or Helsinki'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/alexandrasabou'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

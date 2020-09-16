@@ -1,0 +1,14 @@
+uuid: e594f721-ff83-4a21-916e-bb44fd7245eb
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_phd
+  module:
+    - user
+id: user_add_role_action.associate_member_phd
+label: 'Add the Associate Member (PHD) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: associate_member_phd

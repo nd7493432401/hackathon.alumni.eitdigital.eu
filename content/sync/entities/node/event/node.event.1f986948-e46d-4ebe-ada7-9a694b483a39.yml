@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 1f986948-e46d-4ebe-ada7-9a694b483a39
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:36:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT : Lean Dinner with Alumni No.1'
+created:
+  -
+    value: '2017-10-11T21:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:36:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/womeneit-lean-dinner-alumni-no1
+body: {  }
+field_event_:
+  -
+    value: 'Isafjordsgatan 26, Kista'
+    format: full_html
+    processed: 'Isafjordsgatan 26, Kista'
+field_event_date:
+  -
+    value: '2017-10-17T14:30:00+02:00'
+    end_value: '2017-10-17T16:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>It is time to try-out a new event concept for <a href=\"https://eitalumni.eu/community/womeneit/\">Women@EIT</a>!&nbsp;</p>\r\n\r\n<p>*** <strong>The Lean Dinner</strong> ***</p>\r\n\r\n<p>One of the best parts of our kick-off event was when we sat down together with students and alumni, had a meal and just started talking about anything that was on our minds. So this is exactly what we are going to do at our new event based on the Lean Coffee concept. We are very excited about it and we think you will be too! We are looking forward to see you all there, males and females (and everything in between) :D&nbsp;</p>\r\n\r\n<p>Interested? Fill out <a href=\"https://goo.gl/forms/zoHJLsuDbCuzYstq1\">this</a><a href=\"http://goo.gl/forms/zoHJLsuDbCuzYstq1\"> google form</a> to secure a spot and help us organize the event! For this one we will have a maximum of 15 spots so be quick! If more people apply we will select on a first come first serve basis.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>What it is about</strong><br />\r\nThe Lean Dinner will be based on the concept of the Lean Coffee which is a structured, but agenda-less meeting and it works like this: At the beginning of our meeting everyone we will all write up to 3 topics we would like to discuss on post-its. After that we all presents our topics. Each of us gets three votes for topics we would like to discuss. The topics with the most votes will be discussed. Every topic is discussed for 10 minutes after which we vote whether we want to continue discussing it, or move on to the next topic.</p>\r\n"
+    format: full_html
+    processed: "<p>It is time to try-out a new event concept for <a href=\"https://eitalumni.eu/community/womeneit/\">Women@EIT</a>!\_</p>\n\n<p>*** <strong>The Lean Dinner</strong> ***</p>\n\n<p>One of the best parts of our kick-off event was when we sat down together with students and alumni, had a meal and just started talking about anything that was on our minds. So this is exactly what we are going to do at our new event based on the Lean Coffee concept. We are very excited about it and we think you will be too! We are looking forward to see you all there, males and females (and everything in between) :D\_</p>\n\n<p>Interested? Fill out <a href=\"https://goo.gl/forms/zoHJLsuDbCuzYstq1\">this</a><a href=\"http://goo.gl/forms/zoHJLsuDbCuzYstq1\"> google form</a> to secure a spot and help us organize the event! For this one we will have a maximum of 15 spots so be quick! If more people apply we will select on a first come first serve basis.</p>\n\n<p>\_</p>\n\n<p><strong>What it is about</strong><br />\nThe Lean Dinner will be based on the concept of the Lean Coffee which is a structured, but agenda-less meeting and it works like this: At the beginning of our meeting everyone we will all write up to 3 topics we would like to discuss on post-its. After that we all presents our topics. Each of us gets three votes for topics we would like to discuss. The topics with the most votes will be discussed. Every topic is discussed for 10 minutes after which we vote whether we want to continue discussing it, or move on to the next topic.</p>\n"
+field_event_duration:
+  -
+    value: '17:30 - 19:00'
+    format: basic_html
+    processed: '17:30 - 19:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 9ced7644-89aa-400b-a1d4-d3ddde7a9ea1
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 9ced7644-89aa-400b-a1d4-d3ddde7a9ea1
+field_event_introduction:
+  -
+    value: "<p>Women@EIT wants to let you try a new event concept: The Lean Dinner. It will be based on the concept of the Lean Coffee which is a structured, but agenda-less meeting.</p>\r\n"
+    format: full_html
+    processed: "<p>Women@EIT wants to let you try a new event concept: The Lean Dinner. It will be based on the concept of the Lean Coffee which is a structured, but agenda-less meeting.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: bdd4f9f1-defc-4778-9e63-12714377e062
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.9ced7644-89aa-400b-a1d4-d3ddde7a9ea1
+    taxonomy_term:
+      - taxonomy_term.event_type.bdd4f9f1-defc-4778-9e63-12714377e062

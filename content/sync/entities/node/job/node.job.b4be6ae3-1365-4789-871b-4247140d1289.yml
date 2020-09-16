@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: b4be6ae3-1365-4789-871b-4247140d1289
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'AI Scientist - Machine Learning'
+created:
+  -
+    value: '2019-08-21T08:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:11:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ai-scientist-machine-learning
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://thehub.fi/jobs/ai-scientist-machine-learning'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Silo.AI
+    format: full_html
+    processed: Silo.AI
+field_expiration_date:
+  -
+    value: '2019-10-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>At Silo.AI engineers and researchers collaborate closely to tackle challenging real-world problems. The core competence of Silo.AI relies on deep academic expertise in various fields of AI, covering machine learning, natural-language processing, computer vision among others. AI Scientists are expected to build innovative AI solutions that together with engineers and system developers can be deployed as real-time solutions to provide customer value.</p>\r\n\r\n<p>You'll work in a top tier team of AI experts, solving real-life cases using latest Machine Learning techniques. You'll closely collaborate with an engineering team to bring models into toolkits, and business developers top impress the client. You may choose to work from our offices in Helsinki (Maria01) or Turku, whichever suits you best.</p>\r\n\r\n<p>AI Scientists are expected to have strong publications or projects showing clear evidence of high-quality research and innovation in fields directly related to AI and proven experience and ability to implement high-performance AI solutions. The responsibilities and tasks cover in particular:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Analyze data to discover patterns, find opportunities, and develop and apply innovative algorithms.</li>\r\n\t<li>Validate new or improved models via statistically relevant experiments.</li>\r\n\t<li>Work closely with AI engineers to build scalable prototypes for testing, and integrate successful models and algorithms in production systems.</li>\r\n\t<li>Support in identifying opportunities in creating customer value with AI.</li>\r\n\t<li>Advance exploratory research projects in machine learning and related fields to create highly innovative customer experiences.</li>\r\n\t<li>Technically lead and mentor AI Interns and Fellows.<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p>At Silo.AI engineers and researchers collaborate closely to tackle challenging real-world problems. The core competence of Silo.AI relies on deep academic expertise in various fields of AI, covering machine learning, natural-language processing, computer vision among others. AI Scientists are expected to build innovative AI solutions that together with engineers and system developers can be deployed as real-time solutions to provide customer value.</p>\n\n<p>You'll work in a top tier team of AI experts, solving real-life cases using latest Machine Learning techniques. You'll closely collaborate with an engineering team to bring models into toolkits, and business developers top impress the client. You may choose to work from our offices in Helsinki (Maria01) or Turku, whichever suits you best.</p>\n\n<p>AI Scientists are expected to have strong publications or projects showing clear evidence of high-quality research and innovation in fields directly related to AI and proven experience and ability to implement high-performance AI solutions. The responsibilities and tasks cover in particular:</p>\n\n<p>\_</p>\n\n<ul>\n\t<li>Analyze data to discover patterns, find opportunities, and develop and apply innovative algorithms.</li>\n\t<li>Validate new or improved models via statistically relevant experiments.</li>\n\t<li>Work closely with AI engineers to build scalable prototypes for testing, and integrate successful models and algorithms in production systems.</li>\n\t<li>Support in identifying opportunities in creating customer value with AI.</li>\n\t<li>Advance exploratory research projects in machine learning and related fields to create highly innovative customer experiences.</li>\n\t<li>Technically lead and mentor AI Interns and Fellows.<br />\n\t\_</li>\n</ul>\n"
+field_job_location:
+  -
+    value: Helsinki
+    format: full_html
+    processed: Helsinki
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

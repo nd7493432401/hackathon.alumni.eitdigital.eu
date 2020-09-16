@@ -1,0 +1,21 @@
+uuid: 4b7eb95d-056f-40ae-a3e2-ae9f524f4b8e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_group_leader
+    - node.type.group
+  module:
+    - text
+id: node.group.field_group_leader
+field_name: field_group_leader
+entity_type: node
+bundle: group
+label: 'Group Leader'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

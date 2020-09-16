@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dbf5e7a5-9373-46ca-a989-8f6b3464580a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/127
+alias:
+  -
+    value: /candidate/mahmoud-khodier
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

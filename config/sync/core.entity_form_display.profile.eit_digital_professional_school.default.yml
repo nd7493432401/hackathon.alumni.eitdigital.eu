@@ -1,0 +1,31 @@
+uuid: 59f62662-d947-44e0-b74f-03e1971a82d2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_professional_school.field_course_participation_year
+    - field.field.profile.eit_digital_professional_school.field_professional_school_course
+    - profile.type.eit_digital_professional_school
+  module:
+    - text
+id: profile.eit_digital_professional_school.default
+targetEntityType: profile
+bundle: eit_digital_professional_school
+mode: default
+content:
+  field_course_participation_year:
+    weight: 27
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_professional_school_course:
+    weight: 26
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textfield
+    region: content
+hidden:
+  is_default: true

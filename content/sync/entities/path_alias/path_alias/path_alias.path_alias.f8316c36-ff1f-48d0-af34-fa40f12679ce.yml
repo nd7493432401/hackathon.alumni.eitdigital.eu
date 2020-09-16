@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f8316c36-ff1f-48d0-af34-fa40f12679ce
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/585
+alias:
+  -
+    value: /job/ux-research-lead
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

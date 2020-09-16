@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cd414aa5-4ff9-4f9e-a096-0d54763ec019
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/158
+alias:
+  -
+    value: /event/experiences-cybersecurity-market
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

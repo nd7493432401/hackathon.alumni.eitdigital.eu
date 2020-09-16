@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f9558944-92d3-4657-910d-7b44fc7174c1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'App''ero goes to SLUSH'
+created:
+  -
+    value: '2017-12-16T14:55:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/appero-goes-slush
+body:
+  -
+    value: "<p>Finally, on November 29th, our journey towards the <a href=\"http://www.slush.org/home-2/\">Slush 2017</a> event turned into <strong>reality</strong>. We were waiting for this opportunity for more than one month, since when the Alumni foundation selected <a href=\"https://www.appero.io/\">App’ero</a> as the winning startup of the&nbsp;<a href=\"/node/162\">competition</a> launched in September. We had no idea about how colossal Slush was before we joined the mentioned contest but, after doing some researches, we understood it would have been an amazing experience. And truly <strong>it was</strong>.</p>\r\n\r\n<p>On arrival in Helsinki, we checked into the provided accommodation by the EIT Digital Alumni and went straight to organising and preparing ourselves by getting lots of things done for the next day pitches!</p>\r\n\r\n<p><img alt=\"App'ero team\" data-entity-type=\"file\" data-entity-uuid=\"c8b80958-606d-4c11-a01b-9732cdfbb48b\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/IMG_20171130_152840.jpg\" /><br />\r\nOn the following morning, our first meeting was scheduled for 9 am. Woah, SLUSH, <strong>we were not wrong!</strong> As soon as we got to Massukeskus (the venue), we could instantly see how impressive the whole event is. Everything was incredibly well-organized: we were surrounded by laser lights, electronic music, bots on screens, smogs and more things. Even though it was just 9AM, and full of business men and women, we felt like we were at a midnight party!<br />\r\n<img alt=\"App'ero lights\" data-entity-type=\"file\" data-entity-uuid=\"736c0195-be78-4b58-a3ec-f3b9163eee28\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/IMG_0881.jpg\" /><br />\r\nOur first meeting was with an innovative IT company which built a tool to develop native mobile apps in Java, which are then converted to iOS and Android. This would allow us to save time, as we could develop&nbsp;our app in half the time. We arrived to the meeting area where a bearded&nbsp;Greek guy was expecting us. There was a lot of competitiveness going on, as we had to decide on whether to use his framework or to outsource the app development, which is what we are aiming at. So, in the end, it was a friendly meetup, we took his business card and moved on.</p>\r\n\r\n<p>Our mission at Slush was to<strong> convince potential investors to believe in our idea</strong>. The only&nbsp;problem is that we were not able to schedule enough meetings through the matchmaking tool provided by the Slush organizers. Not an issue, we will do it <em>the old&nbsp;way</em>!</p>\r\n\r\n<p>We started chasing investors in the alleys. Most of them had&nbsp;meetings, so we had to <strong>pitch our idea in just 30 secs</strong>. Many of them seemed not&nbsp;interested at the beginning, but changed their minds once they understood&nbsp;what we want to do with our project, and gave us their business card by saying “Let’s talk more later”.</p>\r\n\r\n<p>On the Friday of the event, we had our most important meeting and we were quite nervous about it. It was like a job interview for the business of our dreams!&nbsp;We faced very honest and direct questions, there was no place for adorning our speech. That meeting was an <strong>eye-opener</strong> for us, as we went into deeply analysing every aspect of our idea.<br />\r\n<img alt=\"App'ero party\" data-entity-type=\"file\" data-entity-uuid=\"6938c4c1-4cf0-479c-96d6-f24217044048\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/IMG_0895.jpg\" /><br />\r\nThis experience taught us a lot: how to convince investors in a small amount of time; how to talk to companies about contracts and partnerships; and most importantly, how to show our <strong>motivation and willingness</strong> to break through the market. We were thrilled to be part of Slush 2017, not only to build our network of partners but also to show how the EIT Digital program indeed equipped us with the technical skills and, especially, an entrepreneurial mindset.</p>\r\n\r\n<p>We were given an opportunity and we seized it. Thanks to the EIT Digital Alumni community, we could go further and further spreading the word and could live this incredible experience. The involvement in this amazing event gave us the opportunity to attend really interesting speeches and meetings. Not only that, we also took extremely significant decisions about <strong>the future of App’ero</strong>, and this was the kick-off of a new direction, and the step-forward to the next phase towards the creation of a startup.<br />\r\n<img alt=\"App'ero team\" data-entity-type=\"file\" data-entity-uuid=\"5371e067-08b0-4011-ae6a-6dcf498be0eb\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/IMG_0884.jpg\" /></p>\r\n\r\n<p><br />\r\nCheers, the App'ero Team</p>\r\n"
+    format: full_html
+    processed: "<p>Finally, on November 29th, our journey towards the <a href=\"http://www.slush.org/home-2/\">Slush 2017</a> event turned into <strong>reality</strong>. We were waiting for this opportunity for more than one month, since when the Alumni foundation selected <a href=\"https://www.appero.io/\">App’ero</a> as the winning startup of the\_<a href=\"/node/162\">competition</a> launched in September. We had no idea about how colossal Slush was before we joined the mentioned contest but, after doing some researches, we understood it would have been an amazing experience. And truly <strong>it was</strong>.</p>\n\n<p>On arrival in Helsinki, we checked into the provided accommodation by the EIT Digital Alumni and went straight to organising and preparing ourselves by getting lots of things done for the next day pitches!</p>\n\n<p><img alt=\"App'ero team\" data-entity-type=\"file\" data-entity-uuid=\"c8b80958-606d-4c11-a01b-9732cdfbb48b\" src=\"/sites/default/files/inline-images/IMG_20171130_152840.jpg\" /><br />\nOn the following morning, our first meeting was scheduled for 9 am. Woah, SLUSH, <strong>we were not wrong!</strong> As soon as we got to Massukeskus (the venue), we could instantly see how impressive the whole event is. Everything was incredibly well-organized: we were surrounded by laser lights, electronic music, bots on screens, smogs and more things. Even though it was just 9AM, and full of business men and women, we felt like we were at a midnight party!<br />\n<img alt=\"App'ero lights\" data-entity-type=\"file\" data-entity-uuid=\"736c0195-be78-4b58-a3ec-f3b9163eee28\" src=\"/sites/default/files/inline-images/IMG_0881.jpg\" /><br />\nOur first meeting was with an innovative IT company which built a tool to develop native mobile apps in Java, which are then converted to iOS and Android. This would allow us to save time, as we could develop\_our app in half the time. We arrived to the meeting area where a bearded\_Greek guy was expecting us. There was a lot of competitiveness going on, as we had to decide on whether to use his framework or to outsource the app development, which is what we are aiming at. So, in the end, it was a friendly meetup, we took his business card and moved on.</p>\n\n<p>Our mission at Slush was to<strong> convince potential investors to believe in our idea</strong>. The only\_problem is that we were not able to schedule enough meetings through the matchmaking tool provided by the Slush organizers. Not an issue, we will do it <em>the old\_way</em>!</p>\n\n<p>We started chasing investors in the alleys. Most of them had\_meetings, so we had to <strong>pitch our idea in just 30 secs</strong>. Many of them seemed not\_interested at the beginning, but changed their minds once they understood\_what we want to do with our project, and gave us their business card by saying “Let’s talk more later”.</p>\n\n<p>On the Friday of the event, we had our most important meeting and we were quite nervous about it. It was like a job interview for the business of our dreams!\_We faced very honest and direct questions, there was no place for adorning our speech. That meeting was an <strong>eye-opener</strong> for us, as we went into deeply analysing every aspect of our idea.<br />\n<img alt=\"App'ero party\" data-entity-type=\"file\" data-entity-uuid=\"6938c4c1-4cf0-479c-96d6-f24217044048\" src=\"/sites/default/files/inline-images/IMG_0895.jpg\" /><br />\nThis experience taught us a lot: how to convince investors in a small amount of time; how to talk to companies about contracts and partnerships; and most importantly, how to show our <strong>motivation and willingness</strong> to break through the market. We were thrilled to be part of Slush 2017, not only to build our network of partners but also to show how the EIT Digital program indeed equipped us with the technical skills and, especially, an entrepreneurial mindset.</p>\n\n<p>We were given an opportunity and we seized it. Thanks to the EIT Digital Alumni community, we could go further and further spreading the word and could live this incredible experience. The involvement in this amazing event gave us the opportunity to attend really interesting speeches and meetings. Not only that, we also took extremely significant decisions about <strong>the future of App’ero</strong>, and this was the kick-off of a new direction, and the step-forward to the next phase towards the creation of a startup.<br />\n<img alt=\"App'ero team\" data-entity-type=\"file\" data-entity-uuid=\"5371e067-08b0-4011-ae6a-6dcf498be0eb\" src=\"/sites/default/files/inline-images/IMG_0884.jpg\" /></p>\n\n<p><br />\nCheers, the App'ero Team</p>\n"
+    summary: 'Finally, on November 29th, our journey towards the Slush 2017 event turned into reality. We were wai'
+    summary_processed: 'Finally, on November 29th, our journey towards the Slush 2017 event turned into reality. We were wai'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'The participation in Slush 2017 was an eye-opener for us!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 873f3393-212f-47f1-865e-565abf24b94e
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.873f3393-212f-47f1-865e-565abf24b94e

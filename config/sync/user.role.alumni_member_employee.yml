@@ -1,0 +1,9 @@
+uuid: f2a6c8e3-b9b0-4ec7-9857-22912a0c0afa
+langcode: en
+status: true
+dependencies: {  }
+id: alumni_member_employee
+label: 'Alumni Member (Employee)'
+weight: 8
+is_admin: null
+permissions: {  }

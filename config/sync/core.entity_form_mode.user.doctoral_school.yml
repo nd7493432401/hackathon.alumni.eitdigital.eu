@@ -1,0 +1,10 @@
+uuid: 826a5c5a-d98b-43c1-a257-a6bf62e80e2c
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.doctoral_school
+label: 'Doctoral School Register'
+targetEntityType: user
+cache: true

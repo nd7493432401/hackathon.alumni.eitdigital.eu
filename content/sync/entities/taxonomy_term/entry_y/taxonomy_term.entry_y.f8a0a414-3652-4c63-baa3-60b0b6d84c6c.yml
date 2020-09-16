@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: f8a0a414-3652-4c63-baa3-60b0b6d84c6c
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: entry_y
+    target_type: taxonomy_vocabulary
+    target_uuid: a494a056-f37a-4a31-bfb8-9c42ac226b8b
+revision_created:
+  -
+    value: '2020-03-24T10:33:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2018'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:33:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /entry-year/2018
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

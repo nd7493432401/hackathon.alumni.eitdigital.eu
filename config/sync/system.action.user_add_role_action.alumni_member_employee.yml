@@ -1,0 +1,14 @@
+uuid: e178b646-cbbe-442e-831f-c8f11fc32f63
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_employee
+  module:
+    - user
+id: user_add_role_action.alumni_member_employee
+label: 'Add the Alumni Member (Employee) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: alumni_member_employee

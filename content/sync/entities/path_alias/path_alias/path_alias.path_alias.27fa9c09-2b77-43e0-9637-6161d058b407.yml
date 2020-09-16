@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 27fa9c09-2b77-43e0-9637-6161d058b407
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/271
+alias:
+  -
+    value: /event/madrid-after-graduation-gathering
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

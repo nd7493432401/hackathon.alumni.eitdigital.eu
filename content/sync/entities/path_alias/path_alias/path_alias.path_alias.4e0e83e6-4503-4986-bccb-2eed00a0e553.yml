@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4e0e83e6-4503-4986-bccb-2eed00a0e553
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/371
+alias:
+  -
+    value: /job/community-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

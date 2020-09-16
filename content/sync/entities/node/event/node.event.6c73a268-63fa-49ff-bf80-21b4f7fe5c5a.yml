@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 6c73a268-63fa-49ff-bf80-21b4f7fe5c5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:45:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Landing Festival'
+created:
+  -
+    value: '2017-12-17T11:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:45:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/landing-festival
+body: {  }
+field_event_:
+  -
+    value: 'Telekom Hauptstadtrepräsentanz, Berlin'
+    format: full_html
+    processed: 'Telekom Hauptstadtrepräsentanz, Berlin'
+field_event_date:
+  -
+    value: '2018-03-14T07:00:00+01:00'
+    end_value: '2018-03-15T15:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Europe’s biggest tech careers event. 2 days of intensive learning and networking featuring talks, panels, expert sessions, workshops, a job fair, entertainment activities and a <strong>massive boat party to wrap up all the craziness</strong>. We kicked it off three years ago in sunny Lisbon and it has been a blast ever since. Each edition has surpassed its predecessor so you know you’re signing up for a wild ride.</p>\r\n\r\n<p>Whether you are looking for your next job, you are interested in discussing tech’s hottest topics, or curious to have a peek at one of Europe’s startup capitals, the <a href=\"https://landingfestival.com/berlin\">Landing Festival</a> is the place to be.</p>\r\n\r\n<p><strong>Are you part of the EIT Digital Alumni community?</strong> <a href=\"/node/231\">Get your flight to Berlin covered</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>Europe’s biggest tech careers event. 2 days of intensive learning and networking featuring talks, panels, expert sessions, workshops, a job fair, entertainment activities and a <strong>massive boat party to wrap up all the craziness</strong>. We kicked it off three years ago in sunny Lisbon and it has been a blast ever since. Each edition has surpassed its predecessor so you know you’re signing up for a wild ride.</p>\n\n<p>Whether you are looking for your next job, you are interested in discussing tech’s hottest topics, or curious to have a peek at one of Europe’s startup capitals, the <a href=\"https://landingfestival.com/berlin\">Landing Festival</a> is the place to be.</p>\n\n<p><strong>Are you part of the EIT Digital Alumni community?</strong> <a href=\"/node/231\">Get your flight to Berlin covered</a>!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: bd9c6246-ab6a-4e81-973d-013d5763f565
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: bd9c6246-ab6a-4e81-973d-013d5763f565
+field_event_introduction:
+  -
+    value: "<p>Europe’s biggest tech careers event. 2 days of intensive learning and networking featuring talks, panels, expert sessions, workshops, a job fair, entertainment activities and a massive boat party to wrap up all the craziness.</p>\r\n"
+    format: full_html
+    processed: "<p>Europe’s biggest tech careers event. 2 days of intensive learning and networking featuring talks, panels, expert sessions, workshops, a job fair, entertainment activities and a massive boat party to wrap up all the craziness.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: d93df81a-e79d-4a94-bdff-42342d7604dd
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.bd9c6246-ab6a-4e81-973d-013d5763f565
+    taxonomy_term:
+      - taxonomy_term.event_type.d93df81a-e79d-4a94-bdff-42342d7604dd

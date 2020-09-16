@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 62bff963-94d8-4ae5-8fbc-60cff16b94e9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/52
+alias:
+  -
+    value: /article/collective-power-platform
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

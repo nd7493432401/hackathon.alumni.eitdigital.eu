@@ -1,0 +1,21 @@
+uuid: e3cac731-575b-4361-bb36-e629f2f68657
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_candidate_motivation
+    - node.type.candidate
+  module:
+    - text
+id: node.candidate.field_candidate_motivation
+field_name: field_candidate_motivation
+entity_type: node
+bundle: candidate
+label: Motivation
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 23cc11c4-b9f6-4563-b7d8-6b41a71e139e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/430
+alias:
+  -
+    value: /job/front-end-developer-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

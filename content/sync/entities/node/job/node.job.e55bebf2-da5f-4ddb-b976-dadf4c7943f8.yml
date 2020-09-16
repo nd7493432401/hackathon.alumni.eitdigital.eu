@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: e55bebf2-da5f-4ddb-b976-dadf4c7943f8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Machine Learning Intern'
+created:
+  -
+    value: '2018-03-05T21:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/machine-learning-intern-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://minodes-jobs.personio.de/search?language=en&query=Data+%C2%ADAnalytics'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: MiNODES
+    format: full_html
+    processed: MiNODES
+field_expiration_date:
+  -
+    value: '2018-05-31T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>About&nbsp;us </strong></p>\r\n\r\n<p><a href=\"https://www.minodes.com/\">MiNODES</a> is a young high­growth technology business fundamentally transforming the way brick and mortar retailers engage with their customers. Headquartered in Berlin, we provide global retailers with innovative SaaS solutions on a mission to enhance the consumers’ shopping experience and give brick and mortar retailers an edge over their online competitors in an increasingly digitized world. Our dynamic and ambitious team combines expertise from top players in retail, VCs, internet and tech startups. You will enjoy having high impact in a company with tremendous growth potential, giving you unparalleled opportunities for growing personally and professionally.</p>\r\n\r\n<p><strong>About&nbsp;the&nbsp;job</strong></p>\r\n\r\n<p>Do you love big data and machine learning? Do you have a strong passion for empirical research and for answering hard questions with data? If yes, you will love working at MiNODES! At MiNODES, we empower our clients in the retail market with analytical tools to understand how people move inside and nearby shops. We deploy machine learning and data processing at scale in our data analytics pipeline, and constantly evaluate new state­of­the art technologies to delight our customers with better results. As a member of the Data Analytics team, you will be exposed to a modern technology stack and a slick agile team setup. You will be in the unique position to experiment with very large and proprietary datasets of wifi signals and mobile network data on a diverse set of challenging problems.</p>\r\n\r\n<p><strong>You&nbsp;will&nbsp;be&nbsp;responsible&nbsp;for</strong></p>\r\n\r\n<p>● Solving&nbsp;a&nbsp;challenging&nbsp;problem&nbsp;with&nbsp;state­of­the­art&nbsp;machine&nbsp;learning&nbsp;pipelines<br />\r\n● Processing&nbsp;massive&nbsp;amounts&nbsp;of&nbsp;structured&nbsp;and&nbsp;unstructured&nbsp;data<br />\r\n● Engineering&nbsp;an&nbsp;efficient&nbsp;and&nbsp;robust&nbsp;solution&nbsp;suited&nbsp;for&nbsp;our&nbsp;scalable&nbsp;architectures<br />\r\n● Improving&nbsp;your&nbsp;communication&nbsp;skills&nbsp;and&nbsp;advancing&nbsp;your&nbsp;technical&nbsp;expertise</p>\r\n\r\n<p><strong>Who&nbsp;we&nbsp;are&nbsp;looking&nbsp;for</strong></p>\r\n\r\n<p>● B.Sc. degree or final year of master’s studies in Engineering, Mathematics, Physics, Statistics or Computer Science<br />\r\n● Basic&nbsp;machine&nbsp;learning&nbsp;experience&nbsp;with&nbsp;feature&nbsp;engineering,&nbsp;model&nbsp;building&nbsp;and&nbsp;evaluation<br />\r\n● Solid&nbsp;programming&nbsp;background&nbsp;(ideally&nbsp;in&nbsp;Python)<br />\r\n● Basic&nbsp;experience&nbsp;with&nbsp;Jupyter&nbsp;or&nbsp;Zeppelin&nbsp;notebooks<br />\r\n● “How&nbsp;can&nbsp;I&nbsp;help”&nbsp;mentality,&nbsp;excellent&nbsp;communication&nbsp;and&nbsp;team&nbsp;collaboration&nbsp;skills</p>\r\n\r\n<p><strong>Not&nbsp;a&nbsp;must,&nbsp;but&nbsp;we&nbsp;appreciate&nbsp;the&nbsp;following&nbsp;skills</strong></p>\r\n\r\n<p>● Other&nbsp;programming&nbsp;experience&nbsp;(Spark,&nbsp;Scala,&nbsp;etc.)<br />\r\n● Experience&nbsp;with&nbsp;Python&nbsp;scientific&nbsp;libraries&nbsp;(pandas,&nbsp;scikit­learn,&nbsp;xgboost,&nbsp;keras,&nbsp;tensorflow,&nbsp;etc.)<br />\r\n● Experience&nbsp;with&nbsp;big&nbsp;data&nbsp;technologies&nbsp;(Hadoop,&nbsp;Cassandra,&nbsp;Spark,&nbsp;NoSQL,&nbsp;etc.)<br />\r\n● Experience&nbsp;with&nbsp;relational&nbsp;databases&nbsp;(PostgreSQL,&nbsp;...)</p>\r\n\r\n<p><strong>What&nbsp;we&nbsp;offer</strong></p>\r\n\r\n<p>● A startup growing at a fast pace and boosted by the resources of our mother company Telefónica NEXT<br />\r\n● A&nbsp;great,&nbsp;motivated&nbsp;and&nbsp;international&nbsp;team&nbsp;to&nbsp;work&nbsp;with<br />\r\n● Lots&nbsp;of&nbsp;opportunities&nbsp;for&nbsp;learning&nbsp;and&nbsp;personal&nbsp;growth<br />\r\n● A&nbsp;competitive&nbsp;salary<br />\r\n●&nbsp;A&nbsp;modern&nbsp;office&nbsp;in&nbsp;Berlin&nbsp;near&nbsp;Checkpoint&nbsp;Charlie&nbsp;with&nbsp;many&nbsp;perks&nbsp;regarding&nbsp;work&nbsp;ergonomics<br />\r\n● Free&nbsp;drinks,&nbsp;breakfast,&nbsp;snacks&nbsp;and&nbsp;a&nbsp;Playstation&nbsp;4</p>\r\n\r\n<p>We're looking forward to receiving your application including a compelling motivation letter, a clearly arranged CV, your&nbsp;earliest&nbsp;possible&nbsp;starting&nbsp;date&nbsp;as&nbsp;well&nbsp;as&nbsp;your&nbsp;salary&nbsp;expectation</p>\r\n"
+    format: full_html
+    processed: "<p><strong>About\_us </strong></p>\n\n<p><a href=\"https://www.minodes.com/\">MiNODES</a> is a young high­growth technology business fundamentally transforming the way brick and mortar retailers engage with their customers. Headquartered in Berlin, we provide global retailers with innovative SaaS solutions on a mission to enhance the consumers’ shopping experience and give brick and mortar retailers an edge over their online competitors in an increasingly digitized world. Our dynamic and ambitious team combines expertise from top players in retail, VCs, internet and tech startups. You will enjoy having high impact in a company with tremendous growth potential, giving you unparalleled opportunities for growing personally and professionally.</p>\n\n<p><strong>About\_the\_job</strong></p>\n\n<p>Do you love big data and machine learning? Do you have a strong passion for empirical research and for answering hard questions with data? If yes, you will love working at MiNODES! At MiNODES, we empower our clients in the retail market with analytical tools to understand how people move inside and nearby shops. We deploy machine learning and data processing at scale in our data analytics pipeline, and constantly evaluate new state­of­the art technologies to delight our customers with better results. As a member of the Data Analytics team, you will be exposed to a modern technology stack and a slick agile team setup. You will be in the unique position to experiment with very large and proprietary datasets of wifi signals and mobile network data on a diverse set of challenging problems.</p>\n\n<p><strong>You\_will\_be\_responsible\_for</strong></p>\n\n<p>● Solving\_a\_challenging\_problem\_with\_state­of­the­art\_machine\_learning\_pipelines<br />\n● Processing\_massive\_amounts\_of\_structured\_and\_unstructured\_data<br />\n● Engineering\_an\_efficient\_and\_robust\_solution\_suited\_for\_our\_scalable\_architectures<br />\n● Improving\_your\_communication\_skills\_and\_advancing\_your\_technical\_expertise</p>\n\n<p><strong>Who\_we\_are\_looking\_for</strong></p>\n\n<p>● B.Sc. degree or final year of master’s studies in Engineering, Mathematics, Physics, Statistics or Computer Science<br />\n● Basic\_machine\_learning\_experience\_with\_feature\_engineering,\_model\_building\_and\_evaluation<br />\n● Solid\_programming\_background\_(ideally\_in\_Python)<br />\n● Basic\_experience\_with\_Jupyter\_or\_Zeppelin\_notebooks<br />\n● “How\_can\_I\_help”\_mentality,\_excellent\_communication\_and\_team\_collaboration\_skills</p>\n\n<p><strong>Not\_a\_must,\_but\_we\_appreciate\_the\_following\_skills</strong></p>\n\n<p>● Other\_programming\_experience\_(Spark,\_Scala,\_etc.)<br />\n● Experience\_with\_Python\_scientific\_libraries\_(pandas,\_scikit­learn,\_xgboost,\_keras,\_tensorflow,\_etc.)<br />\n● Experience\_with\_big\_data\_technologies\_(Hadoop,\_Cassandra,\_Spark,\_NoSQL,\_etc.)<br />\n● Experience\_with\_relational\_databases\_(PostgreSQL,\_...)</p>\n\n<p><strong>What\_we\_offer</strong></p>\n\n<p>● A startup growing at a fast pace and boosted by the resources of our mother company Telefónica NEXT<br />\n● A\_great,\_motivated\_and\_international\_team\_to\_work\_with<br />\n● Lots\_of\_opportunities\_for\_learning\_and\_personal\_growth<br />\n● A\_competitive\_salary<br />\n●\_A\_modern\_office\_in\_Berlin\_near\_Checkpoint\_Charlie\_with\_many\_perks\_regarding\_work\_ergonomics<br />\n● Free\_drinks,\_breakfast,\_snacks\_and\_a\_Playstation\_4</p>\n\n<p>We're looking forward to receiving your application including a compelling motivation letter, a clearly arranged CV, your\_earliest\_possible\_starting\_date\_as\_well\_as\_your\_salary\_expectation</p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link:
+  -
+    uri: 'https://www.minodes.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

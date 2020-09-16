@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1b60d83-a9cc-40a3-b1dd-3146b680773f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/148
+alias:
+  -
+    value: /summer-schools/2018-lisbon-longer-independent-living
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

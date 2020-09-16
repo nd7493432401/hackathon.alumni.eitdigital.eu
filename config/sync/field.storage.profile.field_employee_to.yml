@@ -1,0 +1,20 @@
+uuid: dffa7756-a77b-40ef-8436-fb577c8b6e1b
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - taxonomy
+id: profile.field_employee_to
+field_name: field_employee_to
+entity_type: profile
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

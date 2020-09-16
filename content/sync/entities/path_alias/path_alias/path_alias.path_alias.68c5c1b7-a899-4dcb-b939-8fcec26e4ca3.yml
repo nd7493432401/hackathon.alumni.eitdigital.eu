@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 68c5c1b7-a899-4dcb-b939-8fcec26e4ca3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/25
+alias:
+  -
+    value: /article/our-community-vs-generations-club
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

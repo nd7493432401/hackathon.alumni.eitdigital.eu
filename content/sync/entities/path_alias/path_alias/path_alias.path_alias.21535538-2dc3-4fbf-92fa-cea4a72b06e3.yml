@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 21535538-2dc3-4fbf-92fa-cea4a72b06e3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/444
+alias:
+  -
+    value: /job/post-doctoral-researcher-computational-social-science
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

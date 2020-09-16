@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e9581b16-f195-4929-8291-82d7795bd8c6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/57
+alias:
+  -
+    value: /users/wrunauov
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

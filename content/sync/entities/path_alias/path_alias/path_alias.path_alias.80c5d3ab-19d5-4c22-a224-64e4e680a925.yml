@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 80c5d3ab-19d5-4c22-a224-64e4e680a925
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/31
+alias:
+  -
+    value: /article/eit-digital-arise-startups-are-joining-eit-digital-alumni
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

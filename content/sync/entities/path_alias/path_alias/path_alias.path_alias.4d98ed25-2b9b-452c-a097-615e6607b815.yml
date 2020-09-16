@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4d98ed25-2b9b-452c-a097-615e6607b815
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/105
+alias:
+  -
+    value: /exit-universities/taltech-tallinn-university-technology-tallinn-estonia
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 057ae5fc-7704-4ac8-aaa8-c4b87ca2e08a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/558
+alias:
+  -
+    value: /job/pdeng-program-data-science
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

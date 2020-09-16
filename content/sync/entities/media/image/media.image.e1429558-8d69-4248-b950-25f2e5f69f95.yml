@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: e1429558-8d69-4248-b950-25f2e5f69f95
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: Toomas_Kallioja_futu_full.jpg
+thumbnail:
+  -
+    alt: Toomas_Kallioja
+    title: null
+    width: 2918
+    height: 1946
+    target_type: file
+    target_uuid: 1a3710b2-5cc4-428b-b30b-e4adb57bc17f
+created:
+  -
+    value: '2020-05-02T10:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T10:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: Toomas_Kallioja
+    title: ''
+    width: 2918
+    height: 1946
+    target_type: file
+    target_uuid: 1a3710b2-5cc4-428b-b30b-e4adb57bc17f
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.1a3710b2-5cc4-428b-b30b-e4adb57bc17f

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8510a1bb-176d-4400-8034-2c4c7c1c67b3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/548
+alias:
+  -
+    value: /job/lead-ux-designer-fmx
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

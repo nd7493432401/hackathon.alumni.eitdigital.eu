@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c917211a-ed73-4466-9a90-1dbc3dbf6611
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/479
+alias:
+  -
+    value: /job/senior-ux-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7e7824e2-67a6-4833-8e0b-938b89ad3a1f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/55
+alias:
+  -
+    value: /article/summary-2015
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

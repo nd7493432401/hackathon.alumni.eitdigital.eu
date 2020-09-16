@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: e33339a0-1fbf-43ff-bd47-c78363382d83
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:29:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Climate Heroes'' Reunion'
+created:
+  -
+    value: '2018-11-18T11:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:29:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/climate-heroes-reunion
+body: {  }
+field_event_:
+  -
+    value: 'Vienna, Austria'
+    format: full_html
+    processed: 'Vienna, Austria'
+field_event_date:
+  -
+    value: '2018-11-23T18:00:00+01:00'
+    end_value: '2018-11-25T12:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Would you like to attend the <a href=\"http://ckaa.eu/event/climate-heroes-reunion\">Climate-KIC Alumni Association Reunion</a> in Vienna <strong>on our behalf</strong>? <a href=\"mailto:stefano.imoscopi@eitdigital.eu\">Contact us</a>!</p>\r\n\r\n<p>This year’s focus is on ‘communicating climate change to mobilize climate action’ as well as on&nbsp;orienting the CKAA and invited <strong>EIT Alumni members</strong> about the recent developments we undergo for building a better future for the organization.</p>\r\n\r\n<p>The participants will be joined by wonderful speakers like Graeme Maxton, Secretary General of the Club of Rome, as well as George Marshall, author of \"Don't even think about it: Why Our Brains are Wired to Ignore Climate Change\" and founder of ClimateOutreach, and many other members of different organisations like the ClimateReality Project, Climate Tracker and of course Climate-KIC.</p>\r\n\r\n<p><strong>Two slots are reserved</strong> for EIT Digital Alumni community members. <a href=\"mailto:stefano.imoscopi@eitdigital.eu\">Let us know if interested!</a></p>\r\n"
+    format: full_html
+    processed: "<p>Would you like to attend the <a href=\"http://ckaa.eu/event/climate-heroes-reunion\">Climate-KIC Alumni Association Reunion</a> in Vienna <strong>on our behalf</strong>? <a href=\"mailto:stefano.imoscopi@eitdigital.eu\">Contact us</a>!</p>\n\n<p>This year’s focus is on ‘communicating climate change to mobilize climate action’ as well as on\_orienting the CKAA and invited <strong>EIT Alumni members</strong> about the recent developments we undergo for building a better future for the organization.</p>\n\n<p>The participants will be joined by wonderful speakers like Graeme Maxton, Secretary General of the Club of Rome, as well as George Marshall, author of \"Don't even think about it: Why Our Brains are Wired to Ignore Climate Change\" and founder of ClimateOutreach, and many other members of different organisations like the ClimateReality Project, Climate Tracker and of course Climate-KIC.</p>\n\n<p><strong>Two slots are reserved</strong> for EIT Digital Alumni community members. <a href=\"mailto:stefano.imoscopi@eitdigital.eu\">Let us know if interested!</a></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 4b8ce9be-1d14-49e1-8a31-959e2abb1bd0
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 4b8ce9be-1d14-49e1-8a31-959e2abb1bd0
+field_event_introduction:
+  -
+    value: "<p>Feel like attending the Climate-KIC Alumni Association Reunion in Vienna on our behalf?</p>\r\n"
+    format: full_html
+    processed: "<p>Feel like attending the Climate-KIC Alumni Association Reunion in Vienna on our behalf?</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: a44d1273-6850-48cd-a152-15f976586112
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.4b8ce9be-1d14-49e1-8a31-959e2abb1bd0
+    taxonomy_term:
+      - taxonomy_term.event_type.a44d1273-6850-48cd-a152-15f976586112

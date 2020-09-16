@@ -1,0 +1,21 @@
+uuid: 796fec64-740e-4fe1-9a19-99606b7db8b2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_group_dec
+    - node.type.group
+  module:
+    - text
+id: node.group.field_group_dec
+field_name: field_group_dec
+entity_type: node
+bundle: group
+label: 'Group Description'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 27e7b03e-550f-4992-8f1c-5a0f608d9fc0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:42:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'A meetup in South of France'
+created:
+  -
+    value: '2019-05-05T18:19:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:42:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/meetup-south-france
+body: {  }
+field_event_:
+  -
+    value: 'Campus SophiaTech, 450 Route des Chappes, 06410 Biot.'
+    format: full_html
+    processed: 'Campus SophiaTech, 450 Route des Chappes, 06410 Biot.'
+field_event_date:
+  -
+    value: '2019-05-16T18:30:00+02:00'
+    end_value: '2019-05-16T20:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>As we continue to expand our network and build an engaged community, our members residing in the environs of Sophia-Antipolis will be having a meet up to strengthen the community there. This event is opened to all of our Alumni members as well as our current students and EIT Digital Friends&nbsp;in the Nice region. We will&nbsp;provide some snacks and drinks as we network and get to know each other and plan for future gatherings.&nbsp;</p>\r\n\r\n<p>To confirm your availability, <a href=\"https://forms.gle/7gmHaJuNbwKn921GA\">please fill out this form</a> that will take you less than 2 mins:&nbsp;https://forms.gle/7gmHaJuNbwKn921GA.</p>\r\n\r\n<p>For further inquiries and suggestions, please contact&nbsp;<a href=\"https://alumni.eitdigital.eu/users/aicha\">Aicha Kombate</a></p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>As we continue to expand our network and build an engaged community, our members residing in the environs of Sophia-Antipolis will be having a meet up to strengthen the community there. This event is opened to all of our Alumni members as well as our current students and EIT Digital Friends\_in the Nice region. We will\_provide some snacks and drinks as we network and get to know each other and plan for future gatherings.\_</p>\n\n<p>To confirm your availability, <a href=\"https://forms.gle/7gmHaJuNbwKn921GA\">please fill out this form</a> that will take you less than 2 mins:\_https://forms.gle/7gmHaJuNbwKn921GA.</p>\n\n<p>For further inquiries and suggestions, please contact\_<a href=\"https://alumni.eitdigital.eu/users/aicha\">Aicha Kombate</a></p>\n\n<p>\_</p>\n"
+field_event_duration:
+  -
+    value: '18:30 - 20:30'
+    format: full_html
+    processed: '18:30 - 20:30'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 9e3345c9-d5b1-475b-bcc5-0dfeda2c3620
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 9e3345c9-d5b1-475b-bcc5-0dfeda2c3620
+field_event_introduction:
+  -
+    value: "<p>Our members residing in the environs of Sophia-Antipolis will be having a meet up to strengthen the community there</p>\r\n"
+    format: full_html
+    processed: "<p>Our members residing in the environs of Sophia-Antipolis will be having a meet up to strengthen the community there</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0d40eeac-c774-43de-8c82-f36237f4bd7e
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.9e3345c9-d5b1-475b-bcc5-0dfeda2c3620
+    taxonomy_term:
+      - taxonomy_term.event_type.0d40eeac-c774-43de-8c82-f36237f4bd7e

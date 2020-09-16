@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1b564cad-070a-42f1-80fc-044d36665df3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/546
+alias:
+  -
+    value: /job/cloud-architect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

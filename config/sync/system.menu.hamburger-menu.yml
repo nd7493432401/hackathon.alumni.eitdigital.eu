@@ -1,0 +1,8 @@
+uuid: f3c55481-7bce-46ea-b512-31eae63b6188
+langcode: en
+status: true
+dependencies: {  }
+id: hamburger-menu
+label: 'Hamburger Menu'
+description: 'Menu displayed as hamburger menu on the left side (mobile version).'
+locked: false

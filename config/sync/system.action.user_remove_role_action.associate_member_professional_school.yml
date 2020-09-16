@@ -1,0 +1,14 @@
+uuid: 570600c8-1a2d-49c4-b64f-7aebfd3d5db6
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_professional_school
+  module:
+    - user
+id: user_remove_role_action.associate_member_professional_school
+label: 'Remove the Associate Member (Professional School) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: associate_member_professional_school

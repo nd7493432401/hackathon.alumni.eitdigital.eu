@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 48f5f459-6d1d-4042-ba58-6311ed348bf4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/21
+alias:
+  -
+    value: /article/eit-alumni-startup-days-2018-barcelona
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

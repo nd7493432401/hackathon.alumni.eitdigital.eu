@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 7d165ef7-e857-4f64-837b-3d3acac71861
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: A7_06771.jpg
+thumbnail:
+  -
+    alt: 'Register for the Annual Meeting 2020'
+    title: null
+    width: 2048
+    height: 1365
+    target_type: file
+    target_uuid: 185a1303-8a13-4fa4-86f3-c69220d70f61
+created:
+  -
+    value: '2020-04-29T09:59:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-29T09:59:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Register for the Annual Meeting 2020'
+    title: ''
+    width: 2048
+    height: 1365
+    target_type: file
+    target_uuid: 185a1303-8a13-4fa4-86f3-c69220d70f61
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.185a1303-8a13-4fa4-86f3-c69220d70f61

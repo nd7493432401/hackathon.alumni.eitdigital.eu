@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8319172c-b19a-4aa9-a742-148f38676eb5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/136
+alias:
+  -
+    value: /local-representative/us-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

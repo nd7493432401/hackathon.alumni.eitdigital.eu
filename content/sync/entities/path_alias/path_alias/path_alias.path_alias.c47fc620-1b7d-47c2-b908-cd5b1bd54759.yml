@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c47fc620-1b7d-47c2-b908-cd5b1bd54759
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/97
+alias:
+  -
+    value: /article/eit-digital-conference-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

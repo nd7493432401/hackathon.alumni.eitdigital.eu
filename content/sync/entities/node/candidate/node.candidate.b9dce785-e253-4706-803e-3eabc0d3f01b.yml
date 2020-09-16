@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: b9dce785-e253-4706-803e-3eabc0d3f01b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Tamunomiebaka Dibi (BOBO)'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/tamunomiebaka-dibi-bobo
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>I humbly and most assiduously state my interest for the position of Events Officer. I have been part of the EIT Digital family since 2014 and it is an establishment I cherish dearly. I have been fortunate to be part of events and conferences organised by the EIT and the EIT Digital Alumni Foundation. I was part of the Berlin organising team of the recently concluded Startup Days of the EIT Alumni which was a tremendous success. &nbsp;</p>'
+    format: full_html
+    processed: "<p>I humbly and most assiduously state my interest for the position of Events Officer. I have been part of the EIT Digital family since 2014 and it is an establishment I cherish dearly. I have been fortunate to be part of events and conferences organised by the EIT and the EIT Digital Alumni Foundation. I was part of the Berlin organising team of the recently concluded Startup Days of the EIT Alumni which was a tremendous success. \_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Tamunomiebaka Dibi (BOBO)'
+    format: full_html
+    processed: 'Tamunomiebaka Dibi (BOBO)'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I greatly admire the mission and all that our alumni stands for, and I want to be part of this continuous growth and development. I will be a great Events Officer for the EIT Digital Alumni Foundation because of my enthusiastic nature and my desire to work for this Foundation. I can assure you unequivocally that I will live up to the organisation''s expectations and I promise to be a good sport and do my best for the success of our Foundation.</p>'
+    format: full_html
+    processed: '<p>I greatly admire the mission and all that our alumni stands for, and I want to be part of this continuous growth and development. I will be a great Events Officer for the EIT Digital Alumni Foundation because of my enthusiastic nature and my desire to work for this Foundation. I can assure you unequivocally that I will live up to the organisation''s expectations and I promise to be a good sport and do my best for the success of our Foundation.</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>I like the sense of community bonding, and &nbsp;I want to assist as an events officer in planning activities that alumni will benefit from.&nbsp;I also want to help build the future of the association. Therefore, I will be honoured if you grant me the privilege of working for you by voting for me.</p>'
+    format: full_html
+    processed: "<p>I like the sense of community bonding, and \_I want to assist as an events officer in planning activities that alumni will benefit from.\_I also want to help build the future of the association. Therefore, I will be honoured if you grant me the privilege of working for you by voting for me.</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

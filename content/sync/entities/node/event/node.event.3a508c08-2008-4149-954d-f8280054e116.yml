@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 3a508c08-2008-4149-954d-f8280054e116
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:54:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Showcase your startup at TechCrunch Disrupt Berlin 2019!'
+created:
+  -
+    value: '2019-10-13T16:03:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:54:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/showcase-your-startup-techcrunch-disrupt-berlin-2019
+body: {  }
+field_event_:
+  -
+    value: 'Arena Berlin, Eichenstraße 4, 12435 Berlin, Germany'
+    format: full_html
+    processed: 'Arena Berlin, Eichenstraße 4, 12435 Berlin, Germany'
+field_event_date:
+  -
+    value: '2019-12-11T09:00:00+01:00'
+    end_value: '2019-12-12T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>For the fourth time, the Alumni Foundation supports the entrepreneurial journey of its members by sending the hottest <strong>startup</strong> within our community to <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\"><strong>TechCrunch Disrupt Berlin 2019</strong></a>!</p>\r\n\r\n<p><a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">Disrupt</a>&nbsp;is TechCrunch's leading Startup event hosted all over the world. Not only on-stage interviews, Disrupt is also where you’ll find the renowned Startup Battlefield competition, hundreds of startups in Startup Alley, Workshops and legendary networking at their After Parties. The event will be held in Berlin, on&nbsp;<strong>December 11-12, 2019</strong>.&nbsp;</p>\r\n\r\n<p>You will have the chance to enter and win a <strong>Founder's Pass</strong> to the event&nbsp;- where you can attract potential clients, partners, founders, investors and media. For any further details, we invite you to check out the event’s website at&nbsp;<a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">techcrunch.com/events/disrupt-berlin-2019/</a>.<br />\r\n<br />\r\nThe winner&nbsp;will&nbsp;receive financial&nbsp;support*&nbsp;to cover their participation expenses (founders pass, trip to Berlin, accommodation).<br />\r\n<br />\r\nIn order to participate, we ask you to fill in&nbsp;the <a href=\"https://forms.gle/7U21jftiEqKc1HAbA\" target=\"_blank\">short&nbsp;form at this link</a>&nbsp;with all the&nbsp;<strong>details</strong>&nbsp;about your startup project (name, website, socials, etc.), an Elevator Pitch video,&nbsp;a description of the innovation behind your startup and a brief motivational paragraph stating your interest in showcasing your startup and being our ambassador at this year’s TechCrunch Disrupt.</p>\r\n\r\n<p>The&nbsp;<strong>deadline</strong>&nbsp;for submitting your application is&nbsp;<strong>Wednesday 30th&nbsp;October, 23.59 CET</strong>. After that, a&nbsp;selected jury will evaluate the applications and proclaim the final winner!</p>\r\n\r\n<p>Do not miss this awesome chance!&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://forms.gle/7U21jftiEqKc1HAbA\" target=\"_blank\">SEND YOUR APPLICATION NOW</a>!</strong></p>\r\n\r\n<p>---</p>\r\n\r\n<p>*&nbsp;The applicant&nbsp;needs to be a registered member at&nbsp;<a href=\"http://alumni.eitdigital.eu\_\">alumni.eitdigital.eu&nbsp;</a>and a (co-)founder of the startup with an up-to-date CrunchBase profile. Depending on the size and membership status of the winning team, one or more representatives could be covered - up to a fixed amount agreed with the Alumni Board.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you have general inquiries about this opportunity, please get in touch with us at&nbsp;<a href=\"mailto:alumni@eitdigital.eu?subject=TechCrunch%20Disrupt%20Berlin%20Competition\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels</p>\r\n"
+    format: full_html
+    processed: "<p>For the fourth time, the Alumni Foundation supports the entrepreneurial journey of its members by sending the hottest <strong>startup</strong> within our community to <a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\"><strong>TechCrunch Disrupt Berlin 2019</strong></a>!</p>\n\n<p><a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">Disrupt</a>\_is TechCrunch's leading Startup event hosted all over the world. Not only on-stage interviews, Disrupt is also where you’ll find the renowned Startup Battlefield competition, hundreds of startups in Startup Alley, Workshops and legendary networking at their After Parties. The event will be held in Berlin, on\_<strong>December 11-12, 2019</strong>.\_</p>\n\n<p>You will have the chance to enter and win a <strong>Founder's Pass</strong> to the event\_- where you can attract potential clients, partners, founders, investors and media. For any further details, we invite you to check out the event’s website at\_<a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">techcrunch.com/events/disrupt-berlin-2019/</a>.<br />\n<br />\nThe winner\_will\_receive financial\_support*\_to cover their participation expenses (founders pass, trip to Berlin, accommodation).<br />\n<br />\nIn order to participate, we ask you to fill in\_the <a href=\"https://forms.gle/7U21jftiEqKc1HAbA\" target=\"_blank\">short\_form at this link</a>\_with all the\_<strong>details</strong>\_about your startup project (name, website, socials, etc.), an Elevator Pitch video,\_a description of the innovation behind your startup and a brief motivational paragraph stating your interest in showcasing your startup and being our ambassador at this year’s TechCrunch Disrupt.</p>\n\n<p>The\_<strong>deadline</strong>\_for submitting your application is\_<strong>Wednesday 30th\_October, 23.59 CET</strong>. After that, a\_selected jury will evaluate the applications and proclaim the final winner!</p>\n\n<p>Do not miss this awesome chance!\_</p>\n\n<p><strong><a href=\"https://forms.gle/7U21jftiEqKc1HAbA\" target=\"_blank\">SEND YOUR APPLICATION NOW</a>!</strong></p>\n\n<p>---</p>\n\n<p>*\_The applicant\_needs to be a registered member at\_<a href=\"http://alumni.eitdigital.eu\_\">alumni.eitdigital.eu\_</a>and a (co-)founder of the startup with an up-to-date CrunchBase profile. Depending on the size and membership status of the winning team, one or more representatives could be covered - up to a fixed amount agreed with the Alumni Board.</p>\n\n<p>\_</p>\n\n<p>If you have general inquiries about this opportunity, please get in touch with us at\_<a href=\"mailto:alumni@eitdigital.eu?subject=TechCrunch%20Disrupt%20Berlin%20Competition\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels</p>\n"
+field_event_duration:
+  -
+    value: 'All Day'
+    format: full_html
+    processed: 'All Day'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: f42544b0-57d2-43ae-883b-a1ba52d5e6d2
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: f42544b0-57d2-43ae-883b-a1ba52d5e6d2
+field_event_introduction:
+  -
+    value: "<p>The Alumni Foundation rewards the hottest startup in our community</p>\r\n"
+    format: full_html
+    processed: "<p>The Alumni Foundation rewards the hottest startup in our community</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 733a3689-5b6a-4505-a3ca-af9f15909118
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.f42544b0-57d2-43ae-883b-a1ba52d5e6d2
+    taxonomy_term:
+      - taxonomy_term.event_type.733a3689-5b6a-4505-a3ca-af9f15909118

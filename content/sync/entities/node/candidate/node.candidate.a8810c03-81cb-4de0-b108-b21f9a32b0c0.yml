@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: a8810c03-81cb-4de0-b108-b21f9a32b0c0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Anand Bhaskaran'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/anand-bhaskaran
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>EIT Digital has always been an inspiring and innovative playground over the past years. Now it is been a time for me to give back by facilitating the motivated individuals of EIT Digital Alumni. It is my pleasure to be part of the core committee that can make this happen.&nbsp;</p>'
+    format: full_html
+    processed: "<p>EIT Digital has always been an inspiring and innovative playground over the past years. Now it is been a time for me to give back by facilitating the motivated individuals of EIT Digital Alumni. It is my pleasure to be part of the core committee that can make this happen.\_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Anand Bhaskaran'
+    format: full_html
+    processed: 'Anand Bhaskaran'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>EIT Digital Alumni had been quite evolved to provide various events and programs that creates value for the entire community networks. I envision to strengthen our existing programs and commission new initiatives by identifying and optimizing financial bottlenecks.&nbsp;</p>'
+    format: full_html
+    processed: "<p>EIT Digital Alumni had been quite evolved to provide various events and programs that creates value for the entire community networks. I envision to strengthen our existing programs and commission new initiatives by identifying and optimizing financial bottlenecks.\_</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>I stand here on behalf of you with the mission to strengthen our EIT Digital Alumni Ecosystem. With a strong interest in entrepreneurship and finances, I have built strategic theoretical background and experiences. I have been a treasurer for YUVA, an Indian Association at EPFL over the past two years. I am also pursuing my Masters in Business Administration, which I believe would add significant strength for core-committee of EIT Digital Alumni.</p>'
+    format: full_html
+    processed: '<p>I stand here on behalf of you with the mission to strengthen our EIT Digital Alumni Ecosystem. With a strong interest in entrepreneurship and finances, I have built strategic theoretical background and experiences. I have been a treasurer for YUVA, an Indian Association at EPFL over the past two years. I am also pursuing my Masters in Business Administration, which I believe would add significant strength for core-committee of EIT Digital Alumni.</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: af623918-d7eb-4c5e-8f3e-1b8683257e61
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Usability Manager'
+created:
+  -
+    value: '2018-08-29T07:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:30:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/usability-manager
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:uxcolinm@gmail.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Emirates NBD'
+    format: full_html
+    processed: 'Emirates NBD'
+field_expiration_date:
+  -
+    value: '2018-10-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Design office at the&nbsp;<strong>Emirates NBD&nbsp;</strong>is looking for the&nbsp;<strong>Usability Manager.</strong></p>\r\n\r\n<p><u>Role reports to:</u>&nbsp;VP, Experience Design - Digital Office</p>\r\n\r\n<p><u>Job Purpose:</u>&nbsp;The Usability Manager, entails to work in various Human Centred Design methodologies. In this position he/she leads the evaluation of experiences to ensure they enable users achieve their goals.</p>\r\n\r\n<p><u>Job Content:</u></p>\r\n\r\n<p>Strategy:&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Develops a usability test plan for a product or service. This includes setting outcomes, metrics, participant criteria, data collection, techniques, usability lab tools and practices, accessibility standards, etc.</li>\r\n\t<li>Leads he creation of a usability lab as a strategic facility for testing and observation.</li>\r\n</ul>\r\n\r\n<p>Best Practices:</p>\r\n\r\n<ul>\r\n\t<li>Instills best practices for usability, by providing guidance on how to meet usability requirements, conduct tests and collect data to create recommendations for improvement.</li>\r\n</ul>\r\n\r\n<p>Evaluation:</p>\r\n\r\n<ul>\r\n\t<li>Coordinates and conducts moderated/non-moderated usability evaluations, both in person and remote for rapid iterative prototype testing and full-scale benchmarking on app/sites in production</li>\r\n</ul>\r\n\r\n<p>Communication:</p>\r\n\r\n<ul>\r\n\t<li>Builds recommendations and insights based on a solid foundation and understanding of usability metrics in areas of effectiveness, efficiency and satisfaction.</li>\r\n\t<li>Presents insights and recommendations to stakeholders and delivery teams.</li>\r\n</ul>\r\n\r\n<p><u>Specifications:</u></p>\r\n\r\n<p>Education:</p>\r\n\r\n<ul>\r\n\t<li>BA in Design, HCI, Psychology, Sociology or related field.</li>\r\n\t<li>MSc a plus and considered an asset.</li>\r\n</ul>\r\n\r\n<p>Experience:</p>\r\n\r\n<ul>\r\n\t<li>6+ years &nbsp;of experience in a related field</li>\r\n</ul>\r\n\r\n<p>Behavioural Competences:</p>\r\n\r\n<ul>\r\n\t<li>A design thinker comfortable with vagueness and unknowns</li>\r\n\t<li>A collaborator and co-creator with others</li>\r\n\t<li>An innovation rebel at heart that it is not scared to challenge and ask why</li>\r\n\t<li>Understand , appreciates and lives usability evaluation as. Craft</li>\r\n\t<li>Self motivated and open to feedback, experimentation and learning</li>\r\n\t<li>Passionate about finding the right problems and designing the right solutions</li>\r\n\t<li>A curious observer that is able to identify patterns and meaning through design.</li>\r\n</ul>\r\n\r\n<p><u>Personal Profile:</u></p>\r\n\r\n<ul>\r\n\t<li>No preference</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Design office at the\_<strong>Emirates NBD\_</strong>is looking for the\_<strong>Usability Manager.</strong></p>\n\n<p><u>Role reports to:</u>\_VP, Experience Design - Digital Office</p>\n\n<p><u>Job Purpose:</u>\_The Usability Manager, entails to work in various Human Centred Design methodologies. In this position he/she leads the evaluation of experiences to ensure they enable users achieve their goals.</p>\n\n<p><u>Job Content:</u></p>\n\n<p>Strategy:\_</p>\n\n<ul>\n\t<li>Develops a usability test plan for a product or service. This includes setting outcomes, metrics, participant criteria, data collection, techniques, usability lab tools and practices, accessibility standards, etc.</li>\n\t<li>Leads he creation of a usability lab as a strategic facility for testing and observation.</li>\n</ul>\n\n<p>Best Practices:</p>\n\n<ul>\n\t<li>Instills best practices for usability, by providing guidance on how to meet usability requirements, conduct tests and collect data to create recommendations for improvement.</li>\n</ul>\n\n<p>Evaluation:</p>\n\n<ul>\n\t<li>Coordinates and conducts moderated/non-moderated usability evaluations, both in person and remote for rapid iterative prototype testing and full-scale benchmarking on app/sites in production</li>\n</ul>\n\n<p>Communication:</p>\n\n<ul>\n\t<li>Builds recommendations and insights based on a solid foundation and understanding of usability metrics in areas of effectiveness, efficiency and satisfaction.</li>\n\t<li>Presents insights and recommendations to stakeholders and delivery teams.</li>\n</ul>\n\n<p><u>Specifications:</u></p>\n\n<p>Education:</p>\n\n<ul>\n\t<li>BA in Design, HCI, Psychology, Sociology or related field.</li>\n\t<li>MSc a plus and considered an asset.</li>\n</ul>\n\n<p>Experience:</p>\n\n<ul>\n\t<li>6+ years \_of experience in a related field</li>\n</ul>\n\n<p>Behavioural Competences:</p>\n\n<ul>\n\t<li>A design thinker comfortable with vagueness and unknowns</li>\n\t<li>A collaborator and co-creator with others</li>\n\t<li>An innovation rebel at heart that it is not scared to challenge and ask why</li>\n\t<li>Understand , appreciates and lives usability evaluation as. Craft</li>\n\t<li>Self motivated and open to feedback, experimentation and learning</li>\n\t<li>Passionate about finding the right problems and designing the right solutions</li>\n\t<li>A curious observer that is able to identify patterns and meaning through design.</li>\n</ul>\n\n<p><u>Personal Profile:</u></p>\n\n<ul>\n\t<li>No preference</li>\n</ul>\n\n<p>\_</p>\n"
+field_job_location:
+  -
+    value: 'Dubai, UAE'
+    format: full_html
+    processed: 'Dubai, UAE'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/lscolinm'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

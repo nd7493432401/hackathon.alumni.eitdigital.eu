@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6a284cb1-d9b2-41fd-b122-d4a5d83542ef
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/140
+alias:
+  -
+    value: /question-tags/alumni
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

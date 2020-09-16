@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 26b22001-9b57-4430-b9fd-6975a9d9d614
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/76
+alias:
+  -
+    value: /article/our-community-expands
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

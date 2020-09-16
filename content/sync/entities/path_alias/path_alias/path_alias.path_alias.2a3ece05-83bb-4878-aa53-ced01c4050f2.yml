@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2a3ece05-83bb-4878-aa53-ced01c4050f2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/527
+alias:
+  -
+    value: /job/alumni-community-coordinator
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

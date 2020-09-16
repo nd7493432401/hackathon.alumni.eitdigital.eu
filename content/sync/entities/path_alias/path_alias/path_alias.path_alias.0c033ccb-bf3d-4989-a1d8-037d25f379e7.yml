@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0c033ccb-bf3d-4989-a1d8-037d25f379e7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/50
+alias:
+  -
+    value: /candidate-type/technology-officer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

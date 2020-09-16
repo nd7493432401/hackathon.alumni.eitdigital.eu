@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: b1635bf4-4c41-43a1-abdd-4608551888c7
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: IMG_7503.jpg
+thumbnail:
+  -
+    alt: 'Slush 2017'
+    title: null
+    width: 3264
+    height: 2448
+    target_type: file
+    target_uuid: edeae7ec-43a9-486e-999b-3962f93d9561
+created:
+  -
+    value: '2020-05-02T09:24:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T09:24:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Slush 2017'
+    title: ''
+    width: 3264
+    height: 2448
+    target_type: file
+    target_uuid: edeae7ec-43a9-486e-999b-3962f93d9561
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.edeae7ec-43a9-486e-999b-3962f93d9561

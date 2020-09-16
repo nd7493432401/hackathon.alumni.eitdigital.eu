@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: fdf7db95-711d-40ad-a1b8-a570aa09dbef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Panagiotis Michail Tsakiris'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/panagiotis-michail-tsakiris
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>As most of you have already experienced, the key to EIT Digital’s success is the ability of its community to form strong bonding foundations. Some call it connections, I call it <strong>friendships</strong>. Throughout my 5 years involvement in the EIT community, I experienced this uncanny feeling which slowly lead me to where I am right now. Hi, my name is <strong>Panos</strong> and I am applying to become the next Events Officer of the EIT Digital Alumni.</p><p>&nbsp;</p><p>There is this one feeling which I can’t explain but it also seems quite familiar; whenever I meet another EIT student or alumni it always feels comfortable without any fear of judgement or race discrimination. There exists a genuine curiosity for the other person. whether you try to connect through common interests, exit university or same country there is always something that connects you</p><p>&nbsp;</p><p>This kind of comfort makes me curious to see what can come out of it. I believe it has big potential and a lot can be achieved the more the community grows and the more it is involved. Thankfully, the hardest part has already been developed by our previous board members and I have a huge respect for everything they have achieved, though it’s time to let some fresh people take over and evolve this community</p><p>&nbsp;</p><p>I would like to transfer my energy and curiosity to the role of Events officer and give my best to create the necessary means for the community to express themselves, their ideas and take away the most out of being part of the EIT Digital.</p>'
+    format: full_html
+    processed: "<p>As most of you have already experienced, the key to EIT Digital’s success is the ability of its community to form strong bonding foundations. Some call it connections, I call it <strong>friendships</strong>. Throughout my 5 years involvement in the EIT community, I experienced this uncanny feeling which slowly lead me to where I am right now. Hi, my name is <strong>Panos</strong> and I am applying to become the next Events Officer of the EIT Digital Alumni.</p><p>\_</p><p>There is this one feeling which I can’t explain but it also seems quite familiar; whenever I meet another EIT student or alumni it always feels comfortable without any fear of judgement or race discrimination. There exists a genuine curiosity for the other person. whether you try to connect through common interests, exit university or same country there is always something that connects you</p><p>\_</p><p>This kind of comfort makes me curious to see what can come out of it. I believe it has big potential and a lot can be achieved the more the community grows and the more it is involved. Thankfully, the hardest part has already been developed by our previous board members and I have a huge respect for everything they have achieved, though it’s time to let some fresh people take over and evolve this community</p><p>\_</p><p>I would like to transfer my energy and curiosity to the role of Events officer and give my best to create the necessary means for the community to express themselves, their ideas and take away the most out of being part of the EIT Digital.</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Panagiotis Michail Tsakiris'
+    format: full_html
+    processed: 'Panagiotis Michail Tsakiris'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>The big vision for the next two years is to provide enough EIT events, so that each and every one of the community has the opportunity to benefit for their own growth and development; this also means indirectly the growth and development of a stronger and more experienced community.&nbsp;</p><p>&nbsp;</p><p>My vision is to see a collaboration between interdisciplinary groups of people <strong>creating</strong> and <strong>growing</strong> together, whether this is out of a formation of a start-up (ideally) or just by the networking effect that happens on every event. By the end of my mandate, I would like to see the majority of the EIT community to feel fulfilled with their experiences of the events and opportunities.</p><p>&nbsp;</p><p>A community that is not afraid to take action. <strong>A community that makes ideas happen</strong></p><p>&nbsp;</p><p>It is easy to talk about all the potential EIT Digital has, but without any plans or actions, nothing will not come to fruition, so:</p><p>&nbsp;</p><p>My ideas to fulfil these goals are:</p><p><strong>- EIT Digital Vlog Series</strong><br>By making a series of videos visiting all the EIT nodes and capturing how exactly it is to live in those places as well as study, see the everyday life of an EIT Digital student and experience the beauty and magic of each and every one of those places. My candidacy will strongly impact this idea, and will try to build an online community of sharing moments with our fellow EIT students all over Europe!</p><p>Give more power to the people, we can manage to motivate not only student but also alumni to take initiatives and organise more local events where people can connect and exchange their ideas, I would want to be a part of each and every one of those events</p><p>&nbsp;</p><p>- Organise meaningful Hackathons, for the community to challenge their skills in multiple backgrounds</p><p>&nbsp;</p><p>- As a designer, I would like to re-design the EIT Digital Alumni logo and make T-shirts that people WANT to wear (I loved the 2018 Trento T-shirt), make the brand more appealing with all the future swag that will be distributed and directly or indirectly make people around curious of&nbsp;what EIT Digital is all about</p>'
+    format: full_html
+    processed: "<p>The big vision for the next two years is to provide enough EIT events, so that each and every one of the community has the opportunity to benefit for their own growth and development; this also means indirectly the growth and development of a stronger and more experienced community.\_</p><p>\_</p><p>My vision is to see a collaboration between interdisciplinary groups of people <strong>creating</strong> and <strong>growing</strong> together, whether this is out of a formation of a start-up (ideally) or just by the networking effect that happens on every event. By the end of my mandate, I would like to see the majority of the EIT community to feel fulfilled with their experiences of the events and opportunities.</p><p>\_</p><p>A community that is not afraid to take action. <strong>A community that makes ideas happen</strong></p><p>\_</p><p>It is easy to talk about all the potential EIT Digital has, but without any plans or actions, nothing will not come to fruition, so:</p><p>\_</p><p>My ideas to fulfil these goals are:</p><p><strong>- EIT Digital Vlog Series</strong><br />By making a series of videos visiting all the EIT nodes and capturing how exactly it is to live in those places as well as study, see the everyday life of an EIT Digital student and experience the beauty and magic of each and every one of those places. My candidacy will strongly impact this idea, and will try to build an online community of sharing moments with our fellow EIT students all over Europe!</p><p>Give more power to the people, we can manage to motivate not only student but also alumni to take initiatives and organise more local events where people can connect and exchange their ideas, I would want to be a part of each and every one of those events</p><p>\_</p><p>- Organise meaningful Hackathons, for the community to challenge their skills in multiple backgrounds</p><p>\_</p><p>- As a designer, I would like to re-design the EIT Digital Alumni logo and make T-shirts that people WANT to wear (I loved the 2018 Trento T-shirt), make the brand more appealing with all the future swag that will be distributed and directly or indirectly make people around curious of\_what EIT Digital is all about</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>A little bit about me, I am an EIT Digital graduate and for the past three years I have been a lead Designer in one of the biggest consulting agencies which specialises in creating software for satellites for companies such as European Space Agency, EUMETSAT and OneWeb. I feel confident that I will be able to take on a leading role in the EIT Digital community and launch it to unexplored areas</p><p>&nbsp;</p><p><strong>Seek &amp; Motivate</strong></p><p>My role as the Events Officer will be split into two:<br><br>The role of the <strong>seeker</strong>&nbsp;</p><p>Seek opportunities to host events where connections have already been made by the previous board members, but also seek new opportunities to host events in places where there were not explored yet. I can take initiatives to seek new ideas and collaborate with the other board members to bring them to life</p><p>The role of the <strong>motivator</strong></p><p>A big part of the role as understood by the previous Events Officer A.k.a Bobo, is to motivate people, therefore by seeking the right opportunities and causes I will be able to motivate students to take actions during their studies and organise more local events, as well as motivate the Alumni to take action and give back to the community in a way where everybody benefits. Mutual interests is always a great recipe to make things happen</p>'
+    format: full_html
+    processed: "<p>A little bit about me, I am an EIT Digital graduate and for the past three years I have been a lead Designer in one of the biggest consulting agencies which specialises in creating software for satellites for companies such as European Space Agency, EUMETSAT and OneWeb. I feel confident that I will be able to take on a leading role in the EIT Digital community and launch it to unexplored areas</p><p>\_</p><p><strong>Seek &amp; Motivate</strong></p><p>My role as the Events Officer will be split into two:<br /><br />The role of the <strong>seeker</strong>\_</p><p>Seek opportunities to host events where connections have already been made by the previous board members, but also seek new opportunities to host events in places where there were not explored yet. I can take initiatives to seek new ideas and collaborate with the other board members to bring them to life</p><p>The role of the <strong>motivator</strong></p><p>A big part of the role as understood by the previous Events Officer A.k.a Bobo, is to motivate people, therefore by seeking the right opportunities and causes I will be able to motivate students to take actions during their studies and organise more local events, as well as motivate the Alumni to take action and give back to the community in a way where everybody benefits. Mutual interests is always a great recipe to make things happen</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

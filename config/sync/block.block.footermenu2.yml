@@ -1,0 +1,29 @@
+uuid: 90e507d9-6e64-4207-ad3b-5bab160cfcaf
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer-menu-2
+  module:
+    - block_class
+    - system
+  theme:
+    - eitalumni
+third_party_settings:
+  block_class:
+    classes: 'col-sm-3 col-xs-6'
+id: footermenu2
+theme: eitalumni
+region: footer
+weight: -4
+provider: null
+plugin: 'system_menu_block:footer-menu-2'
+settings:
+  id: 'system_menu_block:footer-menu-2'
+  label: 'Terms of use'
+  provider: system
+  label_display: visible
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility: {  }

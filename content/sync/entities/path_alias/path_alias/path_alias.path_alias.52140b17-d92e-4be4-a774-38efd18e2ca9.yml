@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 52140b17-d92e-4be4-a774-38efd18e2ca9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/607
+alias:
+  -
+    value: /job/co-founders-developers
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

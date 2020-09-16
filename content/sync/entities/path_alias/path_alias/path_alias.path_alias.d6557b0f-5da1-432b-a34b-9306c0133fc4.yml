@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d6557b0f-5da1-432b-a34b-9306c0133fc4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/358
+alias:
+  -
+    value: /job/venture-developer-1
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

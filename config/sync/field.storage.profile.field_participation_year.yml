@@ -1,0 +1,20 @@
+uuid: 2997d4ea-16d0-4864-abff-a73b7fbac1ae
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - taxonomy
+id: profile.field_participation_year
+field_name: field_participation_year
+entity_type: profile
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

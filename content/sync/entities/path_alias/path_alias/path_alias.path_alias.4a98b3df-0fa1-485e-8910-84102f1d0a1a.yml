@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4a98b3df-0fa1-485e-8910-84102f1d0a1a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/588
+alias:
+  -
+    value: /job/machine-learning-intern-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3353b4cb-f94d-4022-b0fc-1f4e0585a3a0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/496
+alias:
+  -
+    value: /job/junior-machine-learning-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

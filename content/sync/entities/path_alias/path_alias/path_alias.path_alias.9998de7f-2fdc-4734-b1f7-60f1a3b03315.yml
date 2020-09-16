@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9998de7f-2fdc-4734-b1f7-60f1a3b03315
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/622
+alias:
+  -
+    value: /job/application-developer-civic-tech-startup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,23 @@
+uuid: 00acff12-77c5-4f99-9eaa-9b24d002ceb4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_apply_link
+    - node.type.job
+  module:
+    - link
+id: node.job.field_apply_link
+field_name: field_apply_link
+entity_type: node
+bundle: job
+label: 'Apply Link'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 2
+field_type: link

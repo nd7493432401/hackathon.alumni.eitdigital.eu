@@ -1,0 +1,94 @@
+uuid:
+  -
+    value: c2f951fd-cac7-42e5-a3e2-7c2afe603d4d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:26:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'San Francisco EIT Digital Alumni Drinks'
+created:
+  -
+    value: '2018-10-21T16:59:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:26:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/san-francisco-eit-digital-alumni-drinks
+body: {  }
+field_event_:
+  -
+    value: 'Palomino San Francisco'
+    format: full_html
+    processed: 'Palomino San Francisco'
+field_event_date:
+  -
+    value: '2018-11-01T17:30:00+01:00'
+    end_value: '2018-11-01T20:30:00+01:00'
+field_event_description:
+  -
+    value: "<p>Join us for the second San Francisco EIT Digital Alumni event! :) We are going for happy hour drinks and bites. This is a great opportunity to get to know each other a little bit and discuss <strong>why and how we ended up in SF</strong>, what we have learned so far here and what we are looking to learn.&nbsp;<br />\r\n<br />\r\nFollow <a href=\"https://www.facebook.com/events/479370305906226/\">our Facebook event</a> for more details and contact <a href=\"https://alumni.eitdigital.eu/users/rgmvisser\">Ruud</a> if needed!</p>\r\n"
+    format: full_html
+    processed: "<p>Join us for the second San Francisco EIT Digital Alumni event! :) We are going for happy hour drinks and bites. This is a great opportunity to get to know each other a little bit and discuss <strong>why and how we ended up in SF</strong>, what we have learned so far here and what we are looking to learn.\_<br />\n<br />\nFollow <a href=\"https://www.facebook.com/events/479370305906226/\">our Facebook event</a> for more details and contact <a href=\"https://alumni.eitdigital.eu/users/rgmvisser\">Ruud</a> if needed!</p>\n"
+field_event_duration: {  }
+field_event_image: {  }
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: c782bf79-01a8-453f-9829-1cb66ddd8af8
+field_event_introduction:
+  -
+    value: "<p>Our second event on the other side of the planet!</p>\r\n"
+    format: full_html
+    processed: "<p>Our second event on the other side of the planet!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 93b79d70-3775-4ba4-9a56-379ad9ee871e
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.c782bf79-01a8-453f-9829-1cb66ddd8af8
+    taxonomy_term:
+      - taxonomy_term.event_type.93b79d70-3775-4ba4-9a56-379ad9ee871e

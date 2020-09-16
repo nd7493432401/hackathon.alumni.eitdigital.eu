@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: c4268ae8-7c88-4e55-bbb2-80cc3a9588df
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: exit_universities
+    target_type: taxonomy_vocabulary
+    target_uuid: 23bd9b62-3607-4c2f-b9d6-640ab81a6981
+revision_created:
+  -
+    value: '2020-03-24T10:18:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'POLIMI Polytechnic University of Milan (Milano, Italy)'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:18:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /exit-universities/polimi-polytechnic-university-milan-milano-italy
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

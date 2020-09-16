@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 5cb26806-f54f-4dd8-92cf-1f1211b49cc1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T08:12:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT CONNECT 2016: Apply now!'
+created:
+  -
+    value: '2016-02-15T13:50:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T08:12:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-connect-2016-apply-now
+body: {  }
+field_event_:
+  -
+    value: Budapest
+    format: full_html
+    processed: Budapest
+field_event_date:
+  -
+    value: '2016-04-24T11:30:00+02:00'
+    end_value: '2016-04-25T11:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>Join students and alumni from all 5 (yes, five!) KICs at the next EIT CONNECT in Budapest.</p>\r\n\r\n<p>Apply now to get travel and accommodation covered by EIT!&nbsp;Application deadline is March 4th.</p>\r\n\r\n<p>Check out&nbsp;EIT's website&nbsp;to know more about the event, where you can find the&nbsp;EIT CONNECT 2016 agenda.</p>\r\n\r\n<p>See you there?</p>\r\n"
+    format: full_html
+    processed: "<p>Join students and alumni from all 5 (yes, five!) KICs at the next EIT CONNECT in Budapest.</p>\n\n<p>Apply now to get travel and accommodation covered by EIT!\_Application deadline is March 4th.</p>\n\n<p>Check out\_EIT's website\_to know more about the event, where you can find the\_EIT CONNECT 2016 agenda.</p>\n\n<p>See you there?</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 506f21de-b239-4e61-b738-64434ca40318
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 506f21de-b239-4e61-b738-64434ca40318
+field_event_introduction:
+  -
+    value: "<p>Meet students and alumni from all EIT KICs in Budapest at the EIT CONNECT event!</p>\r\n"
+    format: full_html
+    processed: "<p>Meet students and alumni from all EIT KICs in Budapest at the EIT CONNECT event!</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.506f21de-b239-4e61-b738-64434ca40318

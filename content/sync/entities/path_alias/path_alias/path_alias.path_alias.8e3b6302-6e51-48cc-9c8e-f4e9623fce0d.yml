@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8e3b6302-6e51-48cc-9c8e-f4e9623fce0d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/6
+alias:
+  -
+    value: /event-type/summer-school
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

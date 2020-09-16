@@ -1,0 +1,14 @@
+uuid: d7d1f81f-894d-44d1-a890-9c3b4ab99afa
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_master
+  module:
+    - user
+id: user_remove_role_action.potential_member_master
+label: 'Remove the Potential Member (Master) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: potential_member_master

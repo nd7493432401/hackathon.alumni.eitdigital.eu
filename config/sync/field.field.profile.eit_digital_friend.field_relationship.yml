@@ -1,0 +1,21 @@
+uuid: 1c24060b-61bc-4282-9a0d-7a3d4f2641f5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_relationship
+    - profile.type.eit_digital_friend
+  module:
+    - text
+id: profile.eit_digital_friend.field_relationship
+field_name: field_relationship
+entity_type: profile
+bundle: eit_digital_friend
+label: Relationship
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 008b8655-e525-4f61-bf94-d021400bb3c9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:56:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Working Groups Meeting 2020'
+created:
+  -
+    value: '2019-11-19T21:26:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:56:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/working-groups-meeting-2020
+body: {  }
+field_event_:
+  -
+    value: 'IBM, Calle de Sta Hortensia, 26, 28002 Madrid, Spain'
+    format: full_html
+    processed: 'IBM, Calle de Sta Hortensia, 26, 28002 Madrid, Spain'
+field_event_date:
+  -
+    value: '2020-02-08T08:00:00+01:00'
+    end_value: '2020-02-09T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Our <a href=\"https://alumni.eitdigital.eu/groups\" target=\"_blank\"><strong>Local Representatives</strong></a>&nbsp;and Working Group coordinators from all over Europe gather in the same location for an intense weekend of discussions about the&nbsp;upcoming events and plans for&nbsp;their communities.</p>\r\n\r\n<p>They will have the opportunity to network, exchange ideas and&nbsp;contribute to the <strong>growth strategy and vision</strong> for the whole EIT Digital Alumni.</p>\r\n\r\n<p>This event is&nbsp;co-sponsored and hosted&nbsp;by <strong>IBM Spain</strong>.</p>\r\n"
+    format: full_html
+    processed: "<p>Our <a href=\"https://alumni.eitdigital.eu/groups\" target=\"_blank\"><strong>Local Representatives</strong></a>\_and Working Group coordinators from all over Europe gather in the same location for an intense weekend of discussions about the\_upcoming events and plans for\_their communities.</p>\n\n<p>They will have the opportunity to network, exchange ideas and\_contribute to the <strong>growth strategy and vision</strong> for the whole EIT Digital Alumni.</p>\n\n<p>This event is\_co-sponsored and hosted\_by <strong>IBM Spain</strong>.</p>\n"
+field_event_duration:
+  -
+    value: 'All day'
+    format: full_html
+    processed: 'All day'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+field_event_introduction:
+  -
+    value: "<p>Weekend of workshops and networking for our most active alumni</p>\r\n"
+    format: full_html
+    processed: "<p>Weekend of workshops and networking for our most active alumni</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a7b9811-459e-4ffa-9b91-11b0c7f04e50
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+    taxonomy_term:
+      - taxonomy_term.event_type.8a7b9811-459e-4ffa-9b91-11b0c7f04e50

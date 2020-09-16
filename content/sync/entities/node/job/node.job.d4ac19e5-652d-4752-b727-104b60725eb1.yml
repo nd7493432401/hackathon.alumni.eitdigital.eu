@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: d4ac19e5-652d-4752-b727-104b60725eb1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Infrastructure Engineer (m/f/d)'
+created:
+  -
+    value: '2019-04-14T16:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:13:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/infrastructure-engineer-mfd
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.tooltime.de/jobs#jobform-374576'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: ToolTime
+    format: full_html
+    processed: ToolTime
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>There are more than a million craftsmen businesses in Germany that are increasingly stuck in paper based processes and unnecessary, outdated tools. That’s why BCG Digital Ventures decided to build ToolTime, a Software-as-a-Service solution for craftsmen together with two strong investors with in depth industry expertise.</p>\r\n\r\n<p>As an&nbsp;Infrastructure Engineer (m/f/d) at ToolTime&nbsp;you will build and scale with us the most innovative software solution, that will not only help home service businesses to cope with their office work in the easiest and most efficient way possible, but set them up for future growth and success.</p>\r\n\r\n<p>If you are familiar with tools and concepts such as&nbsp;Terraform, Service Discovery, Microservice Based Architecture, and DevOps practices, and have a good idea how to embed these in a company DNA you are most likely the person we are looking for. Let us know where you are and we will reach out to you!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<p>You will design and build Tooltime’s infrastructure as code</p>\r\n\r\n<p>Design and build services which will enable our engineers to easily migrate to microservice based architecture</p>\r\n\r\n<p>Provide guidance for basic monitoring and alerting for the team, so that we always stay informed about the state of our products</p>\r\n\r\n<p>Work together with engineers and ensure our solutions are secure</p>\r\n\r\n<p>Staying up-to-date with current technologies</p>\r\n\r\n<p>You take responsibility for the full stack: Build, test, deploy and maintain infrastructure components</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Requirements:</strong></p>\r\n\r\n<p>Expert or&nbsp;very good practical knowledge of AWS Cloud Computing platform</p>\r\n\r\n<p>Previous experience deploying maintainable and scalable systems based on reliable and fault-tolerant services</p>\r\n\r\n<p>Excellent English skills</p>\r\n\r\n<p>Nice to have: experience in full-stack development and in working with modern frontend and backend technologies and tools</p>\r\n\r\n<p>Good to know: Terraform</p>\r\n"
+    format: full_html
+    processed: "<p>There are more than a million craftsmen businesses in Germany that are increasingly stuck in paper based processes and unnecessary, outdated tools. That’s why BCG Digital Ventures decided to build ToolTime, a Software-as-a-Service solution for craftsmen together with two strong investors with in depth industry expertise.</p>\n\n<p>As an\_Infrastructure Engineer (m/f/d) at ToolTime\_you will build and scale with us the most innovative software solution, that will not only help home service businesses to cope with their office work in the easiest and most efficient way possible, but set them up for future growth and success.</p>\n\n<p>If you are familiar with tools and concepts such as\_Terraform, Service Discovery, Microservice Based Architecture, and DevOps practices, and have a good idea how to embed these in a company DNA you are most likely the person we are looking for. Let us know where you are and we will reach out to you!</p>\n\n<p>\_</p>\n\n<p><strong>Responsibilities:</strong></p>\n\n<p>You will design and build Tooltime’s infrastructure as code</p>\n\n<p>Design and build services which will enable our engineers to easily migrate to microservice based architecture</p>\n\n<p>Provide guidance for basic monitoring and alerting for the team, so that we always stay informed about the state of our products</p>\n\n<p>Work together with engineers and ensure our solutions are secure</p>\n\n<p>Staying up-to-date with current technologies</p>\n\n<p>You take responsibility for the full stack: Build, test, deploy and maintain infrastructure components</p>\n\n<p>\_</p>\n\n<p><strong>Requirements:</strong></p>\n\n<p>Expert or\_very good practical knowledge of AWS Cloud Computing platform</p>\n\n<p>Previous experience deploying maintainable and scalable systems based on reliable and fault-tolerant services</p>\n\n<p>Excellent English skills</p>\n\n<p>Nice to have: experience in full-stack development and in working with modern frontend and backend technologies and tools</p>\n\n<p>Good to know: Terraform</p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/verafuesthotm'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

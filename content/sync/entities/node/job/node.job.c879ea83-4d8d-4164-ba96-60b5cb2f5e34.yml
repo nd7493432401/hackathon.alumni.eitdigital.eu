@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: c879ea83-4d8d-4164-ba96-60b5cb2f5e34
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'PostDocs on Robotics & AI + Autonomous Vehicles'
+created:
+  -
+    value: '2017-08-02T07:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:41:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/postdocs-robotics-ai-autonomous-vehicles
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:david.filliat@ensta-paristech.fr'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'ENSTA ParisTech'
+    format: full_html
+    processed: 'ENSTA ParisTech'
+field_expiration_date:
+  -
+    value: '2017-11-02T02:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>POSITION 1</strong><br />\r\nPost-doc - Computer Vision and Machine Learning for Robotics, ENSTA ParisTech/INRIA, Palaiseau, France<br />\r\n<br />\r\n<strong>#Position description#</strong><br />\r\nThe Autonomous Systems and Robotics team at ENSTA ParisTech (http://asr.ensta.fr) and INRIA (http://flowers.inria.fr) is opening an 12 months postdoc position in the area of vision and machine learning, and in particular representation learning for robotics. The goal is to develop approaches that make it possible to learn relevant low dimensional representations from images that will support behavior learning. The position will take place in the context of the DREAM H2020 european project.<br />\r\n<br />\r\n<strong>#Context#</strong><br />\r\nThe DREAM European project (http://www.robotsthatdream.eu/) is focused on the bootstrap of a developmental process allowing a robot to learn about its environment and the objects it contains. DREAM is one of the five selected projects of the FET call (Future and Emerging Technologies) on « Knowing, doing, being: cognition beyond problem solving ». The position will be located in ENSTA ParisTech, Palaiseau, France, in the frame of the ENSTA ParisTech/INRIA FLOWERS team (http://flowers.inria.fr). The position involve robotics experiments that will be done in simulation and on the Baxter robot in close collaboration with the ISIR laboratory at UPMC (http://www.isir.upmc.fr/).<br />\r\n<br />\r\n<strong>#Requirements#</strong><br />\r\nWe are looking for highly motivated candidates with a strong academic record. An excellent background is expected with a PhD in computer vision for robotics, representation learning (e.g., deep learning), reinforcement learning or more generally machine learning. Significant experience in real robotics applications will be appreciated. Programming skills in modern C++ and python are expected, along with experience with ROS.<br />\r\n<br />\r\n<strong>#To apply#</strong><br />\r\nInquiry about the position can be directed to david.filliat@ensta-paristech.fr Applicants should send a CV, motivation letter (max 1 page), and a list of three references in a single pdf file to david.filliat@ensta-paristech.fr. Please put [DREAM post-doc] in the subject of the mail. Review of applicants will begin immediately, and will continue until the position is filled.</p>\r\n\r\n<p><br />\r\n<br />\r\n<strong>POSITION 2</strong><br />\r\nPostDoc - Navigation, decision making and teleoperation of autonomous vehicles (24 months - ENSTA ParisTech, Palaiseau, France)<br />\r\n<br />\r\n<strong>#Job Description#</strong><br />\r\nAs part of its work in robotics and intelligent vehicles, ENSTA ParisTech (http://www.ensta-paristech.fr) is recruiting a post-doctoral student to participate in the development of its activities. The areas covered will focus on navigation, path planning, decision making and remote operation of autonomous vehicles.<br />\r\n<br />\r\n<strong>#Main missions#</strong><br />\r\nThe post-doctoral student will integrate the Robotics and Autonomous Systems team of the Computer Science and Systems Engineering Unit (http://asr.ensta-paristech.fr) as part of the EVAPS project (http://pole-moveo.org/projects/evaps/). In collaboration with Renault and the other members of this project, its role will be:<br />\r\n- to orient the research work and to propose axes of development to the team of engineers working on these projects;<br />\r\n- ensure the development and evolution of navigation and remote operation functions for autonomous vehicles;<br />\r\n- participate in testing and validation campaigns in partnership with industry;<br />\r\n<br />\r\n<strong>#Required Skills#</strong><br />\r\nWe are looking for candidates with:<br />\r\n- a PhD in the field of mobile robotics or autonomous vehicles, in particular in navigation, trajectory planning, decision making and / or teleoperation.<br />\r\n- an experience of participation in collaborative research projects<br />\r\n- proficiency in programming and development languages ​​(python, C, C ++) and Linux,<br />\r\n- a good experience with the ROS system - http://www.ros.org,<br />\r\n- proven skills in software development and integration,<br />\r\n<br />\r\n<strong>#Profile#</strong><br />\r\nEngineer or master and PhD specialty robotics / computer science. Salary based on candidate's experience and profile. Duration of 24 months, to be filled as soon as possible.<br />\r\n<br />\r\n<strong>#Candidature#</strong><br />\r\nSend CV and cover letter in one file, in PDF format, to David Filliat - david.filliat@ensta-paristech.fr</p>\r\n"
+    format: full_html
+    processed: "<p><strong>POSITION 1</strong><br />\nPost-doc - Computer Vision and Machine Learning for Robotics, ENSTA ParisTech/INRIA, Palaiseau, France<br />\n<br />\n<strong>#Position description#</strong><br />\nThe Autonomous Systems and Robotics team at ENSTA ParisTech (http://asr.ensta.fr) and INRIA (http://flowers.inria.fr) is opening an 12 months postdoc position in the area of vision and machine learning, and in particular representation learning for robotics. The goal is to develop approaches that make it possible to learn relevant low dimensional representations from images that will support behavior learning. The position will take place in the context of the DREAM H2020 european project.<br />\n<br />\n<strong>#Context#</strong><br />\nThe DREAM European project (http://www.robotsthatdream.eu/) is focused on the bootstrap of a developmental process allowing a robot to learn about its environment and the objects it contains. DREAM is one of the five selected projects of the FET call (Future and Emerging Technologies) on « Knowing, doing, being: cognition beyond problem solving ». The position will be located in ENSTA ParisTech, Palaiseau, France, in the frame of the ENSTA ParisTech/INRIA FLOWERS team (http://flowers.inria.fr). The position involve robotics experiments that will be done in simulation and on the Baxter robot in close collaboration with the ISIR laboratory at UPMC (http://www.isir.upmc.fr/).<br />\n<br />\n<strong>#Requirements#</strong><br />\nWe are looking for highly motivated candidates with a strong academic record. An excellent background is expected with a PhD in computer vision for robotics, representation learning (e.g., deep learning), reinforcement learning or more generally machine learning. Significant experience in real robotics applications will be appreciated. Programming skills in modern C++ and python are expected, along with experience with ROS.<br />\n<br />\n<strong>#To apply#</strong><br />\nInquiry about the position can be directed to david.filliat@ensta-paristech.fr Applicants should send a CV, motivation letter (max 1 page), and a list of three references in a single pdf file to david.filliat@ensta-paristech.fr. Please put [DREAM post-doc] in the subject of the mail. Review of applicants will begin immediately, and will continue until the position is filled.</p>\n\n<p><br />\n<br />\n<strong>POSITION 2</strong><br />\nPostDoc - Navigation, decision making and teleoperation of autonomous vehicles (24 months - ENSTA ParisTech, Palaiseau, France)<br />\n<br />\n<strong>#Job Description#</strong><br />\nAs part of its work in robotics and intelligent vehicles, ENSTA ParisTech (http://www.ensta-paristech.fr) is recruiting a post-doctoral student to participate in the development of its activities. The areas covered will focus on navigation, path planning, decision making and remote operation of autonomous vehicles.<br />\n<br />\n<strong>#Main missions#</strong><br />\nThe post-doctoral student will integrate the Robotics and Autonomous Systems team of the Computer Science and Systems Engineering Unit (http://asr.ensta-paristech.fr) as part of the EVAPS project (http://pole-moveo.org/projects/evaps/). In collaboration with Renault and the other members of this project, its role will be:<br />\n- to orient the research work and to propose axes of development to the team of engineers working on these projects;<br />\n- ensure the development and evolution of navigation and remote operation functions for autonomous vehicles;<br />\n- participate in testing and validation campaigns in partnership with industry;<br />\n<br />\n<strong>#Required Skills#</strong><br />\nWe are looking for candidates with:<br />\n- a PhD in the field of mobile robotics or autonomous vehicles, in particular in navigation, trajectory planning, decision making and / or teleoperation.<br />\n- an experience of participation in collaborative research projects<br />\n- proficiency in programming and development languages ​​(python, C, C ++) and Linux,<br />\n- a good experience with the ROS system - http://www.ros.org,<br />\n- proven skills in software development and integration,<br />\n<br />\n<strong>#Profile#</strong><br />\nEngineer or master and PhD specialty robotics / computer science. Salary based on candidate's experience and profile. Duration of 24 months, to be filled as soon as possible.<br />\n<br />\n<strong>#Candidature#</strong><br />\nSend CV and cover letter in one file, in PDF format, to David Filliat - david.filliat@ensta-paristech.fr</p>\n"
+field_job_location:
+  -
+    value: Paris
+    format: full_html
+    processed: Paris
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

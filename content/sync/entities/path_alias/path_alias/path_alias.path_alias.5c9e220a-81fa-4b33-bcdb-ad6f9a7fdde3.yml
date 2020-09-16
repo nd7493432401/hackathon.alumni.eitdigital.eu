@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5c9e220a-81fa-4b33-bcdb-ad6f9a7fdde3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/142
+alias:
+  -
+    value: /candidate/shikhar-singh
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

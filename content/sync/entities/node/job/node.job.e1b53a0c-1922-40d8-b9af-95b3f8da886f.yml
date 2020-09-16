@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: e1b53a0c-1922-40d8-b9af-95b3f8da886f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'SAP TM Consultant'
+created:
+  -
+    value: '2019-11-25T17:51:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:42:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/sap-tm-consultant
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000MG&tz=GMT%2B01%3A00&tzname'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>Deloitte is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.</p>\r\n\r\n<p>Our Consulting practice within Deloitte has a strong reputation and track record as Business Performance Consultants. We are a recognized leader in helping clients solve complex business problems, differentiated by our ability to execute on the advice we provide. Our multi-disciplinary competencies allow us to address CXO issues from every angle.</p>\r\n\r\n<div id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\r\n<div title=\"\">&nbsp;</div>\r\n\r\n<div id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><strong>Your Profile</strong></div>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Good understanding of the Supply Chain and logistics processes.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Solid SAP TM background mainly in the area of the shipper’s or shipping line scenario’s.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Minimum 2 years of project experience in SAP TM and involved in the different project phases.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>This SAP TM expertise combined with other SAP modules as (EM, SD, EWM or GTS) is an asset</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Eager to work on national/international projects.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Effective orals and written communications</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Knowledge on Agile (certification not required)</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>University Degree or equivalent by working experience</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Fluent in English is a must and any knowledge in German, French or Dutch is an asset</p>\r\n\t</li>\r\n</ul>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>Deloitte is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.</p>\n\n<p>Our Consulting practice within Deloitte has a strong reputation and track record as Business Performance Consultants. We are a recognized leader in helping clients solve complex business problems, differentiated by our ability to execute on the advice we provide. Our multi-disciplinary competencies allow us to address CXO issues from every angle.</p>\n\n<div id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\n<div title=\"\">\_</div>\n\n<div id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><strong>Your Profile</strong></div>\n\n<ul>\n\t<li>\n\t<p>Good understanding of the Supply Chain and logistics processes.</p>\n\t</li>\n\t<li>\n\t<p>Solid SAP TM background mainly in the area of the shipper’s or shipping line scenario’s.</p>\n\t</li>\n\t<li>\n\t<p>Minimum 2 years of project experience in SAP TM and involved in the different project phases.</p>\n\t</li>\n\t<li>\n\t<p>This SAP TM expertise combined with other SAP modules as (EM, SD, EWM or GTS) is an asset</p>\n\t</li>\n\t<li>\n\t<p>Eager to work on national/international projects.</p>\n\t</li>\n\t<li>\n\t<p>Effective orals and written communications</p>\n\t</li>\n\t<li>\n\t<p>Knowledge on Agile (certification not required)</p>\n\t</li>\n\t<li>\n\t<p>University Degree or equivalent by working experience</p>\n\t</li>\n\t<li>\n\t<p>Fluent in English is a must and any knowledge in German, French or Dutch is an asset</p>\n\t</li>\n</ul>\n</div>\n"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

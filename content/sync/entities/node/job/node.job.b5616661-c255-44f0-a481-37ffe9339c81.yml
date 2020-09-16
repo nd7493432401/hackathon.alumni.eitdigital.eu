@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b5616661-c255-44f0-a481-37ffe9339c81
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: '(Senior) Backend Engineer (m/f/d)'
+created:
+  -
+    value: '2019-04-13T10:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:17:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-backend-engineer-mfd-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.tooltime.de/jobs#jobform-370011'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: ToolTime
+    format: full_html
+    processed: ToolTime
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>There are more than a million craftsmen businesses in Germany that are increasingly stuck in paper based processes and unnecessary, outdated tools. That’s why BCG Digital Ventures decided to build ToolTime, a Software-as-a-Service solution for craftsmen together with two strong investors with in depth industry expertise. As&nbsp;Senior Backend Engineer (m/f/d)&nbsp;at ToolTime you will build and scale with us the most innovative software solution, that will not only help home service businesses to cope with their office work in the easiest and most efficient way possible, but set them up for future growth and success.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Responsibilities:</strong></p>\r\n\r\n<p>Design, build, scale and maintain Tooltime’s backend architecture (based on Java, Spring, Docker, Kubernetes, Postgres, Terraform, AWS, GraphQL and Jooq)</p>\r\n\r\n<p>Lead the technical development for large areas of the product</p>\r\n\r\n<p>Provide technical leadership, guiding more junior team members</p>\r\n\r\n<p>Work closely with the frontend, UX, and product teams to design and implement new features</p>\r\n\r\n<p>Help to grow and develop the backend team, playing a role in the process of hiring new team members &nbsp;</p>\r\n\r\n<p>Foster a culture of continuous delivery and test-driven development</p>\r\n\r\n<p>Champion good agile practices that provide a foundation for iterative product development</p>\r\n\r\n<p>Staying up-to-date with current technologies</p>\r\n\r\n<p>Solving challenging problems in areas such as:&nbsp; communication &amp; chat, scheduling &amp; disposition, routing &amp; navigation, order management and documentation</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Requirements:</strong></p>\r\n\r\n<p>Several years of experience in software design and development&nbsp;</p>\r\n\r\n<p>Experience in technologies such as Java, Spring, Docker, Kubernetes, Postgres, Terraform, AWS, GraphQL and Jooq</p>\r\n\r\n<p>Experience in working or willingness to learn GraphQL</p>\r\n\r\n<p>Tracking, analyzing, and monitoring technology performance metrics</p>\r\n\r\n<p>Experience working with agile, lean, test-driven and continuous delivery approaches</p>\r\n\r\n<p>Willingness to relocate to Berlin</p>\r\n\r\n<p>Excellent English skills</p>\r\n"
+    format: full_html
+    processed: "<p>There are more than a million craftsmen businesses in Germany that are increasingly stuck in paper based processes and unnecessary, outdated tools. That’s why BCG Digital Ventures decided to build ToolTime, a Software-as-a-Service solution for craftsmen together with two strong investors with in depth industry expertise. As\_Senior Backend Engineer (m/f/d)\_at ToolTime you will build and scale with us the most innovative software solution, that will not only help home service businesses to cope with their office work in the easiest and most efficient way possible, but set them up for future growth and success.</p>\n\n<p>\_</p>\n\n<p><strong>Responsibilities:</strong></p>\n\n<p>Design, build, scale and maintain Tooltime’s backend architecture (based on Java, Spring, Docker, Kubernetes, Postgres, Terraform, AWS, GraphQL and Jooq)</p>\n\n<p>Lead the technical development for large areas of the product</p>\n\n<p>Provide technical leadership, guiding more junior team members</p>\n\n<p>Work closely with the frontend, UX, and product teams to design and implement new features</p>\n\n<p>Help to grow and develop the backend team, playing a role in the process of hiring new team members \_</p>\n\n<p>Foster a culture of continuous delivery and test-driven development</p>\n\n<p>Champion good agile practices that provide a foundation for iterative product development</p>\n\n<p>Staying up-to-date with current technologies</p>\n\n<p>Solving challenging problems in areas such as:\_ communication &amp; chat, scheduling &amp; disposition, routing &amp; navigation, order management and documentation</p>\n\n<p>\_</p>\n\n<p><strong>Requirements:</strong></p>\n\n<p>Several years of experience in software design and development\_</p>\n\n<p>Experience in technologies such as Java, Spring, Docker, Kubernetes, Postgres, Terraform, AWS, GraphQL and Jooq</p>\n\n<p>Experience in working or willingness to learn GraphQL</p>\n\n<p>Tracking, analyzing, and monitoring technology performance metrics</p>\n\n<p>Experience working with agile, lean, test-driven and continuous delivery approaches</p>\n\n<p>Willingness to relocate to Berlin</p>\n\n<p>Excellent English skills</p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link:
+  -
+    uri: 'https://de.linkedin.com/in/vera-fuest-77243a65'
+    title: Contact
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

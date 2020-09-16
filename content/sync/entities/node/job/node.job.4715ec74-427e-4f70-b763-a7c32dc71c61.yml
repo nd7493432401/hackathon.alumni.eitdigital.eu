@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 4715ec74-427e-4f70-b763-a7c32dc71c61
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Software Engineer / Developer'
+created:
+  -
+    value: '2019-01-13T18:24:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:52:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/software-engineer-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:hr@mxc.org'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: MXC
+    format: full_html
+    processed: MXC
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p style=\"margin-bottom:6.0pt\"><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\"><a href=\"http://mxc.org\">MXC</a> is Unleashing a Massive <strong>IoT Global Data Network</strong> in 40+ countries. O</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">ur IoT solutions provide a wide scope of essential data services, measuring everything from air-quality, water purity &amp; even commuter traffic. Together with the MXProtocol we're not only delivering Smart Cities, we're improving lives!</span></span></span><br />\r\n<span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Also we understand Data Hardware complexities. MXC has exclusive, fully functional, global hardware infrastructure partnerships in many countries. </span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">We’re looking for developers with curious minds who like challenges, who would like to work with <strong>LPWAN</strong>, <strong>blockchains</strong>, cryptocurrencies, and the future of IoT and society. The ideal candidates will be responsible for developing high-quality applications.</span></span></span><br />\r\n&nbsp;</p>\r\n\r\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\"><span style=\"font-family:Roboto\">Responsibilities</span></span></b></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Developing new prototypes and production applications using the latest technologies;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Customization of the solution based on individual clients' requirements;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Support of blockchain sharding/forking;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Designing and implementing testable and scalable code;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Writing&nbsp;scalable, high volume services for LPWAN crypto infrastructure.</span></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\"><span style=\"font-family:Roboto\">Skills and experience</span></span></b></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- 5+ years of professional experience in backend as Software Engineer/Developer;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Ability to quickly deliver clean robust code with just the right amount of abstraction;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Good knowledge of </span></span>NodeJS<span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\"> (2+ years);</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Experience in optimising computation-intensive solutions;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Basic Smart Contract knowledge is a plus;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Understanding of major blockchains like Ethereum, IOTA, Stellar is an advantage.</span></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\"><span style=\"font-family:Roboto\">Working conditions</span></span></b></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Modern office in the center of Berlin;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Everyday use of modern development tools/frameworks, high degrees of responsibility and autonomy;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">Great opportunities for personal and professional growth and an attractive working environment in a dynamically growing LPWAN/blockchain sector;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">- Friendly and professional atmosphere in a team, we like to work together;</span></span></span></p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">-&nbsp;</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">More than a month as a paid vacation every year.</span></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\"><span style=\"font-family:Roboto\">We look forward to your application! Send please your <strong>cover letter and CV</strong> (incl. photo) in English in MS Word or PDF format to hr@mxc.org</span></span></span></p>\r\n"
+    format: full_html
+    processed: "<p style=\"margin-bottom:6.0pt\"><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\"><a href=\"http://mxc.org\">MXC</a> is Unleashing a Massive <strong>IoT Global Data Network</strong> in 40+ countries. O</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">ur IoT solutions provide a wide scope of essential data services, measuring everything from air-quality, water purity &amp; even commuter traffic. Together with the MXProtocol we're not only delivering Smart Cities, we're improving lives!</span></span></span><br />\n<span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Also we understand Data Hardware complexities. MXC has exclusive, fully functional, global hardware infrastructure partnerships in many countries. </span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">We’re looking for developers with curious minds who like challenges, who would like to work with <strong>LPWAN</strong>, <strong>blockchains</strong>, cryptocurrencies, and the future of IoT and society. The ideal candidates will be responsible for developing high-quality applications.</span></span></span><br />\n\_</p>\n\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Responsibilities</span></span></b></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Developing new prototypes and production applications using the latest technologies;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Customization of the solution based on individual clients' requirements;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Support of blockchain sharding/forking;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Designing and implementing testable and scalable code;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Writing\_scalable, high volume services for LPWAN crypto infrastructure.</span></span></span></p>\n\n<p>\_</p>\n\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Skills and experience</span></span></b></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- 5+ years of professional experience in backend as Software Engineer/Developer;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Ability to quickly deliver clean robust code with just the right amount of abstraction;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Good knowledge of </span></span>NodeJS<span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\"> (2+ years);</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Experience in optimising computation-intensive solutions;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Basic Smart Contract knowledge is a plus;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Understanding of major blockchains like Ethereum, IOTA, Stellar is an advantage.</span></span></span></p>\n\n<p>\_</p>\n\n<p><span style=\"line-height:normal\"><b><span lang=\"EN\" style=\"font-size:13.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Working conditions</span></span></b></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Modern office in the center of Berlin;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Everyday use of modern development tools/frameworks, high degrees of responsibility and autonomy;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">Great opportunities for personal and professional growth and an attractive working environment in a dynamically growing LPWAN/blockchain sector;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">- Friendly and professional atmosphere in a team, we like to work together;</span></span></span></p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">-\_</span></span></span><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">More than a month as a paid vacation every year.</span></span></span></p>\n\n<p>\_</p>\n\n<p><span style=\"line-height:normal\"><span lang=\"EN\" style=\"font-size:12.0pt\" xml:lang=\"EN\"><span style=\"font-family:Roboto\">We look forward to your application! Send please your <strong>cover letter and CV</strong> (incl. photo) in English in MS Word or PDF format to hr@mxc.org</span></span></span></p>\n"
+field_job_location:
+  -
+    value: 'Berlin, Germany'
+    format: full_html
+    processed: 'Berlin, Germany'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/sheenhx'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

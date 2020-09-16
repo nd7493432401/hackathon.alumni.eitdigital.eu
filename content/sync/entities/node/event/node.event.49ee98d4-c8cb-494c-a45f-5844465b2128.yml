@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 49ee98d4-c8cb-494c-a45f-5844465b2128
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:45:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Christmas Pizza by Budapest Alumni'
+created:
+  -
+    value: '2017-12-14T16:31:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:45:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/christmas-pizza-budapest-alumni
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital Budapest Co-Location Centre'
+    format: full_html
+    processed: 'EIT Digital Budapest Co-Location Centre'
+field_event_date:
+  -
+    value: '2017-12-22T14:00:00+01:00'
+    end_value: '2017-12-22T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Hello all,<br />\r\nThis is the first event of the local EIT Digital Alumni group in Budapest, so it will be a <strong>pizza night</strong>, just to get to know each other.<br />\r\nEveryone can present in <strong>5-10 minutes what they have been up to since the master</strong>, but if you would only come to have a chat with the old friends and make some new ones, that's also fine.<br />\r\nEveryone who was or is learning/teaching/working for EIT (Digital) is invited. Even if you don't fit in any of the above categories, but happen to know a handful of those people, or just be interested in doing these things in the future, we would be happy to see you.</p>\r\n\r\n<p><strong>Agenda:</strong></p>\r\n\r\n<p>4pm: Meeting &amp; snacks<br />\r\n5pm: Alumni presentations<br />\r\n6:30: Pizza &amp; Networking</p>\r\n\r\n<p><a href=\"http://bit.ly/pizza-buda\">PLEASE REGISTER HERE</a><br />\r\n<br />\r\nIf you have any question, leave a post on the <a href=\"https://www.facebook.com/events/1968904483330913/\">Facebook event</a>&nbsp;or contact us directly: <a href=\"https://alumni.eitdigital.eu/users/ferrari\">Charles Ferrari</a>, <a href=\"https://alumni.eitdigital.eu/users/mark\">Márk Szabó-Simon</a></p>\r\n"
+    format: full_html
+    processed: "<p>Hello all,<br />\nThis is the first event of the local EIT Digital Alumni group in Budapest, so it will be a <strong>pizza night</strong>, just to get to know each other.<br />\nEveryone can present in <strong>5-10 minutes what they have been up to since the master</strong>, but if you would only come to have a chat with the old friends and make some new ones, that's also fine.<br />\nEveryone who was or is learning/teaching/working for EIT (Digital) is invited. Even if you don't fit in any of the above categories, but happen to know a handful of those people, or just be interested in doing these things in the future, we would be happy to see you.</p>\n\n<p><strong>Agenda:</strong></p>\n\n<p>4pm: Meeting &amp; snacks<br />\n5pm: Alumni presentations<br />\n6:30: Pizza &amp; Networking</p>\n\n<p><a href=\"http://bit.ly/pizza-buda\">PLEASE REGISTER HERE</a><br />\n<br />\nIf you have any question, leave a post on the <a href=\"https://www.facebook.com/events/1968904483330913/\">Facebook event</a>\_or contact us directly: <a href=\"https://alumni.eitdigital.eu/users/ferrari\">Charles Ferrari</a>, <a href=\"https://alumni.eitdigital.eu/users/mark\">Márk Szabó-Simon</a></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 6e670fcf-12ab-4904-a536-3e4f7ccf31a5
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 6e670fcf-12ab-4904-a536-3e4f7ccf31a5
+field_event_introduction:
+  -
+    value: "<p>The first event of the local EIT Digital Alumni group in Budapest: a pizza night to get to know each other!</p>\r\n"
+    format: full_html
+    processed: "<p>The first event of the local EIT Digital Alumni group in Budapest: a pizza night to get to know each other!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.6e670fcf-12ab-4904-a536-3e4f7ccf31a5
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

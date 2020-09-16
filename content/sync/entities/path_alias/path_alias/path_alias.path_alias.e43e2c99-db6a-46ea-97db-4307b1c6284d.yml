@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e43e2c99-db6a-46ea-97db-4307b1c6284d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/492
+alias:
+  -
+    value: /job/full-stack-software-developer-javaangular
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: 212bd1dd-8889-4a6a-b0d3-c1d550101196
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: group
+    target_type: node_type
+    target_uuid: 5a7a2c83-1d9b-4fa9-b57e-077492357b47
+revision_timestamp:
+  -
+    value: '2020-03-26T14:41:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Helsinki Local Community'
+created:
+  -
+    value: '2020-03-26T14:39:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T09:24:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /group/helsinki-local-community
+body: {  }
+field_external_group_webpage:
+  -
+    uri: 'https://www.facebook.com/groups/1579062102142314/'
+    title: 'Join our Facebook group!'
+    options: {  }
+field_group_dec:
+  -
+    value: "<p>The Helsinki Local Community was established in <strong>2016</strong>. We started with a <a href=\"https://alumni.eitdigital.eu/event/first-eit-alumni-meetup-helsinki\">first meetup</a> co-organized with Climate-KIC Alumni Association and hosted by <strong>Turbiini</strong> Accelerator. In <strong>2017</strong>, several of our local members helped during the <a href=\"https://alumni.eitdigital.eu/event/6th-master-school-kick\">Master School Kick-Off</a>, serving as mentors and volunteers.<br />\r\n<br />\r\nThen, in <strong>2018</strong>, our Local Team organized <strong>2 great events</strong>: a <a href=\"https://alumni.eitdigital.eu/event/eit-digital-alumni-helsinki-jump-start\">jump-start meetup</a>&nbsp;in Helsinki, which brought together at Eficode a wonderful group of people, who brainstormed different ways and ideas to support our local community; and,&nbsp;last November, another successful event -&nbsp;the&nbsp;<a href=\"https://alumni.eitdigital.eu/event/pre-slush-alumni-outreach\">Pre-Slush Alumni Outreach</a>. This event featured <strong>more than 50 colleagues</strong> from the EIT Digital and Climate-KIC communities, telling their experiences about moving from university into the professional work life and sharing some useful advices with fellow alumni. Also our&nbsp;<a href=\"https://alumni.eitdigital.eu/group/EITwomen\">Women@EIT</a> have been quite active, attracting <strong>dozens of attendees</strong> at their events.</p>\r\n\r\n<p>We are&nbsp;excited to be welcoming more people in our team!&nbsp;Feel free to <strong>join our&nbsp;<a href=\"https://t.me/joinchat/B9zZXRCerd33h3K1scck9g\">Telegram group</a></strong>&nbsp;and help us&nbsp;<a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a>&nbsp;/ suggest even <strong>more events</strong>!</p>\r\n\r\n<p><strong>Special thanks&nbsp;</strong>to all group members who have contributed to the Finland Local Community and made it what it is today:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/wbock\">Wilfried Bock</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/juhanas\">Juhana Suhonen</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/jcamposanok\">José Carlos Camposano</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/mary\">Mary Chan</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/karolinadrobotowicz\">Karolina Drobotowicz</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/cfiere\">Clément Fiere</a></li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/lenahegemann\">Lena Hegemann</a></li>\r\n</ul>\r\n"
+    format: basic_html
+    processed: "<p>The Helsinki Local Community was established in <strong>2016</strong>. We started with a <a href=\"https://alumni.eitdigital.eu/event/first-eit-alumni-meetup-helsinki\">first meetup</a> co-organized with Climate-KIC Alumni Association and hosted by <strong>Turbiini</strong> Accelerator. In <strong>2017</strong>, several of our local members helped during the <a href=\"https://alumni.eitdigital.eu/event/6th-master-school-kick\">Master School Kick-Off</a>, serving as mentors and volunteers.<br />\n<br />\nThen, in <strong>2018</strong>, our Local Team organized <strong>2 great events</strong>: a <a href=\"https://alumni.eitdigital.eu/event/eit-digital-alumni-helsinki-jump-start\">jump-start meetup</a>\_in Helsinki, which brought together at Eficode a wonderful group of people, who brainstormed different ways and ideas to support our local community; and,\_last November, another successful event -\_the\_<a href=\"https://alumni.eitdigital.eu/event/pre-slush-alumni-outreach\">Pre-Slush Alumni Outreach</a>. This event featured <strong>more than 50 colleagues</strong> from the EIT Digital and Climate-KIC communities, telling their experiences about moving from university into the professional work life and sharing some useful advices with fellow alumni. Also our\_<a href=\"https://alumni.eitdigital.eu/group/EITwomen\">Women@EIT</a> have been quite active, attracting <strong>dozens of attendees</strong> at their events.</p>\n\n<p>We are\_excited to be welcoming more people in our team!\_Feel free to <strong>join our\_<a href=\"https://t.me/joinchat/B9zZXRCerd33h3K1scck9g\">Telegram group</a></strong>\_and help us\_<a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a>\_/ suggest even <strong>more events</strong>!</p>\n\n<p><strong>Special thanks\_</strong>to all group members who have contributed to the Finland Local Community and made it what it is today:</p>\n\n<ul>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/wbock\">Wilfried Bock</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/juhanas\">Juhana Suhonen</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/jcamposanok\">José Carlos Camposano</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/mary\">Mary Chan</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/karolinadrobotowicz\">Karolina Drobotowicz</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/cfiere\">Clément Fiere</a></li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/lenahegemann\">Lena Hegemann</a></li>\n</ul>\n"
+field_group_image:
+  -
+    target_type: media
+    target_uuid: fd69691c-9fc5-426e-b2f2-706832ea34b8
+field_group_intro_image:
+  -
+    target_type: media
+    target_uuid: fd69691c-9fc5-426e-b2f2-706832ea34b8
+field_group_introduction:
+  -
+    value: "<p>The official group of the EIT Digital Alumni in the Helsinki region</p>\r\n"
+    format: basic_html
+    processed: "<p>The official group of the EIT Digital Alumni in the Helsinki region</p>\n"
+field_group_leader:
+  -
+    value: 'Juhana Suhonen'
+    format: basic_html
+    processed: 'Juhana Suhonen'
+field_group_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1792da6-0a9c-4e09-b6a3-123e2766ebc8
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.fd69691c-9fc5-426e-b2f2-706832ea34b8
+    taxonomy_term:
+      - taxonomy_term.alumni_group_type.b1792da6-0a9c-4e09-b6a3-123e2766ebc8

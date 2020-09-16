@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d3bb3936-d577-47aa-b5b0-d280b5850faa
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/262
+alias:
+  -
+    value: /event/womeneit-3-entrepreneurial-afternoon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7f6f30bd-315a-4ebc-9bc0-00b459776812
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/605
+alias:
+  -
+    value: /job/post-doc-computer-vision-machine-learning-robotics
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

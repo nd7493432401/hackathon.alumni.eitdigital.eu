@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c0a5df73-defa-46a1-a5e8-facfa99628b5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/380
+alias:
+  -
+    value: /job/computer-vision-and-data-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

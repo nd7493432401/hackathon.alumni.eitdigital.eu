@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 464ea027-9b95-4ff1-8c1b-31b0d9c87269
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:51:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni CONNECT 2018'
+created:
+  -
+    value: '2018-07-26T18:06:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:51:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/eit-alumni-connect-2018
+body:
+  -
+    value: "<p><strong>“Connect, Collaborate, Innovate”</strong> with fellow entrepreneurs and like-minded alumni at the EIT Alumni CONNECT 2018! Taking place in Budapest on October 5th, more than 120 alumni and students from the whole <a href=\"http://eit.europa.eu/\" target=\"_blank\">EIT Community</a> will come together to share their knowledge, enthusiasm and experiences.</p>\r\n\r\n<p style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\">JOIN THIS EVENT</a></strong></span></p>\r\n\r\n<p>A fantastic series of workshops, each led by members of the different communities of the <a href=\"https://eitalumni.eu/our-community/\" target=\"_blank\">EIT Alumni family</a>, is lined up for you! Here you will have the opportunity to break through the borders of your sector, dive into the unknown, and collaborate with alumni from entirely different fields of expertise! <a href=\"https://community.innoenergy.com/\" target=\"_blank\">Energy</a>, <a href=\"https://www.eithealth.eu/alumni\" target=\"_blank\">Health</a>, <a href=\"http://alumni.eitdigital.eu/\" target=\"_blank\">Digital</a>, <a href=\"https://eitrawmaterials.eu/eit-rawmaterials-alumni-association-takes-shape-in-berlin/\" target=\"_blank\">Raw Materials</a> and <a href=\"http://ckaa.eu/\" target=\"_blank\">Climate</a>: all under one roof!</p>\r\n\r\n<p><strong>And, in addition:</strong><br />\r\n→ find potential partners for future collaboration opportunities<br />\r\n→ take part in a variety of thought-provoking and challenging discussions<br />\r\n→ gain valuable advice and insights from our keynote speakers<br />\r\n→ meet the <a href=\"https://eitalumni.eu/about/our-board/\" target=\"_blank\">EIT Alumni Board</a> and have a say in shaping the future of our community</p>\r\n\r\n<p>This exciting event will be hosted at the <a href=\"http://www.brody.land/brody-studios/\" target=\"_blank\">Brody Studios</a>, a wonderfully “ruinesque” venue situated in the heart of Budapest. As an additional benefit, <strong>2 nights accommodation</strong> in Budapest will be provided to the lucky participants!<br />\r\n<br />\r\nThe EIT Alumni CONNECT is one of the best chances you get to truly celebrate the diversity of the EIT Community. We hope you can join!</p>\r\n\r\n<p><strong>Wanna join this awesome event?&nbsp;</strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\" target=\"_blank\">Apply&nbsp;</a>before <strong>Sunday, August 19th</strong>, by following the instructions at the link below:<br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\">JOIN THIS EVENT</a></strong></span></p>\r\n\r\n<p><meta charset=\"utf-8\"></p>\r\n"
+    format: full_html
+    processed: "<p><strong>“Connect, Collaborate, Innovate”</strong> with fellow entrepreneurs and like-minded alumni at the EIT Alumni CONNECT 2018! Taking place in Budapest on October 5th, more than 120 alumni and students from the whole <a href=\"http://eit.europa.eu/\" target=\"_blank\">EIT Community</a> will come together to share their knowledge, enthusiasm and experiences.</p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\">JOIN THIS EVENT</a></strong></span></p>\n\n<p>A fantastic series of workshops, each led by members of the different communities of the <a href=\"https://eitalumni.eu/our-community/\" target=\"_blank\">EIT Alumni family</a>, is lined up for you! Here you will have the opportunity to break through the borders of your sector, dive into the unknown, and collaborate with alumni from entirely different fields of expertise! <a href=\"https://community.innoenergy.com/\" target=\"_blank\">Energy</a>, <a href=\"https://www.eithealth.eu/alumni\" target=\"_blank\">Health</a>, <a href=\"http://alumni.eitdigital.eu/\" target=\"_blank\">Digital</a>, <a href=\"https://eitrawmaterials.eu/eit-rawmaterials-alumni-association-takes-shape-in-berlin/\" target=\"_blank\">Raw Materials</a> and <a href=\"http://ckaa.eu/\" target=\"_blank\">Climate</a>: all under one roof!</p>\n\n<p><strong>And, in addition:</strong><br />\n→ find potential partners for future collaboration opportunities<br />\n→ take part in a variety of thought-provoking and challenging discussions<br />\n→ gain valuable advice and insights from our keynote speakers<br />\n→ meet the <a href=\"https://eitalumni.eu/about/our-board/\" target=\"_blank\">EIT Alumni Board</a> and have a say in shaping the future of our community</p>\n\n<p>This exciting event will be hosted at the <a href=\"http://www.brody.land/brody-studios/\" target=\"_blank\">Brody Studios</a>, a wonderfully “ruinesque” venue situated in the heart of Budapest. As an additional benefit, <strong>2 nights accommodation</strong> in Budapest will be provided to the lucky participants!<br />\n<br />\nThe EIT Alumni CONNECT is one of the best chances you get to truly celebrate the diversity of the EIT Community. We hope you can join!</p>\n\n<p><strong>Wanna join this awesome event?\_</strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\" target=\"_blank\">Apply\_</a>before <strong>Sunday, August 19th</strong>, by following the instructions at the link below:<br />\n\_</p>\n\n<p dir=\"ltr\" style=\"text-align: center;\"><span style=\"font-size:24px;\"><strong><a href=\"http://alumni.eitdigital.eu/event/eit-alumni-connect-2018\">JOIN THIS EVENT</a></strong></span></p>\n\n<p><meta charset=\"utf-8\" /></p>\n"
+    summary: '“Connect, Collaborate, Innovate” with fellow entrepreneurs and like-minded alumni at the EIT Alu'
+    summary_processed: '“Connect, Collaborate, Innovate” with fellow entrepreneurs and like-minded alumni at the EIT Alu'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Applications are open to interact with the broader EIT Alumni community in the charming city of Budapest!'
+field_image:
+  -
+    target_type: media
+    target_uuid: ace19a88-a4bc-4c75-9460-40871f924c20
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.ace19a88-a4bc-4c75-9460-40871f924c20

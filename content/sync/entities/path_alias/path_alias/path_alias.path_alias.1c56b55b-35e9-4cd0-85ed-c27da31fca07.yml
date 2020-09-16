@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1c56b55b-35e9-4cd0-85ed-c27da31fca07
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/132
+alias:
+  -
+    value: /local-representative/trento-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

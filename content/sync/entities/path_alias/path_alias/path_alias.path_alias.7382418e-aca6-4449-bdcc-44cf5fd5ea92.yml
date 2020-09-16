@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7382418e-aca6-4449-bdcc-44cf5fd5ea92
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/29
+alias:
+  -
+    value: /event-type/conference
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: d3f1f6c3-fd05-45bf-9958-a852945f3b91
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-06T12:29:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Tuesday Afterwork: Citizen engagement & communities'
+created:
+  -
+    value: '2020-04-28T13:44:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-06T12:29:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/tuesday-afterwork-citizen-engagement-communities
+body: {  }
+field_event_:
+  -
+    value: 'Google Meet (link): https://meet.google.com/ntp-qgpc-zcp'
+    format: basic_html
+    processed: 'Google Meet (link): https://meet.google.com/ntp-qgpc-zcp'
+field_event_date:
+  -
+    value: '2020-05-12T19:00:00+02:00'
+    end_value: '2020-05-12T20:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>Presentations:</p>\r\n\r\n<ul>\r\n\t<li><strong>“La Machinerie: Where fablab meets social entrepreneurship”</strong> by&nbsp;<a href=\"https://alumni.eitdigital.eu/users/giardi\">Vincent Giardina</a>\r\n\r\n\t<ul>\r\n\t\t<li><em>\"I present the initiative of La&nbsp;Machinerie, which combines tech with social entrepreneurship. It is a unique place in France, where you can meet people building their own cyber hand, ex-prisoners learning to code or even social entrepreneurs creating the tech service for the community. This place combines a fablab and co-working place. Around that, we have tens of projects going on with very diverse goals but one direction: Social improvement of the community. I will support this presentation with my journey as a fab manager and social entrepreneur for la Machinerie: How my coding or design skills served my mission, and what this unique experience taught me.\"</em></li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>\"How can tech make a difference amid a pandemic?”</strong> by&nbsp;<a href=\"https://alumni.eitdigital.eu/users/yating\">Yating Lu</a> and <a href=\"https://alumni.eitdigital.eu/users/xuemei-yu\">Xuemei Yu</a>\r\n\t<ul>\r\n\t\t<li><em>\"Going through the coronavirus in China, I want to reflect on how tech can make a difference&nbsp;in it. I would like to analyze the current technical solutions that we have adopted to help control the epidemic, comparing to 17 years ago, when there was another epidemic caused by SARS. I also want us to think about what should be improved in prevention for the next epidemic.\"</em></li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p>Q&amp;A / Open discussion</p>\r\n\r\n<ul>\r\n\t<li>Moderator: <a href=\"https://alumni.eitdigital.eu/users/avani-yu\">Jiayao Yu</a></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Online meeting link</strong>:&nbsp;</p>\r\n\r\n<p><a href=\"https://meet.google.com/ntp-qgpc-zcp\">https://meet.google.com/ntp-qgpc-zcp</a></p>\r\n\r\n<p><em>* Please note this event will be recorded and uploaded to the EIT Digital Alumni YouTube channel</em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Find the full schedule and topics of the <em>Tuesday Afterwork</em> event series&nbsp;<a href=\"https://alumni.eitdigital.eu/event/tuesday-afterwork-series\">HERE</a></p>\r\n"
+    format: basic_html
+    processed: "<p>Presentations:</p>\n\n<ul>\n\t<li><strong>“La Machinerie: Where fablab meets social entrepreneurship”</strong> by\_<a href=\"https://alumni.eitdigital.eu/users/giardi\">Vincent Giardina</a>\n\n\t<ul>\n\t\t<li><em>\"I present the initiative of La\_Machinerie, which combines tech with social entrepreneurship. It is a unique place in France, where you can meet people building their own cyber hand, ex-prisoners learning to code or even social entrepreneurs creating the tech service for the community. This place combines a fablab and co-working place. Around that, we have tens of projects going on with very diverse goals but one direction: Social improvement of the community. I will support this presentation with my journey as a fab manager and social entrepreneur for la Machinerie: How my coding or design skills served my mission, and what this unique experience taught me.\"</em></li>\n\t</ul>\n\t</li>\n\t<li><strong>\"How can tech make a difference amid a pandemic?”</strong> by\_<a href=\"https://alumni.eitdigital.eu/users/yating\">Yating Lu</a> and <a href=\"https://alumni.eitdigital.eu/users/xuemei-yu\">Xuemei Yu</a>\n\t<ul>\n\t\t<li><em>\"Going through the coronavirus in China, I want to reflect on how tech can make a difference\_in it. I would like to analyze the current technical solutions that we have adopted to help control the epidemic, comparing to 17 years ago, when there was another epidemic caused by SARS. I also want us to think about what should be improved in prevention for the next epidemic.\"</em></li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Q&amp;A / Open discussion</p>\n\n<ul>\n\t<li>Moderator: <a href=\"https://alumni.eitdigital.eu/users/avani-yu\">Jiayao Yu</a></li>\n</ul>\n\n<p>\_</p>\n\n<p><strong>Online meeting link</strong>:\_</p>\n\n<p><a href=\"https://meet.google.com/ntp-qgpc-zcp\">https://meet.google.com/ntp-qgpc-zcp</a></p>\n\n<p><em>* Please note this event will be recorded and uploaded to the EIT Digital Alumni YouTube channel</em></p>\n\n<p>\_</p>\n\n<p>Find the full schedule and topics of the <em>Tuesday Afterwork</em> event series\_<a href=\"https://alumni.eitdigital.eu/event/tuesday-afterwork-series\">HERE</a></p>\n"
+field_event_duration:
+  -
+    value: '19:00 - 20:00'
+    format: basic_html
+    processed: '19:00 - 20:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: ee7ca957-0c9f-4a8b-b2c5-bf1267adae33
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: ee7ca957-0c9f-4a8b-b2c5-bf1267adae33
+field_event_introduction:
+  -
+    value: "<p>Alumni talks of the Annual Meeting 2020: Social responsibility in tech (Part I)</p>\r\n"
+    format: basic_html
+    processed: "<p>Alumni talks of the Annual Meeting 2020: Social responsibility in tech (Part I)</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.ee7ca957-0c9f-4a8b-b2c5-bf1267adae33
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

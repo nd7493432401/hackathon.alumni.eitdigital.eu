@@ -1,0 +1,21 @@
+uuid: 4a3e4d44-5345-48bb-aec3-a30044dcc4ce
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_extra_information
+    - profile.type.eit_digital_employee
+  module:
+    - text
+id: profile.eit_digital_employee.field_extra_information
+field_name: field_extra_information
+entity_type: profile
+bundle: eit_digital_employee
+label: 'Extra Information'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 433a7959-b737-4d03-ab33-4ad2a1da2902
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/345
+alias:
+  -
+    value: /job/sap-gts-sr-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

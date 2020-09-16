@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5d6a810c-b92d-4edd-89ab-81bfcbf0e675
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/198
+alias:
+  -
+    value: /event/lorawan-workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

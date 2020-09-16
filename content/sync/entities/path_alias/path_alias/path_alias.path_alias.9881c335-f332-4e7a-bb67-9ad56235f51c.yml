@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9881c335-f332-4e7a-bb67-9ad56235f51c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/386
+alias:
+  -
+    value: /job/cto-full-stack-backend-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

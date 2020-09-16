@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cdbfa46e-945b-467e-b622-ef3d8673d484
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/442
+alias:
+  -
+    value: /job/ux-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 16359ce4-59c1-439a-abd4-5817d9f0225e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/48
+alias:
+  -
+    value: /article-categories/eit-awards
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

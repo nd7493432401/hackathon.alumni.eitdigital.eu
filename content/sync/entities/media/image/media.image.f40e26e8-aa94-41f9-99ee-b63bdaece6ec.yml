@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: f40e26e8-aa94-41f9-99ee-b63bdaece6ec
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-08T19:12:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 71D9B6D5-8680-4FA7-B516-7C6595E04435.png
+thumbnail:
+  -
+    alt: 'Tuesday AW'
+    title: null
+    width: 1080
+    height: 1080
+    target_type: file
+    target_uuid: d49bc50a-bf7a-4403-9d4e-821cdf14e1d8
+created:
+  -
+    value: '2020-06-08T19:12:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-08T19:12:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Tuesday AW'
+    title: ''
+    width: 1080
+    height: 1080
+    target_type: file
+    target_uuid: d49bc50a-bf7a-4403-9d4e-821cdf14e1d8
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.d49bc50a-bf7a-4403-9d4e-821cdf14e1d8

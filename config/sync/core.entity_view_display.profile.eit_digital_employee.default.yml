@@ -1,0 +1,102 @@
+uuid: c902698a-5f7d-4bb1-b8ec-076880747aa6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_employee.field_eit_connection
+    - field.field.profile.eit_digital_employee.field_employee_from
+    - field.field.profile.eit_digital_employee.field_employee_role
+    - field.field.profile.eit_digital_employee.field_employee_to
+    - field.field.profile.eit_digital_employee.field_extra_information
+    - field.field.profile.eit_digital_employee.field_office
+    - profile.type.eit_digital_employee
+  module:
+    - ds
+    - options
+    - text
+third_party_settings:
+  ds:
+    layout:
+      id: bs_2col_stacked
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          top:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+          left:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          right:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          bottom:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      top:
+        - field_employee_role
+        - field_office
+      left:
+        - field_employee_from
+      right:
+        - field_employee_to
+id: profile.eit_digital_employee.default
+targetEntityType: profile
+bundle: eit_digital_employee
+mode: default
+content:
+  field_employee_from:
+    weight: 2
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: left
+  field_employee_role:
+    weight: 0
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: top
+  field_employee_to:
+    weight: 3
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: right
+  field_office:
+    weight: 1
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+    region: top
+hidden:
+  field_eit_connection: true
+  field_extra_information: true

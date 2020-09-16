@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3591e44c-b9e8-45fe-bcfb-ea757e762ec5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/50
+alias:
+  -
+    value: /users/romethesp
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 5b590330-0eab-4ea3-b1f8-e9045354001f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:53:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT Leadership Intensive'
+created:
+  -
+    value: '2018-11-27T21:54:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:53:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/womeneit-leadership-intensive
+body:
+  -
+    value: "<p><a href=\"http://women.eitalumni.eu\">Women@EIT</a> was started with the passion to work towards a common goal: ‘Bringing the&nbsp; female community of the EIT together and creating a sense of belonging’. After receiving a great response in Stockholm and Berlin, it was time for us to expand across Europe.</p>\r\n\r\n<p>From our experiences, we found that while there is a lot of enthusiasm around such communities, very few want to lead. We realised a potential in these shortcomings and decided to organize a workshop to impart the necessary leadership skills.</p>\r\n\r\n<p>Thus was born the idea of the ‘Leadership Intensive’, an annual workshop aimed at empowering women from across the EIT Alumni Community who are eager to take the initiative of <a href=\"http://women.eitalumni.eu\">Women@EIT</a> forward.</p>\r\n\r\n<p>The first edition of our leadership intensive took place from the 9th to the 11th of November, 2018 at the&nbsp;<u><a href=\"https://www.eitdigital.eu/about-us/locations/london-node/\">EIT Digital CLC, London</a></u>.&nbsp;Special thanks to CLC manger Justina Senkus for supporting us and offering the venue.</p>\r\n\r\n<p>We had the privilege of hosting speakers like Gen Ashley: Director of&nbsp;<a href=\"https://www.womenwhocode.com/\">Women Who Code London</a>, Reemma Puredath: Co-Director of&nbsp;<a href=\"http://www.sheplusplus.com/\">She++</a>&nbsp;and Catalina Butnaru:&nbsp;<a href=\"https://city.ai/\">CITY.AI</a>&nbsp;Ambassador for London.</p>\r\n\r\n<p>Our founders Dori Palfi and Maria Kanov conducted interesting discussion and team bonding sessions. Meanwhile, I talked about the aspects we need to touch upon as organizers. The participants were then provided with templates for event proposals. At the end of the event, the participants presented their event proposals and received valuable feedback from the organizers and other participants.</p>\r\n\r\n<p>View the&nbsp;<a href=\"https://www.facebook.com/pg/womenatEIT/photos/?tab=album&amp;album_id=1168007466708181\">full event photo album here.</a></p>\r\n\r\n<p>Read what&nbsp;Climate-KIC Alumna Giulia Marzetti has to say about the event:</p>\r\n\r\n<p><em>\"On 9<sup>th</sup>-11<sup>th</sup>&nbsp;November I was honored to take part in the first cohort of the Women @ EIT leadership intensive course. I was one of the 10 women alumni selected. The weekend brought together some amazing women with varied backgrounds, who have already contributed to building and supporting the EIT Alumni community. Almost all the Innovation Communities were represented, with attendees from EIT Climate-KIC, EIT InnoEnergy, EIT Digital and Health joining us.</em></p>\r\n\r\n<p><em><img alt=\"\" height=\"400\" src=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/11/Women@EIT-1.jpg\" width=\"546\" /></em></p>\r\n\r\n<p><em>The Leadership Intensive weekend aimed at strengthening the community, fostering initiatives to promote women in STEM fields and increasing the visibility of the EIT among potential female applicants of the EIT’s education and business acceleration programmes.</em></p>\r\n\r\n<p><em>During the 3-day event, we got introduced to leadership techniques to encompass the <a href=\"http://women.eitalumni.eu\">Women@EIT</a> core values of Diversity, Professionalism, and Integration and we had the chance to discuss and exchange ideas and experiences among us.</em></p>\r\n\r\n<p><em>During the weekend, we had the chance to submit event proposals for 2019 and discuss the future of <a href=\"http://women.eitalumni.eu\">Women@EIT</a>. These ranged from talks with female leaders, coding boot-camps, hackathons aiming at solving real issues, and summers schools.</em></p>\r\n\r\n<p><em><img alt=\"\" height=\"445\" src=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/11/pic-1.jpg\" width=\"569\" /></em></p>\r\n\r\n<p><em>A major takeaway from the event was that I am finally part of a community of driven women who are passionate and committed to make the EIT thrive and to share their love for science and STEM. I felt empowered, part of a community, and I can tackle going out there and organize events and creating opportunities.</em></p>\r\n\r\n<p><em>I am looking forward to organize events in my city, bringing female influencers on board and to organize the next Leadership Course and welcome attendees of all the Innovation&nbsp;communities.</em></p>\r\n\r\n<p><em>Do you have any ideas of a good event to promote women and EIT? Feel free to&nbsp;<a href=\"http://women.eitalumni.eu/\">get in touch.</a>\"</em></p>\r\n\r\n<p><br />\r\n<strong><a href=\"https://alumni.eitdigital.eu/users/kuberaspeaking\" target=\"_blank\">Shruti Kuber</a> (EIT Digital Alumna) and Giulia Marzetti (EIT Climate-KIC Alumna)</strong><br />\r\n[originally posted on the <a href=\"https://eitalumni.eu/blog/2018/11/26/womeneit-leadership-intensive-a-productive-first-meeting/\">EIT Alumni website</a>]</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"http://women.eitalumni.eu\">Women@EIT</a> was started with the passion to work towards a common goal: ‘Bringing the\_ female community of the EIT together and creating a sense of belonging’. After receiving a great response in Stockholm and Berlin, it was time for us to expand across Europe.</p>\n\n<p>From our experiences, we found that while there is a lot of enthusiasm around such communities, very few want to lead. We realised a potential in these shortcomings and decided to organize a workshop to impart the necessary leadership skills.</p>\n\n<p>Thus was born the idea of the ‘Leadership Intensive’, an annual workshop aimed at empowering women from across the EIT Alumni Community who are eager to take the initiative of <a href=\"http://women.eitalumni.eu\">Women@EIT</a> forward.</p>\n\n<p>The first edition of our leadership intensive took place from the 9th to the 11th of November, 2018 at the\_<u><a href=\"https://www.eitdigital.eu/about-us/locations/london-node/\">EIT Digital CLC, London</a></u>.\_Special thanks to CLC manger Justina Senkus for supporting us and offering the venue.</p>\n\n<p>We had the privilege of hosting speakers like Gen Ashley: Director of\_<a href=\"https://www.womenwhocode.com/\">Women Who Code London</a>, Reemma Puredath: Co-Director of\_<a href=\"http://www.sheplusplus.com/\">She++</a>\_and Catalina Butnaru:\_<a href=\"https://city.ai/\">CITY.AI</a>\_Ambassador for London.</p>\n\n<p>Our founders Dori Palfi and Maria Kanov conducted interesting discussion and team bonding sessions. Meanwhile, I talked about the aspects we need to touch upon as organizers. The participants were then provided with templates for event proposals. At the end of the event, the participants presented their event proposals and received valuable feedback from the organizers and other participants.</p>\n\n<p>View the\_<a href=\"https://www.facebook.com/pg/womenatEIT/photos/?tab=album&amp;album_id=1168007466708181\">full event photo album here.</a></p>\n\n<p>Read what\_Climate-KIC Alumna Giulia Marzetti has to say about the event:</p>\n\n<p><em>\"On 9<sup>th</sup>-11<sup>th</sup>\_November I was honored to take part in the first cohort of the Women @ EIT leadership intensive course. I was one of the 10 women alumni selected. The weekend brought together some amazing women with varied backgrounds, who have already contributed to building and supporting the EIT Alumni community. Almost all the Innovation Communities were represented, with attendees from EIT Climate-KIC, EIT InnoEnergy, EIT Digital and Health joining us.</em></p>\n\n<p><em><img alt=\"\" height=\"400\" src=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/11/Women@EIT-1.jpg\" width=\"546\" /></em></p>\n\n<p><em>The Leadership Intensive weekend aimed at strengthening the community, fostering initiatives to promote women in STEM fields and increasing the visibility of the EIT among potential female applicants of the EIT’s education and business acceleration programmes.</em></p>\n\n<p><em>During the 3-day event, we got introduced to leadership techniques to encompass the <a href=\"http://women.eitalumni.eu\">Women@EIT</a> core values of Diversity, Professionalism, and Integration and we had the chance to discuss and exchange ideas and experiences among us.</em></p>\n\n<p><em>During the weekend, we had the chance to submit event proposals for 2019 and discuss the future of <a href=\"http://women.eitalumni.eu\">Women@EIT</a>. These ranged from talks with female leaders, coding boot-camps, hackathons aiming at solving real issues, and summers schools.</em></p>\n\n<p><em><img alt=\"\" height=\"445\" src=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/11/pic-1.jpg\" width=\"569\" /></em></p>\n\n<p><em>A major takeaway from the event was that I am finally part of a community of driven women who are passionate and committed to make the EIT thrive and to share their love for science and STEM. I felt empowered, part of a community, and I can tackle going out there and organize events and creating opportunities.</em></p>\n\n<p><em>I am looking forward to organize events in my city, bringing female influencers on board and to organize the next Leadership Course and welcome attendees of all the Innovation\_communities.</em></p>\n\n<p><em>Do you have any ideas of a good event to promote women and EIT? Feel free to\_<a href=\"http://women.eitalumni.eu/\">get in touch.</a>\"</em></p>\n\n<p><br />\n<strong><a href=\"https://alumni.eitdigital.eu/users/kuberaspeaking\" target=\"_blank\">Shruti Kuber</a> (EIT Digital Alumna) and Giulia Marzetti (EIT Climate-KIC Alumna)</strong><br />\n[originally posted on the <a href=\"https://eitalumni.eu/blog/2018/11/26/womeneit-leadership-intensive-a-productive-first-meeting/\">EIT Alumni website</a>]</p>\n"
+    summary: 'Women@EIT was started with the passion to work towards a common goal: ‘Bringing the&nbsp; female c'
+    summary_processed: "Women@EIT was started with the passion to work towards a common goal: ‘Bringing the\_ female c"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'Read a recap of the Women@EIT Leadership Intensive and watch out for new events in 2019!'
+field_image:
+  -
+    target_type: media
+    target_uuid: a0a52a3e-5ba9-48de-828f-0a718b43dbe9
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.a0a52a3e-5ba9-48de-828f-0a718b43dbe9

@@ -1,0 +1,21 @@
+uuid: f5521064-1553-4721-9f88-46a3bd801754
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_eit_connection
+    - profile.type.eit_digital_employee
+  module:
+    - options
+id: profile.eit_digital_employee.field_eit_connection
+field_name: field_eit_connection
+entity_type: profile
+bundle: eit_digital_employee
+label: 'EIT Connection'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

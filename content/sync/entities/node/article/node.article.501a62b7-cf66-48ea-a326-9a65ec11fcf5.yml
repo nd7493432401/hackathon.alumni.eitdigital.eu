@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 501a62b7-cf66-48ea-a326-9a65ec11fcf5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:08:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Physical Board Meeting 2019 Oct'
+created:
+  -
+    value: '2019-11-01T07:11:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:08:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/physical-board-meeting-2019-oct
+body:
+  -
+    value: "<p>A couple of weeks ago, the current&nbsp;Alumni Board had its first physical meeting together in Brussels. Two days of intense&nbsp;discussions with a long list of points&nbsp;that we were eager to review since being elected in June this year. On the agenda there was a wide variety of topics, ranging from concrete plans for our upcoming events to the overall mission and vision of the Foundation&nbsp;over the next 2 years.</p>\r\n\r\n<p>It is our aim to continue promoting even&nbsp;more <strong>professionalism</strong>, <strong>openness</strong>&nbsp;and <strong>community networking</strong> over our mandate. These principles will apply&nbsp;not only in our events and meetups, but also in our own governance, planning and internal activities, to bring a <strong>stronger sense of belonging</strong> to all EIT Digital Alumni.&nbsp;</p>\r\n\r\n<p>We would also like to strengthen our brand, by boosting our <strong>own identity and value</strong> towards the wider tech community. We aim at making this value more visible not only to external stakeholders&nbsp;but also to our own members, by expanding our reach beyond regular meetup events, supporting the creation of new working groups and developing longer-term training programs.&nbsp;</p>\r\n\r\n<p>As a result of&nbsp;all these discussions, we have defined a long list of action points that we will focus on during our 2019-2021 mandate and we can’t wait to get started! But for the time being, we want to share some exciting announcements about our following steps&nbsp;until next year:</p>\r\n\r\n<ul>\r\n\t<li>We have the opportunity to <strong>expand our current Alumni Board</strong> from 5 members to 7 members! We will be <a href=\"http://bit.ly/digitalumni_board_election_201912\" target=\"_blank\">announcing these interesting new roles</a>&nbsp;in mid-November, with the aim of having the 2 new board members joining us from January 2020 for the rest of our mandate. Thus, EIT Digital Master's students <a href=\"https://alumni.eitdigital.eu/event/master-school-graduation-ceremony-2019\" target=\"_blank\">graduating in 2019</a> will be also eligible to apply as candidates for these new positions.</li>\r\n\t<li>We are also having an <a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">Open Call to all Alumni Members</a> to pitch their ideas and decide the location for our <strong>Annual Meeting in 2020</strong>. We would like to involve local communities in the decision making process and organisation of our future meetings and hope this is a great first step in that direction.&nbsp;</li>\r\n\t<li>We have also launched&nbsp;once again our annual <strong><a href=\"https://alumni.eitdigital.eu/article/ambassador-program-2019\" target=\"_blank\">start-up competition</a>&nbsp;</strong>and this time, we will send the lucky winner to <strong>TechCrunch Disrupt Berlin 2019</strong>! Find out in the next days who will&nbsp;become our 2019 ambassador!</li>\r\n\t<li>We will&nbsp;implement a more structured process to follow-up on the status of different local groups&nbsp;through&nbsp;a <a href=\"https://alumni.eitdigital.eu/article/rethinking-our-local-communities-and-events\" target=\"_blank\"><strong>Working Group Survey (WGS)</strong></a>, which will be sent to local representatives twice per year, to understand their plans and budget requirements, providing timely support to organize&nbsp;local alumni events&nbsp;and manage our Foundation&nbsp;resources more efficiently.</li>\r\n\t<li>Based on the results of the first WGS, we will decide the list of&nbsp;participants invited to our next&nbsp;<a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\" target=\"_blank\"><strong>Local Reps Gathering in early&nbsp;2020</strong></a>.&nbsp;The WGS&nbsp;will also serve as&nbsp;application form for any alumni interested in creating&nbsp;new local- or activity-based working groups within our community.</li>\r\n</ul>\r\n\r\n<p>As always, your alumni board is ready and eager to support you. We will be back in touch with more news soon, but in the meantime, don't hesitate to get in touch with us via alumni@eitdigital.eu :)</p>\r\n"
+    format: full_html
+    processed: "<p>A couple of weeks ago, the current\_Alumni Board had its first physical meeting together in Brussels. Two days of intense\_discussions with a long list of points\_that we were eager to review since being elected in June this year. On the agenda there was a wide variety of topics, ranging from concrete plans for our upcoming events to the overall mission and vision of the Foundation\_over the next 2 years.</p>\n\n<p>It is our aim to continue promoting even\_more <strong>professionalism</strong>, <strong>openness</strong>\_and <strong>community networking</strong> over our mandate. These principles will apply\_not only in our events and meetups, but also in our own governance, planning and internal activities, to bring a <strong>stronger sense of belonging</strong> to all EIT Digital Alumni.\_</p>\n\n<p>We would also like to strengthen our brand, by boosting our <strong>own identity and value</strong> towards the wider tech community. We aim at making this value more visible not only to external stakeholders\_but also to our own members, by expanding our reach beyond regular meetup events, supporting the creation of new working groups and developing longer-term training programs.\_</p>\n\n<p>As a result of\_all these discussions, we have defined a long list of action points that we will focus on during our 2019-2021 mandate and we can’t wait to get started! But for the time being, we want to share some exciting announcements about our following steps\_until next year:</p>\n\n<ul>\n\t<li>We have the opportunity to <strong>expand our current Alumni Board</strong> from 5 members to 7 members! We will be <a href=\"http://bit.ly/digitalumni_board_election_201912\" target=\"_blank\">announcing these interesting new roles</a>\_in mid-November, with the aim of having the 2 new board members joining us from January 2020 for the rest of our mandate. Thus, EIT Digital Master's students <a href=\"https://alumni.eitdigital.eu/event/master-school-graduation-ceremony-2019\" target=\"_blank\">graduating in 2019</a> will be also eligible to apply as candidates for these new positions.</li>\n\t<li>We are also having an <a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">Open Call to all Alumni Members</a> to pitch their ideas and decide the location for our <strong>Annual Meeting in 2020</strong>. We would like to involve local communities in the decision making process and organisation of our future meetings and hope this is a great first step in that direction.\_</li>\n\t<li>We have also launched\_once again our annual <strong><a href=\"https://alumni.eitdigital.eu/article/ambassador-program-2019\" target=\"_blank\">start-up competition</a>\_</strong>and this time, we will send the lucky winner to <strong>TechCrunch Disrupt Berlin 2019</strong>! Find out in the next days who will\_become our 2019 ambassador!</li>\n\t<li>We will\_implement a more structured process to follow-up on the status of different local groups\_through\_a <a href=\"https://alumni.eitdigital.eu/article/rethinking-our-local-communities-and-events\" target=\"_blank\"><strong>Working Group Survey (WGS)</strong></a>, which will be sent to local representatives twice per year, to understand their plans and budget requirements, providing timely support to organize\_local alumni events\_and manage our Foundation\_resources more efficiently.</li>\n\t<li>Based on the results of the first WGS, we will decide the list of\_participants invited to our next\_<a href=\"https://alumni.eitdigital.eu/event/local-reps-gathering-q1-2020\" target=\"_blank\"><strong>Local Reps Gathering in early\_2020</strong></a>.\_The WGS\_will also serve as\_application form for any alumni interested in creating\_new local- or activity-based working groups within our community.</li>\n</ul>\n\n<p>As always, your alumni board is ready and eager to support you. We will be back in touch with more news soon, but in the meantime, don't hesitate to get in touch with us via alumni@eitdigital.eu :)</p>\n"
+    summary: 'A couple of weeks ago, the current&nbsp;Alumni Board had its first physical meeting together in Brus'
+    summary_processed: "A couple of weeks ago, the current\_Alumni Board had its first physical meeting together in Brus"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'A couple of weeks ago, the EIT Digital Alumni Board had its first physical meeting together in Brussels.'
+field_image:
+  -
+    target_type: media
+    target_uuid: 307f4c1b-79c3-49a7-a195-e9d7eeb723e6
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.307f4c1b-79c3-49a7-a195-e9d7eeb723e6

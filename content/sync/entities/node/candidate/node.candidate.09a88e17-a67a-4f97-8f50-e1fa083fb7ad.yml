@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 09a88e17-a67a-4f97-8f50-e1fa083fb7ad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Cristian Prigoana'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/cristian-prigoana
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>First of all, I would like to mention that I was thrilled to see open positions at the governing board of the Digital Alumni network, after not being eligible to apply during the last election in April. I remember discussing with a (EIT) friend what a great way to learn skills that matter and to give back to the EIT community this is. Therefore, I knew from when the moment I found out about this opportunity that this is something for me and I saw myself already in the shoes of a Digital Alumni board member, more precisely an Outreach &amp; Partnerships Officer.<br>Secondly, I am applying this particular position because of my interest in becoming a more confident negotiator and a better deal closer, from which all involved parties win. I believe that these skills are among the most underrated fundamental skills in both personal and business life, since after all "In business as in life, you don''t get what you deserve, you get what you negotiate" (Chester L. Karrass). In addition, gaining leadership skills is on my mandatory to-do list as well. Having had some great mentors and bosses, I would like too to be that boss who brings to the surface the talents in other people and who carries the weights through the storm.<br>Thirdly, thinking of how much EIT Digital and EIT Digital Alumni has done for me as a student, I do see now the world through different lenses and I have become a much better person than I would have thought I would when I applied for the master school a few years back. Now I feel it is my turn to give back and to serve the students and other members and partners in order to keep the momentum alive and help them become a better version of themselves, just like I did.<br>The last point I would like to make is that I am happy to work for free in this position because of two reasons: 1) the purpose of this work is much greater than a pay-check and 2) I will be able to monetise on the acquired skills and professional network later on in life. As a future Outreach &amp; Partnerships Officer, I would agree that this is a win-win deal.</p><p>&nbsp;</p>'
+    format: full_html
+    processed: "<p>First of all, I would like to mention that I was thrilled to see open positions at the governing board of the Digital Alumni network, after not being eligible to apply during the last election in April. I remember discussing with a (EIT) friend what a great way to learn skills that matter and to give back to the EIT community this is. Therefore, I knew from when the moment I found out about this opportunity that this is something for me and I saw myself already in the shoes of a Digital Alumni board member, more precisely an Outreach &amp; Partnerships Officer.<br />Secondly, I am applying this particular position because of my interest in becoming a more confident negotiator and a better deal closer, from which all involved parties win. I believe that these skills are among the most underrated fundamental skills in both personal and business life, since after all \"In business as in life, you don't get what you deserve, you get what you negotiate\" (Chester L. Karrass). In addition, gaining leadership skills is on my mandatory to-do list as well. Having had some great mentors and bosses, I would like too to be that boss who brings to the surface the talents in other people and who carries the weights through the storm.<br />Thirdly, thinking of how much EIT Digital and EIT Digital Alumni has done for me as a student, I do see now the world through different lenses and I have become a much better person than I would have thought I would when I applied for the master school a few years back. Now I feel it is my turn to give back and to serve the students and other members and partners in order to keep the momentum alive and help them become a better version of themselves, just like I did.<br />The last point I would like to make is that I am happy to work for free in this position because of two reasons: 1) the purpose of this work is much greater than a pay-check and 2) I will be able to monetise on the acquired skills and professional network later on in life. As a future Outreach &amp; Partnerships Officer, I would agree that this is a win-win deal.</p><p>\_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Cristian Prigoana'
+    format: full_html
+    processed: 'Cristian Prigoana'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>As a former EIT Digital student and by attending several Alumni meetings, I see that our Alumni community is a community of people who have greater respect for themselves and for other people, greater than the average student or graduate, a community of people who already took the action for pursuing their dreams for something better in their lives and in the lives of other people. I get inspired by this attitude of success and it is the first thing I would like to continue promoting within our community and to our potential partners.</p><p>As the community grows every year, so does the need for leadership roles within it. I see the future Digital Alumni an organisation where more people take on different levels of responsibility in order to ensure a sustainable growth of the organisation and ensure it is developing towards the clearly defined goals. I believe this way Digital Alumni will continue to keeps its mission to “keep strong connections among fellow alumni and the EIT Digital ecosystem” after it doubles, triples, quadruples in size, in the next 5, 10, 15 years from now. Therefore I see leadership roles being promoted more starting today. In addition, this brings more value to our job portal since companies interested in recruiting IT professionals value those candidates with leadership skills more.</p><p>Lastly, our community is a learning &amp; fun community, and should continue being like this. Research shows that emotions combined with any learning turns into long-term memory easily. I say from my experience that every EIT meeting added some memorable value either to my set of professional skills or to my personal skills, but most of the times to both. As an Outreach and Partnerships Officer, I am intrigued to reach out for and negotiate the best learning &amp; fun activities for our community.</p>'
+    format: full_html
+    processed: '<p>As a former EIT Digital student and by attending several Alumni meetings, I see that our Alumni community is a community of people who have greater respect for themselves and for other people, greater than the average student or graduate, a community of people who already took the action for pursuing their dreams for something better in their lives and in the lives of other people. I get inspired by this attitude of success and it is the first thing I would like to continue promoting within our community and to our potential partners.</p><p>As the community grows every year, so does the need for leadership roles within it. I see the future Digital Alumni an organisation where more people take on different levels of responsibility in order to ensure a sustainable growth of the organisation and ensure it is developing towards the clearly defined goals. I believe this way Digital Alumni will continue to keeps its mission to “keep strong connections among fellow alumni and the EIT Digital ecosystem” after it doubles, triples, quadruples in size, in the next 5, 10, 15 years from now. Therefore I see leadership roles being promoted more starting today. In addition, this brings more value to our job portal since companies interested in recruiting IT professionals value those candidates with leadership skills more.</p><p>Lastly, our community is a learning &amp; fun community, and should continue being like this. Research shows that emotions combined with any learning turns into long-term memory easily. I say from my experience that every EIT meeting added some memorable value either to my set of professional skills or to my personal skills, but most of the times to both. As an Outreach and Partnerships Officer, I am intrigued to reach out for and negotiate the best learning &amp; fun activities for our community.</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>I will give 3 reasons why you should vote for me:<br>1. I will negotiate the best learning &amp; fun activities for our community to promote long-term memory and leadership roles<br>2. I myself am committed to become a better negotiator and better closer of win-win-win deals<br>3. I want to give back to the community and encourage others to do so as well</p>'
+    format: full_html
+    processed: '<p>I will give 3 reasons why you should vote for me:<br />1. I will negotiate the best learning &amp; fun activities for our community to promote long-term memory and leadership roles<br />2. I myself am committed to become a better negotiator and better closer of win-win-win deals<br />3. I want to give back to the community and encourage others to do so as well</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 184398b6-439b-468d-ace3-de0b99f4fc21
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'QA Engineer'
+created:
+  -
+    value: '2019-03-29T08:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:42:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/qa-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://landing.jobs/at/zivver/qa-engineer-in-amsterdam-2019'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Zivver
+    format: full_html
+    processed: Zivver
+field_expiration_date:
+  -
+    value: '2019-06-30T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<section>\r\n<p>“<em>Leave no bug behind!</em>” spoken like a true QA Engineer. With your experience, you are ready to raise the bar of our testing game. You are energetic, well organised and an evangelist of the automate-all-the-things philosophy. Transforming chaos into calm is your favorite cup of tea, so join this fast-growing scaleup and help us get to that blue ocean asap!</p>\r\n\r\n<p><u>Hot take</u></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Unreported bugs give you nightmares;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Why Netflix if there are progression tests to plan?</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Sometimes, you have to destroy something in order to build something better;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Manual, shmanual. Talk automation to me.</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p><u>A day at HQ</u></p>\r\n\r\n<p>As you rush into the office, you grab a cup of coffee and start reviewing the status of reported bugs. You retest where needed and update the status accordingly. Afterwards, you move on to testing features that are ready to be validated or you start getting prepared for those which are still being worked on by development.</p>\r\n\r\n<p>Just before lunch you sit with Anabel, our QA Lead, to discuss the plan for the week. You will go over features to be implemented, discuss and understand the requirements, prioritise the work as needed, and prepare the schedule for regression automation.</p>\r\n\r\n<p>At noon you grab lunch at the new &amp; improved ZIVVER bar. Although enjoyable, your heated debate with Francis whether dogs are better than cats needs to be put on hold, it’s time to put your discussed plan in motion. You’ll continue with the design of test cases for features to come, and start automating regression scenarios.</p>\r\n\r\n<p>Before you leave for the day, you’ll do final check of your inbox to verify if the status of issues you reported have changed and run any pending test scenario.</p>\r\n\r\n<p><u>Responsibilities</u></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>Review requirements and technical designs to understand what needs to be tested.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Design, develop and execute manual and automation scripts</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Identify, create and track bugs. Define severity and priority for each bug.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Perform thorough regression testing when bugs are resolved</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Effectively report the status of testing and automation progress to the QA Lead.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Carry out the plan of automating all regression scenarios.</p>\r\n\t</li>\r\n</ul>\r\n</section>\r\n\r\n<section>\r\n<h2>Main requirements</h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>You have a minimum of 3 years working experience in a similar role;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>You have experience in writing automated tests in HTML/JavaScript and CSS;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>You have excellent verbal, writing and analytical skills;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>You are people minded while defining processes;</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>You are not new to SaaS (Software as a Service) environments, hosted solutions and Web-based solutions.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Fluent in English, both written and verbal. A second EU language is certainly nice to have.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>You reside or are willing to move to the Netherlands (close to Amsterdam).</p>\r\n\t</li>\r\n</ul>\r\n</section>\r\n\r\n<section>\r\n<h2>Perks</h2>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>An exciting, fast-growing, energetic environment.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Having a huge impact on a platform used by hundreds of thousands of end-users and some of the biggest organizations.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>A competitive salary.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Flexible working hours.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>A pension plan.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Great office and people.</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>An Amsterdam office.</p>\r\n\t</li>\r\n</ul>\r\n</section>\r\n"
+    format: full_html
+    processed: "<section>\n<p>“<em>Leave no bug behind!</em>” spoken like a true QA Engineer. With your experience, you are ready to raise the bar of our testing game. You are energetic, well organised and an evangelist of the automate-all-the-things philosophy. Transforming chaos into calm is your favorite cup of tea, so join this fast-growing scaleup and help us get to that blue ocean asap!</p>\n\n<p><u>Hot take</u></p>\n\n<ul>\n\t<li>\n\t<p>Unreported bugs give you nightmares;</p>\n\t</li>\n\t<li>\n\t<p>Why Netflix if there are progression tests to plan?</p>\n\t</li>\n\t<li>\n\t<p>Sometimes, you have to destroy something in order to build something better;</p>\n\t</li>\n\t<li>\n\t<p>Manual, shmanual. Talk automation to me.</p>\n\t</li>\n</ul>\n\n<p><u>A day at HQ</u></p>\n\n<p>As you rush into the office, you grab a cup of coffee and start reviewing the status of reported bugs. You retest where needed and update the status accordingly. Afterwards, you move on to testing features that are ready to be validated or you start getting prepared for those which are still being worked on by development.</p>\n\n<p>Just before lunch you sit with Anabel, our QA Lead, to discuss the plan for the week. You will go over features to be implemented, discuss and understand the requirements, prioritise the work as needed, and prepare the schedule for regression automation.</p>\n\n<p>At noon you grab lunch at the new &amp; improved ZIVVER bar. Although enjoyable, your heated debate with Francis whether dogs are better than cats needs to be put on hold, it’s time to put your discussed plan in motion. You’ll continue with the design of test cases for features to come, and start automating regression scenarios.</p>\n\n<p>Before you leave for the day, you’ll do final check of your inbox to verify if the status of issues you reported have changed and run any pending test scenario.</p>\n\n<p><u>Responsibilities</u></p>\n\n<ul>\n\t<li>\n\t<p>Review requirements and technical designs to understand what needs to be tested.</p>\n\t</li>\n\t<li>\n\t<p>Design, develop and execute manual and automation scripts</p>\n\t</li>\n\t<li>\n\t<p>Identify, create and track bugs. Define severity and priority for each bug.</p>\n\t</li>\n\t<li>\n\t<p>Perform thorough regression testing when bugs are resolved</p>\n\t</li>\n\t<li>\n\t<p>Effectively report the status of testing and automation progress to the QA Lead.</p>\n\t</li>\n\t<li>\n\t<p>Carry out the plan of automating all regression scenarios.</p>\n\t</li>\n</ul>\n</section>\n\n<section>\n<h2>Main requirements</h2>\n\n<ul>\n\t<li>\n\t<p>You have a minimum of 3 years working experience in a similar role;</p>\n\t</li>\n\t<li>\n\t<p>You have experience in writing automated tests in HTML/JavaScript and CSS;</p>\n\t</li>\n\t<li>\n\t<p>You have excellent verbal, writing and analytical skills;</p>\n\t</li>\n\t<li>\n\t<p>You are people minded while defining processes;</p>\n\t</li>\n\t<li>\n\t<p>You are not new to SaaS (Software as a Service) environments, hosted solutions and Web-based solutions.</p>\n\t</li>\n\t<li>\n\t<p>Fluent in English, both written and verbal. A second EU language is certainly nice to have.</p>\n\t</li>\n\t<li>\n\t<p>You reside or are willing to move to the Netherlands (close to Amsterdam).</p>\n\t</li>\n</ul>\n</section>\n\n<section>\n<h2>Perks</h2>\n\n<ul>\n\t<li>\n\t<p>An exciting, fast-growing, energetic environment.</p>\n\t</li>\n\t<li>\n\t<p>Having a huge impact on a platform used by hundreds of thousands of end-users and some of the biggest organizations.</p>\n\t</li>\n\t<li>\n\t<p>A competitive salary.</p>\n\t</li>\n\t<li>\n\t<p>Flexible working hours.</p>\n\t</li>\n\t<li>\n\t<p>A pension plan.</p>\n\t</li>\n\t<li>\n\t<p>Great office and people.</p>\n\t</li>\n\t<li>\n\t<p>An Amsterdam office.</p>\n\t</li>\n</ul>\n</section>\n"
+field_job_location:
+  -
+    value: 'Amsterdam, Netherlands'
+    format: full_html
+    processed: 'Amsterdam, Netherlands'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 041e5fb4-924b-4a51-b63e-6fa58b8c8399
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Test & Validation Engineer '
+created:
+  -
+    value: '2020-01-22T09:33:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:30:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/test-validation-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.cerbair.com/jobs-commercial-contract-manager/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: CerbAir
+    format: full_html
+    processed: CerbAir
+field_expiration_date:
+  -
+    value: '2020-01-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">About CerbAir</span></span></b></p>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">A complete anti-drone solution, CERBAIR makes it possible to detect, identify and neutralize malicious drones before they commit their mischief.</span></span></p>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">From French research, our radio frequency analysis and image recognition technologies protect you against all civilian drones.</span></span></p>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">Our real-time alert and doubt removal system helps neutralize the nuisance power of unwanted intruders through the use of various countermeasures, such as jamming.</span></span></p>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">CerbAir won 1st prize in the Digital Cities category of the EIT Digital Challenge.</span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">About the Position</span></span></b></p>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">The</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">Test &amp; Validation Engineer</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">ensures the quality of our software. For this you will need to:</span></span></p>\r\n\r\n<ul style=\"list-style-type:circle\">\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Define and set up an accurate and evolving test plan.</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You will need regularly execute this plan to validate the new features and avoid software regressions.</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You will also be responsible for updating all our platforms tests</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You’ll be doing regular system tests in the field.</span></span></li>\r\n</ul>\r\n\r\n<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">Profile:</span></span></b></p>\r\n\r\n<ul style=\"list-style-type:circle\">\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Minimum 3 years of experience in software development</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Good knowledge of C ++ and a language of scripting (Python or other)</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Experience in software testing</span></span></li>\r\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Excellent knowledge of Linux / Bash</span></span></li>\r\n</ul>\r\n\r\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">Send your application to:</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">jobs@cerbair.com</span></span></p>\r\n"
+    format: full_html
+    processed: "<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">About CerbAir</span></span></b></p>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">A complete anti-drone solution, CERBAIR makes it possible to detect, identify and neutralize malicious drones before they commit their mischief.</span></span></p>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">From French research, our radio frequency analysis and image recognition technologies protect you against all civilian drones.</span></span></p>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">Our real-time alert and doubt removal system helps neutralize the nuisance power of unwanted intruders through the use of various countermeasures, such as jamming.</span></span></p>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">CerbAir won 1st prize in the Digital Cities category of the EIT Digital Challenge.</span></span></p>\n\n<p>\_</p>\n\n<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">About the Position</span></span></b></p>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">The</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">Test &amp; Validation Engineer</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">ensures the quality of our software. For this you will need to:</span></span></p>\n\n<ul style=\"list-style-type:circle\">\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Define and set up an accurate and evolving test plan.</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You will need regularly execute this plan to validate the new features and avoid software regressions.</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You will also be responsible for updating all our platforms tests</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">You’ll be doing regular system tests in the field.</span></span></li>\n</ul>\n\n<p><b><span style=\"font-family:Titillium\"><span style=\"color:black\">Profile:</span></span></b></p>\n\n<ul style=\"list-style-type:circle\">\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Minimum 3 years of experience in software development</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Good knowledge of C ++ and a language of scripting (Python or other)</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Experience in software testing</span></span></li>\n\t<li><span style=\"font-family:Titillium\"><span style=\"color:black\">Excellent knowledge of Linux / Bash</span></span></li>\n</ul>\n\n<p><span style=\"font-family:Titillium\"><span style=\"color:black\">Send your application to:</span></span> <span style=\"font-family:Titillium\"><span style=\"color:black\">jobs@cerbair.com</span></span></p>\n"
+field_job_location:
+  -
+    value: 'Paris, France'
+    format: full_html
+    processed: 'Paris, France'
+field_more_details_link:
+  -
+    uri: 'https://www.cerbair.com/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

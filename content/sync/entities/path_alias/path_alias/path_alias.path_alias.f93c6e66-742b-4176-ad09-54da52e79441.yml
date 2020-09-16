@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f93c6e66-742b-4176-ad09-54da52e79441
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/104
+alias:
+  -
+    value: /article/showcase-your-startup-slush-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 94b9c2da-11af-43f1-971a-bfe15bf1ca98
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/232
+alias:
+  -
+    value: /event/summer-hangout-stockholm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

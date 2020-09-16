@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: 61f34bd6-1070-4271-9b84-8750f2f39e29
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-02-27T09:09:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Legal Notice'
+description: {  }
+menu_name:
+  -
+    value: footer-menu-2
+link:
+  -
+    uri: 'https://alumni.eitdigital.eu/legal-notice'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-02-27T09:09:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

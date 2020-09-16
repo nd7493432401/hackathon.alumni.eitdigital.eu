@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: d427c0d8-f903-4cb7-828d-efd4140687e6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Tiziano Antico'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/tiziano-antico
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>Willing to bring positive improvements for (and with the help of) the whole community!</p>'
+    format: full_html
+    processed: '<p>Willing to bring positive improvements for (and with the help of) the whole community!</p>'
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Tiziano Antico'
+    format: full_html
+    processed: 'Tiziano Antico'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>Willing to bring positive improvements for (and with the help of) the whole community!</p>'
+    format: full_html
+    processed: '<p>Willing to bring positive improvements for (and with the help of) the whole community!</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>1. Social networks addicted.<br>2. Always open to dialogue.<br>3. Responsible and hard-worker.<br>4. Team-worker and well-organized.<br>5. Straightforward personality.<br>6. Keen to learn new skills.</p>'
+    format: full_html
+    processed: '<p>1. Social networks addicted.<br />2. Always open to dialogue.<br />3. Responsible and hard-worker.<br />4. Team-worker and well-organized.<br />5. Straightforward personality.<br />6. Keen to learn new skills.</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

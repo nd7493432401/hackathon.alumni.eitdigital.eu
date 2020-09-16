@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6ae36969-4a26-4ca1-a157-55c0314d3177
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/95
+alias:
+  -
+    value: /article/our-alumni-landing-festival
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

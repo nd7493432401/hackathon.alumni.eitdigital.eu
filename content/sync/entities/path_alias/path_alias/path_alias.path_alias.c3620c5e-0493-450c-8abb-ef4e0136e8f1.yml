@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c3620c5e-0493-450c-8abb-ef4e0136e8f1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/431
+alias:
+  -
+    value: /job/3d-specialist
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

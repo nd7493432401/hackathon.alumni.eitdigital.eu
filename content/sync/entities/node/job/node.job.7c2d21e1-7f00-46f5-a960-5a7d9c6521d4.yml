@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 7c2d21e1-7f00-46f5-a960-5a7d9c6521d4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni Representative'
+created:
+  -
+    value: '2018-02-11T20:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/eit-alumni-representative
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:alumni@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital Alumni Foundation'
+    format: full_html
+    processed: 'EIT Digital Alumni Foundation'
+field_expiration_date:
+  -
+    value: '2018-03-02T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>The EIT Digital Alumni Board is looking for a new, dedicated member to support our team as <strong>EIT Alumni Representative</strong>!</p>\r\n\r\n<p>This position perfectly fits somebody with a passion for collaboration and cooperation. The ideal candidate is someone who can take the lead in representing the EIT Digital Alumni Community at <a href=\"http://eitalumni.eu\">EIT Alumni</a> Board meetings and events, and efficiently reporting back on cross-community goings-on.</p>\r\n\r\n<p>This is an incredibly exciting position, and will also involve regular travel across Europe, support in the organisation of some of our favourite events – <a href=\"http://startupdays.eitalumni.eu\">EIT Alumni Startup Days</a> and <a href=\"https://eit.europa.eu/innoveit#connect\">EIT Alumni CONNECT</a>, and will give you the chance to really guide the strategic direction of the EIT Alumni Community.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Tasks include:</strong></p>\r\n\r\n<ul>\r\n\t<li>Attend EIT Alumni Board meetings (in beautiful Budapest!)</li>\r\n\t<li>Attend and present at summits and events of the other Alumni Communities</li>\r\n\t<li>Co-organize EIT Alumni Startup Days and EIT Alumni CONNECT</li>\r\n\t<li>Invite representatives of other Alumni Communities to EIT Digital Alumni events</li>\r\n\t<li>Seek synergies with other Communities for events, collaborate and invite participants</li>\r\n\t<li>Keep track of communication on the EIT Alumni Slack channel</li>\r\n\t<li>Keep communication and exchange with EIT Alumni: joint opportunities, joints social media and marketing postings, joint events.</li>\r\n\t<li>Engage with people involved in the EIT ecosystem</li>\r\n\t<li>Be constantly up to date about what’s going on in the cross-KIC Alumni board world</li>\r\n\t<li>Address difficulties and issues that members of the community might have</li>\r\n\t<li>Promote events and help the community to grow</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Position specification skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Good communication and interpersonal skills</li>\r\n\t<li>Know how to engage with different people at different levels with different backgrounds</li>\r\n\t<li>Proactivity and experience in events organization</li>\r\n\t<li>Passion for growing a community</li>\r\n\t<li>Be responsive to emails and calls; be adaptable and flexible</li>\r\n\t<li>A dedication of 5-10 hours per week</li>\r\n</ul>\r\n\r\n<p><br />\r\n<strong>Benefits:</strong></p>\r\n\r\n<ul>\r\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni foundation</li>\r\n\t<li>Possibility to join cross-KIC initiatives, events and meetups around Europe</li>\r\n\t<li>Networking opportunities with like-minded people involved in the EIT ecosystem</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you are interested, please send a short profile and paragraph explaining why you should be our first <strong>EIT Alumni Representative</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\r\n\r\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni Board is looking for a new, dedicated member to support our team as <strong>EIT Alumni Representative</strong>!</p>\n\n<p>This position perfectly fits somebody with a passion for collaboration and cooperation. The ideal candidate is someone who can take the lead in representing the EIT Digital Alumni Community at <a href=\"http://eitalumni.eu\">EIT Alumni</a> Board meetings and events, and efficiently reporting back on cross-community goings-on.</p>\n\n<p>This is an incredibly exciting position, and will also involve regular travel across Europe, support in the organisation of some of our favourite events – <a href=\"http://startupdays.eitalumni.eu\">EIT Alumni Startup Days</a> and <a href=\"https://eit.europa.eu/innoveit#connect\">EIT Alumni CONNECT</a>, and will give you the chance to really guide the strategic direction of the EIT Alumni Community.</p>\n\n<p>\_</p>\n\n<p><strong>Tasks include:</strong></p>\n\n<ul>\n\t<li>Attend EIT Alumni Board meetings (in beautiful Budapest!)</li>\n\t<li>Attend and present at summits and events of the other Alumni Communities</li>\n\t<li>Co-organize EIT Alumni Startup Days and EIT Alumni CONNECT</li>\n\t<li>Invite representatives of other Alumni Communities to EIT Digital Alumni events</li>\n\t<li>Seek synergies with other Communities for events, collaborate and invite participants</li>\n\t<li>Keep track of communication on the EIT Alumni Slack channel</li>\n\t<li>Keep communication and exchange with EIT Alumni: joint opportunities, joints social media and marketing postings, joint events.</li>\n\t<li>Engage with people involved in the EIT ecosystem</li>\n\t<li>Be constantly up to date about what’s going on in the cross-KIC Alumni board world</li>\n\t<li>Address difficulties and issues that members of the community might have</li>\n\t<li>Promote events and help the community to grow</li>\n</ul>\n\n<p>\_</p>\n\n<p><strong>Position specification skills:</strong></p>\n\n<ul>\n\t<li>Good communication and interpersonal skills</li>\n\t<li>Know how to engage with different people at different levels with different backgrounds</li>\n\t<li>Proactivity and experience in events organization</li>\n\t<li>Passion for growing a community</li>\n\t<li>Be responsive to emails and calls; be adaptable and flexible</li>\n\t<li>A dedication of 5-10 hours per week</li>\n</ul>\n\n<p><br />\n<strong>Benefits:</strong></p>\n\n<ul>\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni foundation</li>\n\t<li>Possibility to join cross-KIC initiatives, events and meetups around Europe</li>\n\t<li>Networking opportunities with like-minded people involved in the EIT ecosystem</li>\n</ul>\n\n<p>\_</p>\n\n<p>If you are interested, please send a short profile and paragraph explaining why you should be our first <strong>EIT Alumni Representative</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\n\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\n"
+field_job_location:
+  -
+    value: Europe
+    format: full_html
+    processed: Europe
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

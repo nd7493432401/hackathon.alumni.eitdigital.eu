@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 770fadb9-6dac-494f-b5bf-c7a7fc341ab2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/215
+alias:
+  -
+    value: /event/tuesday-afterwork-eit-digital-alumni-website
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a01dc2ca-6af7-423b-b8b7-3ce57bc77949
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/370
+alias:
+  -
+    value: /job/robotics-process-automation-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

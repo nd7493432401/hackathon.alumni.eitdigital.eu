@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 395fe8c3-9774-4da1-9dd6-a2cd6f51e84a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Computer Vision and Data Engineer'
+created:
+  -
+    value: '2018-12-12T11:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:48:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/computer-vision-and-data-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://drivetrust.eu/job-application/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: DriveTrust
+    format: full_html
+    processed: DriveTrust
+field_expiration_date:
+  -
+    value: '2019-01-30T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><a href=\"http://www.drivetrust.eu/\" target=\"_blank\">DriveTrust&nbsp;</a>is an AI-powered dash cam with short range V2X and LTE communication capabilities. Our product uses the newest AI capable hardware for real-time object detection. The device can detect street signs, traffic lights, other cars, and pedestrians. Combined with sensor data from the accelerometer, GPS and weather data from the cloud we use the data to calculate different dimensions of driving profiles. In addition the V2X and object detection capabilities allow us to warn the driver in real-time about dangers on the road.&nbsp;</p>\r\n\r\n<p><strong>We have received an investment and currently are looking for students and alumni who are interested in working in a start-up.</strong></p>\r\n\r\n<p><strong>The areas you could work on are:</strong><br />\r\n- Embedded Firmware<br />\r\n- Computer Vision<br />\r\n- Hardware<br />\r\n- Linux Applications<br />\r\n- Mobile Applications</p>\r\n\r\n<p>We will have a camera and would like to detect objects in real time from the video. Objects we would like to detect are cars, pedestrians and street signs. The MVP is a camera which can accurately detect street signs and traffic lights. On top of that depending on complexity we would like to have a lane departure warning system (LDWS) and a front collision warning system (FCWS)</p>\r\n\r\n<h3>Responsibilities</h3>\r\n\r\n<ol>\r\n\t<li>Develop / Train a neural network for detection of cars, pedestrians, traffic lights, LDWS and FCWS</li>\r\n\t<li>Optimizing the network for the constrained hardware which is used</li>\r\n\t<li>Optional: combining object detection with sensor data to improve precision, e.g. getting speed from GNSS to improve FCWS</li>\r\n\t<li>Optional: Filter Sensor Data from GNSS / accelerometer to detect certain events</li>\r\n</ol>\r\n\r\n<h3>Required Skills</h3>\r\n\r\n<ul>\r\n\t<li>Speaks English</li>\r\n\t<li>OpenCV</li>\r\n\t<li>Experience with object/image detection frameworks (Tensorflow, Caffe or similar)</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p><a href=\"http://www.drivetrust.eu/\" target=\"_blank\">DriveTrust\_</a>is an AI-powered dash cam with short range V2X and LTE communication capabilities. Our product uses the newest AI capable hardware for real-time object detection. The device can detect street signs, traffic lights, other cars, and pedestrians. Combined with sensor data from the accelerometer, GPS and weather data from the cloud we use the data to calculate different dimensions of driving profiles. In addition the V2X and object detection capabilities allow us to warn the driver in real-time about dangers on the road.\_</p>\n\n<p><strong>We have received an investment and currently are looking for students and alumni who are interested in working in a start-up.</strong></p>\n\n<p><strong>The areas you could work on are:</strong><br />\n- Embedded Firmware<br />\n- Computer Vision<br />\n- Hardware<br />\n- Linux Applications<br />\n- Mobile Applications</p>\n\n<p>We will have a camera and would like to detect objects in real time from the video. Objects we would like to detect are cars, pedestrians and street signs. The MVP is a camera which can accurately detect street signs and traffic lights. On top of that depending on complexity we would like to have a lane departure warning system (LDWS) and a front collision warning system (FCWS)</p>\n\n<h3>Responsibilities</h3>\n\n<ol>\n\t<li>Develop / Train a neural network for detection of cars, pedestrians, traffic lights, LDWS and FCWS</li>\n\t<li>Optimizing the network for the constrained hardware which is used</li>\n\t<li>Optional: combining object detection with sensor data to improve precision, e.g. getting speed from GNSS to improve FCWS</li>\n\t<li>Optional: Filter Sensor Data from GNSS / accelerometer to detect certain events</li>\n</ol>\n\n<h3>Required Skills</h3>\n\n<ul>\n\t<li>Speaks English</li>\n\t<li>OpenCV</li>\n\t<li>Experience with object/image detection frameworks (Tensorflow, Caffe or similar)</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Rennes, France'
+    format: full_html
+    processed: 'Rennes, France'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/romrayster'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

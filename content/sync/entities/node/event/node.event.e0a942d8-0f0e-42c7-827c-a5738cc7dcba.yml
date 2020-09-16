@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: e0a942d8-0f0e-42c7-827c-a5738cc7dcba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:39:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni CONNECT 2019'
+created:
+  -
+    value: '2019-04-07T16:27:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:39:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-alumni-connect-2019
+body: {  }
+field_event_:
+  -
+    value: 'Brody Studios, Budapest'
+    format: full_html
+    processed: 'Brody Studios, Budapest'
+field_event_date:
+  -
+    value: '2019-10-14T09:00:00+02:00'
+    end_value: '2019-10-14T23:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>It is time&nbsp;for one of our favourite events of the year - the <strong><a href=\"https://eitalumni.eu/\" target=\"_blank\">EIT Alumni</a>&nbsp;CONNECT</strong>! Join a series of&nbsp;interactive networking sessions and workshops with your fellow alumni from the other EIT’s Innovation Communities: InnoEnergy, Health, RawMaterials and Climate-KIC.&nbsp;</p>\r\n\r\n<p>This year, the event is focused on the theme of UN SDG 11&nbsp;<strong>‘Sustainable Cities and Communities’</strong>. Given the diverse nature of our community and our expertise in different fields, this topic can allow all five Communities of the EIT Alumni network to share their vision and approach the folowing question&nbsp;in a unique and multi-disciplinary manner:</p>\r\n\r\n<blockquote>\r\n<p style=\"text-align: center;\"><strong>How can communities make cities inclusive, safe, resilient, and sustainable?</strong></p>\r\n</blockquote>\r\n\r\n<p>This exciting event will be hosted on Monday October 14th&nbsp;2019 at the <a href=\"http://www.brody.land/\" target=\"_blank\">Brody Studios</a>, a wonderful bohemian styled venue situated in the heart of Budapest with a variety of creative and inspiring spaces. As an additional benefit,<strong> 2 nights accommodation in Budapest will be provided for free</strong> to the participants*!</p>\r\n\r\n<p style=\"text-align: center;\"><meta charset=\"utf-8\"><b id=\"docs-internal-guid-1708b674-7fff-cf57-3c60-5c04bf2e3111\"><img height=\"198\" src=\"https://lh5.googleusercontent.com/vLcChy7leulRH8ZR-btYSR_i8asFhRm_omLSwjTXK0fU7683V5ebbd-zgjce14HeYNYvi_RsFC6Uq0UC0UxhmOjK-u-R8fjXguhgg_aCdCzYd9tGrtlifH2uiilT01sFtR57zjc3\" width=\"297\" />&nbsp;</b><meta charset=\"utf-8\"><b id=\"docs-internal-guid-4f1da0c1-7fff-04a7-f964-73f440896ac0\"><img height=\"200\" src=\"https://lh3.googleusercontent.com/2CDozApub7xqvmw5O55hYSmk8stIkJkIs2PuPYAtqDlwxDMAp2XXj2wN4fjJ35QE5xIMv8njUhW9qn8p16KMoovHqo-pT4pcW3tV09-JbO4D2_LiftfnEpcK3WqGfXT8h7UGVJTn\" width=\"296\" /></b></p>\r\n\r\n<p>For those of you who who took&nbsp;part in the&nbsp;<a href=\"http://eitalumni.eu/blog/2018/10/18/eit-alumni-connect-2018/\" target=\"_blank\">EIT Alumni CONNECT 2018</a>, make sure you tell others what a great opportunity this is to network with Alumni outside of your sector. For those of you who couldn't make it, check out our <a href=\"http://www.facebook.com/pg/EITalumni/photos/?tab=album&amp;album_id=1575510815883024\" target=\"_blank\">photo album from last year</a>!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"border: 0px; margin: 0px 0px 32px; padding: 0px; text-align: center;\"><u><strong><a href=\"http://bit.ly/eitconnect19\">SPOTS ARE LIMITED:&nbsp;APPLY HERE NOW!</a>&nbsp;(Deadline: 25.08.2019 12:00 CEST)</strong></u></p>\r\n\r\n<p><strong>Selection criteria:</strong></p>\r\n\r\n<ul>\r\n\t<li>Motivation to attend</li>\r\n\t<li>Previous active involvement in our network (e.g., local community volunteers, represented the EIT Digital Alumni in external events, summer school presenters, etc.)</li>\r\n</ul>\r\n\r\n<p style=\"border:0px; margin:0px 0px 32px; padding:0px\"><br />\r\n* Flight tickets and other transportation expenses must be covered by the applicants.</p>\r\n\r\n<p style=\"border:0px; margin:0px 0px 32px; padding:0px\"><meta charset=\"utf-8\"></p>\r\n"
+    format: full_html
+    processed: "<p>It is time\_for one of our favourite events of the year - the <strong><a href=\"https://eitalumni.eu/\" target=\"_blank\">EIT Alumni</a>\_CONNECT</strong>! Join a series of\_interactive networking sessions and workshops with your fellow alumni from the other EIT’s Innovation Communities: InnoEnergy, Health, RawMaterials and Climate-KIC.\_</p>\n\n<p>This year, the event is focused on the theme of UN SDG 11\_<strong>‘Sustainable Cities and Communities’</strong>. Given the diverse nature of our community and our expertise in different fields, this topic can allow all five Communities of the EIT Alumni network to share their vision and approach the folowing question\_in a unique and multi-disciplinary manner:</p>\n\n<blockquote>\n<p style=\"text-align: center;\"><strong>How can communities make cities inclusive, safe, resilient, and sustainable?</strong></p>\n</blockquote>\n\n<p>This exciting event will be hosted on Monday October 14th\_2019 at the <a href=\"http://www.brody.land/\" target=\"_blank\">Brody Studios</a>, a wonderful bohemian styled venue situated in the heart of Budapest with a variety of creative and inspiring spaces. As an additional benefit,<strong> 2 nights accommodation in Budapest will be provided for free</strong> to the participants*!</p>\n\n<p style=\"text-align: center;\"><meta charset=\"utf-8\" /><b id=\"docs-internal-guid-1708b674-7fff-cf57-3c60-5c04bf2e3111\"><img height=\"198\" src=\"https://lh5.googleusercontent.com/vLcChy7leulRH8ZR-btYSR_i8asFhRm_omLSwjTXK0fU7683V5ebbd-zgjce14HeYNYvi_RsFC6Uq0UC0UxhmOjK-u-R8fjXguhgg_aCdCzYd9tGrtlifH2uiilT01sFtR57zjc3\" width=\"297\" />\_</b><meta charset=\"utf-8\" /><b id=\"docs-internal-guid-4f1da0c1-7fff-04a7-f964-73f440896ac0\"><img height=\"200\" src=\"https://lh3.googleusercontent.com/2CDozApub7xqvmw5O55hYSmk8stIkJkIs2PuPYAtqDlwxDMAp2XXj2wN4fjJ35QE5xIMv8njUhW9qn8p16KMoovHqo-pT4pcW3tV09-JbO4D2_LiftfnEpcK3WqGfXT8h7UGVJTn\" width=\"296\" /></b></p>\n\n<p>For those of you who who took\_part in the\_<a href=\"http://eitalumni.eu/blog/2018/10/18/eit-alumni-connect-2018/\" target=\"_blank\">EIT Alumni CONNECT 2018</a>, make sure you tell others what a great opportunity this is to network with Alumni outside of your sector. For those of you who couldn't make it, check out our <a href=\"http://www.facebook.com/pg/EITalumni/photos/?tab=album&amp;album_id=1575510815883024\" target=\"_blank\">photo album from last year</a>!</p>\n\n<p>\_</p>\n\n<p style=\"border: 0px; margin: 0px 0px 32px; padding: 0px; text-align: center;\"><u><strong><a href=\"http://bit.ly/eitconnect19\">SPOTS ARE LIMITED:\_APPLY HERE NOW!</a>\_(Deadline: 25.08.2019 12:00 CEST)</strong></u></p>\n\n<p><strong>Selection criteria:</strong></p>\n\n<ul>\n\t<li>Motivation to attend</li>\n\t<li>Previous active involvement in our network (e.g., local community volunteers, represented the EIT Digital Alumni in external events, summer school presenters, etc.)</li>\n</ul>\n\n<p style=\"border:0px; margin:0px 0px 32px; padding:0px\"><br />\n* Flight tickets and other transportation expenses must be covered by the applicants.</p>\n\n<p style=\"border:0px; margin:0px 0px 32px; padding:0px\"><meta charset=\"utf-8\" /></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: c73d2cc9-3176-4396-9d19-733c0cba3e2d
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: c73d2cc9-3176-4396-9d19-733c0cba3e2d
+field_event_introduction:
+  -
+    value: "<p>It is time for one of our favourite events of the year - the EIT Alumni CONNECT 2019!</p>\r\n"
+    format: full_html
+    processed: "<p>It is time for one of our favourite events of the year - the EIT Alumni CONNECT 2019!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 027e4814-1d17-4e73-90e9-5b8a3ff654f7
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.c73d2cc9-3176-4396-9d19-733c0cba3e2d
+    taxonomy_term:
+      - taxonomy_term.event_type.027e4814-1d17-4e73-90e9-5b8a3ff654f7

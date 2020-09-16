@@ -1,0 +1,14 @@
+uuid: 643a9d37-069a-40b8-882c-0b5e39d65c7d
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_phd
+  module:
+    - user
+id: user_remove_role_action.alumni_member_phd
+label: 'Remove the Alumni Member (PHD) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: alumni_member_phd

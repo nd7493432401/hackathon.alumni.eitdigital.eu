@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: ced31e2b-1bb3-451d-83ed-5fb10155eb81
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:44:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'ICSSS’2019 - International Cyber Security Summer School 2019'
+created:
+  -
+    value: '2019-05-19T16:11:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:44:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/icsss2019-international-cyber-security-summer-school-2019
+body: {  }
+field_event_:
+  -
+    value: 'The Hague Security Delta'
+    format: full_html
+    processed: 'The Hague Security Delta'
+field_event_date:
+  -
+    value: '2019-08-25T12:00:00+02:00'
+    end_value: '2019-08-29T18:00:00+02:00'
+field_event_description:
+  -
+    value: "<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\">The <a href=\"https://www.summerschoolcybersecurity.org/\">ICSSS summer school</a> is a yearly summer school organised by The Hague Security Delta (HSD). The school will allow students to better understand and research the approaches, tools, and techniques that are used in cyber space for unlawful purposes, and how to design strategies for countering malicious attacks. </span>The summer school is organised jointly with defense and police organisations such as <strong>NATO</strong> C&amp;I Agency and <strong>Europol</strong> and is therefore only open to applicants with an EU or a NATO member state nationality.</span></span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\">EIT Digital will offer PhD and <strong>alumni from EIT Digital Master and Doctoral School</strong> a limited number of stipends for <strong>accommodation and participation</strong>.</span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\">For information and enrolment: <a href=\"https://www.summerschoolcybersecurity.org/\" style=\"color:purple\">https://www.summerschoolcybersecurity.org/</a></span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><strong>Deadline for application is May 31</strong>, so hurry up!</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n"
+    format: full_html
+    processed: "<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\" xml:lang=\"EN-GB\">The <a href=\"https://www.summerschoolcybersecurity.org/\">ICSSS summer school</a> is a yearly summer school organised by The Hague Security Delta (HSD). The school will allow students to better understand and research the approaches, tools, and techniques that are used in cyber space for unlawful purposes, and how to design strategies for countering malicious attacks. </span>The summer school is organised jointly with defense and police organisations such as <strong>NATO</strong> C&amp;I Agency and <strong>Europol</strong> and is therefore only open to applicants with an EU or a NATO member state nationality.</span></span></span></span></p>\n\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\" xml:lang=\"EN-GB\">EIT Digital will offer PhD and <strong>alumni from EIT Digital Master and Doctoral School</strong> a limited number of stipends for <strong>accommodation and participation</strong>.</span></span></span></span></span></p>\n\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"text-size-adjust:auto\"><span lang=\"EN-GB\" style=\"font-size:12pt\" xml:lang=\"EN-GB\">For information and enrolment: <a href=\"https://www.summerschoolcybersecurity.org/\" style=\"color:purple\">https://www.summerschoolcybersecurity.org/</a></span></span></span></span></span></p>\n\n<p style=\"margin:0cm 0cm 0.0001pt; text-align:justify\"><span style=\"font-size:11pt\"><span style=\"font-family:Calibri, sans-serif\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><strong>Deadline for application is May 31</strong>, so hurry up!</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 475a8478-5c1e-46d2-a181-1c218e4e2457
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 475a8478-5c1e-46d2-a181-1c218e4e2457
+field_event_introduction:
+  -
+    value: "<p>The ICSSS summer school is a yearly summer school organised by The Hague Security Delta (HSD). The school will allow students to better understand and research the approaches, tools, and techniques that are used in cyber space for unlawful purposes, and how to design strategies for countering malicious attacks.</p>\r\n"
+    format: full_html
+    processed: "<p>The ICSSS summer school is a yearly summer school organised by The Hague Security Delta (HSD). The school will allow students to better understand and research the approaches, tools, and techniques that are used in cyber space for unlawful purposes, and how to design strategies for countering malicious attacks.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: a1d121c8-5d1b-4357-a5f1-63b3c01794b1
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.475a8478-5c1e-46d2-a181-1c218e4e2457
+    taxonomy_term:
+      - taxonomy_term.event_type.a1d121c8-5d1b-4357-a5f1-63b3c01794b1

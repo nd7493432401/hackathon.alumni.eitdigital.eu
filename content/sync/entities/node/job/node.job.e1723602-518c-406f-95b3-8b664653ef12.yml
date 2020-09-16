@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: e1723602-518c-406f-95b3-8b664653ef12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'COMPUTER VISION SCIENTIST PERMANENT POSITION'
+created:
+  -
+    value: '2019-12-03T14:05:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:48:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/computer-vision-scientist-permanent-position
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:contact@wipsea.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Wipsea
+    format: full_html
+    processed: Wipsea
+field_expiration_date:
+  -
+    value: '2019-12-03T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>You are computer scientist with a PhD in one or more of the following domains:<br />\r\ncomputer vision; pattern recognition; image/video analysis, processing, understanding;<br />\r\nmachine learning; aerial imaging, remote sensing. Preferred candidates will have one or<br />\r\nmore years of experience in a post-doctoral position in one or more of these areas. You<br />\r\nhaven’t got any permanent position in a French company (“CDI”) since your PhD<br />\r\ngraduation but you search one. You love researching, specifying, analyzing, developing,<br />\r\ntuning, testing, enhancing and optimizing image analysis algorithms based on Deep<br />\r\nLearning technics and/or OpenCV (C/C++) and/or any other language used to prototype<br />\r\n(python) and produce efficient software solutions.<br />\r\nYou are curious, dynamic and persistent. Environment, sustainable development and<br />\r\nbiodiversity protection are important for you and you would like to give meaning to<br />\r\nyour work in this domain. Come and join us!<br />\r\nWIPSEA, an innovative French startup, based in Rennes, specialized in image analysis for<br />\r\nenvironmental assessment, offer you an opportunity to use your know-how to help to<br />\r\nreconcile wildlife and human activities. WIPSEA develop high tech software products<br />\r\nand innovative solutions to help reserves and protected areas managers, regional<br />\r\nplanner, public and private research departments in ecology to census wildlife in the<br />\r\nfield.<br />\r\nYou will work as a first step in collaboration with OBELIX team from IRISA research<br />\r\ninstitute (UMR 6074) that is playing a leading role in AI and Computer Vision for Earth<br />\r\nand Environment Observation. Senior researchers form OBELIX group in Vannes will<br />\r\nsupervise your scientific work, while you will integrate a WIPSEA growing team where<br />\r\nyou will have the opportunity to collaborate with a research engineer, a software<br />\r\nengineer and a manager specialized in real-time video processing. You will benefit from<br />\r\nthe expertise of a research team and bring your expertise in your field within the<br />\r\ncompany during specification and integration phases and as customer support. You will<br />\r\nbe asked to publish scientific articles and patents therefore an excellent talent for<br />\r\nwriting in scientific French and English is required. You will give presentations and<br />\r\ndemonstrations in public during conferences, symposiums, exhibitions or appointment<br />\r\nwith customers, in France or abroad so performance skills will be a plus.<br />\r\nContact:<br />\r\nPlease send your application letter, CV and references to the following address:<br />\r\ncontact@wipsea.com<br />\r\nMore information available on: www.wipsea.com or www.wipsea.fr</p>\r\n\r\n<p>Posted by <a href=\"/users/lidia\">Lidia</a></p>\r\n"
+    format: full_html
+    processed: "<p>You are computer scientist with a PhD in one or more of the following domains:<br />\ncomputer vision; pattern recognition; image/video analysis, processing, understanding;<br />\nmachine learning; aerial imaging, remote sensing. Preferred candidates will have one or<br />\nmore years of experience in a post-doctoral position in one or more of these areas. You<br />\nhaven’t got any permanent position in a French company (“CDI”) since your PhD<br />\ngraduation but you search one. You love researching, specifying, analyzing, developing,<br />\ntuning, testing, enhancing and optimizing image analysis algorithms based on Deep<br />\nLearning technics and/or OpenCV (C/C++) and/or any other language used to prototype<br />\n(python) and produce efficient software solutions.<br />\nYou are curious, dynamic and persistent. Environment, sustainable development and<br />\nbiodiversity protection are important for you and you would like to give meaning to<br />\nyour work in this domain. Come and join us!<br />\nWIPSEA, an innovative French startup, based in Rennes, specialized in image analysis for<br />\nenvironmental assessment, offer you an opportunity to use your know-how to help to<br />\nreconcile wildlife and human activities. WIPSEA develop high tech software products<br />\nand innovative solutions to help reserves and protected areas managers, regional<br />\nplanner, public and private research departments in ecology to census wildlife in the<br />\nfield.<br />\nYou will work as a first step in collaboration with OBELIX team from IRISA research<br />\ninstitute (UMR 6074) that is playing a leading role in AI and Computer Vision for Earth<br />\nand Environment Observation. Senior researchers form OBELIX group in Vannes will<br />\nsupervise your scientific work, while you will integrate a WIPSEA growing team where<br />\nyou will have the opportunity to collaborate with a research engineer, a software<br />\nengineer and a manager specialized in real-time video processing. You will benefit from<br />\nthe expertise of a research team and bring your expertise in your field within the<br />\ncompany during specification and integration phases and as customer support. You will<br />\nbe asked to publish scientific articles and patents therefore an excellent talent for<br />\nwriting in scientific French and English is required. You will give presentations and<br />\ndemonstrations in public during conferences, symposiums, exhibitions or appointment<br />\nwith customers, in France or abroad so performance skills will be a plus.<br />\nContact:<br />\nPlease send your application letter, CV and references to the following address:<br />\ncontact@wipsea.com<br />\nMore information available on: www.wipsea.com or www.wipsea.fr</p>\n\n<p>Posted by <a href=\"/users/lidia\">Lidia</a></p>\n"
+field_job_location:
+  -
+    value: 'Rennes (France)'
+    format: full_html
+    processed: 'Rennes (France)'
+field_more_details_link:
+  -
+    uri: 'http://www.wipsea.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

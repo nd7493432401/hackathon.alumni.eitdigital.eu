@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 81fe8220-857f-4a8f-bdd1-3a10303e51d7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/325
+alias:
+  -
+    value: /job/test-validation-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

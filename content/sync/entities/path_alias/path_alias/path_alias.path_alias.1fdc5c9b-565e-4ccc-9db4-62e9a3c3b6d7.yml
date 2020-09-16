@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1fdc5c9b-565e-4ccc-9db4-62e9a3c3b6d7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/267
+alias:
+  -
+    value: /event/digieduhack-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

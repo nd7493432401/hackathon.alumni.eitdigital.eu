@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 1ac5c9ce-dbf5-4a58-96d0-d33f52813a2e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: eitalumni1718_30483334777_o.jpg
+thumbnail:
+  -
+    alt: 'Cross KIC'
+    title: null
+    width: 3197
+    height: 2062
+    target_type: file
+    target_uuid: 63c20461-6ea9-4d26-b785-0e17fde7189a
+created:
+  -
+    value: '2020-05-02T10:28:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T10:28:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Cross KIC'
+    title: ''
+    width: 3197
+    height: 2062
+    target_type: file
+    target_uuid: 63c20461-6ea9-4d26-b785-0e17fde7189a
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.63c20461-6ea9-4d26-b785-0e17fde7189a

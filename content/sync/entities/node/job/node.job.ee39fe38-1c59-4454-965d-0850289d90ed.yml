@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ee39fe38-1c59-4454-965d-0850289d90ed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:59:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'User Interface Design Intern'
+created:
+  -
+    value: '2018-01-20T22:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T09:54:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/user-interface-design-intern
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:contact@flexidao.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: FlexiDAO
+    format: full_html
+    processed: FlexiDAO
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p><strong>Company description</strong></p>\r\n\r\n<p><a href=\"http://flexidao.com/\">FlexiDAO</a> is a start-up based in Barcelona. We provide the industry’s first blockchain and cloud-based energy services aggregation platform to enable distributed, small-scale demand side response. Combined with our innovative electric vehicle smart charger, our platform can control and optimize EV charging providing extra income for the drivers while helping energy companies to stabilize the grid and consume more green energy.</p>\r\n\r\n<p>Leveraging blockchain technology, our platform is extremely interoperable and it can integrate different EV manufacturers, other distributed loads (i.e. home batteries), utilities, and other commercial energy partners. In addition, we can eliminate nearly all administrative and financial costs higher rewards to our customers.</p>\r\n\r\n<p><strong>Your responsibilities</strong></p>\r\n\r\n<p>Are you interested in the blockchain world? Do you have experience with user interface design and want to help fighting climate change? We are looking for an intern to join our fast-paced start-up. If you can bring enthusiasm, we can offer the opportunity to work on several front-end developments (control dashboard and mobile-app) that involve blockchain under the hood and supporting materials for our marketing and communications (website and blog). You will be joining a small team (around 5 people) of extremely motivated young professionals and you will surely learn a lot about blockchain technology (no experience required) and cleantech, the two sectors of the future.</p>\r\n\r\n<p><strong>Job requirements</strong></p>\r\n\r\n<p>We are looking for a <strong>multi-talented UI Design intern</strong>, who is excited to join our mission-oriented, friendly and fast-paced start-up environment. You should basically be a hybrid of UI, UX, and Front- End Development, and eager to take on real-life projects with a leading role. Our team is small which means you need to be independent, but you will not be asked to carry out boring tasks and you will learn a lot. Some of the projects you will be working on are the development of the decentralized platform, the mobile app (also working with blockchain) and the company’s website.</p>\r\n\r\n<p><strong>REQUIRED SKILLS / EXPERIENCE</strong></p>\r\n\r\n<p>- HTML, CSS, Javascript<br />\r\n-&nbsp;Comfortable with creating different styles and techniques<br />\r\n-&nbsp;Great and fun team player, yet able to take your responsibility and work independently<br />\r\n-&nbsp;Comfortable with deadline pressures<br />\r\n-&nbsp;Fluent in English</p>\r\n\r\n<p><strong>EXPERIENCE +</strong></p>\r\n\r\n<p>- Experience with Adobe Illustrator and Adobe Photoshop<br />\r\n-&nbsp;Experience with Python, PHP or SASS Our offer</p>\r\n\r\n<p>An opportunity to work within a&nbsp;young, multicultural, entrepreneurial (and awesome) team that aims to contribute to the decentralization of the electrical grid to sustain the fight against climate change in one of the most amazing, sunny and hot European cities. And of course, you’ll be getting a salary. The internship lasts <strong>5-6 months</strong> and should be around 20 hours/week commitment. The start date is flexible but could begin as of <strong>January/February 2017</strong>.</p>\r\n\r\n<p><strong>How to apply</strong></p>\r\n\r\n<p>For this vacancy you are requested to <strong>send your CV</strong> and a short motivational letter to the following e-mail address: <a href=\"mailto:contact@flexidao.com\">contact@flexidao.com</a>.</p>\r\n"
+    format: full_html
+    processed: "<p><strong>Company description</strong></p>\n\n<p><a href=\"http://flexidao.com/\">FlexiDAO</a> is a start-up based in Barcelona. We provide the industry’s first blockchain and cloud-based energy services aggregation platform to enable distributed, small-scale demand side response. Combined with our innovative electric vehicle smart charger, our platform can control and optimize EV charging providing extra income for the drivers while helping energy companies to stabilize the grid and consume more green energy.</p>\n\n<p>Leveraging blockchain technology, our platform is extremely interoperable and it can integrate different EV manufacturers, other distributed loads (i.e. home batteries), utilities, and other commercial energy partners. In addition, we can eliminate nearly all administrative and financial costs higher rewards to our customers.</p>\n\n<p><strong>Your responsibilities</strong></p>\n\n<p>Are you interested in the blockchain world? Do you have experience with user interface design and want to help fighting climate change? We are looking for an intern to join our fast-paced start-up. If you can bring enthusiasm, we can offer the opportunity to work on several front-end developments (control dashboard and mobile-app) that involve blockchain under the hood and supporting materials for our marketing and communications (website and blog). You will be joining a small team (around 5 people) of extremely motivated young professionals and you will surely learn a lot about blockchain technology (no experience required) and cleantech, the two sectors of the future.</p>\n\n<p><strong>Job requirements</strong></p>\n\n<p>We are looking for a <strong>multi-talented UI Design intern</strong>, who is excited to join our mission-oriented, friendly and fast-paced start-up environment. You should basically be a hybrid of UI, UX, and Front- End Development, and eager to take on real-life projects with a leading role. Our team is small which means you need to be independent, but you will not be asked to carry out boring tasks and you will learn a lot. Some of the projects you will be working on are the development of the decentralized platform, the mobile app (also working with blockchain) and the company’s website.</p>\n\n<p><strong>REQUIRED SKILLS / EXPERIENCE</strong></p>\n\n<p>- HTML, CSS, Javascript<br />\n-\_Comfortable with creating different styles and techniques<br />\n-\_Great and fun team player, yet able to take your responsibility and work independently<br />\n-\_Comfortable with deadline pressures<br />\n-\_Fluent in English</p>\n\n<p><strong>EXPERIENCE +</strong></p>\n\n<p>- Experience with Adobe Illustrator and Adobe Photoshop<br />\n-\_Experience with Python, PHP or SASS Our offer</p>\n\n<p>An opportunity to work within a\_young, multicultural, entrepreneurial (and awesome) team that aims to contribute to the decentralization of the electrical grid to sustain the fight against climate change in one of the most amazing, sunny and hot European cities. And of course, you’ll be getting a salary. The internship lasts <strong>5-6 months</strong> and should be around 20 hours/week commitment. The start date is flexible but could begin as of <strong>January/February 2017</strong>.</p>\n\n<p><strong>How to apply</strong></p>\n\n<p>For this vacancy you are requested to <strong>send your CV</strong> and a short motivational letter to the following e-mail address: <a href=\"mailto:contact@flexidao.com\">contact@flexidao.com</a>.</p>\n"
+field_job_location:
+  -
+    value: Barcelona
+    format: full_html
+    processed: Barcelona
+field_more_details_link:
+  -
+    uri: 'https://flexidao.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

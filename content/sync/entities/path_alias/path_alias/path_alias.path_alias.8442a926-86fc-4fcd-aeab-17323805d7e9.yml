@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8442a926-86fc-4fcd-aeab-17323805d7e9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/107
+alias:
+  -
+    value: /article/eit-kicouchsurfing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

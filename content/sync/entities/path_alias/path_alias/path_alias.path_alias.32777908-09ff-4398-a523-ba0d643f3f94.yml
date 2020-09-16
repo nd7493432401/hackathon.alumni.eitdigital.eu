@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 32777908-09ff-4398-a523-ba0d643f3f94
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/350
+alias:
+  -
+    value: /job/devops-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

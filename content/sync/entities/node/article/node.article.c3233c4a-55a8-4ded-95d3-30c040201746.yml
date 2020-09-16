@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: c3233c4a-55a8-4ded-95d3-30c040201746
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:20:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Conference 2017'
+created:
+  -
+    value: '2017-02-01T08:03:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:20:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/eit-digital-conference-2017
+body:
+  -
+    value: "<p><strong>EIT Digital Conference</strong></p>\r\n\r\n<p><em>\"Delivering Europe's Digital Transformation\"</em>, will be held in Brussels, at&nbsp;<a href=\"http://www.theeggbrussels.com/\">The EGG</a>, on March 21, 2017.</p>\r\n\r\n<p>On March 21, 2017, EIT Digital will host <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">its second annual Conference</a> showcasing EIT Digital's achievements, and how we are taking a leading role in shaping digitisation in Europe.</p>\r\n\r\n<p>The <a href=\"https://www.eitdigital.eu/conference/programme-for-march-21/\">2017 conference programme</a> gives the floor to leading government and industry experts as well as entrepreneurs, bringing their experience with disruptive digital innovation. There will be the opportunity to join seminars and discussions on the next challenges for the digital economy. We will also showcase disruptive digital innovations EIT Digital is bringing to the market in an exposition.</p>\r\n\r\n<p>The event provides an opportunity for networking with attendees from a diverse range of organisations working in the digital ecosystem, representing large corporates, SMEs, leading technical universities and research institutes, as well as policy and decision makers from the Parliament, the European Commission and public authorities. In total we expect over 700 delegates.&nbsp;</p>\r\n\r\n<p>Register <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">at this link</a> if you'd like to attend!</p>\r\n"
+    format: full_html
+    processed: "<p><strong>EIT Digital Conference</strong></p>\n\n<p><em>\"Delivering Europe's Digital Transformation\"</em>, will be held in Brussels, at\_<a href=\"http://www.theeggbrussels.com/\">The EGG</a>, on March 21, 2017.</p>\n\n<p>On March 21, 2017, EIT Digital will host <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">its second annual Conference</a> showcasing EIT Digital's achievements, and how we are taking a leading role in shaping digitisation in Europe.</p>\n\n<p>The <a href=\"https://www.eitdigital.eu/conference/programme-for-march-21/\">2017 conference programme</a> gives the floor to leading government and industry experts as well as entrepreneurs, bringing their experience with disruptive digital innovation. There will be the opportunity to join seminars and discussions on the next challenges for the digital economy. We will also showcase disruptive digital innovations EIT Digital is bringing to the market in an exposition.</p>\n\n<p>The event provides an opportunity for networking with attendees from a diverse range of organisations working in the digital ecosystem, representing large corporates, SMEs, leading technical universities and research institutes, as well as policy and decision makers from the Parliament, the European Commission and public authorities. In total we expect over 700 delegates.\_</p>\n\n<p>Register <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">at this link</a> if you'd like to attend!</p>\n"
+    summary: 'EIT Digital Conference"Delivering Europe''s Digital Transformation", will be held in Brussels'
+    summary_processed: 'EIT Digital Conference"Delivering Europe''s Digital Transformation", will be held in Brussels'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: "\"Delivering Europe's Digital Transformation\", will be held in Brussels, at\_The EGG, on March 21, 2017."
+field_image:
+  -
+    target_type: media
+    target_uuid: 511dc9c6-6b88-415a-9ec2-f3b8dc0891dc
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.511dc9c6-6b88-415a-9ec2-f3b8dc0891dc

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d1891db6-1eee-4827-99d0-a44919df1e31
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/289
+alias:
+  -
+    value: /event/driving-digital-transformation-manufacturing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

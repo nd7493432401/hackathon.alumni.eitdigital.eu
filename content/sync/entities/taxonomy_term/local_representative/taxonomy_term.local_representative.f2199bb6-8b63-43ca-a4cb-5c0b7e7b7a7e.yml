@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: f2199bb6-8b63-43ca-a4cb-5c0b7e7b7a7e
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: local_representative
+    target_type: taxonomy_vocabulary
+    target_uuid: dc9f935b-bfb3-4aa5-83f2-7a01048f717f
+revision_created:
+  -
+    value: '2020-03-24T10:36:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Paris Local Community'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:36:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /local-representative/paris-local-community
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

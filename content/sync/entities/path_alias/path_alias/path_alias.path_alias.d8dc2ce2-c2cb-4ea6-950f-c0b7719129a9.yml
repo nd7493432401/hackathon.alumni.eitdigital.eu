@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d8dc2ce2-c2cb-4ea6-950f-c0b7719129a9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/13
+alias:
+  -
+    value: /article/laena-our-new-events-officer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

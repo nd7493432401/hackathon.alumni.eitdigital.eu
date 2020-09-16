@@ -1,0 +1,9 @@
+uuid: a4bd2ac7-4b27-4ae3-a754-f56bbe86491f
+langcode: en
+status: true
+dependencies: {  }
+id: associate_member_master
+label: 'Associate Member (Master)'
+weight: 6
+is_admin: null
+permissions: {  }

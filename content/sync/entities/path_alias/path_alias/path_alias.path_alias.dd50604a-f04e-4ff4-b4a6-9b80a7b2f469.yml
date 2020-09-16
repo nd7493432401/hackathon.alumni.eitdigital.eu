@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dd50604a-f04e-4ff4-b4a6-9b80a7b2f469
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/209
+alias:
+  -
+    value: /event/womeneit-4-perfect-your-pitch
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

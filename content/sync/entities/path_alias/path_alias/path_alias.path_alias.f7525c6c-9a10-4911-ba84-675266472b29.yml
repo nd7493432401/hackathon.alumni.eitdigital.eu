@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f7525c6c-9a10-4911-ba84-675266472b29
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/470
+alias:
+  -
+    value: /job/embedded-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

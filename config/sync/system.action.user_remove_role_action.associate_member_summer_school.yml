@@ -1,0 +1,14 @@
+uuid: c8856157-89aa-4555-ac01-87bef771dbaf
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_summer_school
+  module:
+    - user
+id: user_remove_role_action.associate_member_summer_school
+label: 'Remove the Associate Member (Summer School) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: associate_member_summer_school

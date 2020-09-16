@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 7b16d0e5-e574-4eb1-b7a5-001046cc4d27
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Product UX/UI Designer (Junior to Mid Level)'
+created:
+  -
+    value: '2019-07-29T09:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:09:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/product-uxui-designer-junior-mid-level
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://market-logic-software.workable.com/jobs/1068401'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Market Logic Software'
+    format: full_html
+    processed: 'Market Logic Software'
+field_expiration_date:
+  -
+    value: '2019-12-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>About Market Logic:</strong></p>\r\n\r\n<p>Market Logic helps the world’s best brands to make fast, winning decisions that accelerate growth. We do this with marketing insight platforms that automate innovation, marketing and research workflows, with the right insights at the right time. Market Logic supports brands in 190 countries across CPG/FMCG, retail, finance and media sectors, including Unilever, American Express, News Corp, P&amp;G, Johnson &amp; Johnson, Coca-Cola and Tesco. We employ 300+ software developers, data scientists, business consultants and marketing professionals at regional headquarters in Berlin, Chicago, and Singapore. For more information see&nbsp;<a href=\"http://www.marketlogicsoftware.com\">www.marketlogicsoftware.com</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>About the job:</strong></p>\r\n\r\n<p>As an integral part of a cross-functional agile team, you will be responsible for the design of a portion of our platform and define the user experience, interactions, and interface design.</p>\r\n\r\n<p>You will use and contribute to our design system, and be pivotal in helping define our user experience and the consistency of our design across a large-scale enterprise platform. You will work closely with our VP of Design, Design Directors, Product Designers, UX Researchers, and UX Architects.</p>\r\n\r\n<p>On the design teams, we are passionate about great design. Our mantra is “Clean, simple, elegant, intuitive.” We are designing for executive leaders and thousands of users within major worldwide companies, so we care deeply about the details and we provide them a world-class user experience.</p>\r\n\r\n<p>Bring with you an awesome portfolio, a sense of community, and an insatiable appetite for design greatness.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Responsibilities include:</strong></p>\r\n\r\n<p>- Be inherently inclusive in your design processes and interactions with colleagues and stakeholders</p>\r\n\r\n<p>- Communicate and build consensus around experience architecture and interaction designs</p>\r\n\r\n<p>- Be the design owner for an agile team</p>\r\n\r\n<p>- Collaborate with the UX Research team</p>\r\n\r\n<p>- Develop and refine UI pattern libraries and interaction guidelines in our design system</p>\r\n\r\n<p>- Own the design work for your team for the entire development process</p>\r\n\r\n<p>- Demonstrate design concepts through mockups and prototypes</p>\r\n\r\n<p>- Foster innovation</p>\r\n\r\n<p>- Be passionate about the details, ensuring everything is in its right place for the finished product</p>\r\n\r\n<p>- Keep watch of the shipped product and iterate for improvements</p>\r\n\r\n<p>- Always look for opportunities to design for customer delight</p>\r\n\r\n<p><strong>REQUIREMENTS</strong></p>\r\n\r\n<p>- Three or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments</p>\r\n\r\n<p>- Expertise in standard UX software such as Sketch and InVision is a must. Basic HTML5, CSS3, and JavaScript skills are a plus</p>\r\n\r\n<p>- Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision</p>\r\n\r\n<p>- Extensive experience in using UX design best practices</p>\r\n\r\n<p>- A deep understanding of responsive design. Preferences will be given to candidates with native mobile experience</p>\r\n\r\n<p>- Ability to iterate designs and solutions efficiently and intelligently</p>\r\n\r\n<p>- Ability to clearly and effectively communicate design processes, ideas, and solutions to teams and stakeholders</p>\r\n\r\n<p>- A clear understanding of the importance of user-centered design and design thinking</p>\r\n\r\n<p>- Ability to work effectively in a team setting including synthesizing abstract ideas into concrete design directions</p>\r\n\r\n<p>- A passion for resolving user pain points through great design</p>\r\n\r\n<p>- A desire for on-going career and personal growth with an openness to feedback and constructive criticism</p>\r\n\r\n<p><strong>BENEFITS</strong></p>\r\n\r\n<p>- Senior company management that unanimously believes in the value of design and the importance of strong design teams and talented designers that lead the way for the entire platform</p>\r\n\r\n<p>- Exciting work with one of the leading market research software products</p>\r\n\r\n<p>- An agile environment where design is an integral part of the process</p>\r\n\r\n<p>- The opportunity to solve difficult design challenges and enjoy the success of delivering the solutions</p>\r\n\r\n<p>- A long-term and well-planned career path with good opportunities for growth and advancement</p>\r\n\r\n<p>- Flexible working hours, German classes, regular team lunches, bike leasing, and fresh fruit in the office</p>\r\n"
+    format: full_html
+    processed: "<p><strong>About Market Logic:</strong></p>\n\n<p>Market Logic helps the world’s best brands to make fast, winning decisions that accelerate growth. We do this with marketing insight platforms that automate innovation, marketing and research workflows, with the right insights at the right time. Market Logic supports brands in 190 countries across CPG/FMCG, retail, finance and media sectors, including Unilever, American Express, News Corp, P&amp;G, Johnson &amp; Johnson, Coca-Cola and Tesco. We employ 300+ software developers, data scientists, business consultants and marketing professionals at regional headquarters in Berlin, Chicago, and Singapore. For more information see\_<a href=\"http://www.marketlogicsoftware.com\">www.marketlogicsoftware.com</a>.</p>\n\n<p>\_</p>\n\n<p><strong>About the job:</strong></p>\n\n<p>As an integral part of a cross-functional agile team, you will be responsible for the design of a portion of our platform and define the user experience, interactions, and interface design.</p>\n\n<p>You will use and contribute to our design system, and be pivotal in helping define our user experience and the consistency of our design across a large-scale enterprise platform. You will work closely with our VP of Design, Design Directors, Product Designers, UX Researchers, and UX Architects.</p>\n\n<p>On the design teams, we are passionate about great design. Our mantra is “Clean, simple, elegant, intuitive.” We are designing for executive leaders and thousands of users within major worldwide companies, so we care deeply about the details and we provide them a world-class user experience.</p>\n\n<p>Bring with you an awesome portfolio, a sense of community, and an insatiable appetite for design greatness.</p>\n\n<p>\_</p>\n\n<p><strong>Responsibilities include:</strong></p>\n\n<p>- Be inherently inclusive in your design processes and interactions with colleagues and stakeholders</p>\n\n<p>- Communicate and build consensus around experience architecture and interaction designs</p>\n\n<p>- Be the design owner for an agile team</p>\n\n<p>- Collaborate with the UX Research team</p>\n\n<p>- Develop and refine UI pattern libraries and interaction guidelines in our design system</p>\n\n<p>- Own the design work for your team for the entire development process</p>\n\n<p>- Demonstrate design concepts through mockups and prototypes</p>\n\n<p>- Foster innovation</p>\n\n<p>- Be passionate about the details, ensuring everything is in its right place for the finished product</p>\n\n<p>- Keep watch of the shipped product and iterate for improvements</p>\n\n<p>- Always look for opportunities to design for customer delight</p>\n\n<p><strong>REQUIREMENTS</strong></p>\n\n<p>- Three or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments</p>\n\n<p>- Expertise in standard UX software such as Sketch and InVision is a must. Basic HTML5, CSS3, and JavaScript skills are a plus</p>\n\n<p>- Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision</p>\n\n<p>- Extensive experience in using UX design best practices</p>\n\n<p>- A deep understanding of responsive design. Preferences will be given to candidates with native mobile experience</p>\n\n<p>- Ability to iterate designs and solutions efficiently and intelligently</p>\n\n<p>- Ability to clearly and effectively communicate design processes, ideas, and solutions to teams and stakeholders</p>\n\n<p>- A clear understanding of the importance of user-centered design and design thinking</p>\n\n<p>- Ability to work effectively in a team setting including synthesizing abstract ideas into concrete design directions</p>\n\n<p>- A passion for resolving user pain points through great design</p>\n\n<p>- A desire for on-going career and personal growth with an openness to feedback and constructive criticism</p>\n\n<p><strong>BENEFITS</strong></p>\n\n<p>- Senior company management that unanimously believes in the value of design and the importance of strong design teams and talented designers that lead the way for the entire platform</p>\n\n<p>- Exciting work with one of the leading market research software products</p>\n\n<p>- An agile environment where design is an integral part of the process</p>\n\n<p>- The opportunity to solve difficult design challenges and enjoy the success of delivering the solutions</p>\n\n<p>- A long-term and well-planned career path with good opportunities for growth and advancement</p>\n\n<p>- Flexible working hours, German classes, regular team lunches, bike leasing, and fresh fruit in the office</p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 213eaefb-12b3-457b-b4e9-81b12439d3be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:30:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Pre-Xmas Trento Alumni meetup'
+created:
+  -
+    value: '2018-12-02T17:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:30:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/pre-xmas-trento-alumni-meetup
+body: {  }
+field_event_:
+  -
+    value: 'Contamination Lab (CLab) Trento, Piazza di Fiera, 4, Trento'
+    format: full_html
+    processed: 'Contamination Lab (CLab) Trento, Piazza di Fiera, 4, Trento'
+field_event_date:
+  -
+    value: '2018-12-18T19:30:00+01:00'
+    end_value: '2018-12-18T22:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>⚠️ Joining us? <strong>Sign up here</strong>: <a href=\"http://bit.ly/tn-alumni-food\">bit.ly/tn-alumni-food</a> ⚠️</p>\r\n\r\n<p>This is the <strong>first</strong> (and the last of 2018!) event of the EIT Digital Alumni <strong>local group in Trento</strong>, so it is an occasion to benefit from all the advantages&nbsp;that our community has to offer. We can share our experiences, chat with old friends and make some new ones, and discuss why and how we ended up (again?) in Trento.</p>\r\n\r\n<p><a href=\"https://alumni.eitdigital.eu/users/preben\">Luca</a>, one of our more active Alumni in Trento - who also helped organize the <a href=\"/node/218\">Annual Meeting 18</a> -&nbsp;will welcome you and moderate the event. <a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco</a>, the Alumni President, will update us with the latest news regarding our constantly growing community. <a href=\"https://alumni.eitdigital.eu/users/riruk\">Ivan</a>, a current EIT Digital Doctoral student and soon alumnus-to-be, will present what he has been doing over the last years, with a talk on <strong>cyber-security</strong> and <strong>open source software</strong>&nbsp;(find his abstract below).</p>\r\n\r\n<p>Following this more formal part, we will have plenty of time to mingle, drink something and grab some bites,&nbsp;and exchange some Xmas wishes in advance&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Agenda:</strong></p>\r\n\r\n<p>19.30-20: Meeting &amp; snacks</p>\r\n\r\n<p>20-21: Alumni talks</p>\r\n\r\n<p>21-22: Food, drinks &amp; networking</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Will you be around? Feel free to join us, we look forward to meeting you all. Also <a href=\"http://bit.ly/xmas-tn-fb\">join our Facebook event</a> to remain updated.<br />\r\n&nbsp;</p>\r\n\r\n<p><strong>Abstract of Ivan’s talk:</strong></p>\r\n\r\n<p>Modern software projects cannot exist without open source software (OSS). It allows software projects to have rapid growth, credibility, and trust of their users. However, the wide adoption of OSS also brings huge security risks. Improper maintenance of OSS components may result in serious and costly security breaches, like the Equifax case, when the company lost 100K credit card profiles. To make projects that use OSS components secure, we have designed a methodology for identification of possible security issues coming from the used OSS components and for providing an actionable information for mitigation of possible flaws. The methodology demonstrated its sustainability being used by SAP, a large international software development company.</p>\r\n"
+    format: full_html
+    processed: "<p>⚠️ Joining us? <strong>Sign up here</strong>: <a href=\"http://bit.ly/tn-alumni-food\">bit.ly/tn-alumni-food</a> ⚠️</p>\n\n<p>This is the <strong>first</strong> (and the last of 2018!) event of the EIT Digital Alumni <strong>local group in Trento</strong>, so it is an occasion to benefit from all the advantages\_that our community has to offer. We can share our experiences, chat with old friends and make some new ones, and discuss why and how we ended up (again?) in Trento.</p>\n\n<p><a href=\"https://alumni.eitdigital.eu/users/preben\">Luca</a>, one of our more active Alumni in Trento - who also helped organize the <a href=\"/node/218\">Annual Meeting 18</a> -\_will welcome you and moderate the event. <a href=\"https://alumni.eitdigital.eu/users/franzbona\">Francesco</a>, the Alumni President, will update us with the latest news regarding our constantly growing community. <a href=\"https://alumni.eitdigital.eu/users/riruk\">Ivan</a>, a current EIT Digital Doctoral student and soon alumnus-to-be, will present what he has been doing over the last years, with a talk on <strong>cyber-security</strong> and <strong>open source software</strong>\_(find his abstract below).</p>\n\n<p>Following this more formal part, we will have plenty of time to mingle, drink something and grab some bites,\_and exchange some Xmas wishes in advance\_</p>\n\n<p>\_</p>\n\n<p><strong>Agenda:</strong></p>\n\n<p>19.30-20: Meeting &amp; snacks</p>\n\n<p>20-21: Alumni talks</p>\n\n<p>21-22: Food, drinks &amp; networking</p>\n\n<p>\_</p>\n\n<p>Will you be around? Feel free to join us, we look forward to meeting you all. Also <a href=\"http://bit.ly/xmas-tn-fb\">join our Facebook event</a> to remain updated.<br />\n\_</p>\n\n<p><strong>Abstract of Ivan’s talk:</strong></p>\n\n<p>Modern software projects cannot exist without open source software (OSS). It allows software projects to have rapid growth, credibility, and trust of their users. However, the wide adoption of OSS also brings huge security risks. Improper maintenance of OSS components may result in serious and costly security breaches, like the Equifax case, when the company lost 100K credit card profiles. To make projects that use OSS components secure, we have designed a methodology for identification of possible security issues coming from the used OSS components and for providing an actionable information for mitigation of possible flaws. The methodology demonstrated its sustainability being used by SAP, a large international software development company.</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: a7d81281-708d-4b8e-ba15-5a44d601e211
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: a7d81281-708d-4b8e-ba15-5a44d601e211
+field_event_introduction:
+  -
+    value: "<p>Join us in Trento for the first Alumni local meetup ever: chats, food, talks and drinks with your pals!</p>\r\n"
+    format: full_html
+    processed: "<p>Join us in Trento for the first Alumni local meetup ever: chats, food, talks and drinks with your pals!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.a7d81281-708d-4b8e-ba15-5a44d601e211
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

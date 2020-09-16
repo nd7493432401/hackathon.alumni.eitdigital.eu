@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0c5e3eba-6c52-4f06-b151-8b998f161f84
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/562
+alias:
+  -
+    value: /job/sw-developer-designer-summer-worker-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

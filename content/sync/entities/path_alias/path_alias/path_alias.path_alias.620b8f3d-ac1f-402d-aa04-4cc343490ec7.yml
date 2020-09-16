@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 620b8f3d-ac1f-402d-aa04-4cc343490ec7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/54
+alias:
+  -
+    value: /users/clodabatho
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

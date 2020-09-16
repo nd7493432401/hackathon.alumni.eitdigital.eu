@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4bdc8e26-6ed4-414e-89bf-f6cbdc66a99d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/412
+alias:
+  -
+    value: /job/data-science-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

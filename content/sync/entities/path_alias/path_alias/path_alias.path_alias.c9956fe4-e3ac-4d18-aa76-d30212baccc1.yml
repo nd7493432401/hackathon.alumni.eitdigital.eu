@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c9956fe4-e3ac-4d18-aa76-d30212baccc1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/26
+alias:
+  -
+    value: /event-type/collaboration
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

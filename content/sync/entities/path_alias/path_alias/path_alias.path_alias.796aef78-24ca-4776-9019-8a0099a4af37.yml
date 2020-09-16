@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 796aef78-24ca-4776-9019-8a0099a4af37
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/567
+alias:
+  -
+    value: /job/infrastructure-engineer-mfd
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

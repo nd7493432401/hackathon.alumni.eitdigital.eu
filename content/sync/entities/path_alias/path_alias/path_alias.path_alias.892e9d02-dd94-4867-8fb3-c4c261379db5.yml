@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 892e9d02-dd94-4867-8fb3-c4c261379db5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/565
+alias:
+  -
+    value: /job/senior-software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

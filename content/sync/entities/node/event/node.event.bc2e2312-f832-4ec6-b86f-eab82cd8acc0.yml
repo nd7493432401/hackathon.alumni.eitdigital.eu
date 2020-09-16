@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: bc2e2312-f832-4ec6-b86f-eab82cd8acc0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:54:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Business Development workshop'
+created:
+  -
+    value: '2018-03-31T11:44:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:54:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/business-development-workshop
+body: {  }
+field_event_:
+  -
+    value: 'EIT Co-Location Centre node, 15-17 Leeke Street,WC1X 9HY'
+    format: full_html
+    processed: 'EIT Co-Location Centre node, 15-17 Leeke Street,WC1X 9HY'
+field_event_date:
+  -
+    value: '2018-04-21T10:00:00+02:00'
+    end_value: '2018-04-21T16:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>Are you a computer scientist or just an enthusiast who wants to know how to get your business idea into the market? You might already have an idea that you want to develop, but it doesn’t matter if you are still figuring out or perhaps have no clue.</p>\r\n\r\n<p>We offer a workshop to give you a quick introduction on how to analyse business ideas and create business models. During the day we introduce you to the relevant concepts and get you started on creating a business model. In the end of the day, there will be drinks and snacks!</p>\r\n\r\n<p>Join us at the EIT Digital Alumni Business Development workshop: <a href=\"http://bit.ly/bdw-uk\">REGISTER HERE</a>!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Do you want more info? Contact our Local Reps: <a href=\"https://alumni.eitdigital.eu/users/kevin-allain\">Kevin Allain</a>&nbsp;and <a href=\"https://alumni.eitdigital.eu/users/johannama\">Johanna Mähönen</a></p>\r\n"
+    format: full_html
+    processed: "<p>Are you a computer scientist or just an enthusiast who wants to know how to get your business idea into the market? You might already have an idea that you want to develop, but it doesn’t matter if you are still figuring out or perhaps have no clue.</p>\n\n<p>We offer a workshop to give you a quick introduction on how to analyse business ideas and create business models. During the day we introduce you to the relevant concepts and get you started on creating a business model. In the end of the day, there will be drinks and snacks!</p>\n\n<p>Join us at the EIT Digital Alumni Business Development workshop: <a href=\"http://bit.ly/bdw-uk\">REGISTER HERE</a>!</p>\n\n<p>\_</p>\n\n<p>Do you want more info? Contact our Local Reps: <a href=\"https://alumni.eitdigital.eu/users/kevin-allain\">Kevin Allain</a>\_and <a href=\"https://alumni.eitdigital.eu/users/johannama\">Johanna Mähönen</a></p>\n"
+field_event_duration:
+  -
+    value: '11:00 - 19:00'
+    format: basic_html
+    processed: '11:00 - 19:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 672c8661-e0f3-4094-a372-cf7b278c50fe
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 672c8661-e0f3-4094-a372-cf7b278c50fe
+field_event_introduction:
+  -
+    value: "<p>We offer a workshop to give you a quick introduction on how to analyse business ideas and create business models.</p>\r\n"
+    format: full_html
+    processed: "<p>We offer a workshop to give you a quick introduction on how to analyse business ideas and create business models.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b63221f6-a610-4b97-915c-c8b087f730ad
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.672c8661-e0f3-4094-a372-cf7b278c50fe
+    taxonomy_term:
+      - taxonomy_term.event_type.b63221f6-a610-4b97-915c-c8b087f730ad

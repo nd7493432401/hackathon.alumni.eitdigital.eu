@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: d84f0cb2-2d78-4b80-82c0-addf2d7693fd
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: TCDisrupt-team_0.jpg
+thumbnail:
+  -
+    alt: ImagiLab
+    title: null
+    width: 1716
+    height: 1710
+    target_type: file
+    target_uuid: 80c76638-cc78-4185-8769-5723bc141c61
+created:
+  -
+    value: '2020-04-08T08:59:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-08T08:59:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: ImagiLab
+    title: ''
+    width: 1716
+    height: 1710
+    target_type: file
+    target_uuid: 80c76638-cc78-4185-8769-5723bc141c61
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.80c76638-cc78-4185-8769-5723bc141c61

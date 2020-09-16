@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5e5b1826-b84b-4caa-8e73-4fed853e9f07
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/99
+alias:
+  -
+    value: /article/spotlight-toomas-kallioja
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

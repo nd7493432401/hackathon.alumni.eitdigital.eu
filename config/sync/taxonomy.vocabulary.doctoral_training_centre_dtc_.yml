@@ -1,0 +1,8 @@
+uuid: ef24cc6f-993e-4024-99f6-283942aa37e3
+langcode: en
+status: true
+dependencies: {  }
+name: 'Doctoral Training Centre (DTC)'
+vid: doctoral_training_centre_dtc_
+description: ''
+weight: 0

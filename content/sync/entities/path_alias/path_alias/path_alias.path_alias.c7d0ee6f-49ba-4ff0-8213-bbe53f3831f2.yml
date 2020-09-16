@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c7d0ee6f-49ba-4ff0-8213-bbe53f3831f2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/627
+alias:
+  -
+    value: /job/junior-ux-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c572241e-565c-4d9b-9929-53f065f2a20f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/392
+alias:
+  -
+    value: /job/tech-business-positions
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

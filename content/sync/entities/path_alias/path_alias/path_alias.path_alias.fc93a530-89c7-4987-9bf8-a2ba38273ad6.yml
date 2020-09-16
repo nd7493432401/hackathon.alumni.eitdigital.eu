@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fc93a530-89c7-4987-9bf8-a2ba38273ad6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/391
+alias:
+  -
+    value: /job/master-thesis
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9016b655-3893-45d4-82e8-8a472ddef252
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/172
+alias:
+  -
+    value: /event/innovation-cyber-physical-systems-and-industrial-iot-domain
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

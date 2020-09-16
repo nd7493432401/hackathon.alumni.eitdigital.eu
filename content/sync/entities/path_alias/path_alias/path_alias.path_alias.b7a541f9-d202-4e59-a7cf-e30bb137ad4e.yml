@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b7a541f9-d202-4e59-a7cf-e30bb137ad4e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/251
+alias:
+  -
+    value: /event/eu-startups-summit-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

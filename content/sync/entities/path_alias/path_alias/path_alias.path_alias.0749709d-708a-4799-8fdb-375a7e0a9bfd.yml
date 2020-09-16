@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0749709d-708a-4799-8fdb-375a7e0a9bfd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/336
+alias:
+  -
+    value: /job/software-engineer-backend-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

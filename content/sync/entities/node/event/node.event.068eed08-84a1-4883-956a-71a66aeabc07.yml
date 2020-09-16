@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 068eed08-84a1-4883-956a-71a66aeabc07
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:17:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni Startup Days 2016'
+created:
+  -
+    value: '2016-11-28T22:22:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:17:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-alumni-startup-days-2016
+body: {  }
+field_event_:
+  -
+    value: 'Barcelona, Berlin, Eindhoven, Lisbon, Paris, Stockholm'
+    format: full_html
+    processed: 'Barcelona, Berlin, Eindhoven, Lisbon, Paris, Stockholm'
+field_event_date:
+  -
+    value: '2016-12-02T15:00:00+01:00'
+    end_value: '2016-12-04T17:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>The EIT Alumni Startup days is a community building initiative that enhances cooperation across the EIT’s Knowledge and Innovation Communities. By bringing together students, graduates, researchers, developers, young professionals and start-up enthusiasts in 6 cities across Europe for a 54 hour event, we connect a global network of entrepreneurs and innovators.</p>\r\n\r\n<p>Challenges addressed by the participants will come from corporate sponsors, companies within the local innovation ecosystem or EIT Alumni members wanting to expand and seek help for their start-up propositions.</p>\r\n\r\n<p>Space is limited, so book your place now at <a href=\"http://startupdays.eitalumni.eu\">startupdays.eitalumni.eu</a></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Alumni Startup days is a community building initiative that enhances cooperation across the EIT’s Knowledge and Innovation Communities. By bringing together students, graduates, researchers, developers, young professionals and start-up enthusiasts in 6 cities across Europe for a 54 hour event, we connect a global network of entrepreneurs and innovators.</p>\n\n<p>Challenges addressed by the participants will come from corporate sponsors, companies within the local innovation ecosystem or EIT Alumni members wanting to expand and seek help for their start-up propositions.</p>\n\n<p>Space is limited, so book your place now at <a href=\"http://startupdays.eitalumni.eu\">startupdays.eitalumni.eu</a></p>\n"
+field_event_duration:
+  -
+    value: '2 Days event'
+    format: full_html
+    processed: '2 Days event'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: f2784df5-a568-4452-bcb2-b73bb0730cb1
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: f2784df5-a568-4452-bcb2-b73bb0730cb1
+field_event_introduction:
+  -
+    value: "<p>The second edition of the EIT Alumni Startup Days will take place simultaneously in six European cities (Eindhoven, Barcelona, Berlin, Paris, Stockholm and Lisbon) from 2-4 December 2016.</p>\r\n"
+    format: full_html
+    processed: "<p>The second edition of the EIT Alumni Startup Days will take place simultaneously in six European cities (Eindhoven, Barcelona, Berlin, Paris, Stockholm and Lisbon) from 2-4 December 2016.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 450d4e5b-4ae0-4259-98f5-eb0d365ceab4
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.f2784df5-a568-4452-bcb2-b73bb0730cb1
+    taxonomy_term:
+      - taxonomy_term.event_type.450d4e5b-4ae0-4259-98f5-eb0d365ceab4

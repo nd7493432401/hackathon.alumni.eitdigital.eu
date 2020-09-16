@@ -1,0 +1,14 @@
+uuid: b78201ba-ef5b-4a7b-8300-02b1045dc2ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_employee
+  module:
+    - user
+id: user_add_role_action.potential_member_employee
+label: 'Add the Potential Member (Employee) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: potential_member_employee

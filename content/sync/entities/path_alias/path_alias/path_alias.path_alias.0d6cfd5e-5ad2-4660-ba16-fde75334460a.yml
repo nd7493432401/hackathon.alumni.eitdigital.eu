@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0d6cfd5e-5ad2-4660-ba16-fde75334460a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/170
+alias:
+  -
+    value: /summer-schools/2019-bologna-data-driven-manufacturing-industry-40
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: e7131b78-b806-4d7d-823d-5c97c5e4174f
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: berlin-brandenburg-gate-big.png
+thumbnail:
+  -
+    alt: 'Berlin Local Community'
+    title: null
+    width: 3000
+    height: 2000
+    target_type: file
+    target_uuid: 63454f14-2ec6-4c08-bda8-6ec014a45240
+created:
+  -
+    value: '2020-04-17T09:21:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T09:21:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Berlin Local Community'
+    title: ''
+    width: 3000
+    height: 2000
+    target_type: file
+    target_uuid: 63454f14-2ec6-4c08-bda8-6ec014a45240
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.63454f14-2ec6-4c08-bda8-6ec014a45240

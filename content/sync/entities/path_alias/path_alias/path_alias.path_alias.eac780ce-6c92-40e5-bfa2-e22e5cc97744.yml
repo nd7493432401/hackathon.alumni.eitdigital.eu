@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: eac780ce-6c92-40e5-bfa2-e22e5cc97744
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/57
+alias:
+  -
+    value: /doctoral-training-centre-dtc/dtc-rennes
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

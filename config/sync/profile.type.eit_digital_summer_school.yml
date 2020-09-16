@@ -1,0 +1,13 @@
+uuid: d09508c7-715d-463b-8cd9-51cf2ff77e04
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_summer_school
+label: 'EIT Digital Summer School'
+display_label: 'EIT Digital Summer School'
+multiple: false
+registration: true
+roles:
+  associate_member_summer_school: associate_member_summer_school
+allow_revisions: false
+new_revision: false

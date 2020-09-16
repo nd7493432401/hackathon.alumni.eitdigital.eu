@@ -1,0 +1,22 @@
+uuid: 1bf69f34-aa82-466b-a63e-4427a54fee96
+langcode: en
+status: true
+dependencies:
+  config:
+    - node.type.carousel
+id: node.carousel.promote
+field_name: promote
+entity_type: node
+bundle: carousel
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

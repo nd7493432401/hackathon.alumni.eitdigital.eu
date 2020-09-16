@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 38d4f9dc-db34-44ec-a1a4-fee12be4be38
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/128
+alias:
+  -
+    value: /candidate/jose-carlos-camposano
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

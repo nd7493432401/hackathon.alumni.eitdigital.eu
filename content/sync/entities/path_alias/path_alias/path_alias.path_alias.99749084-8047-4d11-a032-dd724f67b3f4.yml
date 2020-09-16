@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 99749084-8047-4d11-a032-dd724f67b3f4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/8
+alias:
+  -
+    value: /event-type/startup-days
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,19 @@
+uuid: 75dca7e1-6061-4402-a0c3-c0a3b54330fb
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_carousel_subtitle
+field_name: field_carousel_subtitle
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

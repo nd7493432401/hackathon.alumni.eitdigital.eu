@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 58c42fdd-0043-47ae-bd92-3d3dda266d85
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: EIT-Alumni-Startup-Dyas-Eindhoven-014.jpg
+thumbnail:
+  -
+    alt: Mentorship
+    title: null
+    width: 4179
+    height: 2781
+    target_type: file
+    target_uuid: 1861186a-8667-45a2-9a74-b763bb17564c
+created:
+  -
+    value: '2020-05-02T10:24:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T10:24:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: Mentorship
+    title: ''
+    width: 4179
+    height: 2781
+    target_type: file
+    target_uuid: 1861186a-8667-45a2-9a74-b763bb17564c
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.1861186a-8667-45a2-9a74-b763bb17564c

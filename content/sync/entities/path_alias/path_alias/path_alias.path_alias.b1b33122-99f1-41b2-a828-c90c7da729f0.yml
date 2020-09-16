@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1b33122-99f1-41b2-a828-c90c7da729f0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/122
+alias:
+  -
+    value: /exit-universities/sorbonne-university-paris-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

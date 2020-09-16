@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 2499cf06-71b9-4bee-ae2f-5226b813a656
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:54:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Alumni: Junction cool-down Slush warm-up'
+created:
+  -
+    value: '2019-11-05T17:06:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:54:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-digital-alumni-junction-cool-down-slush-warm
+body: {  }
+field_event_:
+  -
+    value: 'Futurice, Annankatu 34 B, 00100 Helsinki, Finland'
+    format: full_html
+    processed: 'Futurice, Annankatu 34 B, 00100 Helsinki, Finland'
+field_event_date:
+  -
+    value: '2019-11-18T18:00:00+01:00'
+    end_value: '2019-11-18T23:30:00+01:00'
+field_event_description:
+  -
+    value: "<div>November might not be the best time for sightseeing around Helsinki or enjoying nice weather, but it is definitely the hottest time of the year if you are a <strong>hacker </strong>or <strong>start-up co-founder</strong>...</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>Following the local EIT Digital Alumni tradition, we are organizing once again the perfect evening to complement your participation in two of the <strong>biggest tech events</strong> in the Nordics: Junction and Slush! And what better way to celebrate your success (or get over your failure) than to share with your fellow alumni your <strong>experiences in previous hackathons</strong> and <strong>Slush(e)es</strong>. Join us for a series of interesting talks to learn what will make it or break it when you are trying to survive&nbsp;November in HEL!</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>After the official part of the event, we will continue the evening with <strong>pizzas, drinks, sauna</strong> and an <strong>open stage</strong> for anyone else interested in pitching their hackathon projects... No matter if you are going to Junction, Slush, both or none, don't miss this <strong>unique opportunity</strong> to network with other EIT Digital Alumni!</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>The program will be as follows:</div>\r\n\r\n<div>18:00-18:15: Doors open, welcome drinks</div>\r\n\r\n<div>18:15-18:25: EIT Digital Alumni (<a href=\"https://alumni.eitdigital.eu/users/juhanas\" target=\"_blank\">Juhana Suhonen</a>)</div>\r\n\r\n<div>18:25-18:50: Welcome to Futurice -&nbsp;AI internship and thesis opportunities!&nbsp;(<a href=\"https://alumni.eitdigital.eu/users/wbock\" target=\"_blank\">Wilfried Bock</a>)</div>\r\n\r\n<div>18:50-19:10: Hackathon participants’ story: Booklistics DigiEduHack team (<a href=\"https://alumni.eitdigital.eu/users/biharygergo\" target=\"_blank\">Gergely Bihary</a>, <a href=\"https://alumni.eitdigital.eu/users/knebelmiki\" target=\"_blank\">Miklós Knébel</a>, <a href=\"https://alumni.eitdigital.eu/users/lricsi\" target=\"_blank\">Richárd Lengyel</a>, <a href=\"https://alumni.eitdigital.eu/users/sleberbotond\" target=\"_blank\">Botond Sléber</a>)</div>\r\n\r\n<div>19:10-19:30: Hackathon organizers' story: Dash (Valera Neznakhin)</div>\r\n\r\n<div>19:30-19:40:&nbsp;In search of inspiration: Where to find energy for continuous professional and personal growth in tech? (<a href=\"https://alumni.eitdigital.eu/users/anakarpenko\" target=\"_blank\">Anastasia Karpenko</a>)</div>\r\n\r\n<div>19:40-20:00: Introducing Columbia Road: More summer jobs and internships opportunities! (<a href=\"https://alumni.eitdigital.eu/users/johannama\" target=\"_blank\">Johanna Mähonen</a>)</div>\r\n\r\n<div>20:00-20:50: Networking pizzas</div>\r\n\r\n<div>20:50-21:00: Moving to sauna and open stage area</div>\r\n\r\n<div>21:00 onward: Sauna and open stage</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>This event is sponsored by Futurice and Columbia Road. It is FREE for all EIT Digital Alumni and associate members registered in our website*, but please <a href=\"http://bit.ly/cooldown-warmup-register\" target=\"_blank\"><strong>confirm your attendance</strong> <strong>HERE</strong></a>, in order to estimate the right amount of food and drinks.</div>\r\n\r\n<div>&nbsp;</div>\r\n\r\n<div>* You need a valid EIT Digital Alumni user account to confirm your participation, so make sure your alumni profile is updated! ;)</div>\r\n"
+    format: full_html
+    processed: "<div>November might not be the best time for sightseeing around Helsinki or enjoying nice weather, but it is definitely the hottest time of the year if you are a <strong>hacker </strong>or <strong>start-up co-founder</strong>...</div>\n\n<div>\_</div>\n\n<div>Following the local EIT Digital Alumni tradition, we are organizing once again the perfect evening to complement your participation in two of the <strong>biggest tech events</strong> in the Nordics: Junction and Slush! And what better way to celebrate your success (or get over your failure) than to share with your fellow alumni your <strong>experiences in previous hackathons</strong> and <strong>Slush(e)es</strong>. Join us for a series of interesting talks to learn what will make it or break it when you are trying to survive\_November in HEL!</div>\n\n<div>\_</div>\n\n<div>After the official part of the event, we will continue the evening with <strong>pizzas, drinks, sauna</strong> and an <strong>open stage</strong> for anyone else interested in pitching their hackathon projects... No matter if you are going to Junction, Slush, both or none, don't miss this <strong>unique opportunity</strong> to network with other EIT Digital Alumni!</div>\n\n<div>\_</div>\n\n<div>The program will be as follows:</div>\n\n<div>18:00-18:15: Doors open, welcome drinks</div>\n\n<div>18:15-18:25: EIT Digital Alumni (<a href=\"https://alumni.eitdigital.eu/users/juhanas\" target=\"_blank\">Juhana Suhonen</a>)</div>\n\n<div>18:25-18:50: Welcome to Futurice -\_AI internship and thesis opportunities!\_(<a href=\"https://alumni.eitdigital.eu/users/wbock\" target=\"_blank\">Wilfried Bock</a>)</div>\n\n<div>18:50-19:10: Hackathon participants’ story: Booklistics DigiEduHack team (<a href=\"https://alumni.eitdigital.eu/users/biharygergo\" target=\"_blank\">Gergely Bihary</a>, <a href=\"https://alumni.eitdigital.eu/users/knebelmiki\" target=\"_blank\">Miklós Knébel</a>, <a href=\"https://alumni.eitdigital.eu/users/lricsi\" target=\"_blank\">Richárd Lengyel</a>, <a href=\"https://alumni.eitdigital.eu/users/sleberbotond\" target=\"_blank\">Botond Sléber</a>)</div>\n\n<div>19:10-19:30: Hackathon organizers' story: Dash (Valera Neznakhin)</div>\n\n<div>19:30-19:40:\_In search of inspiration: Where to find energy for continuous professional and personal growth in tech? (<a href=\"https://alumni.eitdigital.eu/users/anakarpenko\" target=\"_blank\">Anastasia Karpenko</a>)</div>\n\n<div>19:40-20:00: Introducing Columbia Road: More summer jobs and internships opportunities! (<a href=\"https://alumni.eitdigital.eu/users/johannama\" target=\"_blank\">Johanna Mähonen</a>)</div>\n\n<div>20:00-20:50: Networking pizzas</div>\n\n<div>20:50-21:00: Moving to sauna and open stage area</div>\n\n<div>21:00 onward: Sauna and open stage</div>\n\n<div>\_</div>\n\n<div>This event is sponsored by Futurice and Columbia Road. It is FREE for all EIT Digital Alumni and associate members registered in our website*, but please <a href=\"http://bit.ly/cooldown-warmup-register\" target=\"_blank\"><strong>confirm your attendance</strong> <strong>HERE</strong></a>, in order to estimate the right amount of food and drinks.</div>\n\n<div>\_</div>\n\n<div>* You need a valid EIT Digital Alumni user account to confirm your participation, so make sure your alumni profile is updated! ;)</div>\n"
+field_event_duration:
+  -
+    value: '18:00 - 23:30'
+    format: full_html
+    processed: '18:00 - 23:30'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: d93468aa-0450-4622-b113-e29024baa8d4
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: d93468aa-0450-4622-b113-e29024baa8d4
+field_event_introduction:
+  -
+    value: "<p>Hackathon stories to survive November in HEL</p>\r\n"
+    format: full_html
+    processed: "<p>Hackathon stories to survive November in HEL</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.d93468aa-0450-4622-b113-e29024baa8d4
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

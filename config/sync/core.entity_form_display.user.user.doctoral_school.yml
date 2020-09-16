@@ -1,0 +1,100 @@
+uuid: 66913025-104d-448c-8d2c-bee9ab711347
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_form_mode.user.doctoral_school
+    - field.field.user.user.field_about_me
+    - field.field.user.user.field_address
+    - field.field.user.user.field_current_job
+    - field.field.user.user.field_current_professional_statu
+    - field.field.user.user.field_education
+    - field.field.user.user.field_expertise
+    - field.field.user.user.field_facebook
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_geolocation
+    - field.field.user.user.field_introduction
+    - field.field.user.user.field_languages
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_linkedin
+    - field.field.user.user.field_local_representative
+    - field.field.user.user.field_mentorship_status
+    - field.field.user.user.field_projects
+    - field.field.user.user.field_twitter
+    - field.field.user.user.field_user_picture
+    - field.field.user.user.field_website
+    - image.style.thumbnail
+  module:
+    - profile
+    - svg_image
+    - user
+_core:
+  default_config_hash: K-1rBM8mTIkFp9RqOC2tMRUukOQ1xbRCfSKK8dEddnA
+id: user.user.doctoral_school
+targetEntityType: user
+bundle: user
+mode: doctoral_school
+content:
+  account:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  eit_digital_doctoral_school_profiles:
+    type: profile_form
+    weight: 4
+    region: content
+    settings:
+      form_mode: default
+    third_party_settings: {  }
+  field_first_name:
+    weight: 1
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_last_name:
+    weight: 2
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_user_picture:
+    type: image_image
+    weight: 3
+    region: content
+    settings:
+      progress_indicator: throbber
+      preview_image_style: thumbnail
+    third_party_settings: {  }
+hidden:
+  contact: true
+  eit_digital_employee_profiles: true
+  eit_digital_friend_profiles: true
+  eit_digital_master_school_profiles: true
+  eit_digital_professional_school_profiles: true
+  eit_digital_summer_school_profiles: true
+  field_about_me: true
+  field_address: true
+  field_current_job: true
+  field_current_professional_statu: true
+  field_education: true
+  field_expertise: true
+  field_facebook: true
+  field_geolocation: true
+  field_introduction: true
+  field_languages: true
+  field_linkedin: true
+  field_local_representative: true
+  field_mentorship_status: true
+  field_projects: true
+  field_twitter: true
+  field_website: true
+  langcode: true
+  language: true
+  path: true
+  timezone: true

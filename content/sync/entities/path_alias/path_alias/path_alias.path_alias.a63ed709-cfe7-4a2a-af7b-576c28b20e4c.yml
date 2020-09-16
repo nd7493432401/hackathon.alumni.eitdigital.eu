@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a63ed709-cfe7-4a2a-af7b-576c28b20e4c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/60
+alias:
+  -
+    value: /article/mentorship-programme
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

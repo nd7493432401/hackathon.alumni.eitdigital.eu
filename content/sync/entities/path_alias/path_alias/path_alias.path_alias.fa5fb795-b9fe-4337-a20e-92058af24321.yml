@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fa5fb795-b9fe-4337-a20e-92058af24321
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/98
+alias:
+  -
+    value: /article/fill-survey-win-iphone
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

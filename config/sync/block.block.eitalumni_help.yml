@@ -1,0 +1,22 @@
+uuid: b5e86785-b8dd-4441-957e-e6366d07a9fc
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - eitalumni
+_core:
+  default_config_hash: MhtNdV__HKRTab0ZPjkPNfYL4Ng4UPBucDLoC7Rg5Eo
+id: eitalumni_help
+theme: eitalumni
+region: help
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

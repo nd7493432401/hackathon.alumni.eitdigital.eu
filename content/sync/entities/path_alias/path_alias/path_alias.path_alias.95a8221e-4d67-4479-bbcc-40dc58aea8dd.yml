@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 95a8221e-4d67-4479-bbcc-40dc58aea8dd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/88
+alias:
+  -
+    value: /article/artificial-intelligence-healthcare
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

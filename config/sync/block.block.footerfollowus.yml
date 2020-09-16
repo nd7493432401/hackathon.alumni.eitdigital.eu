@@ -1,0 +1,29 @@
+uuid: c6313328-4719-42e1-a74e-0e2ec6952c7c
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:60040609-53a1-4b93-b610-f762f3c47d5f'
+  module:
+    - block_class
+    - block_content
+  theme:
+    - eitalumni
+third_party_settings:
+  block_class:
+    classes: 'col-sm-3 col-xs-6'
+id: footerfollowus
+theme: eitalumni
+region: footer
+weight: -3
+provider: null
+plugin: 'block_content:60040609-53a1-4b93-b610-f762f3c47d5f'
+settings:
+  id: 'block_content:60040609-53a1-4b93-b610-f762f3c47d5f'
+  label: 'Engage with us'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

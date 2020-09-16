@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ff264673-4ac6-4b8f-8de7-188ee7a6b19d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/60
+alias:
+  -
+    value: /users/wuprucledu
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,14 @@
+uuid: 08c2dce8-7691-434b-be78-643aae24f32e
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_master
+  module:
+    - user
+id: user_remove_role_action.associate_member_master
+label: 'Remove the Associate Member (Master) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: associate_member_master

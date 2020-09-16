@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cddaee38-13cc-4eb3-881c-93f626a3dc9a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/106
+alias:
+  -
+    value: /article/results-alumni-elections
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

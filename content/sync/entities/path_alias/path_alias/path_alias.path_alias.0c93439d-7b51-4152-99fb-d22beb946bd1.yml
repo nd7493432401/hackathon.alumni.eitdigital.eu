@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0c93439d-7b51-4152-99fb-d22beb946bd1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/176
+alias:
+  -
+    value: /event/first-eit-alumni-meetup-helsinki
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: bf31dc88-f359-4763-b3fe-1174c1ff22b9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Full Stack Software Engineer '
+created:
+  -
+    value: '2019-01-10T16:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:54:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/full-stack-software-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/federicofiorini'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Inkdome
+    format: full_html
+    processed: Inkdome
+field_expiration_date:
+  -
+    value: '2019-03-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>Full-Stack Software Engineer - TECH&nbsp;LEAD&nbsp;Wanted!</p>\r\n\r\n<p><strong>The startup</strong>:<br />\r\n<a href=\"https://inkdome.com/\">Inkdome</a>&nbsp;is a startup trying to disrupt the <strong>tattoo industry</strong>! In the last year we&nbsp;have helped more than 500 people getting a tattoo and generated more than 200k€ in revenues for our partner tattoo artists. We received founding from several investors and we are currently running a <a href=\"http://mamacrowd.com/projects/209/inkdome\">crowdfunding campaign</a>. We are&nbsp;still small but growing fast! Within 3 years we want to become the default service for tattoo lovers all over Europe and we want to do that by creating a very strong brand and many innovative products.</p>\r\n\r\n<p>Currently our main product is a platform that connects users and tattoo artists. Our virtual assistant (a Messenger bot) talks to our users and recommends them the perfect tattoo artist depending on their tattoo ideas. We then connect users and artists and facilitate the booking of an appointment. This is the core of our product but we have much more in development and in our roadmap.</p>\r\n\r\n<p>We’re looking for an<strong> experienced Software Engineer</strong> ready to take his career to the next level and become the leader of our (small) tech team and eventually<strong> our CTO</strong>. We’re looking not only for a good engineer but also for someone passionate about startups and with an entrepreneurial spirit.</p>\r\n\r\n<p><strong>The Role</strong>:<br />\r\nWe’re looking for a software engineer with experience in Javascript programming, who’s going to join our tech team (currently composed of 3 part-time full stack devs) and with the potential to become Inkdome CTO.<br />\r\n+3 years experience. Full-time contract. Preferably based in Milan or willing to relocate&nbsp;(we’ll consider remote workers as well if we see a good fit)</p>\r\n\r\n<p><b>Job Responsibilities:</b><br />\r\n- Manage Inkdome stack: backend and Messenger bot are in node.js, crm and web app in React, landing page in Wordpress.<br />\r\n- Enhance chat experience between users and tattooers<br />\r\n- Restructure part of our code base to make it cleaner and maintainable<br />\r\n- Write and maintain continuous integration / continuous delivery pipelines (Docker, Travis, AWS pipelines)<br />\r\n- Later on, coordinate the tech team on the development of new applications<br />\r\n- Later on, work on AR projects to integrate with Inkdome apps</p>\r\n\r\n<p><strong>Requirements</strong>:<br />\r\n- Great knowledge of Javascript (React, Node.js), HTML, CSS<br />\r\n- Great knowledge of MongoDB<br />\r\n- Being able to manage a complex application with multiple microservices<br />\r\n- Being able to write Clean and maintainable code<br />\r\n- Knowledge of AWS and deployments processes<br />\r\n- Knowledge of Design and Architectural Patterns (eg. MVC)<br />\r\n- Knowledge of testing practices (Unit test, integration)<br />\r\n- Great knowledge of GIT<br />\r\n- Willing to work full-time from our office in Milan (at Luiss Enlabs, Piazza Gae Aulenti)<br />\r\n- Extra: knowledge of Facebook Messenger bots development<br />\r\n- Extra: knowledge of UI/UX design patterns<br />\r\n- Extra: knowledge of mobile development (iOS e/o Android)</p>\r\n\r\n<p>Contact me if you are the one we're looking for!&nbsp;</p>\r\n\r\n<p><a href=\"https://alumni.eitdigital.eu/users/federicofiorini\">Federico Fiorini</a></p>\r\n"
+    format: full_html
+    processed: "<p>Full-Stack Software Engineer - TECH\_LEAD\_Wanted!</p>\n\n<p><strong>The startup</strong>:<br />\n<a href=\"https://inkdome.com/\">Inkdome</a>\_is a startup trying to disrupt the <strong>tattoo industry</strong>! In the last year we\_have helped more than 500 people getting a tattoo and generated more than 200k€ in revenues for our partner tattoo artists. We received founding from several investors and we are currently running a <a href=\"http://mamacrowd.com/projects/209/inkdome\">crowdfunding campaign</a>. We are\_still small but growing fast! Within 3 years we want to become the default service for tattoo lovers all over Europe and we want to do that by creating a very strong brand and many innovative products.</p>\n\n<p>Currently our main product is a platform that connects users and tattoo artists. Our virtual assistant (a Messenger bot) talks to our users and recommends them the perfect tattoo artist depending on their tattoo ideas. We then connect users and artists and facilitate the booking of an appointment. This is the core of our product but we have much more in development and in our roadmap.</p>\n\n<p>We’re looking for an<strong> experienced Software Engineer</strong> ready to take his career to the next level and become the leader of our (small) tech team and eventually<strong> our CTO</strong>. We’re looking not only for a good engineer but also for someone passionate about startups and with an entrepreneurial spirit.</p>\n\n<p><strong>The Role</strong>:<br />\nWe’re looking for a software engineer with experience in Javascript programming, who’s going to join our tech team (currently composed of 3 part-time full stack devs) and with the potential to become Inkdome CTO.<br />\n+3 years experience. Full-time contract. Preferably based in Milan or willing to relocate\_(we’ll consider remote workers as well if we see a good fit)</p>\n\n<p><b>Job Responsibilities:</b><br />\n- Manage Inkdome stack: backend and Messenger bot are in node.js, crm and web app in React, landing page in Wordpress.<br />\n- Enhance chat experience between users and tattooers<br />\n- Restructure part of our code base to make it cleaner and maintainable<br />\n- Write and maintain continuous integration / continuous delivery pipelines (Docker, Travis, AWS pipelines)<br />\n- Later on, coordinate the tech team on the development of new applications<br />\n- Later on, work on AR projects to integrate with Inkdome apps</p>\n\n<p><strong>Requirements</strong>:<br />\n- Great knowledge of Javascript (React, Node.js), HTML, CSS<br />\n- Great knowledge of MongoDB<br />\n- Being able to manage a complex application with multiple microservices<br />\n- Being able to write Clean and maintainable code<br />\n- Knowledge of AWS and deployments processes<br />\n- Knowledge of Design and Architectural Patterns (eg. MVC)<br />\n- Knowledge of testing practices (Unit test, integration)<br />\n- Great knowledge of GIT<br />\n- Willing to work full-time from our office in Milan (at Luiss Enlabs, Piazza Gae Aulenti)<br />\n- Extra: knowledge of Facebook Messenger bots development<br />\n- Extra: knowledge of UI/UX design patterns<br />\n- Extra: knowledge of mobile development (iOS e/o Android)</p>\n\n<p>Contact me if you are the one we're looking for!\_</p>\n\n<p><a href=\"https://alumni.eitdigital.eu/users/federicofiorini\">Federico Fiorini</a></p>\n"
+field_job_location:
+  -
+    value: 'Milan, Italy / Remote'
+    format: full_html
+    processed: 'Milan, Italy / Remote'
+field_more_details_link:
+  -
+    uri: 'https://inkdome.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

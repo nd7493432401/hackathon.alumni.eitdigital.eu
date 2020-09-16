@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: fcde3fbc-4588-4402-a784-973eff448f14
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:00:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Founders'' Pit Stop: Blockchain beyond the hype'
+created:
+  -
+    value: '2018-06-27T11:30:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:00:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/founders-pit-stop-blockchain-beyond-hype
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2018-07-03T15:30:00+02:00'
+    end_value: '2018-07-03T19:00:00+02:00'
+field_event_description:
+  -
+    value: "<p><strong>JULY 3rd, EIT Digital CLC Berlin</strong></p>\r\n\r\n<p><strong>Agenda</strong><br />\r\n18:30: Doors open<br />\r\n19:00: interactive presentation by speaker<br />\r\n20:00: Q&amp;A, discussion round<br />\r\n20:30: networking<br />\r\n<br />\r\nAs always, there will be free pizza &amp; drinks during the networking. So join us, have a drink, make new friends and move on to the \"slope of enlightenment\" with Blockchain.</p>\r\n\r\n<p><a href=\"https://www.meetup.com/de-DE/Founders-Pit-Stop/events/251880619/\">REGISTER HERE</a>!</p>\r\n\r\n<p><br />\r\n<b>The event</b></p>\r\n\r\n<p>Decentralised, transparent and secure transactions, \"smart contracts\" and \"sound money\": Blockchain and its seemingly unlimited potential for technology and business innovation have created a hype that went from cypherpunk mailing lists to mainstream in less than ten years. The banks and corporations that were supposed to be disrupted have eagerly joined the game.</p>\r\n\r\n<p>But increasing attention also attracts increasing criticism, and the lack of tangible success stories combined with slipping cryptocurrency exchange rates have made 2018 the year where inflated expectations give way to a first sense of disillusionment — high time for a reality check.<br />\r\n<br />\r\nSo startups and corporations alike are having a closer look at scenarios that are not only technologically feasible, but also economically sound, commercially viable, and legally compliant. To build a \"next generation\" of blockchain applications, founders, engineers, and managers<br />\r\n<br />\r\nThe speaker is Oliver Beige, an economist who has lived through the dot-com boom and bust in Silicon Valley and now advises businesses and ventures on third generation blockchain.<br />\r\n<br />\r\nOliver will give an overview on the sustainable economic side of blockchain, addressing the following questions:</p>\r\n\r\n<ul>\r\n\t<li>How does a blockchain work, from an economic perspective?</li>\r\n\t<li>How does this like up with the proposed scenarios and use cases like identity, registries, or social media?</li>\r\n\t<li>For founders and innovation labs, what are the scenarios to focus on?</li>\r\n\t<li>Should you \"blockchain-ify\" your startup in order to raise funds via an ICO?</li>\r\n</ul>\r\n\r\n<p><br />\r\n<strong>About the speaker</strong><br />\r\n<br />\r\nOliver Beige is an industrial engineer turned economist (PhD UC Berkeley) who is focusing on how early-stage technologies like machine learning or blockchain change the value creation between markets and enterprises. Oliver has spent ten years in the San Francisco Bay Area, from dot-com boom to bust to recovery, and has worked for the Mercedes Silicon Valley lab, SAP Innovation Center, and EIT Digital among others. He co-founded boole.one to provide \"hype-free\" consulting and research on blockchain technology and economics.</p>\r\n\r\n<p><a href=\"https://www.meetup.com/de-DE/Founders-Pit-Stop/events/251880619/\">REGISTER HERE</a>!</p>\r\n"
+    format: full_html
+    processed: "<p><strong>JULY 3rd, EIT Digital CLC Berlin</strong></p>\n\n<p><strong>Agenda</strong><br />\n18:30: Doors open<br />\n19:00: interactive presentation by speaker<br />\n20:00: Q&amp;A, discussion round<br />\n20:30: networking<br />\n<br />\nAs always, there will be free pizza &amp; drinks during the networking. So join us, have a drink, make new friends and move on to the \"slope of enlightenment\" with Blockchain.</p>\n\n<p><a href=\"https://www.meetup.com/de-DE/Founders-Pit-Stop/events/251880619/\">REGISTER HERE</a>!</p>\n\n<p><br />\n<b>The event</b></p>\n\n<p>Decentralised, transparent and secure transactions, \"smart contracts\" and \"sound money\": Blockchain and its seemingly unlimited potential for technology and business innovation have created a hype that went from cypherpunk mailing lists to mainstream in less than ten years. The banks and corporations that were supposed to be disrupted have eagerly joined the game.</p>\n\n<p>But increasing attention also attracts increasing criticism, and the lack of tangible success stories combined with slipping cryptocurrency exchange rates have made 2018 the year where inflated expectations give way to a first sense of disillusionment — high time for a reality check.<br />\n<br />\nSo startups and corporations alike are having a closer look at scenarios that are not only technologically feasible, but also economically sound, commercially viable, and legally compliant. To build a \"next generation\" of blockchain applications, founders, engineers, and managers<br />\n<br />\nThe speaker is Oliver Beige, an economist who has lived through the dot-com boom and bust in Silicon Valley and now advises businesses and ventures on third generation blockchain.<br />\n<br />\nOliver will give an overview on the sustainable economic side of blockchain, addressing the following questions:</p>\n\n<ul>\n\t<li>How does a blockchain work, from an economic perspective?</li>\n\t<li>How does this like up with the proposed scenarios and use cases like identity, registries, or social media?</li>\n\t<li>For founders and innovation labs, what are the scenarios to focus on?</li>\n\t<li>Should you \"blockchain-ify\" your startup in order to raise funds via an ICO?</li>\n</ul>\n\n<p><br />\n<strong>About the speaker</strong><br />\n<br />\nOliver Beige is an industrial engineer turned economist (PhD UC Berkeley) who is focusing on how early-stage technologies like machine learning or blockchain change the value creation between markets and enterprises. Oliver has spent ten years in the San Francisco Bay Area, from dot-com boom to bust to recovery, and has worked for the Mercedes Silicon Valley lab, SAP Innovation Center, and EIT Digital among others. He co-founded boole.one to provide \"hype-free\" consulting and research on blockchain technology and economics.</p>\n\n<p><a href=\"https://www.meetup.com/de-DE/Founders-Pit-Stop/events/251880619/\">REGISTER HERE</a>!</p>\n"
+field_event_duration:
+  -
+    value: '18:30 - 22:00'
+    format: basic_html
+    processed: '18:30 - 22:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 49666649-ff76-4629-b404-33ebbd727d74
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 49666649-ff76-4629-b404-33ebbd727d74
+field_event_introduction:
+  -
+    value: "<p>A reality check on technology and economic potential</p>\r\n"
+    format: full_html
+    processed: "<p>A reality check on technology and economic potential</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.49666649-ff76-4629-b404-33ebbd727d74

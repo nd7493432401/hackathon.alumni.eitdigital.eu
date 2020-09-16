@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: f6770e12-9164-4933-9d25-658d81ad25df
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: candidate_type
+    target_type: taxonomy_vocabulary
+    target_uuid: f60c4825-a045-4c73-9cec-f47ea2b59223
+revision_created:
+  -
+    value: '2020-03-23T15:57:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Technology Officer'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-23T15:57:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /candidate-type/technology-officer
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

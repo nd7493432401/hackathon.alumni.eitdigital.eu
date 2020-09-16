@@ -1,0 +1,21 @@
+uuid: 3c751aee-d58c-4204-b0e6-0370e8dd85a7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_alumni_week_title
+    - node.type.article
+  module:
+    - text
+id: node.article.field_alumni_week_title
+field_name: field_alumni_week_title
+entity_type: node
+bundle: article
+label: 'Alumni of the week title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9f99610a-1c4d-45ae-b853-fad473784809
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/2
+alias:
+  -
+    value: /flixbus-discount
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

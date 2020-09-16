@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 57dd7f92-8444-4ccf-a28a-d06b38033952
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:38:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Venture Program'
+created:
+  -
+    value: '2019-03-28T23:48:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:38:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-digital-venture-program
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2019-05-05T00:00:00+02:00'
+    end_value: '2019-05-05T23:45:00+02:00'
+field_event_description:
+  -
+    value: "<p><strong>\"DARE THE UNEXPECTED\"</strong></p>\r\n\r\n<p><em>Talent is equally spread across the world but opportunities are not. Entrepreneurs have a natural urge to go against the norm and find their own path. We at EIT Digital believe in innovators who set out to break down barriers and change an industry, no matter where they come from. Through our Venture Program we invest in individuals who may come from less expected locations but have the energy to become future global entrepreneurs. As we know that entrepreneurial talent is everywhere, we bring opportunity&nbsp;to&nbsp;where talent is. Join us on this journey and help us to champion the unexpected!</em></p>\r\n\r\n<p><img alt=\"EIT Digital Venture Program\" data-entity-type=\"file\" data-entity-uuid=\"c9750e06-3f7c-4b88-bfe3-9aed167faff4\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Screenshot%202019-03-29%20at%2000.50.26.png\" /></p>\r\n\r\n<p><br />\r\nThe <a href=\"https://www.eitdigital.eu/venture-program\">EIT Digital Venture Program</a> supports entrepreneurial teams from 19 countries (Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, North Macedonia, Greece, Malta, Montenegro, Latvia, Lithuania, Poland, Portugal, Serbia, Slovakia, Slovenia, Romania) with<strong> deep tech business ideas to finalise their MVP and start their venture</strong>. With financial support of <strong>up to €15,000</strong> and a <strong>six-week Pre-Acceleration Phase</strong> executed by <a href=\"https://www.eitdigital.eu/venture-program/partners/\">four regional partners</a> in Greece, Latvia, Portugal and Slovenia, we’re helping to launch new digital tech businesses.</p>\r\n\r\n<p>All applications must be submitted <a href=\"https://fondazioneeitdigitalitaly.submittable.com/submit/\">online in written English here</a>.&nbsp;Applications must be received <strong>no later than&nbsp;May 5&nbsp;2019, 23:59:00 CEST</strong>.<br />\r\nAll applications will be reviewed and evaluated by the EIT Digital Venture Program evaluation committee consisting of internal and external experts.</p>\r\n\r\n<p><strong><a href=\"https://www.eitdigital.eu/venture-program/how-it-works/\">Find all details, eligibility criteria and key dates at this link</a></strong>.&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><strong>\"DARE THE UNEXPECTED\"</strong></p>\n\n<p><em>Talent is equally spread across the world but opportunities are not. Entrepreneurs have a natural urge to go against the norm and find their own path. We at EIT Digital believe in innovators who set out to break down barriers and change an industry, no matter where they come from. Through our Venture Program we invest in individuals who may come from less expected locations but have the energy to become future global entrepreneurs. As we know that entrepreneurial talent is everywhere, we bring opportunity\_to\_where talent is. Join us on this journey and help us to champion the unexpected!</em></p>\n\n<p><img alt=\"EIT Digital Venture Program\" data-entity-type=\"file\" data-entity-uuid=\"c9750e06-3f7c-4b88-bfe3-9aed167faff4\" src=\"/sites/default/files/inline-images/Screenshot%202019-03-29%20at%2000.50.26.png\" /></p>\n\n<p><br />\nThe <a href=\"https://www.eitdigital.eu/venture-program\">EIT Digital Venture Program</a> supports entrepreneurial teams from 19 countries (Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, North Macedonia, Greece, Malta, Montenegro, Latvia, Lithuania, Poland, Portugal, Serbia, Slovakia, Slovenia, Romania) with<strong> deep tech business ideas to finalise their MVP and start their venture</strong>. With financial support of <strong>up to €15,000</strong> and a <strong>six-week Pre-Acceleration Phase</strong> executed by <a href=\"https://www.eitdigital.eu/venture-program/partners/\">four regional partners</a> in Greece, Latvia, Portugal and Slovenia, we’re helping to launch new digital tech businesses.</p>\n\n<p>All applications must be submitted <a href=\"https://fondazioneeitdigitalitaly.submittable.com/submit/\">online in written English here</a>.\_Applications must be received <strong>no later than\_May 5\_2019, 23:59:00 CEST</strong>.<br />\nAll applications will be reviewed and evaluated by the EIT Digital Venture Program evaluation committee consisting of internal and external experts.</p>\n\n<p><strong><a href=\"https://www.eitdigital.eu/venture-program/how-it-works/\">Find all details, eligibility criteria and key dates at this link</a></strong>.\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 4718de5d-ffd0-4ae3-8813-b4579cd1ade9
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 4718de5d-ffd0-4ae3-8813-b4579cd1ade9
+field_event_introduction:
+  -
+    value: "<p>The Venture Program supports entrepreneurial teams from 19 countries with deep tech business ideas to finalise their MVP and start their venture</p>\r\n"
+    format: full_html
+    processed: "<p>The Venture Program supports entrepreneurial teams from 19 countries with deep tech business ideas to finalise their MVP and start their venture</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.4718de5d-ffd0-4ae3-8813-b4579cd1ade9

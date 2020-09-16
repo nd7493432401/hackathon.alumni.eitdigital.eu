@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b4b6e3ea-ddfd-4726-b2d7-8a57f3c78e41
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/473
+alias:
+  -
+    value: /job/research-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

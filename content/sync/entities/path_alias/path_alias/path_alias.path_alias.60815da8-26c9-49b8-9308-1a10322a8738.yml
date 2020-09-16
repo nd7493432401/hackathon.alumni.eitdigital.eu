@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 60815da8-26c9-49b8-9308-1a10322a8738
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/191
+alias:
+  -
+    value: /event/be-or-not-be-question
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

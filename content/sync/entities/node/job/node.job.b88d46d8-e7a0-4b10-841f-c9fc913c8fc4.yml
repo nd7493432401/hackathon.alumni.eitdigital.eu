@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: b88d46d8-e7a0-4b10-841f-c9fc913c8fc4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:59:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Cloud & IoT Security researchers'
+created:
+  -
+    value: '2018-02-10T15:59:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:02:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/cloud-iot-security-researchers
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:recruitment.erc@huawei.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Huawei
+    format: full_html
+    processed: Huawei
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>We received a personal Linkedin message from Huawei saying&nbsp;they are growing their <strong>Cloud and IoT Security research</strong> areas. They have several openings based at their research centre in <strong>Munich</strong> and requested help to identify the strongest candidates.</p>\r\n\r\n<p>The following positions below&nbsp;cover&nbsp;a range of seniority and expertise - including senior researchers (permanent), consultants (contract) and interns (Post-doc / PhD / MSc).</p>\r\n\r\n<p>1. <a href=\"https://www.linkedin.com/jobs/view/587412289/\">Cloud Security Architecture Research Engineer (m/f)</a></p>\r\n\r\n<p>2. <a href=\"https://www.linkedin.com/jobs/view/587390079/\">Software Engineer for Cloud and virtualization environment (m/f)</a>&nbsp;</p>\r\n\r\n<p>3. <a href=\"https://www.linkedin.com/jobs/view/587369411/\">Applied Crypto Security Engineer (m/f)</a></p>\r\n\r\n<p>4. <a href=\"https://www.linkedin.com/jobs/view/587376374/\">Network &amp; Systems Security Engineer (m/f)</a></p>\r\n\r\n<p>5. <a href=\"https://www.linkedin.com/jobs/view/586322141/\">Privacy Technologist</a>&nbsp;</p>\r\n\r\n<p>6. <a href=\"https://www.linkedin.com/jobs/view/587533837/\">Software Engineer</a></p>\r\n"
+    format: full_html
+    processed: "<p>We received a personal Linkedin message from Huawei saying\_they are growing their <strong>Cloud and IoT Security research</strong> areas. They have several openings based at their research centre in <strong>Munich</strong> and requested help to identify the strongest candidates.</p>\n\n<p>The following positions below\_cover\_a range of seniority and expertise - including senior researchers (permanent), consultants (contract) and interns (Post-doc / PhD / MSc).</p>\n\n<p>1. <a href=\"https://www.linkedin.com/jobs/view/587412289/\">Cloud Security Architecture Research Engineer (m/f)</a></p>\n\n<p>2. <a href=\"https://www.linkedin.com/jobs/view/587390079/\">Software Engineer for Cloud and virtualization environment (m/f)</a>\_</p>\n\n<p>3. <a href=\"https://www.linkedin.com/jobs/view/587369411/\">Applied Crypto Security Engineer (m/f)</a></p>\n\n<p>4. <a href=\"https://www.linkedin.com/jobs/view/587376374/\">Network &amp; Systems Security Engineer (m/f)</a></p>\n\n<p>5. <a href=\"https://www.linkedin.com/jobs/view/586322141/\">Privacy Technologist</a>\_</p>\n\n<p>6. <a href=\"https://www.linkedin.com/jobs/view/587533837/\">Software Engineer</a></p>\n"
+field_job_location:
+  -
+    value: Munich
+    format: full_html
+    processed: Munich
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

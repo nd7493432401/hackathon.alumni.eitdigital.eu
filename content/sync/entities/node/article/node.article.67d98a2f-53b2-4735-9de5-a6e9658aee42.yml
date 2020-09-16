@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 67d98a2f-53b2-4735-9de5-a6e9658aee42
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:31:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Mentorship programme'
+created:
+  -
+    value: '2017-12-11T22:46:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:31:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/mentorship-programme
+body:
+  -
+    value: "<p>Within the Alumni community, we are launching a Mentorship programme, where younger members (<strong>mentees</strong>) starting their careers will <strong>receive guidance and support</strong> from more experienced Alumni (<strong>mentors</strong>) who already have successful careers.&nbsp;This support may include: career and business advice, exchanging stories and experiences, access to job opportunities, technical topics of expertise (security, UX, networks, …) or even soft-skills, such as event planning or strategy.<br />\r\n<br />\r\nWould you like to&nbsp;<strong>have a personal coach</strong> helping you&nbsp;with career choices, development of (personal) projects or just sharing their experience? Then <a href=\"https://bit.ly/mentorship-programme\">APPLY HERE</a>, and we will match you based on your interests!<br />\r\n<br />\r\nSome hours per month&nbsp;could make a huge difference for a mentee, especially when looking for opportunities or just starting their careers!&nbsp;Do you feel like <strong>giving back to the community</strong>?&nbsp;Then <a href=\"http://bit.ly/mentorship-programme\">JOIN US</a>&nbsp;based on your availability!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<hr />\r\n<p>The Mentorship Programme is led by our Alumnus <a href=\"http://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>.&nbsp;Do you feel like helping out? Contact us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>&nbsp;or on any of our Social Media channels!</p>\r\n\r\n<p><img alt=\"Shikhar Singh\" data-entity-type=\"file\" data-entity-uuid=\"df0adc63-ace3-475d-867f-05c153f40b09\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Shikhar%20Singh.jpg\" /></p>\r\n\r\n<h2><strong><a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>&nbsp;- #mentorship programme lead</strong></h2>\r\n\r\n<p>2016, Distributed Systems &amp; Services (DSS), TU Berlin &amp;&nbsp;KTH Stockholm</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>What are you actually doing?</em><br />\r\nI am working as a Project Leader at <a href=\"http://www.airbus.com/\">Airbus</a>. In other words, <em>#wemakeitfly</em>.</p>\r\n\r\n<p><em>Which cartoon character do you resemble the most?</em><br />\r\nShaggy from Scooby Doo. My life is all about food and I end up doing big things on the side, just like him. Hehe.</p>\r\n\r\n<p><em>Who is the most inspirational person of your life? Why?</em><br />\r\nMy heroes are my parents. They have a very humble background and worked day and night to make ends meet and&nbsp;make sure that I have all I need to succeed in life. This was a real life example of dedication, grit and determination for me.</p>\r\n\r\n<p><em>If you could be a superhero, which superpower would you like to have?</em><br />\r\nFly to the stars....and beyond.</p>\r\n\r\n<p><em>How long have you been involved in the Alumni community? Why you did it?</em><br />\r\nI started making impactful&nbsp;contributions to the community from 2017 and hope to grow the community and my contributions going forward.</p>\r\n\r\n<p><em>Why is this network so important? Which opportunities and&nbsp;potential do you see in it?</em><br />\r\nFor me, EIT is like a family and a community and I would like to make it bigger and&nbsp;stronger.</p>\r\n"
+    format: full_html
+    processed: "<p>Within the Alumni community, we are launching a Mentorship programme, where younger members (<strong>mentees</strong>) starting their careers will <strong>receive guidance and support</strong> from more experienced Alumni (<strong>mentors</strong>) who already have successful careers.\_This support may include: career and business advice, exchanging stories and experiences, access to job opportunities, technical topics of expertise (security, UX, networks, …) or even soft-skills, such as event planning or strategy.<br />\n<br />\nWould you like to\_<strong>have a personal coach</strong> helping you\_with career choices, development of (personal) projects or just sharing their experience? Then <a href=\"https://bit.ly/mentorship-programme\">APPLY HERE</a>, and we will match you based on your interests!<br />\n<br />\nSome hours per month\_could make a huge difference for a mentee, especially when looking for opportunities or just starting their careers!\_Do you feel like <strong>giving back to the community</strong>?\_Then <a href=\"http://bit.ly/mentorship-programme\">JOIN US</a>\_based on your availability!</p>\n\n<p>\_</p>\n\n<hr />\n<p>The Mentorship Programme is led by our Alumnus <a href=\"http://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>.\_Do you feel like helping out? Contact us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>\_or on any of our Social Media channels!</p>\n\n<p><img alt=\"Shikhar Singh\" data-entity-type=\"file\" data-entity-uuid=\"df0adc63-ace3-475d-867f-05c153f40b09\" src=\"/sites/default/files/inline-images/Shikhar%20Singh.jpg\" /></p>\n\n<h2><strong><a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>\_- #mentorship programme lead</strong></h2>\n\n<p>2016, Distributed Systems &amp; Services (DSS), TU Berlin &amp;\_KTH Stockholm</p>\n\n<p>\_</p>\n\n<p><em>What are you actually doing?</em><br />\nI am working as a Project Leader at <a href=\"http://www.airbus.com/\">Airbus</a>. In other words, <em>#wemakeitfly</em>.</p>\n\n<p><em>Which cartoon character do you resemble the most?</em><br />\nShaggy from Scooby Doo. My life is all about food and I end up doing big things on the side, just like him. Hehe.</p>\n\n<p><em>Who is the most inspirational person of your life? Why?</em><br />\nMy heroes are my parents. They have a very humble background and worked day and night to make ends meet and\_make sure that I have all I need to succeed in life. This was a real life example of dedication, grit and determination for me.</p>\n\n<p><em>If you could be a superhero, which superpower would you like to have?</em><br />\nFly to the stars....and beyond.</p>\n\n<p><em>How long have you been involved in the Alumni community? Why you did it?</em><br />\nI started making impactful\_contributions to the community from 2017 and hope to grow the community and my contributions going forward.</p>\n\n<p><em>Why is this network so important? Which opportunities and\_potential do you see in it?</em><br />\nFor me, EIT is like a family and a community and I would like to make it bigger and\_stronger.</p>\n"
+    summary: 'Within the Alumni community, we are launching a Mentorship programme, where younger members (mentees'
+    summary_processed: 'Within the Alumni community, we are launching a Mentorship programme, where younger members (mentees'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: "We are launching a new fantastic initiative: a\_mentorship programme!"
+field_image:
+  -
+    target_type: media
+    target_uuid: b6b8251e-2a47-4f70-8003-e0141722c1ac
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.b6b8251e-2a47-4f70-8003-e0141722c1ac

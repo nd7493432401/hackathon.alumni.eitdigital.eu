@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d0466260-4cda-43e6-b591-63d1324f38c3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/83
+alias:
+  -
+    value: /entry-year/2013
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

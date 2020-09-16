@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 05b39448-e1d7-4005-9c79-0feec0994124
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: summer_schools
+    target_type: taxonomy_vocabulary
+    target_uuid: c23d0838-0417-48e1-994f-7f67fa7b0f13
+revision_created:
+  -
+    value: '2020-03-24T10:53:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2019 - Ljubljana, Digital Transformation for Resilient Cities'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:53:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /summer-schools/2019-ljubljana-digital-transformation-resilient-cities
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

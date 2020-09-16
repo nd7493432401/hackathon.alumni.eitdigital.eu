@@ -1,0 +1,8 @@
+uuid: 190fae9d-e83d-4692-be91-d7764283310a
+langcode: en
+status: true
+dependencies: {  }
+name: 'Entry Universities'
+vid: entry_universities
+description: ''
+weight: 0

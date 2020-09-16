@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2b4093ec-707f-4677-9808-8b9d649204d1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/53
+alias:
+  -
+    value: /article/brief-recap-2016
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

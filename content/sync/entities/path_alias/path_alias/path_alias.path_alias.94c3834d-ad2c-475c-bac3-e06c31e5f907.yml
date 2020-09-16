@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 94c3834d-ad2c-475c-bac3-e06c31e5f907
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/291
+alias:
+  -
+    value: /event/startup-nation-summit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

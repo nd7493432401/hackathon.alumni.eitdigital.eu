@@ -1,0 +1,67 @@
+uuid:
+  -
+    value: 09776c5a-bdd4-49ad-bc3c-121aca37a641
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: e084dd6e-a694-41b6-ae1d-a5076f3a851f
+revision_timestamp:
+  -
+    value: '2020-03-27T10:58:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Registration submitted'
+created:
+  -
+    value: '2020-03-27T10:58:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-27T10:58:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /registration-submitted
+body:
+  -
+    value: "<p>Your registration has been submitted and will be reviewed soon.<br />\r\nLet us know if you have any other questions at&nbsp;<a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\r\n"
+    format: basic_html
+    processed: "<p>Your registration has been submitted and will be reviewed soon.<br />\nLet us know if you have any other questions at\_<a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\n"
+    summary: ''
+    summary_processed: ''
+field_basic_page_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

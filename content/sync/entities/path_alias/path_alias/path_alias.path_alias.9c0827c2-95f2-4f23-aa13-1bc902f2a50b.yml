@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9c0827c2-95f2-4f23-aa13-1bc902f2a50b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/541
+alias:
+  -
+    value: /job/working-student-uiux-mfd
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

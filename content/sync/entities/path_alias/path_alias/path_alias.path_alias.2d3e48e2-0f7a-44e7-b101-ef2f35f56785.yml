@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2d3e48e2-0f7a-44e7-b101-ef2f35f56785
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/504
+alias:
+  -
+    value: /job/got-energy-talent-fellowship
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

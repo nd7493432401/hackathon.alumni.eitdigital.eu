@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dd18cd12-3a59-4521-8b42-4b080d8c4d48
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/91
+alias:
+  -
+    value: /event-type/eit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

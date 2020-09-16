@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0468b407-8588-44ad-b7d5-5233115d0637
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/24
+alias:
+  -
+    value: /event-type/eit-digital-doctoral-school-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

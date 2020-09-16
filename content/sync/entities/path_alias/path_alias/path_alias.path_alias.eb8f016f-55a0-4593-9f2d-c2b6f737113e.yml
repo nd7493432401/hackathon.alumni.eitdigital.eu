@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: eb8f016f-55a0-4593-9f2d-c2b6f737113e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/131
+alias:
+  -
+    value: /candidate/teresa-santos-coelho
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

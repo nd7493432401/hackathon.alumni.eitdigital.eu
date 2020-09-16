@@ -1,0 +1,8 @@
+uuid: c23d0838-0417-48e1-994f-7f67fa7b0f13
+langcode: en
+status: true
+dependencies: {  }
+name: 'Summer Schools'
+vid: summer_schools
+description: ''
+weight: 0

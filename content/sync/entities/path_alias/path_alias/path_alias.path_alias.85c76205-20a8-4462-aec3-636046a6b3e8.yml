@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 85c76205-20a8-4462-aec3-636046a6b3e8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/506
+alias:
+  -
+    value: /job/cyber-security-strategy-senior-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

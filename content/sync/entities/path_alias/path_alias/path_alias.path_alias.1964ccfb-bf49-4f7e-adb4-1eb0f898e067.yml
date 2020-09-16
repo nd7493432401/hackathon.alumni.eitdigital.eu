@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1964ccfb-bf49-4f7e-adb4-1eb0f898e067
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/414
+alias:
+  -
+    value: /job/software-architect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

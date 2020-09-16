@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d8ac82fb-9ecf-4454-8840-bc54cfde9b23
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/549
+alias:
+  -
+    value: /job/full-stack-software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6730e898-c373-409f-86d5-0b38a3758b54
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/7
+alias:
+  -
+    value: /event-type/annual-meeting
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

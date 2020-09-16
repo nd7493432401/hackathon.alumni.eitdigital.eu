@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 20a01428-9003-49c9-a895-b3650d71c1de
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/528
+alias:
+  -
+    value: /job/ai-scientist-machine-learning
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

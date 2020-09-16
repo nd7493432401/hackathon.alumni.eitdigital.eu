@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7af538ea-06a2-41db-b88d-589c2a837a95
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/524
+alias:
+  -
+    value: /job/software-developer-5
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

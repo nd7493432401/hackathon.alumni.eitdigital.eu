@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9b2e02c0-429c-429d-aadd-2c2bd1a2525c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/287
+alias:
+  -
+    value: /event/master-school-kick-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

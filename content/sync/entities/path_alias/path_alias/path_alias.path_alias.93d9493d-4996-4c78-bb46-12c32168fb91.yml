@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 93d9493d-4996-4c78-bb46-12c32168fb91
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/268
+alias:
+  -
+    value: /event/local-reps-gathering-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

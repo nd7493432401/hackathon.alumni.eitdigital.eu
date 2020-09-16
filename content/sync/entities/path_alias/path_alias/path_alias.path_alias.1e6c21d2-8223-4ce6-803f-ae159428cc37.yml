@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1e6c21d2-8223-4ce6-803f-ae159428cc37
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/53
+alias:
+  -
+    value: /users/chemam
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 82f94b42-1da6-43e0-aba0-36b24f6a38c5
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 'A___7796 (2).jpg'
+thumbnail:
+  -
+    alt: 'Passing on the baton'
+    title: null
+    width: 2756
+    height: 1837
+    target_type: file
+    target_uuid: ec717877-80ad-42d5-959a-8033f8f3fa14
+created:
+  -
+    value: '2020-05-02T09:20:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T09:20:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Passing on the baton'
+    title: ''
+    width: 2756
+    height: 1837
+    target_type: file
+    target_uuid: ec717877-80ad-42d5-959a-8033f8f3fa14
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.ec717877-80ad-42d5-959a-8033f8f3fa14

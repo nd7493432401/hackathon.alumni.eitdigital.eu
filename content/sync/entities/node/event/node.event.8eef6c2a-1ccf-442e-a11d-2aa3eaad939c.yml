@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 8eef6c2a-1ccf-442e-a11d-2aa3eaad939c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:43:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT #9: Leading in foreign cultures'
+created:
+  -
+    value: '2017-11-21T18:29:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:43:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/womeneit-9-leading-foreign-cultures
+body: {  }
+field_event_:
+  -
+    value: 'Floor 6, EIT Digital Germany, Ernst-Reuter-Platz, Berlin'
+    format: full_html
+    processed: 'Floor 6, EIT Digital Germany, Ernst-Reuter-Platz, Berlin'
+field_event_date:
+  -
+    value: '2017-11-29T15:00:00+01:00'
+    end_value: '2017-11-29T17:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>For our first event in Berlin for the academic year 2017-2018, we have lined up an inspirational talk by our speaker <a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya Kamkalova</a>.&nbsp;<br />\r\nDarya is a Senior data acquisition lead, at Here Technologies and will be talking about skills to obtain to <strong>be able to lead in unfamiliar, foreign cultures</strong>.&nbsp;<br />\r\nAfter the talk, as usual, we will have snacks, drinks and time to mingle!<br />\r\n<br />\r\nBy filling out <a href=\"https://goo.gl/forms/lHqvXQQuQLOXtnwr2\">this form</a> you can let us know that you can make it - this helps us a lot in planning logistics! Thanks :)</p>\r\n\r\n<p>Hope to see you all there!! :)</p>\r\n"
+    format: full_html
+    processed: "<p>For our first event in Berlin for the academic year 2017-2018, we have lined up an inspirational talk by our speaker <a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya Kamkalova</a>.\_<br />\nDarya is a Senior data acquisition lead, at Here Technologies and will be talking about skills to obtain to <strong>be able to lead in unfamiliar, foreign cultures</strong>.\_<br />\nAfter the talk, as usual, we will have snacks, drinks and time to mingle!<br />\n<br />\nBy filling out <a href=\"https://goo.gl/forms/lHqvXQQuQLOXtnwr2\">this form</a> you can let us know that you can make it - this helps us a lot in planning logistics! Thanks :)</p>\n\n<p>Hope to see you all there!! :)</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: c9d77f4e-5944-4fce-b40f-45975400a938
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: c9d77f4e-5944-4fce-b40f-45975400a938
+field_event_introduction:
+  -
+    value: "<p>Learn which skills to obtain to lead in unfamiliar, foreign cultures</p>\r\n"
+    format: full_html
+    processed: "<p>Learn which skills to obtain to lead in unfamiliar, foreign cultures</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8338ce99-2940-448d-9e57-7618a26fc16d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.c9d77f4e-5944-4fce-b40f-45975400a938
+    taxonomy_term:
+      - taxonomy_term.event_type.8338ce99-2940-448d-9e57-7618a26fc16d

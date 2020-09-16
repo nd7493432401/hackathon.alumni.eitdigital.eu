@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f3ab94c3-9497-4fef-997e-7c5b4402e520
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/8
+alias:
+  -
+    value: /how-can-i-contribute
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

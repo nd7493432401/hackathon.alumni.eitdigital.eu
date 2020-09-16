@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 786c00c2-0748-4abb-a880-0ea0734b15c0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/285
+alias:
+  -
+    value: /event/conversation-virtual-reality-topic
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

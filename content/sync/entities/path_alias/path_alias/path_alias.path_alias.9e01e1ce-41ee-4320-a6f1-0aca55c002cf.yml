@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9e01e1ce-41ee-4320-a6f1-0aca55c002cf
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/207
+alias:
+  -
+    value: /tracks-master-school/digital-manufacturing-dm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

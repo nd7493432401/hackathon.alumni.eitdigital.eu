@@ -1,0 +1,29 @@
+uuid: 77c5300e-42d1-4965-9588-6690546a9107
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_group_type
+    - node.type.group
+    - taxonomy.vocabulary.alumni_group_type
+id: node.group.field_group_type
+field_name: field_group_type
+entity_type: node
+bundle: group
+label: 'Group Type'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      alumni_group_type: alumni_group_type
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

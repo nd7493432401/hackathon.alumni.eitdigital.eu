@@ -1,0 +1,14 @@
+uuid: 484009e9-0a3a-4d12-a573-cc7636b568dc
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_master
+  module:
+    - user
+id: user_add_role_action.potential_member_master
+label: 'Add the Potential Member (Master) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: potential_member_master

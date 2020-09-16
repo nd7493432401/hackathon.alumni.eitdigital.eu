@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a5a15537-0656-4698-a33e-13e8b769a692
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/630
+alias:
+  -
+    value: /eit-digital-alumni-slack-team
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a61480f6-8707-4a4e-8c21-261cf9d42636
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/601
+alias:
+  -
+    value: /job/user-interface-design-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

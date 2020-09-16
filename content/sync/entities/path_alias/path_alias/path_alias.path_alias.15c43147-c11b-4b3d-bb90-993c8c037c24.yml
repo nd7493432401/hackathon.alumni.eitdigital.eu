@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 15c43147-c11b-4b3d-bb90-993c8c037c24
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/395
+alias:
+  -
+    value: /job/researchktp-associate-software-development-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

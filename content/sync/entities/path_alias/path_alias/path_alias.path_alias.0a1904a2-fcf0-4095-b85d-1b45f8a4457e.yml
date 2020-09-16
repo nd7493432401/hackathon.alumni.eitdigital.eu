@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0a1904a2-fcf0-4095-b85d-1b45f8a4457e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/54
+alias:
+  -
+    value: /article/spotlight-karens-grigorjancs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7d886d72-0b57-45f6-b0f6-c6460ae9dc1f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/43
+alias:
+  -
+    value: /article/cybersecurity-360-professionals
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

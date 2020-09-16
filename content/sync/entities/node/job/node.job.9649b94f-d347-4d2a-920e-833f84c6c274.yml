@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 9649b94f-d347-4d2a-920e-833f84c6c274
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Chief Technology Officer'
+created:
+  -
+    value: '2019-06-25T08:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:04:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/chief-technology-officer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/lukas-br%C3%BCckner'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'CAALA GmbH'
+    format: full_html
+    processed: 'CAALA GmbH'
+field_expiration_date:
+  -
+    value: '2019-09-24T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><a href=\"https://caala.de/en/\">CAALA GmbH</a> is a award-winning Munich based company&nbsp;developing a platform for energy- and resource-efficient building design. The digital tools integrated in the platform support an efficient and holistic planning process for sustainable buildings.</p>\r\n\r\n<p>As CTO you support the further growth of CAALA GmbH and get the opportunity to change the construction industry through innovation and digitization.</p>\r\n\r\n<p><br />\r\n<strong>TASKS</strong>:<br />\r\nFurther development of the CAALA software in close coordination with the engineering team (e.g. further connection to CAD/BIM software)<br />\r\n•Front- and backend development<br />\r\n•Securing the operation of the CAALA software as well as maintenance and further development of the infrastructure<br />\r\n•Coordination of freelancers<br />\r\n•Collaboration in BMBF-funded research project</p>\r\n\r\n<p><br />\r\n<strong>PREREQUISITE:</strong><br />\r\n•Expertise in .NET C# and Ruby<br />\r\n•Experience with frontend development for web (Kendo UI, Bootstrap)<br />\r\n•Experience with ASP.NET, WebAPI Microsoft Azure, SQL, CosmosDB, Webapps, Application Insights<br />\r\n•Understanding of complex software architecture<br />\r\n•Experience with agile software development<br />\r\n•Independent and structured way of working<br />\r\n•Managerial competence<br />\r\n&nbsp;</p>\r\n\r\n<p><strong>OFFER:</strong><br />\r\n•Attractive salary model<br />\r\n•Flexible working hours and geographical independence</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>WE'RE LOOKING FOR:</strong><br />\r\n•Full-stack developers with entrepreneurial thinking<br />\r\n•Independent work<br />\r\n•Leadership ability</p>\r\n\r\n<p><br />\r\n<strong>WE OFFER:</strong><br />\r\n•Attractive salary model<br />\r\n•Flexibility and independence</p>\r\n\r\n<p><br />\r\n<strong>GENERAL CONDITIONS:</strong><br />\r\n•Starting asap<br />\r\n•Full-time</p>\r\n\r\n<p><br />\r\nPlease send your CV to Philipp Hollberg: <a href=\"mailto:p.hollberg@caala.de\">p.hollberg@caala.de</a></p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://caala.de/en/\">CAALA GmbH</a> is a award-winning Munich based company\_developing a platform for energy- and resource-efficient building design. The digital tools integrated in the platform support an efficient and holistic planning process for sustainable buildings.</p>\n\n<p>As CTO you support the further growth of CAALA GmbH and get the opportunity to change the construction industry through innovation and digitization.</p>\n\n<p><br />\n<strong>TASKS</strong>:<br />\nFurther development of the CAALA software in close coordination with the engineering team (e.g. further connection to CAD/BIM software)<br />\n•Front- and backend development<br />\n•Securing the operation of the CAALA software as well as maintenance and further development of the infrastructure<br />\n•Coordination of freelancers<br />\n•Collaboration in BMBF-funded research project</p>\n\n<p><br />\n<strong>PREREQUISITE:</strong><br />\n•Expertise in .NET C# and Ruby<br />\n•Experience with frontend development for web (Kendo UI, Bootstrap)<br />\n•Experience with ASP.NET, WebAPI Microsoft Azure, SQL, CosmosDB, Webapps, Application Insights<br />\n•Understanding of complex software architecture<br />\n•Experience with agile software development<br />\n•Independent and structured way of working<br />\n•Managerial competence<br />\n\_</p>\n\n<p><strong>OFFER:</strong><br />\n•Attractive salary model<br />\n•Flexible working hours and geographical independence</p>\n\n<p>\_</p>\n\n<p><strong>WE'RE LOOKING FOR:</strong><br />\n•Full-stack developers with entrepreneurial thinking<br />\n•Independent work<br />\n•Leadership ability</p>\n\n<p><br />\n<strong>WE OFFER:</strong><br />\n•Attractive salary model<br />\n•Flexibility and independence</p>\n\n<p><br />\n<strong>GENERAL CONDITIONS:</strong><br />\n•Starting asap<br />\n•Full-time</p>\n\n<p><br />\nPlease send your CV to Philipp Hollberg: <a href=\"mailto:p.hollberg@caala.de\">p.hollberg@caala.de</a></p>\n"
+field_job_location:
+  -
+    value: 'Munich, Germany with geographical independence'
+    format: full_html
+    processed: 'Munich, Germany with geographical independence'
+field_more_details_link:
+  -
+    uri: 'https://media.caala.de/uploads/2019/06/20190622_Job_Offer_CAALA_CTO.pdf'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

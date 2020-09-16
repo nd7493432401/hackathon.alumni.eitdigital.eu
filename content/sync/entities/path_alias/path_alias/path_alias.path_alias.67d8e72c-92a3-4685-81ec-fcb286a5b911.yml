@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 67d8e72c-92a3-4685-81ec-fcb286a5b911
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/379
+alias:
+  -
+    value: /job/post-master-professional-matedub
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

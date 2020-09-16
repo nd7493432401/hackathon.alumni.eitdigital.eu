@@ -1,0 +1,8 @@
+uuid: a494a056-f37a-4a31-bfb8-9c42ac226b8b
+langcode: en
+status: true
+dependencies: {  }
+name: 'Entry Year'
+vid: entry_y
+description: ''
+weight: 0

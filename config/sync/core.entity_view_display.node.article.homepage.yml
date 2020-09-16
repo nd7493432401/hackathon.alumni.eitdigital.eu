@@ -1,0 +1,157 @@
+uuid: 69d9894b-c0ba-4db2-951e-b1994e1a3805
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.homepage
+    - field.field.node.article.body
+    - field.field.node.article.field_alumni_of_the_week
+    - field.field.node.article.field_alumni_week_image
+    - field.field.node.article.field_alumni_week_link
+    - field.field.node.article.field_alumni_week_title
+    - field.field.node.article.field_article_category
+    - field.field.node.article.field_article_introduction
+    - field.field.node.article.field_image
+    - field.field.node.article.field_introduction_image
+    - image.style.teaser_image
+    - node.type.article
+  module:
+    - ds
+    - fences
+    - field_group
+    - media
+    - smart_trim
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: bs_1col
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          main:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      main:
+        - group_teaser_linked
+        - field_introduction_image
+        - node_title
+        - node_post_date
+        - field_article_introduction
+        - node_link
+    fields:
+      node_link:
+        plugin_id: node_link
+        weight: 5
+        label: hidden
+        formatter: default
+      node_post_date:
+        plugin_id: node_post_date
+        weight: 3
+        label: hidden
+        formatter: ds_post_date_long
+      node_title:
+        plugin_id: node_title
+        weight: 2
+        label: hidden
+        formatter: default
+        settings:
+          link: true
+          wrapper: h2
+          class: ''
+  field_group:
+    group_teaser_linked:
+      children:
+        - field_introduction_image
+        - node_title
+        - node_post_date
+        - field_article_introduction
+        - node_link
+      parent_name: ''
+      weight: 0
+      format_type: html_element
+      region: main
+      format_settings:
+        description: ''
+        id: ''
+        classes: 'teaser-linked article-teaser-link'
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        effect: none
+        speed: fast
+        attributes: ''
+      label: ''
+_core:
+  default_config_hash: ChmU3AVqDKU32A_fyChG0W9dTRKmVBR58B6OClCLvZI
+id: node.article.homepage
+targetEntityType: node
+bundle: article
+mode: homepage
+content:
+  field_article_introduction:
+    type: smart_trim
+    weight: 4
+    region: main
+    label: visually_hidden
+    settings:
+      trim_length: 140
+      trim_type: chars
+      trim_suffix: ''
+      wrap_class: trimmed
+      more_text: 'Read more'
+      more_class: more-link
+      wrap_output: false
+      more_link: false
+      trim_options:
+        text: false
+        trim_zero: false
+      summary_handler: full
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+  field_introduction_image:
+    type: media_thumbnail
+    weight: 0
+    region: main
+    label: visually_hidden
+    settings:
+      image_style: teaser_image
+      image_link: content
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+hidden:
+  body: true
+  field_alumni_of_the_week: true
+  field_alumni_week_image: true
+  field_alumni_week_link: true
+  field_alumni_week_title: true
+  field_article_category: true
+  field_image: true
+  langcode: true
+  links: true

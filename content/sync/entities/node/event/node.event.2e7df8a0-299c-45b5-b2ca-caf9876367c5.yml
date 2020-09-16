@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 2e7df8a0-299c-45b5-b2ca-caf9876367c5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:27:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Alumni Tech Talks'
+created:
+  -
+    value: '2017-02-14T08:55:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:27:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-digital-alumni-tech-talks
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2017-02-23T16:00:00+01:00'
+    end_value: '2017-02-23T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Hello everybody! After a rather long break, we are back, organizing an event at the CLC again (thanks Göran and Joanna). Since we now already know each other, this time there will be some technical talks about things that people want to share their experience about. So here's the (preliminary) agenda (subject to alterations).<br />\r\n<br />\r\n18:00h: Arrival and mingle (Some food will be provided!)<br />\r\n18:20h: Talk about latest events and news of the&nbsp;EIT Digital Alumni Foundation<br />\r\n18:30h: Talk by&nbsp;<a href=\"https://alumni.eitdigital.eu/users/ymakhloufi\">Yassin</a>: \"Growing into the Cloud: How to Tackle Scalability Issues in Distributed Systems\"<br />\r\n19:00h: Short Break<br />\r\n19:15h: Talk by&nbsp;<a href=\"https://alumni.eitdigital.eu/users/smarx721\">Andrew</a>: \"Semantic Web for fun and profit\"<br />\r\n19:45h: Mingle and Networking<br />\r\n~20:00h: Wrapping up</p>\r\n\r\n<p>Join <a href=\"https://www.facebook.com/events/1795754054080372/\">our Facebook event</a> and <a href=\"http://www.facebook.com/groups/301640916840699/\">our group</a> to always stay in the loop!</p>\r\n"
+    format: full_html
+    processed: "<p>Hello everybody! After a rather long break, we are back, organizing an event at the CLC again (thanks Göran and Joanna). Since we now already know each other, this time there will be some technical talks about things that people want to share their experience about. So here's the (preliminary) agenda (subject to alterations).<br />\n<br />\n18:00h: Arrival and mingle (Some food will be provided!)<br />\n18:20h: Talk about latest events and news of the\_EIT Digital Alumni Foundation<br />\n18:30h: Talk by\_<a href=\"https://alumni.eitdigital.eu/users/ymakhloufi\">Yassin</a>: \"Growing into the Cloud: How to Tackle Scalability Issues in Distributed Systems\"<br />\n19:00h: Short Break<br />\n19:15h: Talk by\_<a href=\"https://alumni.eitdigital.eu/users/smarx721\">Andrew</a>: \"Semantic Web for fun and profit\"<br />\n19:45h: Mingle and Networking<br />\n~20:00h: Wrapping up</p>\n\n<p>Join <a href=\"https://www.facebook.com/events/1795754054080372/\">our Facebook event</a> and <a href=\"http://www.facebook.com/groups/301640916840699/\">our group</a> to always stay in the loop!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: e158734d-213f-4ca0-9958-5d9f5557b44d
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: e158734d-213f-4ca0-9958-5d9f5557b44d
+field_event_introduction:
+  -
+    value: "<p>After a rather long break, we are back, organizing an event at the CLC again</p>\r\n"
+    format: full_html
+    processed: "<p>After a rather long break, we are back, organizing an event at the CLC again</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.e158734d-213f-4ca0-9958-5d9f5557b44d
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

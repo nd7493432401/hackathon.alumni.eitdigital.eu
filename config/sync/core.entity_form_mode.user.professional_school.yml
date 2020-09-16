@@ -1,0 +1,10 @@
+uuid: 564fe9ca-4301-4340-a0da-2c08ad91e418
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.professional_school
+label: 'Professional School Register'
+targetEntityType: user
+cache: true

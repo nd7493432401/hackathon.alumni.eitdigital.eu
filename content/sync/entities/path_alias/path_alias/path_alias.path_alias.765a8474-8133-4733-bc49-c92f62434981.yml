@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 765a8474-8133-4733-bc49-c92f62434981
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/150
+alias:
+  -
+    value: /summer-schools/2018-stockholm-big-data-analytics
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

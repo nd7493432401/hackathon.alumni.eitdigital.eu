@@ -1,0 +1,37 @@
+core: 8.x
+type: theme
+base theme: bootstrap
+
+name: 'EIT'
+description: 'Custom EIT Alumni theme.'
+screenshot: screenshot.png
+
+libraries:
+  - eitalumni/framework
+
+regions:
+  navigation: 'Navigation'
+  navigation_collapsible: 'Navigation (Collapsible)'
+  header: 'Header'
+  user_profile_header: 'User Profile Header'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  sidebar_first: 'Primary'
+  sidebar_second: 'Secondary'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  carousel: 'Homepage carousel'
+  sidebar_left_menu: 'Sidebar off-canvas menu'
+  usermenu: 'User menu'
+  home1: 'Homepage Region #1'
+  home2: 'Homepage Region #2'
+  home3: 'Homepage Region #3'
+  home4: 'Homepage Region #4'
+  footer_top: 'Footer top'
+  footer_bottom: 'Footer bottom'
+
+libraries-extend:
+  bootstrap/framework:
+    - eitalumni/framework

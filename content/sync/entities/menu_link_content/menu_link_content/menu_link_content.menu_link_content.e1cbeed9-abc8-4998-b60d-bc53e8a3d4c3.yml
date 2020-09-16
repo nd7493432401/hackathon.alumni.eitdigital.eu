@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-26T10:27:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Who we are'
+description: {  }
+menu_name:
+  -
+    value: hamburger-menu
+link:
+  -
+    uri: 'route:<nolink>'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -50
+expanded:
+  -
+    value: true
+parent: {  }
+changed:
+  -
+    value: '2020-03-26T10:28:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

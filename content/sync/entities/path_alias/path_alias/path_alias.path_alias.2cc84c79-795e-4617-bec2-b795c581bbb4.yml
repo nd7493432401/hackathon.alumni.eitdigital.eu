@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2cc84c79-795e-4617-bec2-b795c581bbb4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/119
+alias:
+  -
+    value: /article/digitalumni-vs-slush-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

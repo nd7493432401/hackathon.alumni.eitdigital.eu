@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 71896a52-eecb-4282-a9a8-119e44ab87d9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/35
+alias:
+  -
+    value: /article/hi-new-alumni-board
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

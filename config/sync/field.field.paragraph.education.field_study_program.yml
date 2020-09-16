@@ -1,0 +1,19 @@
+uuid: 9644946a-5f43-43d4-8827-41e5b3f4f55d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_study_program
+    - paragraphs.paragraphs_type.education
+id: paragraph.education.field_study_program
+field_name: field_study_program
+entity_type: paragraph
+bundle: education
+label: 'Study Program'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

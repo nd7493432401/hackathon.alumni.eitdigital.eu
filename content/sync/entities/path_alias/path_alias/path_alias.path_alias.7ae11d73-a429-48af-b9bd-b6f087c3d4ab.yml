@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7ae11d73-a429-48af-b9bd-b6f087c3d4ab
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/69
+alias:
+  -
+    value: /article/passing-baton
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

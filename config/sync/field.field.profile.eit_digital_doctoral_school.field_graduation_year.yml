@@ -1,0 +1,29 @@
+uuid: 13af9ba0-f209-4162-a454-bbfa061f15dd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_graduation_year
+    - profile.type.eit_digital_doctoral_school
+    - taxonomy.vocabulary.exit_
+id: profile.eit_digital_doctoral_school.field_graduation_year
+field_name: field_graduation_year
+entity_type: profile
+bundle: eit_digital_doctoral_school
+label: 'Graduation Year'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      exit_: exit_
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: exit_universities
+field_type: entity_reference

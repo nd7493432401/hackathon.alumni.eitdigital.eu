@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1f9e11f1-cabc-4542-b45b-c40ca0f66bc6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/3
+alias:
+  -
+    value: /article-categories/success-stories
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

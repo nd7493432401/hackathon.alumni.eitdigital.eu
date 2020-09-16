@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3a89cea4-1853-4f8f-a85c-442f049e6391
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/301
+alias:
+  -
+    value: /group/stockholm-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

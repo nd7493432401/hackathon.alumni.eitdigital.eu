@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 55198a66-85a0-409a-a3e8-ed929aa0cc2b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:57:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Trento Alumni networking meetup'
+created:
+  -
+    value: '2019-11-27T11:44:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:57:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/trento-alumni-networking-meetup
+body: {  }
+field_event_:
+  -
+    value: 'Contamination Lab (CLab) Trento, Piazza di Fiera, 4 38122 Trento'
+    format: full_html
+    processed: 'Contamination Lab (CLab) Trento, Piazza di Fiera, 4 38122 Trento'
+field_event_date:
+  -
+    value: '2019-12-10T19:15:00+01:00'
+    end_value: '2019-12-10T22:15:00+01:00'
+field_event_description:
+  -
+    value: "<p>Our local community in Trento has planned an end-of-year meetup on <strong>Tuesday 10th December</strong>! Join us to discuss the future plans and events for 2020 for the EIT Digital Alumni in the area. You will learn more about our community, meet the members based in Trentino and surroundings, and give your feedback on some initiatives for next year.&nbsp;</p>\r\n\r\n<p>Right after, there will be a <strong>Christmassy networking session</strong> with food and drinks.</p>\r\n\r\n<p>Priority is given to Alumni members. Second year EIT Digital Master School students are also welcome!</p>\r\n\r\n<p>This event is FREE but registration is required. Please <a href=\"https://forms.gle/tAxiQVmHxpPs69PNA\" target=\"_blank\"><strong>sign up HERE</strong></a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Our local community in Trento has planned an end-of-year meetup on <strong>Tuesday 10th December</strong>! Join us to discuss the future plans and events for 2020 for the EIT Digital Alumni in the area. You will learn more about our community, meet the members based in Trentino and surroundings, and give your feedback on some initiatives for next year.\_</p>\n\n<p>Right after, there will be a <strong>Christmassy networking session</strong> with food and drinks.</p>\n\n<p>Priority is given to Alumni members. Second year EIT Digital Master School students are also welcome!</p>\n\n<p>This event is FREE but registration is required. Please <a href=\"https://forms.gle/tAxiQVmHxpPs69PNA\" target=\"_blank\"><strong>sign up HERE</strong></a>.</p>\n\n<p>\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 35bf9491-2fc1-4766-aaaa-8d442fa721fa
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 35bf9491-2fc1-4766-aaaa-8d442fa721fa
+field_event_introduction:
+  -
+    value: "<p>Our local community in Trento discusses future plans and events</p>\r\n"
+    format: full_html
+    processed: "<p>Our local community in Trento discusses future plans and events</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.35bf9491-2fc1-4766-aaaa-8d442fa721fa
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

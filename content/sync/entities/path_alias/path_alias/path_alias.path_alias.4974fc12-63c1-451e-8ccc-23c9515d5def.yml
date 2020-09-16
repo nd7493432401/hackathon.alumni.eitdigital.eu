@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4974fc12-63c1-451e-8ccc-23c9515d5def
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/335
+alias:
+  -
+    value: /job/data-scientist-2019-summer-ed
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

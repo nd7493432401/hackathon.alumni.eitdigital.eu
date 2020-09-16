@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f84c704a-60d8-44a2-b7da-104be1dfd205
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/43
+alias:
+  -
+    value: /event-type/talks-social-gathering-outdoors
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

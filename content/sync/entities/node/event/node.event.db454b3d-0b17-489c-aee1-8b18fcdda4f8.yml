@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: db454b3d-0b17-489c-aee1-8b18fcdda4f8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:52:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'CERN Hackathon '
+created:
+  -
+    value: '2018-02-04T11:06:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:52:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/cern-hackathon
+body: {  }
+field_event_:
+  -
+    value: 'AREA Science Park | Padriciano Campus | Padriciano, 99 | Congress Centre (C Building)'
+    format: full_html
+    processed: 'AREA Science Park | Padriciano Campus | Padriciano, 99 | Congress Centre (C Building)'
+field_event_date:
+  -
+    value: '2018-04-19T08:00:00+02:00'
+    end_value: '2018-04-20T13:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>We would like to share an initiative by <a href=\"https://home.cern/\">CERN</a> to our community of young professionals around Italy. There will be a very interesting hackathon in Trieste powered by <a href=\"https://www.elettra.eu/\">Elettra Sincrotrone Trieste</a>, <a href=\"https://www.ts.infn.it/en/\">INFN Trieste</a> and <a href=\"https://www.attract-eu.org/\">ATTRACT</a>. &nbsp;This hackathon aims to gather a multi-disciplinary team of young professionals to solve critical challenges for the future in “<strong>imagining the detectors of the future</strong>”.</p>\r\n\r\n<p>The hackathon will offer a creative space and a proven process to participants in an immersive experience of innovating beyond the frontiers of science.&nbsp;This will be supported by far reaching expertise of the renowned host organisations.</p>\r\n\r\n<p><em><a href=\"https://attractyoung.wordpress.com/submityouridea/info/\">30 participants</a> (chosen among the early birds submitters selected for #AttractYoung) will get their accommodation costs covered. The selected participants will still have to pay for their travel costs. Up to 10 #AttractYoung participants chosen by the Panel will be awarded a 5-day visit to <a href=\"https://home.cern/\">CERN</a> (European Organization for Nuclear Research) / <a href=\"http://www.esrf.eu/\">ESRF</a> (European Synchrotron Radiation Facility) to further brainstorm on their ideas. <strong>All expenses paid</strong>.</em></p>\r\n\r\n<p>Please register <a href=\"https://attractyoung.wordpress.com/\">here</a> and find out more about the event if you are interested. A&nbsp;letter of recommendation to each selected participants having completed the Hackathon will be issued.</p>\r\n\r\n<p>We encourage our members - especially those residing in Italy - to be part of this initiative and make your ideas come to reality with massive support from the renowned organisers.</p>\r\n\r\n<p><strong>Registration Deadline: 15th March 2018</strong><br />\r\n<a href=\"https://attractyoung.wordpress.com/\">REGISTER HERE</a></p>\r\n"
+    format: full_html
+    processed: "<p>We would like to share an initiative by <a href=\"https://home.cern/\">CERN</a> to our community of young professionals around Italy. There will be a very interesting hackathon in Trieste powered by <a href=\"https://www.elettra.eu/\">Elettra Sincrotrone Trieste</a>, <a href=\"https://www.ts.infn.it/en/\">INFN Trieste</a> and <a href=\"https://www.attract-eu.org/\">ATTRACT</a>. \_This hackathon aims to gather a multi-disciplinary team of young professionals to solve critical challenges for the future in “<strong>imagining the detectors of the future</strong>”.</p>\n\n<p>The hackathon will offer a creative space and a proven process to participants in an immersive experience of innovating beyond the frontiers of science.\_This will be supported by far reaching expertise of the renowned host organisations.</p>\n\n<p><em><a href=\"https://attractyoung.wordpress.com/submityouridea/info/\">30 participants</a> (chosen among the early birds submitters selected for #AttractYoung) will get their accommodation costs covered. The selected participants will still have to pay for their travel costs. Up to 10 #AttractYoung participants chosen by the Panel will be awarded a 5-day visit to <a href=\"https://home.cern/\">CERN</a> (European Organization for Nuclear Research) / <a href=\"http://www.esrf.eu/\">ESRF</a> (European Synchrotron Radiation Facility) to further brainstorm on their ideas. <strong>All expenses paid</strong>.</em></p>\n\n<p>Please register <a href=\"https://attractyoung.wordpress.com/\">here</a> and find out more about the event if you are interested. A\_letter of recommendation to each selected participants having completed the Hackathon will be issued.</p>\n\n<p>We encourage our members - especially those residing in Italy - to be part of this initiative and make your ideas come to reality with massive support from the renowned organisers.</p>\n\n<p><strong>Registration Deadline: 15th March 2018</strong><br />\n<a href=\"https://attractyoung.wordpress.com/\">REGISTER HERE</a></p>\n"
+field_event_duration:
+  -
+    value: 'All day'
+    format: basic_html
+    processed: 'All day'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 0bd8aa88-b246-4880-b08f-ab9faf854341
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 0bd8aa88-b246-4880-b08f-ab9faf854341
+field_event_introduction:
+  -
+    value: "<p>A great initiative by CERN for our community</p>\r\n"
+    format: full_html
+    processed: "<p>A great initiative by CERN for our community</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.0bd8aa88-b246-4880-b08f-ab9faf854341

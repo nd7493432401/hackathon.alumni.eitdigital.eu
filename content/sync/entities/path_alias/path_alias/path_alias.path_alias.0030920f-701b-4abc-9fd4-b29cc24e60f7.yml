@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0030920f-701b-4abc-9fd4-b29cc24e60f7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/233
+alias:
+  -
+    value: /event/webexpo-conference
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

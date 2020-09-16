@@ -1,0 +1,10 @@
+uuid: b0e21722-c854-468c-9100-d8975be1cd50
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.employee_edit
+label: 'Employee Edit'
+targetEntityType: user
+cache: true

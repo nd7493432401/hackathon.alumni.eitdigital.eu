@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 98117522-32a2-4a95-916e-44d32bff8953
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/480
+alias:
+  -
+    value: /job/designer-2019-summer-ed
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

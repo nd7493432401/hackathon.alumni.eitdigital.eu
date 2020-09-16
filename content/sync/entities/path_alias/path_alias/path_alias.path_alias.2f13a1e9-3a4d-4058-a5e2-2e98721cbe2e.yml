@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2f13a1e9-3a4d-4058-a5e2-2e98721cbe2e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/186
+alias:
+  -
+    value: /event/smart-contracts-sun-berlin
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

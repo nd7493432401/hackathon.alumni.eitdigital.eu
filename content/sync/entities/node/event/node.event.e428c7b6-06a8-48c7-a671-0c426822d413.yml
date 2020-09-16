@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: e428c7b6-06a8-48c7-a671-0c426822d413
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:35:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Conversation on the Virtual Reality topic'
+created:
+  -
+    value: '2017-09-28T19:33:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:35:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/conversation-virtual-reality-topic
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital Co-Location Center, Isafjordsgatan 26, Hiss C, Plan 3'
+    format: full_html
+    processed: 'EIT Digital Co-Location Center, Isafjordsgatan 26, Hiss C, Plan 3'
+field_event_date:
+  -
+    value: '2017-10-05T11:00:00+02:00'
+    end_value: '2017-10-05T12:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>Dear all,</p>\r\n\r\n<p>EIT Digital and KTH&nbsp;Kista&nbsp;are pleased to invi­te you to listen to a conversation on the&nbsp;topic:&nbsp; <strong>Is VR just for games or can it be applied in other fields?</strong></p>\r\n\r\n<p>Gaming is an obvious virtual reality application as are virtual worlds, but there is a whole host of uses for virtual reality – some of which are more challenging or unusual than others. A group of experts (<strong>Cecilia Borg </strong>-&nbsp;Looklet AB,&nbsp;<strong>Konrad Tollmar</strong> -&nbsp;KTH, <strong>Mario Romero</strong> -&nbsp;KTH,&nbsp;<strong>Morgan Fredrikson</strong> - Nagoon) in the field of VR is going to give examples of&nbsp;VR in current and future unusual applications.</p>\r\n\r\n<p>You are very welcome to join us!</p>\r\n\r\n<p><a href=\"https://simplesignup.se/event/102351\">REGISTER HERE</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>Dear all,</p>\n\n<p>EIT Digital and KTH\_Kista\_are pleased to invi­te you to listen to a conversation on the\_topic:\_ <strong>Is VR just for games or can it be applied in other fields?</strong></p>\n\n<p>Gaming is an obvious virtual reality application as are virtual worlds, but there is a whole host of uses for virtual reality – some of which are more challenging or unusual than others. A group of experts (<strong>Cecilia Borg </strong>-\_Looklet AB,\_<strong>Konrad Tollmar</strong> -\_KTH, <strong>Mario Romero</strong> -\_KTH,\_<strong>Morgan Fredrikson</strong> - Nagoon) in the field of VR is going to give examples of\_VR in current and future unusual applications.</p>\n\n<p>You are very welcome to join us!</p>\n\n<p><a href=\"https://simplesignup.se/event/102351\">REGISTER HERE</a>!</p>\n"
+field_event_duration:
+  -
+    value: '14:00 - 15:30'
+    format: basic_html
+    processed: '14:00 - 15:30'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 0df2cb14-bb6e-46d1-9bc2-a3f3a3718406
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 0df2cb14-bb6e-46d1-9bc2-a3f3a3718406
+field_event_introduction:
+  -
+    value: "<p>An interesting conversation on the topic: Is VR just for games or can it be applied in other fields?</p>\r\n"
+    format: full_html
+    processed: "<p>An interesting conversation on the topic: Is VR just for games or can it be applied in other fields?</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 23765491-701a-414d-b598-618ba5911e74
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.0df2cb14-bb6e-46d1-9bc2-a3f3a3718406
+    taxonomy_term:
+      - taxonomy_term.event_type.23765491-701a-414d-b598-618ba5911e74

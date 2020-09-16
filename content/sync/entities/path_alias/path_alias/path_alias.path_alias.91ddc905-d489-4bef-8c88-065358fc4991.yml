@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 91ddc905-d489-4bef-8c88-065358fc4991
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/67
+alias:
+  -
+    value: /article/eit-digital-alumni-x-toa19
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

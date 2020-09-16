@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 048a45a0-46ff-4102-9657-e304f3e6c924
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/146
+alias:
+  -
+    value: /candidate/tiziano-antico
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

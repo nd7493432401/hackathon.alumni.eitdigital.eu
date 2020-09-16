@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a022af52-3799-48b5-b30a-713130d38b90
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/280
+alias:
+  -
+    value: /event/digital-fashion-e-commerce
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

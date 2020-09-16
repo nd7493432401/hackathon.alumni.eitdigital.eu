@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: e13c54bb-f973-467a-bb0c-9070ee2fe40a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Backend developer'
+created:
+  -
+    value: '2018-12-03T08:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:43:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/backend-developer-1
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:mikael.setterberg@keyflow.se'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Keyflow AB'
+    format: full_html
+    processed: 'Keyflow AB'
+field_expiration_date:
+  -
+    value: '2019-02-01T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><br />\r\n<a href=\"https://www.keyflow.com\" target=\"_blank\">Keyflow AB</a> are looking for a Backend Developer to join our team. The right person should have a strong grasp of current backend technology, tools and strategies and be able to work in a team environment to take a plan from concept to execution. Candidates should cherish exploring new technologies, while at the same time keeping your mind on the task currently at hand. You will be working with cutting edge technologies and will have significant opportunities to grow your skills. We believe you have at least a couple of years of relevant experience.</p>\r\n\r\n<p><strong>Responsibilities </strong><br />\r\n- Develop RESTful APIs and infrastructure that can be used for our web and mobile based offerings.<br />\r\n- Maintain tools and technologies for automating and scaling our systems and administer, monitor, and deploy cloud-based systems.<br />\r\n- Proactively engage with the product manager and other engineers to establish understanding and requirements for future tools and technologies.<br />\r\n- Writing reusable, testable and efficient code.<br />\r\n<strong>Requirements</strong><br />\r\n- Knowledge of object-relational mapping (ORM), error handling, and reporting.<br />\r\n- Understanding fundamental design principles behind a scalable application.<br />\r\n- Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform.<br />\r\n- Experience with AWS or any other cloud computing platforms.<br />\r\n- Proficient understanding of code versioning tools, such as Git.<br />\r\n<strong>Bonus </strong><br />\r\n- Previous experience as a Python Developer where you have worked with at least one popular Python framework (like Django, Flask or Tornado).<br />\r\n- Experience with Stripe or any other payment providers.<br />\r\n- Experience with software configuration management tools.<br />\r\n- Implementing automated testing platforms and unit tests.<br />\r\n- Maintain tools and technologies utilized in the DevOps processes related to continuous delivery and automation deployment.<br />\r\n&nbsp;</p>\r\n\r\n<p>Your edge will be in one of the above mentioned areas but as requirements shift you will also have to pitch in in other areas.<br />\r\nKeyflow AB&nbsp;is located in A house on Östermalm, Stockholm. We offer a competitive benefits package and work in a creative environment with short decision paths.<br />\r\n&nbsp;</p>\r\n\r\n<p>Sounds interesting? Drop us a few lines and tell us what you are looking for and what you have done before! Applications are evaluated continuously. Non native Swedish speaking applicants welcome.</p>\r\n\r\n<p>Mikael Setterberg/CTO<br />\r\nmikael.setterberg@keyflow.se<br />\r\n+46735254080&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><br />\n<a href=\"https://www.keyflow.com\" target=\"_blank\">Keyflow AB</a> are looking for a Backend Developer to join our team. The right person should have a strong grasp of current backend technology, tools and strategies and be able to work in a team environment to take a plan from concept to execution. Candidates should cherish exploring new technologies, while at the same time keeping your mind on the task currently at hand. You will be working with cutting edge technologies and will have significant opportunities to grow your skills. We believe you have at least a couple of years of relevant experience.</p>\n\n<p><strong>Responsibilities </strong><br />\n- Develop RESTful APIs and infrastructure that can be used for our web and mobile based offerings.<br />\n- Maintain tools and technologies for automating and scaling our systems and administer, monitor, and deploy cloud-based systems.<br />\n- Proactively engage with the product manager and other engineers to establish understanding and requirements for future tools and technologies.<br />\n- Writing reusable, testable and efficient code.<br />\n<strong>Requirements</strong><br />\n- Knowledge of object-relational mapping (ORM), error handling, and reporting.<br />\n- Understanding fundamental design principles behind a scalable application.<br />\n- Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform.<br />\n- Experience with AWS or any other cloud computing platforms.<br />\n- Proficient understanding of code versioning tools, such as Git.<br />\n<strong>Bonus </strong><br />\n- Previous experience as a Python Developer where you have worked with at least one popular Python framework (like Django, Flask or Tornado).<br />\n- Experience with Stripe or any other payment providers.<br />\n- Experience with software configuration management tools.<br />\n- Implementing automated testing platforms and unit tests.<br />\n- Maintain tools and technologies utilized in the DevOps processes related to continuous delivery and automation deployment.<br />\n\_</p>\n\n<p>Your edge will be in one of the above mentioned areas but as requirements shift you will also have to pitch in in other areas.<br />\nKeyflow AB\_is located in A house on Östermalm, Stockholm. We offer a competitive benefits package and work in a creative environment with short decision paths.<br />\n\_</p>\n\n<p>Sounds interesting? Drop us a few lines and tell us what you are looking for and what you have done before! Applications are evaluated continuously. Non native Swedish speaking applicants welcome.</p>\n\n<p>Mikael Setterberg/CTO<br />\nmikael.setterberg@keyflow.se<br />\n+46735254080\_</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/tonythomas01'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

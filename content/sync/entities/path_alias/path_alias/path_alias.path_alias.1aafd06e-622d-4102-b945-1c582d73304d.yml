@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1aafd06e-622d-4102-b945-1c582d73304d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/485
+alias:
+  -
+    value: /job/fullstack-cnet-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

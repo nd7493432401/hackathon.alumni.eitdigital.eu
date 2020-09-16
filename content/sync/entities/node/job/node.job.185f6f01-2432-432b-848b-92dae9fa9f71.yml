@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 185f6f01-2432-432b-848b-92dae9fa9f71
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior Consultant Penetration Testing & Vulnerability Management '
+created:
+  -
+    value: '2019-11-25T17:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:35:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-consultant-penetration-testing-vulnerability-management
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>&nbsp;</p>\r\n\r\n<p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies. </span></p>\r\n\r\n<p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risk to enhance the reliability of systems and processes throughout their organization.</span></p>\r\n\r\n<ul>\r\n\t<li><span>Become part of Deloitte’s Cyber Risk practice, widely acknowledged as the leading security advisory practice in the world and eminently qualified to help clients respond to evolving cyber threats in a secure, vigilant, and resilient manner.</span></li>\r\n\t<li><span>Join a team of more than 70 experts in Belgium, focusing on cyber security</span></li>\r\n\t<li><span>Work in different industries, in Belgium and abroad</span></li>\r\n\t<li><span>Have an interesting career track with real growth opportunities</span></li>\r\n\t<li><span>Work in our brand new Gateway building at Zaventem Airport</span></li>\r\n</ul>\r\n\r\n<p><span>Sounds good? Let’s discuss!</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Why you get out of bed every morning:</b></span></p>\r\n\r\n<p><span>As a Senior professional Testing/Vulnerability Management you are <b>leveraging your technical expertise</b> to<b> help our clients address the challenges they face and Inspire this team</b> in achieving cyber vigilance &amp; resilience.</span></p>\r\n\r\n<p><span>From our Cyber Intelligence Center (CIC) in Brussels, we will help our clients to address the challenges they face in achieving cyber vigilance &amp; resilience. This means:</span></p>\r\n\r\n<ul>\r\n\t<li><span>Performing penetration tests, vulnerability assessments and system hardening assessments</span></li>\r\n\t<li><span>Implementing vulnerability management programs</span></li>\r\n\t<li><span>Threat intelligence &amp; analysis</span></li>\r\n\t<li><span>Cyber risk analytics </span></li>\r\n\t<li><span>Cyber incident response &amp; digital forensics</span></li>\r\n\t<li><span>You’ll combine your knowledge of best practices and your technical expertise with out-of-the-box thinking to help our clients mitigate cyber security threats </span></li>\r\n</ul>\r\n\r\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\r\n<div class=\"inlinepanel\" title=\"\">&nbsp;</div>\r\n\r\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div>\r\n\r\n<ul>\r\n\t<li><span>You have some years of experience in IT security in high profile environments and combine this with good people management skills </span></li>\r\n\t<li><span>You have a strong interest in the technical aspects of cyber security</span></li>\r\n\t<li><span>You have a good understanding of technical cyber security threats and how to mitigate them</span></li>\r\n\t<li><span>Specific competencies in technical security standards (such as OWASSP, CIS Top 20, CVSS …) and technical security certifications from Offensive Security (OSCP, OSCE) and/or SANS (GWAPT, GXPN, GCIH, GCIA, GCFA, GCFE) are considered a plus</span></li>\r\n\t<li><span>You are a team player and coach with a client- and results-oriented approach</span></li>\r\n\t<li><span>You have an analytical mindset, can work independently and can handle multiple projects with tight timelines simultaneously</span></li>\r\n\t<li><span>You are able to plan and execute a project to deliver a superior client experience. Next to that, you are able to build an in-depth knowledge of the client’s business and stay up-to-date on industry activities, marketplace trends, innovation efforts, and leading practices</span></li>\r\n\t<li><span>You are fluent in English and preferably either Dutch or French</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>How you’ll grow</b></span></p>\r\n\r\n<p><span>At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there is always room to learn. We offer opportunities to help build world-class skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programmes at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Your role as a leader</b></span></p>\r\n\r\n<p><span>At Deloitte, we believe in the importance of leadership at all levels. We expect our people to embrace and live our purpose by challenging themselves to identify issues that are most important for our clients, our people and for society, and make an impact that matters. In addition to living our purpose, managers across our organisation:</span></p>\r\n\r\n<ul>\r\n\t<li><span>Develop high-performing people and teams through challenging and meaningful opportunities</span></li>\r\n\t<li><span>Deliver exceptional client service, maximise results and drive high performance from people while fostering collaboration across businesses and borders</span></li>\r\n\t<li><span>Influence clients, teams and individuals positively, leading by example and establishing confident relationships with increasingly senior people</span></li>\r\n\t<li><span>Understand key objectives for clients and Deloitte, align people to objectives and set priorities and direction</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>What’s in it for you</b></span></p>\r\n\r\n<p><span>At Deloitte, we know that great people make a great organisation. We value our people and offer employees a broad range of benefits.</span></p>\r\n\r\n<p><span>You’ll work in a collaborative, creative environment where innovation is key. Personal development and growth are encouraged and continuous learning and coaching are part of the people culture. You’ll receive an attractive and competitive salary with fringe benefits.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Our purpose</b></span></p>\r\n\r\n<p><span>Deloitte is led by a purpose: to make an impact that matters. Every day, Deloitte people are making a real impact in the places they live and work. We pride ourselves on doing not only what is good for clients, but also what is good for our people and the communities in which we live and work—always striving to be an organisation that is held up as a role model of quality, integrity and positive change.</span></p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>\_</p>\n\n<p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies. </span></p>\n\n<p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risk to enhance the reliability of systems and processes throughout their organization.</span></p>\n\n<ul>\n\t<li><span>Become part of Deloitte’s Cyber Risk practice, widely acknowledged as the leading security advisory practice in the world and eminently qualified to help clients respond to evolving cyber threats in a secure, vigilant, and resilient manner.</span></li>\n\t<li><span>Join a team of more than 70 experts in Belgium, focusing on cyber security</span></li>\n\t<li><span>Work in different industries, in Belgium and abroad</span></li>\n\t<li><span>Have an interesting career track with real growth opportunities</span></li>\n\t<li><span>Work in our brand new Gateway building at Zaventem Airport</span></li>\n</ul>\n\n<p><span>Sounds good? Let’s discuss!</span></p>\n\n<p>\_</p>\n\n<p><span><b>Why you get out of bed every morning:</b></span></p>\n\n<p><span>As a Senior professional Testing/Vulnerability Management you are <b>leveraging your technical expertise</b> to<b> help our clients address the challenges they face and Inspire this team</b> in achieving cyber vigilance &amp; resilience.</span></p>\n\n<p><span>From our Cyber Intelligence Center (CIC) in Brussels, we will help our clients to address the challenges they face in achieving cyber vigilance &amp; resilience. This means:</span></p>\n\n<ul>\n\t<li><span>Performing penetration tests, vulnerability assessments and system hardening assessments</span></li>\n\t<li><span>Implementing vulnerability management programs</span></li>\n\t<li><span>Threat intelligence &amp; analysis</span></li>\n\t<li><span>Cyber risk analytics </span></li>\n\t<li><span>Cyber incident response &amp; digital forensics</span></li>\n\t<li><span>You’ll combine your knowledge of best practices and your technical expertise with out-of-the-box thinking to help our clients mitigate cyber security threats </span></li>\n</ul>\n\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\n<div class=\"inlinepanel\" title=\"\">\_</div>\n\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div>\n\n<ul>\n\t<li><span>You have some years of experience in IT security in high profile environments and combine this with good people management skills </span></li>\n\t<li><span>You have a strong interest in the technical aspects of cyber security</span></li>\n\t<li><span>You have a good understanding of technical cyber security threats and how to mitigate them</span></li>\n\t<li><span>Specific competencies in technical security standards (such as OWASSP, CIS Top 20, CVSS …) and technical security certifications from Offensive Security (OSCP, OSCE) and/or SANS (GWAPT, GXPN, GCIH, GCIA, GCFA, GCFE) are considered a plus</span></li>\n\t<li><span>You are a team player and coach with a client- and results-oriented approach</span></li>\n\t<li><span>You have an analytical mindset, can work independently and can handle multiple projects with tight timelines simultaneously</span></li>\n\t<li><span>You are able to plan and execute a project to deliver a superior client experience. Next to that, you are able to build an in-depth knowledge of the client’s business and stay up-to-date on industry activities, marketplace trends, innovation efforts, and leading practices</span></li>\n\t<li><span>You are fluent in English and preferably either Dutch or French</span></li>\n</ul>\n\n<p>\_</p>\n\n<p><span><b>How you’ll grow</b></span></p>\n\n<p><span>At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there is always room to learn. We offer opportunities to help build world-class skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programmes at Deloitte University, our professionals have a variety of opportunities to continue to grow throughout their career.</span></p>\n\n<p>\_</p>\n\n<p><span><b>Your role as a leader</b></span></p>\n\n<p><span>At Deloitte, we believe in the importance of leadership at all levels. We expect our people to embrace and live our purpose by challenging themselves to identify issues that are most important for our clients, our people and for society, and make an impact that matters. In addition to living our purpose, managers across our organisation:</span></p>\n\n<ul>\n\t<li><span>Develop high-performing people and teams through challenging and meaningful opportunities</span></li>\n\t<li><span>Deliver exceptional client service, maximise results and drive high performance from people while fostering collaboration across businesses and borders</span></li>\n\t<li><span>Influence clients, teams and individuals positively, leading by example and establishing confident relationships with increasingly senior people</span></li>\n\t<li><span>Understand key objectives for clients and Deloitte, align people to objectives and set priorities and direction</span></li>\n</ul>\n\n<p>\_</p>\n\n<p><span><b>What’s in it for you</b></span></p>\n\n<p><span>At Deloitte, we know that great people make a great organisation. We value our people and offer employees a broad range of benefits.</span></p>\n\n<p><span>You’ll work in a collaborative, creative environment where innovation is key. Personal development and growth are encouraged and continuous learning and coaching are part of the people culture. You’ll receive an attractive and competitive salary with fringe benefits.</span></p>\n\n<p>\_</p>\n\n<p><span><b>Our purpose</b></span></p>\n\n<p><span>Deloitte is led by a purpose: to make an impact that matters. Every day, Deloitte people are making a real impact in the places they live and work. We pride ourselves on doing not only what is good for clients, but also what is good for our people and the communities in which we live and work—always striving to be an organisation that is held up as a role model of quality, integrity and positive change.</span></p>\n</div>\n"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000ST&tz=GMT%2B01%3A00&tzname'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

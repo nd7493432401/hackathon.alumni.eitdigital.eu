@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: a8ad94b9-65b7-4c45-83ec-db011229d561
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Full Stack Developer'
+created:
+  -
+    value: '2019-12-19T11:26:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:50:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/full-stack-developer-2
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:smashteam@smashmedicine.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: SmashMedicine
+    format: full_html
+    processed: SmashMedicine
+field_expiration_date:
+  -
+    value: '2020-01-08T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>Absolute requirement</strong>: someone who wants to fight the dark side of education.</p>\r\n\r\n<p>If you are keen to work in a dynamic start-up which aims to improve health and wellbeing of patients worldwide, this opportunity is for you. We are an innovative tech start-up aiming to minimise misdiagnosis whilst make learning medicine fun! Recently selected to take part in the world-renowned Oxford Foundry’s accelerator programme (L.E.V8), SmashMedicine is one of the most promising startups in Oxford.</p>\r\n\r\n<p>As the developer, you will have the responsibility of optimising the existing platform, constantly searching for and creating new improvements for both the front and back-end. In addition, you will be working closely with the co-founders and team to bring exciting ideas to life. Whether on your own or with others around you, you will relish the opportunity to develop original solutions to complex problems.</p>\r\n\r\n<p>This is an opportunity for someone looking to develop in a unique and exciting environment. Though our close links with the University of Oxford, the successful candidate will get a once-in-a-life-time insight into the ever-growing entrepreneur ecosystem of Oxford. And, with a project across four European Universities scheduled for 2020, we are at a very exciting part in our journey.</p>\r\n\r\n<p>So come and join us as we change education forever.</p>\r\n\r\n<p>Full time position, 1 year contract</p>\r\n\r\n<p>Location: Oxford (flexibility considered)</p>\r\n\r\n<p>Salary: Based on experience + share options</p>\r\n\r\n<p>Desired experience:</p>\r\n\r\n<ul>\r\n\t<li>Proficient knowledge of a back-end programming languages such as ASP, PHP, Python, Ruby, JavaScript</li>\r\n\t<li>Proficient understanding of web mark-up, including HTML5, CSS3 and ReactJS</li>\r\n\t<li>Proficient understanding of client-side scripting, JavaScript frameworks and code versioning tools, such as Git</li>\r\n\t<li>Understanding of OWASP security principles</li>\r\n\t<li>Optimise application for maximum speed and scalability; Management of hosting environment, including database administration and scaling an application to support load changes</li>\r\n\t<li>Outputting data in different formats via API and creating/optimising APIs between website and Python developed features Understanding differences between multiple delivery platforms such as mobile vs desktop, and optimising output to match the specific platform</li>\r\n\t<li>Carrying out bug fixes, developing business logic components, REST services, database schemas, user interface pages</li>\r\n\t<li>Develop new user-facing features</li>\r\n\t<li>Ensure the technical feasibility of UI/UX designs</li>\r\n\t<li>Able to use DBMS; definition and maintenance of the central database; ensuring high performance; responsiveness to requests from the front-end</li>\r\n</ul>\r\n\r\n<p>Optional:</p>\r\n\r\n<ul>\r\n\t<li>Knowledge/experience of App development</li>\r\n\t<li>Keen to learn business development skills with help of start-up accelerator networks across Europe</li>\r\n</ul>\r\n\r\n<p><em>Information on the Oxford Foundry:</em><br />\r\nForbes: https://www.forbes.com/sites/trevorclawson/2019/08/16/innovation-primer-how-oxforduniversity-is-preparing-students-for-entrepreneurial-life/#aafe4c57feb0<br />\r\nBBC News: https://www.bbc.co.uk/news/uk-england-oxfordshire-41582715<br />\r\nFoundry Website: https://www.oxfordfoundry.ox.ac.uk/</p>\r\n"
+    format: full_html
+    processed: "<p><strong>Absolute requirement</strong>: someone who wants to fight the dark side of education.</p>\n\n<p>If you are keen to work in a dynamic start-up which aims to improve health and wellbeing of patients worldwide, this opportunity is for you. We are an innovative tech start-up aiming to minimise misdiagnosis whilst make learning medicine fun! Recently selected to take part in the world-renowned Oxford Foundry’s accelerator programme (L.E.V8), SmashMedicine is one of the most promising startups in Oxford.</p>\n\n<p>As the developer, you will have the responsibility of optimising the existing platform, constantly searching for and creating new improvements for both the front and back-end. In addition, you will be working closely with the co-founders and team to bring exciting ideas to life. Whether on your own or with others around you, you will relish the opportunity to develop original solutions to complex problems.</p>\n\n<p>This is an opportunity for someone looking to develop in a unique and exciting environment. Though our close links with the University of Oxford, the successful candidate will get a once-in-a-life-time insight into the ever-growing entrepreneur ecosystem of Oxford. And, with a project across four European Universities scheduled for 2020, we are at a very exciting part in our journey.</p>\n\n<p>So come and join us as we change education forever.</p>\n\n<p>Full time position, 1 year contract</p>\n\n<p>Location: Oxford (flexibility considered)</p>\n\n<p>Salary: Based on experience + share options</p>\n\n<p>Desired experience:</p>\n\n<ul>\n\t<li>Proficient knowledge of a back-end programming languages such as ASP, PHP, Python, Ruby, JavaScript</li>\n\t<li>Proficient understanding of web mark-up, including HTML5, CSS3 and ReactJS</li>\n\t<li>Proficient understanding of client-side scripting, JavaScript frameworks and code versioning tools, such as Git</li>\n\t<li>Understanding of OWASP security principles</li>\n\t<li>Optimise application for maximum speed and scalability; Management of hosting environment, including database administration and scaling an application to support load changes</li>\n\t<li>Outputting data in different formats via API and creating/optimising APIs between website and Python developed features Understanding differences between multiple delivery platforms such as mobile vs desktop, and optimising output to match the specific platform</li>\n\t<li>Carrying out bug fixes, developing business logic components, REST services, database schemas, user interface pages</li>\n\t<li>Develop new user-facing features</li>\n\t<li>Ensure the technical feasibility of UI/UX designs</li>\n\t<li>Able to use DBMS; definition and maintenance of the central database; ensuring high performance; responsiveness to requests from the front-end</li>\n</ul>\n\n<p>Optional:</p>\n\n<ul>\n\t<li>Knowledge/experience of App development</li>\n\t<li>Keen to learn business development skills with help of start-up accelerator networks across Europe</li>\n</ul>\n\n<p><em>Information on the Oxford Foundry:</em><br />\nForbes: https://www.forbes.com/sites/trevorclawson/2019/08/16/innovation-primer-how-oxforduniversity-is-preparing-students-for-entrepreneurial-life/#aafe4c57feb0<br />\nBBC News: https://www.bbc.co.uk/news/uk-england-oxfordshire-41582715<br />\nFoundry Website: https://www.oxfordfoundry.ox.ac.uk/</p>\n"
+field_job_location:
+  -
+    value: 'Oxford, United Kingdom'
+    format: full_html
+    processed: 'Oxford, United Kingdom'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

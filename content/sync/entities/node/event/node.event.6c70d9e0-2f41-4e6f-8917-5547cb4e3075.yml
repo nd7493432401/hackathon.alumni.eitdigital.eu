@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 6c70d9e0-2f41-4e6f-8917-5547cb4e3075
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:57:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Machine Learning for Healthcare with @Empatica'
+created:
+  -
+    value: '2018-05-13T15:59:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:57:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/machine-learning-healthcare-empatica
+body: {  }
+field_event_:
+  -
+    value: Cefriel
+    format: full_html
+    processed: Cefriel
+field_event_date:
+  -
+    value: '2018-05-17T14:30:00+02:00'
+    end_value: '2018-05-17T16:30:00+02:00'
+field_event_description:
+  -
+    value: "<p><a href=\"https://www.facebook.com/PolimiDataScientists/\">PoliMi Data Scientists</a>, in collaboration with EIT Digital, official host of the event, is proud to announce the second of a series of meetups that will cover the most interesting and fascinating topics related to the Data Science world. Our aim is to share with a community of students, enthusiasts and professionals real applications and experiences of the sexiest subject of the 21st century.<br />\r\n<br />\r\nThis time, Francesco Onorati, Principal Data Scientist <a href=\"https://www.empatica.com/index.html\">@Empatica</a>, will explain to us how Machine Learning can be applied in a crucial healthcare case: epilepsy detection.<br />\r\nThe Location will be the EIT Digital’s Milan satellite by CEFRIEL. The agenda will consist in a one-hour talk followed by a vibrant networking and apero.<br />\r\n<br />\r\nSeats are limited. Please <a href=\"https://www.eventbrite.it/e/machine-learning-for-healthcare-with-francesco-onorati-principal-data-scientists-empatica-tickets-45902783461?aff=efbeventtix\">register</a> for the event only if you are sure to join. <a href=\"https://www.eventbrite.it/e/machine-learning-for-healthcare-with-francesco-onorati-principal-data-scientists-empatica-tickets-45902783461?aff=efbeventtix\">THE EVENTBRITE TICKET IS REQUIRED</a>.</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://www.facebook.com/PolimiDataScientists/\">PoliMi Data Scientists</a>, in collaboration with EIT Digital, official host of the event, is proud to announce the second of a series of meetups that will cover the most interesting and fascinating topics related to the Data Science world. Our aim is to share with a community of students, enthusiasts and professionals real applications and experiences of the sexiest subject of the 21st century.<br />\n<br />\nThis time, Francesco Onorati, Principal Data Scientist <a href=\"https://www.empatica.com/index.html\">@Empatica</a>, will explain to us how Machine Learning can be applied in a crucial healthcare case: epilepsy detection.<br />\nThe Location will be the EIT Digital’s Milan satellite by CEFRIEL. The agenda will consist in a one-hour talk followed by a vibrant networking and apero.<br />\n<br />\nSeats are limited. Please <a href=\"https://www.eventbrite.it/e/machine-learning-for-healthcare-with-francesco-onorati-principal-data-scientists-empatica-tickets-45902783461?aff=efbeventtix\">register</a> for the event only if you are sure to join. <a href=\"https://www.eventbrite.it/e/machine-learning-for-healthcare-with-francesco-onorati-principal-data-scientists-empatica-tickets-45902783461?aff=efbeventtix\">THE EVENTBRITE TICKET IS REQUIRED</a>.</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 746db5d0-e07e-4ec5-a0eb-2d11d03fe9c5
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 746db5d0-e07e-4ec5-a0eb-2d11d03fe9c5
+field_event_introduction:
+  -
+    value: "<p>How Machine Learning can be applied in a crucial healthcare case - epilepsy detection?</p>\r\n"
+    format: full_html
+    processed: "<p>How Machine Learning can be applied in a crucial healthcare case - epilepsy detection?</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.746db5d0-e07e-4ec5-a0eb-2d11d03fe9c5
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 152b23fe-f4a0-42c9-bfd3-012e4a691102
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/458
+alias:
+  -
+    value: /job/data-scientist-1
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

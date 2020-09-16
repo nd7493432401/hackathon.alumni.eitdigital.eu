@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 81b5be5f-9c68-47d7-b8be-b89cec95fa90
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/148
+alias:
+  -
+    value: /candidate/erik-wouters-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

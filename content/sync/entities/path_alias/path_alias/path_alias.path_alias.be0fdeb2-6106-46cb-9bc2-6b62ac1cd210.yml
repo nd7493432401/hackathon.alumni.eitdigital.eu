@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: be0fdeb2-6106-46cb-9bc2-6b62ac1cd210
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/263
+alias:
+  -
+    value: /event/how-does-expat-live-and-do-industrial-phd-hungary
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

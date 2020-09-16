@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 74b2419c-da0b-4295-8cf5-c7ed4dd6c89e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Software License Expert'
+created:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/software-license-expert
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000JS&tz=GMT%2B01%3A00&tzname'
+    title: null
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date:
+  -
+    value: '1970-01-01T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>\_</p><p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies. </span></p><p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risks in working with third parties throughout the value chain.</span></p><ul><li><span>Become part of an <b>ambitious, growing team of more than 50 experts</b></span></li><li><span>Lead <b>challenging, diversified</b> advisory, assurance and cost recovery <b>projects for large companies</b></span></li><li><span>Make a significant impact at clients </span></li><li><span>Work in a <b>multicultural/international</b> context (over 10 nationalities in the team + possibilities for projects abroad)</span></li><li><span>Working in different industries such as <b>technology, media and telecommunication, life science &amp; healthcare and financial services</b>. Or, on the contrary, become an expert in one of those industries</span></li><li><span><b>Define your own career path</b> (technical specialization, certification, managerial growth, …)</span></li></ul><p><span>Sounds good? Let’s discuss! </span></p><p>\_</p><p><span><b>Your responsibilities</b></span></p><p><span>Together with your team, you will assist our clients among other things in the following:</span></p><ul><li><span>Perform in depth <b>audits</b> of the licensees as part of a <b>Software License Compliance program</b></span></li><li><span>Provide<b> strategic advice</b> to client staff on software licensing, optimization and software contracts as part of<b> Software Asset Management</b> projects</span></li><li><span>Work together with a team of license specialists to cover all vendor related licensing matters and project manage the engagements to completion, from kick-off to deliverables.</span><ul><li><span>Coach junior team members, provide guidance, and follow-up on their deliverables </span></li><li><span>Monitor project timelines</span></li><li><span>Manage project financials</span></li><li><span>Report progress to senior colleagues and to customers</span></li><li><span>Lead client meetings throughout the process</span></li></ul></li></ul><p>\_</p><div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\"><div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div><ul><li><span>A minimum of 3 years of working experience, preferably in an international context</span></li><li><span>Any prior experience in relation to software licensing (IBM, Oracle, SAP,…) </span></li><li><span>You have an analytical mindset, can work independently and can handle multiple projects with tight timelines simultaneously;</span></li><li><span>You are able to build an in-depth knowledge of the client’s business and stay up-to-date on industry activities, marketplace trends, innovation efforts, and leading practices</span></li><li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player;</span></li><li><span>You have an interest in international assignments and are prepared to travel.</span></li></ul><p>\_</p><p><span><b>Our Offer</b></span></p><ul><li><span>Become part of an innovative and challenging company where personal and professional development are key. All this within a pleasant, vibrant working atmosphere with room for team building and fun</span></li><li><span>A people focused culture of continuous learning and coaching. We enjoy to continuously make you better. In your development we will invest (you do the rest).</span></li><li><span>An attractive and competitive salary package with fringe benefits</span></li><li><span>A brand new high tech working environment at the Gateway building at Zaventem Airport, where the paint is still wet</span></li></ul></div>"
+    format: full_html
+    processed: "<p>\_</p><p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organisations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies. </span></p><p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risks in working with third parties throughout the value chain.</span></p><ul><li><span>Become part of an <b>ambitious, growing team of more than 50 experts</b></span></li><li><span>Lead <b>challenging, diversified</b> advisory, assurance and cost recovery <b>projects for large companies</b></span></li><li><span>Make a significant impact at clients </span></li><li><span>Work in a <b>multicultural/international</b> context (over 10 nationalities in the team + possibilities for projects abroad)</span></li><li><span>Working in different industries such as <b>technology, media and telecommunication, life science &amp; healthcare and financial services</b>. Or, on the contrary, become an expert in one of those industries</span></li><li><span><b>Define your own career path</b> (technical specialization, certification, managerial growth, …)</span></li></ul><p><span>Sounds good? Let’s discuss! </span></p><p>\_</p><p><span><b>Your responsibilities</b></span></p><p><span>Together with your team, you will assist our clients among other things in the following:</span></p><ul><li><span>Perform in depth <b>audits</b> of the licensees as part of a <b>Software License Compliance program</b></span></li><li><span>Provide<b> strategic advice</b> to client staff on software licensing, optimization and software contracts as part of<b> Software Asset Management</b> projects</span></li><li><span>Work together with a team of license specialists to cover all vendor related licensing matters and project manage the engagements to completion, from kick-off to deliverables.</span><ul><li><span>Coach junior team members, provide guidance, and follow-up on their deliverables </span></li><li><span>Monitor project timelines</span></li><li><span>Manage project financials</span></li><li><span>Report progress to senior colleagues and to customers</span></li><li><span>Lead client meetings throughout the process</span></li></ul></li></ul><p>\_</p><div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\"><div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div><ul><li><span>A minimum of 3 years of working experience, preferably in an international context</span></li><li><span>Any prior experience in relation to software licensing (IBM, Oracle, SAP,…) </span></li><li><span>You have an analytical mindset, can work independently and can handle multiple projects with tight timelines simultaneously;</span></li><li><span>You are able to build an in-depth knowledge of the client’s business and stay up-to-date on industry activities, marketplace trends, innovation efforts, and leading practices</span></li><li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player;</span></li><li><span>You have an interest in international assignments and are prepared to travel.</span></li></ul><p>\_</p><p><span><b>Our Offer</b></span></p><ul><li><span>Become part of an innovative and challenging company where personal and professional development are key. All this within a pleasant, vibrant working atmosphere with room for team building and fun</span></li><li><span>A people focused culture of continuous learning and coaching. We enjoy to continuously make you better. In your development we will invest (you do the rest).</span></li><li><span>An attractive and competitive salary package with fringe benefits</span></li><li><span>A brand new high tech working environment at the Gateway building at Zaventem Airport, where the paint is still wet</span></li></ul></div>"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: null
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

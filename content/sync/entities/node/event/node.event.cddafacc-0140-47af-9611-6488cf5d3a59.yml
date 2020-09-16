@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: cddafacc-0140-47af-9611-6488cf5d3a59
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:06:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'How does an "Expat" live and do an industrial PhD in Hungary?'
+created:
+  -
+    value: '2018-10-14T20:22:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:06:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/how-does-expat-live-and-do-industrial-phd-hungary
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC Hungary '
+    format: full_html
+    processed: 'EIT Digital CLC Hungary '
+field_event_date:
+  -
+    value: '2018-10-17T15:00:00+02:00'
+    end_value: '2018-10-17T17:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>The Fifth Edition! A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly bases and will also have some EIT Doctoral School students coming around to also talk about the program, the application process and their experiences. This time the presenter will talk about how it is like living in Hungary as an expat and he will share his viewpoints regarding the industrial Phd.&nbsp;</p>\r\n\r\n<p>The event is opened for anyone interested. Join our <a href=\"https://www.facebook.com/events/559974194423931/\">Facebook Event</a>!</p>\r\n\r\n<p>Speaker:&nbsp;<a href=\"https://alumni.eitdigital.eu/users/andreagalloni92\">Andrea Galloni</a><br />\r\nOrganised by&nbsp;<a href=\"http://alumni.eitdigital.eu/users/mark\">Szabó-Simon Márk</a><br />\r\nLocation: Budapest CLC</p>\r\n"
+    format: full_html
+    processed: "<p>The Fifth Edition! A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly bases and will also have some EIT Doctoral School students coming around to also talk about the program, the application process and their experiences. This time the presenter will talk about how it is like living in Hungary as an expat and he will share his viewpoints regarding the industrial Phd.\_</p>\n\n<p>The event is opened for anyone interested. Join our <a href=\"https://www.facebook.com/events/559974194423931/\">Facebook Event</a>!</p>\n\n<p>Speaker:\_<a href=\"https://alumni.eitdigital.eu/users/andreagalloni92\">Andrea Galloni</a><br />\nOrganised by\_<a href=\"http://alumni.eitdigital.eu/users/mark\">Szabó-Simon Márk</a><br />\nLocation: Budapest CLC</p>\n"
+field_event_duration:
+  -
+    value: '15:00-17:00'
+    format: basic_html
+    processed: '15:00-17:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 23b0e126-ffbe-46ba-8387-4feca9455a60
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 23b0e126-ffbe-46ba-8387-4feca9455a60
+field_event_introduction:
+  -
+    value: "<p>Learn more about living in Hungary and the industrial Phd.</p>\r\n"
+    format: full_html
+    processed: "<p>Learn more about living in Hungary and the industrial Phd.</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.23b0e126-ffbe-46ba-8387-4feca9455a60

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 33ca811a-07fa-4751-b18d-41ff31772f2f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/247
+alias:
+  -
+    value: /event/technical-traits-ble-berlin
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

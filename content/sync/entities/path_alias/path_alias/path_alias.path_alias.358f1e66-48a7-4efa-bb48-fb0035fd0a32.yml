@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 358f1e66-48a7-4efa-bb48-fb0035fd0a32
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/314
+alias:
+  -
+    value: /job/master-thesisinternshipfull-time-researcher
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: aed6984e-2e44-441a-9708-1f56ea21e36f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/235
+alias:
+  -
+    value: /event/alumni-meetup-berlin-w-distribusion
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

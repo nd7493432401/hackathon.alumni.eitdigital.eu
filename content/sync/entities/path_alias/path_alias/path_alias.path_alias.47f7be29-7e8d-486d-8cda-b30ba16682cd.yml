@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 47f7be29-7e8d-486d-8cda-b30ba16682cd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/43
+alias:
+  -
+    value: /users/medrisl
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

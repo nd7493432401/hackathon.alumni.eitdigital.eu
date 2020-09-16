@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 345355b9-1c5b-42d7-a74a-0a1fcdd64433
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior back-end developer'
+created:
+  -
+    value: '2019-05-23T09:54:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:59:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-back-end-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://thehub.fi/jobs/company/saidot'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Saidot
+    format: full_html
+    processed: Saidot
+field_expiration_date:
+  -
+    value: '2019-06-15T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<h2>About Saidot</h2>\r\n\r\n<p>Saidot’s mission is to enable responsible AI ecosystems. We help our customers, companies and governments, develop, use and monetize trustworthy and transparent AI, and establish trust with the society impacted by it. Our technology platform enables our customers to act on establishing transparency, accountability and agreements in their AI supply chain. We’re passionate about enabling third parties to create and operate their own services on top of our platform.</p>\r\n\r\n<h2>Senior Back-end Developer, Product</h2>\r\n\r\n<p>You will extend our team as a senior developer experienced primarily in the ancient craft of back-end software development. You will be responsible for building features, design and implement robust APIs, and improve the performance and reliability of our services by working together with other back-end architects. As such, your decisions will have significant impact on our platform.</p>\r\n\r\n<p>Our stack currently consists of Linux, Node.js, PostgreSQL, Terraform (AWS), and soon Haskell. As a young company, you will find plenty of opportunities to insert your opinionated self and shape the backbone that powers our services. We are looking for engineers with a passion for simplicity and reliability in system design.</p>\r\n\r\n<p>At Saidot we promote a positive culture, where diverse opinions matter and you are encouraged to speak your mind and be supportive of others. Our product is our philosophy, we trust in our members to be dedicated to our vision and collaborate effectively without supervision.<br />\r\n&nbsp;</p>\r\n\r\n<h2>Senior Front-End Developer, Product</h2>\r\n\r\n<p>In this role, you will extend our team as a senior developer experienced primarily in the modern world of front-end software development. You will be responsible for delivering robust and user-friendly front-end part of our service by working together with our UI design team and back-end API architects.</p>\r\n\r\n<p>Specifically, this includes the implementation of UI designs into our front-end services as well as iterating and improving on the existing ones, as a deeply integral part of the design process and review. Your experience is vitally important in prototyping new ideas to improve our product and services.</p>\r\n\r\n<p>At Saidot, we promote a positive culture, where diverse opinions matter, and you are encouraged to speak your mind and be supportive of others. Our product is our philosophy, we trust in our members to be dedicated to our vision and collaborate effectively without supervision.</p>\r\n\r\n<p>Find more details on saidot.ai:&nbsp;https://www.saidot.ai/post/saidot-is-recruiting</p>\r\n"
+    format: full_html
+    processed: "<h2>About Saidot</h2>\n\n<p>Saidot’s mission is to enable responsible AI ecosystems. We help our customers, companies and governments, develop, use and monetize trustworthy and transparent AI, and establish trust with the society impacted by it. Our technology platform enables our customers to act on establishing transparency, accountability and agreements in their AI supply chain. We’re passionate about enabling third parties to create and operate their own services on top of our platform.</p>\n\n<h2>Senior Back-end Developer, Product</h2>\n\n<p>You will extend our team as a senior developer experienced primarily in the ancient craft of back-end software development. You will be responsible for building features, design and implement robust APIs, and improve the performance and reliability of our services by working together with other back-end architects. As such, your decisions will have significant impact on our platform.</p>\n\n<p>Our stack currently consists of Linux, Node.js, PostgreSQL, Terraform (AWS), and soon Haskell. As a young company, you will find plenty of opportunities to insert your opinionated self and shape the backbone that powers our services. We are looking for engineers with a passion for simplicity and reliability in system design.</p>\n\n<p>At Saidot we promote a positive culture, where diverse opinions matter and you are encouraged to speak your mind and be supportive of others. Our product is our philosophy, we trust in our members to be dedicated to our vision and collaborate effectively without supervision.<br />\n\_</p>\n\n<h2>Senior Front-End Developer, Product</h2>\n\n<p>In this role, you will extend our team as a senior developer experienced primarily in the modern world of front-end software development. You will be responsible for delivering robust and user-friendly front-end part of our service by working together with our UI design team and back-end API architects.</p>\n\n<p>Specifically, this includes the implementation of UI designs into our front-end services as well as iterating and improving on the existing ones, as a deeply integral part of the design process and review. Your experience is vitally important in prototyping new ideas to improve our product and services.</p>\n\n<p>At Saidot, we promote a positive culture, where diverse opinions matter, and you are encouraged to speak your mind and be supportive of others. Our product is our philosophy, we trust in our members to be dedicated to our vision and collaborate effectively without supervision.</p>\n\n<p>Find more details on saidot.ai:\_https://www.saidot.ai/post/saidot-is-recruiting</p>\n"
+field_job_location:
+  -
+    value: 'Espoo, Finland (Capital Region)'
+    format: full_html
+    processed: 'Espoo, Finland (Capital Region)'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/karolinadrobotowicz'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9ab6180d-5b73-475e-9ed6-bcf046187fee
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/32
+alias:
+  -
+    value: /event-type/social-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

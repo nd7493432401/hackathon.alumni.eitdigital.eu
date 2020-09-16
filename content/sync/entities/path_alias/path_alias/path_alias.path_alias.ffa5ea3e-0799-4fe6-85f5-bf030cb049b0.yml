@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ffa5ea3e-0799-4fe6-85f5-bf030cb049b0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/7
+alias:
+  -
+    value: /careers-support
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

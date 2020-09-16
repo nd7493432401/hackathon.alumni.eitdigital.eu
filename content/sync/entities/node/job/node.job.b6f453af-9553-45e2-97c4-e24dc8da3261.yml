@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: b6f453af-9553-45e2-97c4-e24dc8da3261
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Sales International Manager'
+created:
+  -
+    value: '2018-04-17T17:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/sales-international-manager
+body: {  }
+field_apply_link:
+  -
+    uri: 'http://www.dedagroup.it/chi-siamo/persone/lavora-con-noi'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Dedagroup
+    format: full_html
+    processed: Dedagroup
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p><a href=\"http://www.dedagroup.it/\">Dedagroup</a>, sector: Fashion</p>\r\n\r\n<p>Experience: minimum 5 years</p>\r\n\r\n<p><strong>What to expect from this position</strong></p>\r\n\r\n<ul>\r\n\t<li>You will be involved in our Fashion area, which has been helping fashion companies grow and expand for over 30 years.</li>\r\n\t<li>Within the Sales International area, you will be responsible for developing one or more Country as France, UK &amp; Nordics, Spain, identifying key prospects, Partner recruitment and organizing Pre Sales events in your area.</li>\r\n\t<li>You will report directly to the Sales Manager, you will work closely with the Partner’s Business Developer and with the Pre Sales and Marketing support structures.</li>\r\n</ul>\r\n\r\n<p><strong>Qualifications and skills required</strong></p>\r\n\r\n<ul>\r\n\t<li>Previous experience as Sales Manager of at least 5 years</li>\r\n\t<li>Provenance from the Fashion sector . Previous Sales / Consulting experience on ERP, ERP Retail, Supply Chain Software</li>\r\n\t<li>Fluent knowledge of English, French or Spanish depending on the country</li>\r\n\t<li>Degree in Economics, Business Management or Computer Engineering</li>\r\n</ul>\r\n\r\n<p><strong>Soft skills considered important</strong></p>\r\n\r\n<p>We are looking for a person with relational and leadership skills, ability to work independently, ability to tighten high-level relationships and alliances.</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"http://www.dedagroup.it/\">Dedagroup</a>, sector: Fashion</p>\n\n<p>Experience: minimum 5 years</p>\n\n<p><strong>What to expect from this position</strong></p>\n\n<ul>\n\t<li>You will be involved in our Fashion area, which has been helping fashion companies grow and expand for over 30 years.</li>\n\t<li>Within the Sales International area, you will be responsible for developing one or more Country as France, UK &amp; Nordics, Spain, identifying key prospects, Partner recruitment and organizing Pre Sales events in your area.</li>\n\t<li>You will report directly to the Sales Manager, you will work closely with the Partner’s Business Developer and with the Pre Sales and Marketing support structures.</li>\n</ul>\n\n<p><strong>Qualifications and skills required</strong></p>\n\n<ul>\n\t<li>Previous experience as Sales Manager of at least 5 years</li>\n\t<li>Provenance from the Fashion sector . Previous Sales / Consulting experience on ERP, ERP Retail, Supply Chain Software</li>\n\t<li>Fluent knowledge of English, French or Spanish depending on the country</li>\n\t<li>Degree in Economics, Business Management or Computer Engineering</li>\n</ul>\n\n<p><strong>Soft skills considered important</strong></p>\n\n<p>We are looking for a person with relational and leadership skills, ability to work independently, ability to tighten high-level relationships and alliances.</p>\n"
+field_job_location:
+  -
+    value: 'UK & Nordics, France, Spain'
+    format: full_html
+    processed: 'UK &amp; Nordics, France, Spain'
+field_more_details_link:
+  -
+    uri: 'http://www.dedagroup.it/chi-siamo/persone/lavora-con-noi'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

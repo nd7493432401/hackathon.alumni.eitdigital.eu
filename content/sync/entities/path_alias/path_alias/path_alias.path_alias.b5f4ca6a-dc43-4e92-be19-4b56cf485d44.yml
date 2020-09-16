@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b5f4ca6a-dc43-4e92-be19-4b56cf485d44
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/522
+alias:
+  -
+    value: /job/usability-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

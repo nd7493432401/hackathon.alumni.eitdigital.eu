@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 93dacaf1-70e5-4ce8-8f1f-315f4aafe7e3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/126
+alias:
+  -
+    value: /candidate/anand-b
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

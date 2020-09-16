@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2423d6af-c28e-44a3-82c5-136f9a5ccfce
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/593
+alias:
+  -
+    value: /job/web-administrator
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ae6c7339-aa60-43a3-b362-c13d2e0c311f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/393
+alias:
+  -
+    value: /job/customer-support-operational-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

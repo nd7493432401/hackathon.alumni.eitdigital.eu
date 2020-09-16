@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 250f179e-82fc-46f1-b0ac-c8b4ac0ec5b2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/237
+alias:
+  -
+    value: /event/eit-digital-alumni-helsinki-jump-start
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e6d3f928-8838-4521-ac4f-2c80ab40f8c3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/194
+alias:
+  -
+    value: /event/pitch-scan-eit-alumni
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

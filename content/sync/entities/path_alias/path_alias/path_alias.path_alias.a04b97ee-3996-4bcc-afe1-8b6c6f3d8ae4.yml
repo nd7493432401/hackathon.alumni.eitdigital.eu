@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a04b97ee-3996-4bcc-afe1-8b6c6f3d8ae4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/83
+alias:
+  -
+    value: /article/adding-alarm-button-railway-crossings
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

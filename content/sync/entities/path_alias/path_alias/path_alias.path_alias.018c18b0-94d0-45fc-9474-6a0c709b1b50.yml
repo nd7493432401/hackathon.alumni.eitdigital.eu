@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 018c18b0-94d0-45fc-9474-6a0c709b1b50
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/634
+alias:
+  -
+    value: /article/showcase-your-startup-our-startup-contest-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

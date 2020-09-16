@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: 4a7e6c22-5c1d-459f-97a5-dcc641ac9678
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:04:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Educate yourself about security. A series of xEITD Alumni talks - Budapest'
+created:
+  -
+    value: '2018-09-29T10:02:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:04:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/educate-yourself-about-security-series-xeitd-alumni-talks-budapest
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC Hungary '
+    format: full_html
+    processed: 'EIT Digital CLC Hungary '
+field_event_date:
+  -
+    value: '2018-10-03T15:00:00+02:00'
+    end_value: '2018-10-03T17:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>The Third Edition! A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly bases and will also have some EIT Doctoral School students coming around to also talk about the program, the application process and their experiences. This is an opportunity to learn from others, be inspired and be prepared for the challenges ahead to develop on your cyber-security career.</p>\r\n\r\n<p>The event is opened for anyone interested. <a href=\"https://www.facebook.com/events/294716204451987/\">Join our Facebook Event</a>!</p>\r\n\r\n<p><em>Speaker</em>:&nbsp;Antal Németh<br />\r\n<em>Organised by</em>&nbsp;<a href=\"https://alumni.eitdigital.eu/users/mark\">Szabó-Simon Márk</a><br />\r\n<em>Location: Budapest CLC</em></p>\r\n"
+    format: full_html
+    processed: "<p>The Third Edition! A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly bases and will also have some EIT Doctoral School students coming around to also talk about the program, the application process and their experiences. This is an opportunity to learn from others, be inspired and be prepared for the challenges ahead to develop on your cyber-security career.</p>\n\n<p>The event is opened for anyone interested. <a href=\"https://www.facebook.com/events/294716204451987/\">Join our Facebook Event</a>!</p>\n\n<p><em>Speaker</em>:\_Antal Németh<br />\n<em>Organised by</em>\_<a href=\"https://alumni.eitdigital.eu/users/mark\">Szabó-Simon Márk</a><br />\n<em>Location: Budapest CLC</em></p>\n"
+field_event_duration:
+  -
+    value: '18:00 - 20:00'
+    format: basic_html
+    processed: '18:00 - 20:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: cd0856c2-b7f5-4ca8-b652-9fdf2c9b18ee
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: cd0856c2-b7f5-4ca8-b652-9fdf2c9b18ee
+field_event_introduction:
+  -
+    value: "<p>A third talk about the cyber-security topic.</p>\r\n"
+    format: full_html
+    processed: "<p>A third talk about the cyber-security topic.</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.cd0856c2-b7f5-4ca8-b652-9fdf2c9b18ee

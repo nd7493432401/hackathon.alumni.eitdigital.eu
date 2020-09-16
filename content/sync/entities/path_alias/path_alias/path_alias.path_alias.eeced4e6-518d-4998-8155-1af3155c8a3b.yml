@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: eeced4e6-518d-4998-8155-1af3155c8a3b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/217
+alias:
+  -
+    value: /tracks-master-school/autonomous-systems-aus
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

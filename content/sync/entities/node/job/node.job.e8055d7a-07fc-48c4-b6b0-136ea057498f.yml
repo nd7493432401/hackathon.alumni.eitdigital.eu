@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: e8055d7a-07fc-48c4-b6b0-136ea057498f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Web Administrator'
+created:
+  -
+    value: '2018-02-11T20:23:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/web-administrator
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:alumni@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital Alumni Foundation'
+    format: full_html
+    processed: 'EIT Digital Alumni Foundation'
+field_expiration_date:
+  -
+    value: '2018-03-02T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>The EIT Digital Alumni Board is looking for a new, dedicated member to support our team as <strong>Web Administrator</strong>!</p>\r\n\r\n<p>This position perfectly fits someone with a passion for web development and content management. The ideal candidate is someone who takes care of the administration and improvement of the Alumni website by managing the content and taking care of our whole platform.<br />\r\nThe Web Administrator will be working closely with the Web Developer to define the requirements, manage the website and oversee the development of new features.</p>\r\n\r\n<p>This position might involve travelling across Europe as member of the EIT Digital Alumni board.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Tasks include:</strong></p>\r\n\r\n<ul>\r\n\t<li>Publish content on the website (jobs, posts, articles)</li>\r\n\t<li>Coordinate and manage the website future development</li>\r\n\t<li>Investigate and apply new technologies and modules</li>\r\n\t<li>Confirm / reject user accounts who sign up on the website</li>\r\n\t<li>Gather requirements from team, community members and users</li>\r\n\t<li>Understand which new features can be developed on the website</li>\r\n\t<li>Apply security updates to the website</li>\r\n\t<li>Take care of the code-review</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Position specification skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Experience of managing content using web based Content Management Systems (CMS)</li>\r\n\t<li>Good knowledge of HTML and CSS</li>\r\n\t<li>Experience in design functionality mockups</li>\r\n\t<li>Experience with Drupal content-management framework is a big plus</li>\r\n\t<li>Project management: ability to plan the work and schedule the tasks to be done</li>\r\n\t<li>Ability to explain technical knowledge to non-technical people</li>\r\n\t<li>Adaptable, flexible and creative</li>\r\n\t<li>A dedication of 5-10 hours per week</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Benefits:</strong></p>\r\n\r\n<ul>\r\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni foundation</li>\r\n\t<li>Possibility to join cross-KIC initiatives, events and meetups around Europe</li>\r\n\t<li>Networking opportunities with like-minded people involved in the EIT ecosystem</li>\r\n</ul>\r\n\r\n<p><br />\r\nIf you are interested, please send a short profile and paragraph explaining why you should be our first <strong>Web Administrator</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\r\n\r\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni Board is looking for a new, dedicated member to support our team as <strong>Web Administrator</strong>!</p>\n\n<p>This position perfectly fits someone with a passion for web development and content management. The ideal candidate is someone who takes care of the administration and improvement of the Alumni website by managing the content and taking care of our whole platform.<br />\nThe Web Administrator will be working closely with the Web Developer to define the requirements, manage the website and oversee the development of new features.</p>\n\n<p>This position might involve travelling across Europe as member of the EIT Digital Alumni board.</p>\n\n<p>\_</p>\n\n<p><strong>Tasks include:</strong></p>\n\n<ul>\n\t<li>Publish content on the website (jobs, posts, articles)</li>\n\t<li>Coordinate and manage the website future development</li>\n\t<li>Investigate and apply new technologies and modules</li>\n\t<li>Confirm / reject user accounts who sign up on the website</li>\n\t<li>Gather requirements from team, community members and users</li>\n\t<li>Understand which new features can be developed on the website</li>\n\t<li>Apply security updates to the website</li>\n\t<li>Take care of the code-review</li>\n</ul>\n\n<p>\_</p>\n\n<p><strong>Position specification skills:</strong></p>\n\n<ul>\n\t<li>Experience of managing content using web based Content Management Systems (CMS)</li>\n\t<li>Good knowledge of HTML and CSS</li>\n\t<li>Experience in design functionality mockups</li>\n\t<li>Experience with Drupal content-management framework is a big plus</li>\n\t<li>Project management: ability to plan the work and schedule the tasks to be done</li>\n\t<li>Ability to explain technical knowledge to non-technical people</li>\n\t<li>Adaptable, flexible and creative</li>\n\t<li>A dedication of 5-10 hours per week</li>\n</ul>\n\n<p>\_</p>\n\n<p><strong>Benefits:</strong></p>\n\n<ul>\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni foundation</li>\n\t<li>Possibility to join cross-KIC initiatives, events and meetups around Europe</li>\n\t<li>Networking opportunities with like-minded people involved in the EIT ecosystem</li>\n</ul>\n\n<p><br />\nIf you are interested, please send a short profile and paragraph explaining why you should be our first <strong>Web Administrator</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\n\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\n"
+field_job_location:
+  -
+    value: Europe
+    format: full_html
+    processed: Europe
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

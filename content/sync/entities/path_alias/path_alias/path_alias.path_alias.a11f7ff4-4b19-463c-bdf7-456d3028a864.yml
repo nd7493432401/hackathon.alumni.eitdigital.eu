@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a11f7ff4-4b19-463c-bdf7-456d3028a864
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/50
+alias:
+  -
+    value: /article/join-our-annual-alumni-meeting
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5c81b61e-a74d-4b99-981e-5b1e2142da8d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/185
+alias:
+  -
+    value: /event/netlight-meets-eit-digital-after-work
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

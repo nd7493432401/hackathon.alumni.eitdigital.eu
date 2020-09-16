@@ -1,0 +1,14 @@
+uuid: ebd6fb32-7c7e-43cf-b4bb-0ffbbe3d268e
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_phd
+  module:
+    - user
+id: user_add_role_action.alumni_member_phd
+label: 'Add the Alumni Member (PHD) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: alumni_member_phd

@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: 034bd80d-abe2-4174-a34e-635367169c76
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: article_categories
+    target_type: taxonomy_vocabulary
+    target_uuid: 16c65e43-7288-4023-ae21-3d0935ea574d
+revision_created:
+  -
+    value: '2020-03-24T10:23:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Success Stories'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:23:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

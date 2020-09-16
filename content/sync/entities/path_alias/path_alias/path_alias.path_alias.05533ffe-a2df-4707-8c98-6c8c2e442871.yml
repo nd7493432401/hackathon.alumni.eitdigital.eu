@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 05533ffe-a2df-4707-8c98-6c8c2e442871
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/452
+alias:
+  -
+    value: /job/test-development-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

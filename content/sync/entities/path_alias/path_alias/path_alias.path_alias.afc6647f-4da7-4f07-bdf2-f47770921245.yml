@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: afc6647f-4da7-4f07-bdf2-f47770921245
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/355
+alias:
+  -
+    value: /job/senior-qa-automation-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 691b013d-e625-41fd-9431-b98d1d8b1c92
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/257
+alias:
+  -
+    value: /event/san-francisco-eit-digital-alumni-drinks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

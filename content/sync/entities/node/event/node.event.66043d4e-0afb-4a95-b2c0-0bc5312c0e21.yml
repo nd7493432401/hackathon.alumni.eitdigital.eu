@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 66043d4e-0afb-4a95-b2c0-0bc5312c0e21
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:56:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Success stories from EIT Digital Alumni'
+created:
+  -
+    value: '2019-11-27T09:56:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:56:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/success-stories-eit-digital-alumni
+body: {  }
+field_event_:
+  -
+    value: 'OurDomain Diemen North House, Dalsteindreef 6000, 1112 XJ Diemen, Netherlands'
+    format: full_html
+    processed: 'OurDomain Diemen North House, Dalsteindreef 6000, 1112 XJ Diemen, Netherlands'
+field_event_date:
+  -
+    value: '2019-12-14T15:00:00+01:00'
+    end_value: '2019-12-14T20:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Our local community&nbsp;in The Netherlands has&nbsp;planned a meetup on <strong>Saturday 14th of December</strong>!&nbsp;Join us to hear two success stories from EIT Digital Master School graduates, <strong>exchange ideas</strong> about future events and how to promote the&nbsp;EIT Digital Alumni&nbsp;group in The Netherlands and&nbsp;of course, catch up with each other and have some fun!&nbsp;After the talks, there will be a relaxed <strong>networking session</strong> with food and drinks.</p>\r\n\r\n<p>Speakers:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/krishna-iyer-easwaran\" target=\"_blank\"><strong>Krishna Iyer Easwaran</strong></a>, Alumnus&nbsp;2018 (Embedded Systems, TU Berlin, TU Eindhoven).&nbsp;Current occupation: IoT Start-up, co-founding an Innovation and Entrepreneurship coaching venture with giving lectures all over the world</li>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/janjaap\" target=\"_blank\"><strong>Jan Jaap de Groot</strong></a>, Alumnus 2018 (Human Computer Interaction and Design, UPS, KTH). Started his first company named Obduro in 2014 for side projects during his studies. His activities are now split into three companies: Abra BV, Speechlabel BV and Voertuigexpert BV.&nbsp;</li>\r\n</ul>\r\n\r\n<p>Program:<br />\r\n15.00 – Introduction speech by <a href=\"https://alumni.eitdigital.eu/users/annepru\" target=\"_blank\">Anna Prudnikova</a><br />\r\n15.10 – Success story #1 by Krishna Iyer Easwaran + Q&amp;A<br />\r\n15.50 – Small coffee break<br />\r\n16.00 – Success story #2 by Jan Jaap de Groot + Q&amp;A<br />\r\n16.45 – Sharing ideas for future possible events in the Netherlands<br />\r\n17.00 – Networking event with snacks and drinks<br />\r\n19.50 – Wrap-up, saying goodbyes till the next time&nbsp;</p>\r\n\r\n<p>This event is FREE but registration is required.&nbsp;Priority is given to Alumni members. Second year EIT Digital Master School students are also welcome!</p>\r\n\r\n<p>Please <strong><a href=\"https://forms.gle/YE7n9J99nsf1ZtWH8\" target=\"_blank\">sign up HERE.&nbsp;</a></strong></p>\r\n"
+    format: full_html
+    processed: "<p>Our local community\_in The Netherlands has\_planned a meetup on <strong>Saturday 14th of December</strong>!\_Join us to hear two success stories from EIT Digital Master School graduates, <strong>exchange ideas</strong> about future events and how to promote the\_EIT Digital Alumni\_group in The Netherlands and\_of course, catch up with each other and have some fun!\_After the talks, there will be a relaxed <strong>networking session</strong> with food and drinks.</p>\n\n<p>Speakers:</p>\n\n<ul>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/krishna-iyer-easwaran\" target=\"_blank\"><strong>Krishna Iyer Easwaran</strong></a>, Alumnus\_2018 (Embedded Systems, TU Berlin, TU Eindhoven).\_Current occupation: IoT Start-up, co-founding an Innovation and Entrepreneurship coaching venture with giving lectures all over the world</li>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/janjaap\" target=\"_blank\"><strong>Jan Jaap de Groot</strong></a>, Alumnus 2018 (Human Computer Interaction and Design, UPS, KTH). Started his first company named Obduro in 2014 for side projects during his studies. His activities are now split into three companies: Abra BV, Speechlabel BV and Voertuigexpert BV.\_</li>\n</ul>\n\n<p>Program:<br />\n15.00 – Introduction speech by <a href=\"https://alumni.eitdigital.eu/users/annepru\" target=\"_blank\">Anna Prudnikova</a><br />\n15.10 – Success story #1 by Krishna Iyer Easwaran + Q&amp;A<br />\n15.50 – Small coffee break<br />\n16.00 – Success story #2 by Jan Jaap de Groot + Q&amp;A<br />\n16.45 – Sharing ideas for future possible events in the Netherlands<br />\n17.00 – Networking event with snacks and drinks<br />\n19.50 – Wrap-up, saying goodbyes till the next time\_</p>\n\n<p>This event is FREE but registration is required.\_Priority is given to Alumni members. Second year EIT Digital Master School students are also welcome!</p>\n\n<p>Please <strong><a href=\"https://forms.gle/YE7n9J99nsf1ZtWH8\" target=\"_blank\">sign up HERE.\_</a></strong></p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 8642f7c6-8825-4805-aa94-28e81c25ff37
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 8642f7c6-8825-4805-aa94-28e81c25ff37
+field_event_introduction:
+  -
+    value: "<p>Success stories from our alumni in The Netherlands and networking afterwards</p>\r\n"
+    format: full_html
+    processed: "<p>Success stories from our alumni in The Netherlands and networking afterwards</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.8642f7c6-8825-4805-aa94-28e81c25ff37
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

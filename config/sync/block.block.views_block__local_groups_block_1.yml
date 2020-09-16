@@ -1,0 +1,30 @@
+uuid: 8bd881cf-6da3-451b-aafc-49b389208589
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.local_groups
+  module:
+    - system
+    - views
+  theme:
+    - eitalumni
+id: views_block__local_groups_block_1
+theme: eitalumni
+region: content
+weight: -8
+provider: null
+plugin: 'views_block:local_groups-block_1'
+settings:
+  id: 'views_block:local_groups-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: /groups
+    negate: false
+    context_mapping: {  }

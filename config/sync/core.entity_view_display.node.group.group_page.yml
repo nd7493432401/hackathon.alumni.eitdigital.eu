@@ -1,0 +1,129 @@
+uuid: 58abcf38-bbb7-4e8a-b5ea-060d22541901
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.group_page
+    - field.field.node.group.body
+    - field.field.node.group.field_external_group_webpage
+    - field.field.node.group.field_group_dec
+    - field.field.node.group.field_group_image
+    - field.field.node.group.field_group_intro_image
+    - field.field.node.group.field_group_introduction
+    - field.field.node.group.field_group_leader
+    - field.field.node.group.field_group_type
+    - image.style.large
+    - node.type.group
+  module:
+    - ds
+    - fences
+    - field_group
+    - media
+    - text
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: ds_2col_stacked
+      library: ds/ds_2col_stacked
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        wrappers:
+          header: div
+          left: div
+          right: div
+          footer: div
+        outer_wrapper: div
+        attributes: ''
+        link_attribute: ''
+        link_custom: ''
+        classes:
+          layout_class: {  }
+          header: {  }
+          left: {  }
+          right: {  }
+          footer: {  }
+    regions:
+      header:
+        - group_group_header
+        - field_group_intro_image
+        - node_title
+        - field_group_introduction
+        - node_link
+    fields:
+      node_link:
+        plugin_id: node_link
+        weight: 9
+        label: hidden
+        formatter: default
+      node_title:
+        plugin_id: node_title
+        weight: 7
+        label: hidden
+        formatter: default
+        settings:
+          link: true
+          wrapper: h2
+          class: ''
+  field_group:
+    group_group_header:
+      children:
+        - field_group_intro_image
+        - node_title
+        - field_group_introduction
+        - node_link
+      parent_name: ''
+      weight: 0
+      format_type: html_element
+      region: header
+      format_settings:
+        description: ''
+        id: ''
+        classes: ''
+        element: div
+        show_label: false
+        label_element: h3
+        label_element_classes: ''
+        effect: none
+        speed: fast
+        attributes: ''
+      label: ''
+id: node.group.group_page
+targetEntityType: node
+bundle: group
+mode: group_page
+content:
+  field_group_intro_image:
+    type: media_thumbnail
+    weight: 6
+    region: header
+    label: visually_hidden
+    settings:
+      image_style: large
+      image_link: ''
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+  field_group_introduction:
+    type: text_default
+    weight: 8
+    region: header
+    label: visually_hidden
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  body: true
+  field_external_group_webpage: true
+  field_group_dec: true
+  field_group_image: true
+  field_group_leader: true
+  field_group_type: true
+  langcode: true
+  links: true

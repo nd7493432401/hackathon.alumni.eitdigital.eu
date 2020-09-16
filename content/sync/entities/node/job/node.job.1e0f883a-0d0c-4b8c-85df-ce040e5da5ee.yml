@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 1e0f883a-0d0c-4b8c-85df-ce040e5da5ee
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior Consultant Identity and Access Management'
+created:
+  -
+    value: '2019-11-25T17:31:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:38:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-consultant-identity-and-access-management
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>&nbsp;</p>\r\n\r\n<p><span><b>The Opportunity</b></span></p>\r\n\r\n<p><span>Cyber Risk &amp; Cyber Security. Everybody’s talking about it. Every organization in every sector is concerned by it. We’re shaping strategies and transforming technology to minimize Cyber Risk for organizations and we need you to join us. You’ll build strong relationships within the Belgium Cyber practice with over 70 extremely talented individuals. Our team brings together people who graduated in everything from Law, Maths, Computer Science and Information Management. Join our team and you will operate at the cutting edge, enjoying the kind of professional development that will set your potential free.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Role Description</b></span></p>\r\n\r\n<p><span>Our Identity and Access Management team implements business-friendly IAM controls frameworks that consistently enforce identity and access policy across business processes and IT infrastructure. Quite simply, we deliver secure access control that dovetails with existing and new applications to give our clients the edge.</span></p>\r\n\r\n<p><span>Join us and you could find yourself working on everything from short strategic engagements to multi-year complex design and integration programs for major organizations – delivering bespoke solutions and customizing vendor products to tackle tomorrow’s challenges today. In short, you will create the solutions to meet our clients’ evolving business requirements – and will grow and develop your team through building propositions and demonstrating thought leadership.</span></p>\r\n\r\n<p><span>We are looking to expand our Identity and Access Management team on all levels.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\r\n<p><span><b>Requirements</b></span></p>\r\n\r\n<ul>\r\n\t<li><span>Experienced in identity management, you will bring a proven record of hands-on strategy definition, design and / or implementation. </span></li>\r\n\t<li><span>You will be able to describe common IAM technologies such as SAML, OAuth, OpenID Connect and SCIM. </span></li>\r\n\t<li><span>You will bring deep understanding of security architecture and information security best practice (ISO27001 and ISF Standards). </span></li>\r\n\t<li><span>Security qualifications are an asset, as are certifications by leading vendors.</span></li>\r\n\t<li><span>You’ll bring a strong track record within consulting or professional services, gained with a technology vendor, systems integrator or consultancy services provider. </span></li>\r\n\t<li><span>You will enjoy managing people and building productive relationships with clients, and you will be happy to travel internationally.</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>You are here: Cyber Risk, Risk Advisory</b></span></p>\r\n\r\n<p><span>Some advisory businesses specialize in long-term strategic thinking. Others focus on implementing business improvements. We’re renowned for both – and we employ the finest minds both in Cyber Risk and across the broader organization. That gives us – and you – unrivalled opportunities to influence business strategies and deliver lasting change for a wide variety of clients, from household name multinationals to innovative, technology-led start-ups.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>About Deloitte</b></span></p>\r\n\r\n<p><span>To make an impact that matters for our clients, our people and society – defines who we are and what we stand for. Our purpose provides the foundation for our strategy and our aspiration to be the undisputed leader in professional services: this is not about size, it's about being the first choice. The first choice for the largest and most influential clients, and the first choice for the best talent. We are always open to discussing the different ways in which we are able to support agile working arrangements.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>What do we do?</b></span></p>\r\n\r\n<p><span>Deloitte offers Global integrated professional services that include Audit and Risk Advisory, Tax, Consulting and Financial Advisory. Our approach combines intellectual leadership, industrial expertise, insight, consulting &amp; problem solving capabilities whatever the role, technology revolutions and innovation from multiple disciplines to help our clients excel anywhere in the world.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>How will this role make an impact that matters with Deloitte?</b></span></p>\r\n\r\n<p><span>Anticipating changes in the cyber landscape, you will safeguard our clients and build their resilience in an increasingly disruptive digital age. This in turn will give you real impact on the broader community. You will also enjoy developing the talents and careers of your colleagues, giving them the power to make a difference.</span></p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>\_</p>\n\n<p><span><b>The Opportunity</b></span></p>\n\n<p><span>Cyber Risk &amp; Cyber Security. Everybody’s talking about it. Every organization in every sector is concerned by it. We’re shaping strategies and transforming technology to minimize Cyber Risk for organizations and we need you to join us. You’ll build strong relationships within the Belgium Cyber practice with over 70 extremely talented individuals. Our team brings together people who graduated in everything from Law, Maths, Computer Science and Information Management. Join our team and you will operate at the cutting edge, enjoying the kind of professional development that will set your potential free.</span></p>\n\n<p>\_</p>\n\n<p><span><b>Role Description</b></span></p>\n\n<p><span>Our Identity and Access Management team implements business-friendly IAM controls frameworks that consistently enforce identity and access policy across business processes and IT infrastructure. Quite simply, we deliver secure access control that dovetails with existing and new applications to give our clients the edge.</span></p>\n\n<p><span>Join us and you could find yourself working on everything from short strategic engagements to multi-year complex design and integration programs for major organizations – delivering bespoke solutions and customizing vendor products to tackle tomorrow’s challenges today. In short, you will create the solutions to meet our clients’ evolving business requirements – and will grow and develop your team through building propositions and demonstrating thought leadership.</span></p>\n\n<p><span>We are looking to expand our Identity and Access Management team on all levels.</span></p>\n\n<p>\_</p>\n\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\n<p><span><b>Requirements</b></span></p>\n\n<ul>\n\t<li><span>Experienced in identity management, you will bring a proven record of hands-on strategy definition, design and / or implementation. </span></li>\n\t<li><span>You will be able to describe common IAM technologies such as SAML, OAuth, OpenID Connect and SCIM. </span></li>\n\t<li><span>You will bring deep understanding of security architecture and information security best practice (ISO27001 and ISF Standards). </span></li>\n\t<li><span>Security qualifications are an asset, as are certifications by leading vendors.</span></li>\n\t<li><span>You’ll bring a strong track record within consulting or professional services, gained with a technology vendor, systems integrator or consultancy services provider. </span></li>\n\t<li><span>You will enjoy managing people and building productive relationships with clients, and you will be happy to travel internationally.</span></li>\n</ul>\n\n<p>\_</p>\n\n<p><span><b>You are here: Cyber Risk, Risk Advisory</b></span></p>\n\n<p><span>Some advisory businesses specialize in long-term strategic thinking. Others focus on implementing business improvements. We’re renowned for both – and we employ the finest minds both in Cyber Risk and across the broader organization. That gives us – and you – unrivalled opportunities to influence business strategies and deliver lasting change for a wide variety of clients, from household name multinationals to innovative, technology-led start-ups.</span></p>\n\n<p>\_</p>\n\n<p><span><b>About Deloitte</b></span></p>\n\n<p><span>To make an impact that matters for our clients, our people and society – defines who we are and what we stand for. Our purpose provides the foundation for our strategy and our aspiration to be the undisputed leader in professional services: this is not about size, it's about being the first choice. The first choice for the largest and most influential clients, and the first choice for the best talent. We are always open to discussing the different ways in which we are able to support agile working arrangements.</span></p>\n\n<p>\_</p>\n\n<p><span><b>What do we do?</b></span></p>\n\n<p><span>Deloitte offers Global integrated professional services that include Audit and Risk Advisory, Tax, Consulting and Financial Advisory. Our approach combines intellectual leadership, industrial expertise, insight, consulting &amp; problem solving capabilities whatever the role, technology revolutions and innovation from multiple disciplines to help our clients excel anywhere in the world.</span></p>\n\n<p>\_</p>\n\n<p><span><b>How will this role make an impact that matters with Deloitte?</b></span></p>\n\n<p><span>Anticipating changes in the cyber landscape, you will safeguard our clients and build their resilience in an increasingly disruptive digital age. This in turn will give you real impact on the broader community. You will also enjoy developing the talents and careers of your colleagues, giving them the power to make a difference.</span></p>\n</div>\n"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000JR&tz=GMT%2B01%3A00&tzname'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

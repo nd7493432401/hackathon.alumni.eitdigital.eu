@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: b1d99842-0b79-4fd8-8d99-d9dcbdebb569
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: london-1405911.jpg
+uri:
+  -
+    value: 'public://alumni-group/london-1405911.jpg'
+    url: /sites/default/files/alumni-group/london-1405911.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 1387043
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-26T14:33:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-26T14:34:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

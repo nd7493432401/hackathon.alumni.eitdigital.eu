@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d5427ae3-ef3a-4fab-b822-e9da448b80ba
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/230
+alias:
+  -
+    value: /event/eitt-2019-siemens-healthcare
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

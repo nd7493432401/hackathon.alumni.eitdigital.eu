@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f93e20e5-bf56-4474-a9e7-e29233b38a3b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/206
+alias:
+  -
+    value: /event/eit-digital-alumni-paris-rentree-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6d546fff-b804-4894-8f16-92b8a0507123
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/476
+alias:
+  -
+    value: /job/react-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

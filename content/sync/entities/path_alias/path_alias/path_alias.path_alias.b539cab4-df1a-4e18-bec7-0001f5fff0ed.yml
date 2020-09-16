@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b539cab4-df1a-4e18-bec7-0001f5fff0ed
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/494
+alias:
+  -
+    value: /job/junior-sw-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 905391ae-fbde-48b1-818a-654b29920230
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/638
+alias:
+  -
+    value: /event/tuesday-afterwork-silly-games-night
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 671df32b-90b3-4295-b202-8b3dfb4bc02c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-06-25T16:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Tuesday Afterwork: Personal Branding'
+created:
+  -
+    value: '2020-05-28T08:40:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-25T16:39:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/tuesday-afterwork-personal-branding
+body: {  }
+field_event_:
+  -
+    value: 'Google Hangouts/Meet (online)'
+    format: basic_html
+    processed: 'Google Hangouts/Meet (online)'
+field_event_date:
+  -
+    value: '2020-06-09T19:00:00+02:00'
+    end_value: '2020-06-09T20:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>In today's digital world, a personal brand is essential. It helps you get noticed, stand out from the crowd, spark connections and build relationships. It could&nbsp;land you a new job, or strengthen your company's credibility.</p>\r\n\r\n<p>But what does it entail, and <strong>how does one go about building a personal brand?</strong>&nbsp;What are the advantages of a strong personal brand, and how can you use it to attract more opportunities for yourself?</p>\r\n\r\n<p>These questions (and more) will be addressed at Tuesday Afterwork, in an <strong>interactive online workshop</strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><strong>Meeting link:</strong></p>\r\n\r\n<p style=\"text-align:center\"><a href=\"http://meet.google.com/ery-qnup-rta\">meet.google.com/ery-qnup-rta</a></p>\r\n\r\n<p style=\"text-align:center\"><em>(Please note this event will be recorded and uploaded to the YouTube channel of the Alumni Foundation)</em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We will be using <a href=\"https://www.mural.co/\">Mural</a>, a digital collaboration workspace. New to Mural? You may want to watch this <a href=\"https://www.youtube.com/watch?v=sPydNxrmmLI\">50-second video</a>.</p>\r\n\r\n<p>Session to be delivered by <a href=\"https://alumni.eitdigital.eu/users/gaffar\">Gaffar Rampage</a>, EIT Digital Alumni Community Manager.</p>\r\n"
+    format: basic_html
+    processed: "<p>In today's digital world, a personal brand is essential. It helps you get noticed, stand out from the crowd, spark connections and build relationships. It could\_land you a new job, or strengthen your company's credibility.</p>\n\n<p>But what does it entail, and <strong>how does one go about building a personal brand?</strong>\_What are the advantages of a strong personal brand, and how can you use it to attract more opportunities for yourself?</p>\n\n<p>These questions (and more) will be addressed at Tuesday Afterwork, in an <strong>interactive online workshop</strong>.</p>\n\n<p>\_</p>\n\n<p style=\"text-align:center\"><strong>Meeting link:</strong></p>\n\n<p style=\"text-align:center\"><a href=\"http://meet.google.com/ery-qnup-rta\">meet.google.com/ery-qnup-rta</a></p>\n\n<p style=\"text-align:center\"><em>(Please note this event will be recorded and uploaded to the YouTube channel of the Alumni Foundation)</em></p>\n\n<p>\_</p>\n\n<p>We will be using <a href=\"https://www.mural.co/\">Mural</a>, a digital collaboration workspace. New to Mural? You may want to watch this <a href=\"https://www.youtube.com/watch?v=sPydNxrmmLI\">50-second video</a>.</p>\n\n<p>Session to be delivered by <a href=\"https://alumni.eitdigital.eu/users/gaffar\">Gaffar Rampage</a>, EIT Digital Alumni Community Manager.</p>\n"
+field_event_duration:
+  -
+    value: '19:00 - 20:00'
+    format: basic_html
+    processed: '19:00 - 20:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 89bd947c-96b2-4c7b-bab8-a9a3ef34e10e
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: f40e26e8-aa94-41f9-99ee-b63bdaece6ec
+field_event_introduction:
+  -
+    value: "<p>Learn why a personal brand is important and how can you build one for yourself.</p>\r\n"
+    format: basic_html
+    processed: "<p>Learn why a personal brand is important and how can you build one for yourself.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.89bd947c-96b2-4c7b-bab8-a9a3ef34e10e
+      - media.image.f40e26e8-aa94-41f9-99ee-b63bdaece6ec
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

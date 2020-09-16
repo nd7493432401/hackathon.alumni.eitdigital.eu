@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 74bb8c5b-e0e4-4789-9624-70b0bec31db3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:07:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Alumni x TOA19'
+created:
+  -
+    value: '2019-06-21T09:02:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:07:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/eit-digital-alumni-x-toa19
+body:
+  -
+    value: "<p>We have an awesome deal for all EIT Digital Alumni members: You have the chance to attend one of the largest multi-disciplinary festivals in Europe: <a href=\"http://toa.berlin/\"><strong>TOA - Tech Open Air</strong></a>! You will enjoy insightful talks from <a href=\"http://toa.berlin/speakers/\">more than 150 thought-leaders</a> in technology, art and science, network with like-minded young professionals and entrepreneurs, and chill out in the relaxing atmosphere of the \"poor but sexy\" European capital, Berlin, during July 2nd - 5th (Tuesday - Friday).</p>\r\n\r\n<p>Thanks to our partnership with TOA and EIT Alumni, we are giving out <strong>COMPLETELY FREE 20 Changemaker tickets</strong>, which offer you all the benefits of a regular <a href=\"http://toa.berlin/tickets/\">festival pass</a> (benefit worth €330).&nbsp;Additionally, we've got a <strong>25% discount for all&nbsp;members of&nbsp;our community</strong> who purchase any ticket type, including current students of EIT Digital (Student ticket&nbsp;requires&nbsp;showing a valid student ID at the venue).&nbsp;The discounted tickets are available for purchase by anyone&nbsp;in the EIT Digital Alumni community <strong><a href=\"https://ti.to/tech-open-air-berlin/toa19/discount/SBEITDZlOwF25\" target=\"_blank\">here</a></strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><strong>FREE TICKETS APPLICATION</strong></p>\r\n\r\n<p>The application period for the free tickets ended on June 26th, 2019 23.59 CEST.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><strong>SELECTION CRITERIA</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Application order (most important). </strong>YES, you read that correctly... We will prioritize applicants on a first come first serve basis!</li>\r\n\t<li><strong>Motivation.</strong> Why would you like to attend TOA?</li>\r\n\t<li>Already located in Berlin or available to travel there between July 2nd - 5th (Tuesday - Friday).</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><strong>PRACTICALITIES</strong></p>\r\n\r\n<p>Transportation to/from Berlin, accommodation and other costs are at your own expense.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><strong>OTHER TERMS AND CONDITIONS</strong></p>\r\n\r\n<ul>\r\n\t<li>Free and discounted tickets are only valid for EIT Digital Alumni members and current students of EIT Digital. The tickets&nbsp;cannot be transferred to external parties.</li>\r\n\t<li>Only 1 promotional (free or discounted) ticket per person.</li>\r\n\t<li>The Alumni board may contact you after the event for a short testimonial summary.</li>\r\n</ul>\r\n\r\n<p><br />\r\nTime is running short, so make sure you don't miss this awesome opportunity! We will notify the free ticket winners by <strong>Thursday 27th, June.</strong> <a href=\"http://ti.to/tech-open-air-berlin/toa19/discount/SBEITDZlOwF25\" target=\"_blank\">The tickets with 25% discount</a>&nbsp;can be purchased without previous application anytime and&nbsp;throughout the festival.</p>\r\n"
+    format: full_html
+    processed: "<p>We have an awesome deal for all EIT Digital Alumni members: You have the chance to attend one of the largest multi-disciplinary festivals in Europe: <a href=\"http://toa.berlin/\"><strong>TOA - Tech Open Air</strong></a>! You will enjoy insightful talks from <a href=\"http://toa.berlin/speakers/\">more than 150 thought-leaders</a> in technology, art and science, network with like-minded young professionals and entrepreneurs, and chill out in the relaxing atmosphere of the \"poor but sexy\" European capital, Berlin, during July 2nd - 5th (Tuesday - Friday).</p>\n\n<p>Thanks to our partnership with TOA and EIT Alumni, we are giving out <strong>COMPLETELY FREE 20 Changemaker tickets</strong>, which offer you all the benefits of a regular <a href=\"http://toa.berlin/tickets/\">festival pass</a> (benefit worth €330).\_Additionally, we've got a <strong>25% discount for all\_members of\_our community</strong> who purchase any ticket type, including current students of EIT Digital (Student ticket\_requires\_showing a valid student ID at the venue).\_The discounted tickets are available for purchase by anyone\_in the EIT Digital Alumni community <strong><a href=\"https://ti.to/tech-open-air-berlin/toa19/discount/SBEITDZlOwF25\" target=\"_blank\">here</a></strong>.</p>\n\n<p>\_</p>\n\n<p style=\"text-align: center;\"><strong>FREE TICKETS APPLICATION</strong></p>\n\n<p>The application period for the free tickets ended on June 26th, 2019 23.59 CEST.</p>\n\n<p>\_</p>\n\n<p style=\"text-align: center;\"><strong>SELECTION CRITERIA</strong></p>\n\n<ul>\n\t<li><strong>Application order (most important). </strong>YES, you read that correctly... We will prioritize applicants on a first come first serve basis!</li>\n\t<li><strong>Motivation.</strong> Why would you like to attend TOA?</li>\n\t<li>Already located in Berlin or available to travel there between July 2nd - 5th (Tuesday - Friday).</li>\n</ul>\n\n<p>\_</p>\n\n<p style=\"text-align: center;\"><strong>PRACTICALITIES</strong></p>\n\n<p>Transportation to/from Berlin, accommodation and other costs are at your own expense.</p>\n\n<p>\_</p>\n\n<p style=\"text-align: center;\"><strong>OTHER TERMS AND CONDITIONS</strong></p>\n\n<ul>\n\t<li>Free and discounted tickets are only valid for EIT Digital Alumni members and current students of EIT Digital. The tickets\_cannot be transferred to external parties.</li>\n\t<li>Only 1 promotional (free or discounted) ticket per person.</li>\n\t<li>The Alumni board may contact you after the event for a short testimonial summary.</li>\n</ul>\n\n<p><br />\nTime is running short, so make sure you don't miss this awesome opportunity! We will notify the free ticket winners by <strong>Thursday 27th, June.</strong> <a href=\"http://ti.to/tech-open-air-berlin/toa19/discount/SBEITDZlOwF25\" target=\"_blank\">The tickets with 25% discount</a>\_can be purchased without previous application anytime and\_throughout the festival.</p>\n"
+    summary: 'We have an awesome deal for all EIT Digital Alumni members: You have the chance to attend one of the'
+    summary_processed: 'We have an awesome deal for all EIT Digital Alumni members: You have the chance to attend one of the'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Get discounted tickets for this festival of tech, art and science in Berlin!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 5735115e-a45e-4ea0-a7a6-c1b7df62a978
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.5735115e-a45e-4ea0-a7a6-c1b7df62a978

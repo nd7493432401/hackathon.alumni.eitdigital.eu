@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1d8493a-5552-4364-a9f3-dfd65c48b923
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/180
+alias:
+  -
+    value: /event/eit-digital-alumni-junction-cool-down-slush-warm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

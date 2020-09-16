@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 423df587-7502-44bb-8e07-15c6137bee34
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/41
+alias:
+  -
+    value: /article/calls-eit-alumni-connect-startup-days
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

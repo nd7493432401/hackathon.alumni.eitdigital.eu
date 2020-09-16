@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: e5970720-1142-4c55-86a1-b0e4537ec4fa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: 31401693346_1c7282dcdd_o_1.jpg
+uri:
+  -
+    value: 'public://static/31401693346_1c7282dcdd_o_1.jpg'
+    url: /sites/default/files/static/31401693346_1c7282dcdd_o_1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 891309
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-27T11:20:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-27T11:20:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

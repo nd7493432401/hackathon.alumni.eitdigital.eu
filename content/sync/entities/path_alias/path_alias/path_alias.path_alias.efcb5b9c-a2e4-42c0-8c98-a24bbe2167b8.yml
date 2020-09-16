@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: efcb5b9c-a2e4-42c0-8c98-a24bbe2167b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/381
+alias:
+  -
+    value: /job/technical-business-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

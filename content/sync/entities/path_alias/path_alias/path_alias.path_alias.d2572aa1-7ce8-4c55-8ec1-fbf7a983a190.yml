@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d2572aa1-7ce8-4c55-8ec1-fbf7a983a190
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/296
+alias:
+  -
+    value: /event/meet-alumni-community-stockholm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 4e09a96d-a48a-408b-aed6-74896e3771b0
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: doctoral_training_centre_dtc_
+    target_type: taxonomy_vocabulary
+    target_uuid: ef24cc6f-993e-4024-99f6-283942aa37e3
+revision_created:
+  -
+    value: '2020-03-24T10:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'DTC Budapest'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /doctoral-training-centre-dtc/dtc-budapest
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

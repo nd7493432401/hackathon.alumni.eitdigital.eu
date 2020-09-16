@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 86b32948-3d9d-4433-a152-240b021229ed
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/53
+alias:
+  -
+    value: /doctoral-training-centre-dtc/dtc-paris
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

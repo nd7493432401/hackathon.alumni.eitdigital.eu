@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 1b8a93c6-5714-4a23-9b05-8d25362dfcfe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:45:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Spotlight on: Xin Hu'
+created:
+  -
+    value: '2018-04-09T09:17:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:45:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/spotlight-xin-hu
+body:
+  -
+    value: "<p>An American billionaire knocks on your door offering you millions of dollars and shares in his global company if you come to work for him. What do you do?</p>\r\n\r\n<p>This was the proposal put to<a href=\"http://alumni.eitdigital.eu/users/sheenhx\"> Xin Hu</a> and his team. He refused the offer, thinking, \"<em>We must be worth more than that.</em>\" This graduate of the EIT Digital Master School instead co-founded his own European company, MatchX, that now is valued at between ten to twenty million dollars. After completing his bachelor's in telecommunication and engineering in China, Hu was already deep diving into the Internet of Things (IoT). But for him, that was not enough. He was driven to learn more about the IoT industry. He was offered a half-scholarship at the EIT Digital Master School and a full scholarship at Erasmus Mundus. Despite the full scholarship, he chose to enrol on the&nbsp;<a href=\"https://masterschool.eitdigital.eu/programmes/ita/\">Internet Technology and Architecture</a>&nbsp;programme at EIT Digital.&nbsp;</p>\r\n\r\n<p>Read <a href=\"http://www.eitdigital.eu/newsroom/news/article/worth-more-than-millions-of-dollars/?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=Oktopost-linkedin&amp;utm_campaign=Oktopost-Master+School\">the&nbsp;rest of the article at this link</a>.</p>\r\n"
+    format: full_html
+    processed: "<p>An American billionaire knocks on your door offering you millions of dollars and shares in his global company if you come to work for him. What do you do?</p>\n\n<p>This was the proposal put to<a href=\"http://alumni.eitdigital.eu/users/sheenhx\"> Xin Hu</a> and his team. He refused the offer, thinking, \"<em>We must be worth more than that.</em>\" This graduate of the EIT Digital Master School instead co-founded his own European company, MatchX, that now is valued at between ten to twenty million dollars. After completing his bachelor's in telecommunication and engineering in China, Hu was already deep diving into the Internet of Things (IoT). But for him, that was not enough. He was driven to learn more about the IoT industry. He was offered a half-scholarship at the EIT Digital Master School and a full scholarship at Erasmus Mundus. Despite the full scholarship, he chose to enrol on the\_<a href=\"https://masterschool.eitdigital.eu/programmes/ita/\">Internet Technology and Architecture</a>\_programme at EIT Digital.\_</p>\n\n<p>Read <a href=\"http://www.eitdigital.eu/newsroom/news/article/worth-more-than-millions-of-dollars/?utm_source=linkedin&amp;utm_medium=social&amp;utm_content=Oktopost-linkedin&amp;utm_campaign=Oktopost-Master+School\">the\_rest of the article at this link</a>.</p>\n"
+    summary: 'An American billionaire knocks on your door offering you millions of dollars and shares in his globa'
+    summary_processed: 'An American billionaire knocks on your door offering you millions of dollars and shares in his globa'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 034bd80d-abe2-4174-a34e-635367169c76
+field_article_introduction:
+  -
+    value: 'EIT Digital Alumnus Xin Hu, co-founded his own European company, MatchX, that now is valued at between ten to twenty million dollars.'
+field_image:
+  -
+    target_type: media
+    target_uuid: 835de828-54a8-4320-8669-b6b6dbf106bc
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.034bd80d-abe2-4174-a34e-635367169c76
+    media:
+      - media.image.835de828-54a8-4320-8669-b6b6dbf106bc

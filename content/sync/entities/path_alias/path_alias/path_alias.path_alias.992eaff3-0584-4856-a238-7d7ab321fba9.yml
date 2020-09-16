@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 992eaff3-0584-4856-a238-7d7ab321fba9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/168
+alias:
+  -
+    value: /event/eit-alumni-christmas-meetup-brussels
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

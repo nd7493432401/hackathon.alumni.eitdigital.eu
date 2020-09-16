@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c0d2a7ed-98f3-4c2a-bdb4-de31b2d971b6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/117
+alias:
+  -
+    value: /article/open-call-annual-meeting-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

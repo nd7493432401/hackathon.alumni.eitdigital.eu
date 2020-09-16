@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: e24c35d6-6544-48e0-bcc5-91513f78acbb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'UX Research Lead'
+created:
+  -
+    value: '2020-01-07T20:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:27:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ux-research-lead
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://taxfix.de/en/careers/open-position/4585115002/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: TaxFix
+    format: full_html
+    processed: TaxFix
+field_expiration_date:
+  -
+    value: '2020-01-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>UX Research Lead (m/f/d) Berlin - Design</p>\r\n\r\n<p>As one of the most successful FinTech companies in Europe, Taxfix is an exciting place to work. We’re revolutionizing filing taxes – and saving people money, time and stress by putting a personalized digital tax consultant in the palm of their hands.</p>\r\n\r\n<p>In just 2 years, Taxfix has raised €42 million from some of the best investors in the world.&nbsp;We have achieved this by putting our customers at the core of what we do and helping them to save millions of euros every week.</p>\r\n\r\n<p>Our Mission:</p>\r\n\r\n<p>Our mission is to help people get their maximum tax refunds in a convenient, transparent and timely manner, hassle-free. Our user-friendly Taxfix App enables people to file within 25 minutes, without any complicated forms or prior tax knowledge.</p>\r\n\r\n<p>Our diverse team of over 100 people from over 20 nations share a passion for product development and creating an outstanding user experience. We use our talents to create products that help people improve and simplify their lives. Join a team of smart, ambitious, driven people who value open processes and communication.</p>\r\n\r\n<p>Responsibilities:</p>\r\n\r\n<p>At Taxfix, we want to forward the evolution and maturity of our product by earning greater trust from our customers. You will be joining a growing multidisciplinary human-centred design team including product and content designers who are passionate about meeting customer needs. We collaborate closely with product managers, software engineers, tax specialists and many others to solve complex challenges and craft powerful experiences that highlight our products’ unique capabilities in each of our current international markets and those we are looking to enter.</p>\r\n\r\n<p>Our product designers already conduct primary qualitative research and user testing and will continue to do so, however, we are currently looking for a Research Lead to help define and drive the future of this design research. You will identify and set research strategy, define lean and deep primary and secondary qualitative methodologies as well as contribute significantly to improving our quantitative research capabilities.</p>\r\n\r\n<p>You will be in charge of providing the program framework and mentorship needed to ensure consistent, high-quality, meaningful research output from our team across multiple country products. Your position will play a paramount role in growing the skill sets of a wide variety of team members, providing challenging and enjoyable paths for building their research capabilities. In addition to this, an ideal candidate will also be able to \"roll up their sleeves\", becoming actively involved when needed, in conducting both research and customer testing to support our teams.</p>\r\n\r\n<p>You will be the primary thought leader for the overarching approach we take in developing a research program that serves stakeholders across the organization in their attempt to understand customers and build a best-in-class suite of fintech products.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>You are:</p>\r\n\r\n<p>A leader, passionate about mentoring and growing our internal research capabilities</p>\r\n\r\n<p>Knowledgeable about product design and curious about the relationship between technology and society</p>\r\n\r\n<p>Excited to collaborate and open-minded about learning new skills and methods</p>\r\n\r\n<p>An absolute professional who leads by example, treats peers with respect, and seeks and gives constructive feedback</p>\r\n\r\n<p>An excellent communicator, able to convey research insights and complex concepts to a diverse audience in simple terms</p>\r\n\r\n<p>A growth mindset, enthusiastic about experimenting with new research methods and pushing your own craft in new ways</p>\r\n\r\n<p>Deeply curious about and highly attuned to human behavior</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Your experience includes:</p>\r\n\r\n<p>10+ years of industry experience, working on UX Research preferably at least some within the context of product design</p>\r\n\r\n<p>Bachelor/Masters Degree in research, psychology, sociology, decision sciences, HCI, UX or or related field or equivalent practical experience</p>\r\n\r\n<p>Experience with designing and analyzing A/B experiments</p>\r\n\r\n<p>Experienced planning and leading both lean and deeper qualitative and quantitative research activities</p>\r\n\r\n<p>Essential English Fluency</p>\r\n\r\n<p>Nice to have German, Italian or French as well</p>\r\n\r\n<p>A team player</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>It would be a plus if you have:</p>\r\n\r\n<p>Experience in Fin tech or product team</p>\r\n\r\n<p>What you gain:</p>\r\n\r\n<p>Get to make an impact on thousands of people’s lives every day</p>\r\n\r\n<p>Be paid a competitive salary with stock options</p>\r\n\r\n<p>Benefit from remote work opportunities and flexible working hours</p>\r\n\r\n<p>Have the option to take German language courses</p>\r\n\r\n<p>Be supported to grow and take leadership from day one</p>\r\n\r\n<p>Work with the best and learn from other competent and brilliant people</p>\r\n\r\n<p>Work in a beautiful, inspiring international office in Berlin</p>\r\n\r\n<p>Have the option to bring your best buddy to work: we love dogs!</p>\r\n\r\n<p>Please don't forget to send us your portfolio.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>At Taxfix, we don’t just&nbsp;accept diversity, we celebrate it! We’re proudly committed to equal employment opportunities no matter your gender, race, religion, age, sexual orientation, color, disability or place of origin. We care about one another at Taxfix and are grateful for each person’s individual contribution to our overall purpose and goals.</p>\r\n\r\n<p>Join us to build a better future together! If you are planning to apply, feel free to put down my name as a reference and contact me any time if you have questions about Taxfix</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>For more information on this offer contact our alumni <a href=\"/users/ellen\">Ellen</a></p>\r\n"
+    format: full_html
+    processed: "<p>UX Research Lead (m/f/d) Berlin - Design</p>\n\n<p>As one of the most successful FinTech companies in Europe, Taxfix is an exciting place to work. We’re revolutionizing filing taxes – and saving people money, time and stress by putting a personalized digital tax consultant in the palm of their hands.</p>\n\n<p>In just 2 years, Taxfix has raised €42 million from some of the best investors in the world.\_We have achieved this by putting our customers at the core of what we do and helping them to save millions of euros every week.</p>\n\n<p>Our Mission:</p>\n\n<p>Our mission is to help people get their maximum tax refunds in a convenient, transparent and timely manner, hassle-free. Our user-friendly Taxfix App enables people to file within 25 minutes, without any complicated forms or prior tax knowledge.</p>\n\n<p>Our diverse team of over 100 people from over 20 nations share a passion for product development and creating an outstanding user experience. We use our talents to create products that help people improve and simplify their lives. Join a team of smart, ambitious, driven people who value open processes and communication.</p>\n\n<p>Responsibilities:</p>\n\n<p>At Taxfix, we want to forward the evolution and maturity of our product by earning greater trust from our customers. You will be joining a growing multidisciplinary human-centred design team including product and content designers who are passionate about meeting customer needs. We collaborate closely with product managers, software engineers, tax specialists and many others to solve complex challenges and craft powerful experiences that highlight our products’ unique capabilities in each of our current international markets and those we are looking to enter.</p>\n\n<p>Our product designers already conduct primary qualitative research and user testing and will continue to do so, however, we are currently looking for a Research Lead to help define and drive the future of this design research. You will identify and set research strategy, define lean and deep primary and secondary qualitative methodologies as well as contribute significantly to improving our quantitative research capabilities.</p>\n\n<p>You will be in charge of providing the program framework and mentorship needed to ensure consistent, high-quality, meaningful research output from our team across multiple country products. Your position will play a paramount role in growing the skill sets of a wide variety of team members, providing challenging and enjoyable paths for building their research capabilities. In addition to this, an ideal candidate will also be able to \"roll up their sleeves\", becoming actively involved when needed, in conducting both research and customer testing to support our teams.</p>\n\n<p>You will be the primary thought leader for the overarching approach we take in developing a research program that serves stakeholders across the organization in their attempt to understand customers and build a best-in-class suite of fintech products.</p>\n\n<p>\_</p>\n\n<p>You are:</p>\n\n<p>A leader, passionate about mentoring and growing our internal research capabilities</p>\n\n<p>Knowledgeable about product design and curious about the relationship between technology and society</p>\n\n<p>Excited to collaborate and open-minded about learning new skills and methods</p>\n\n<p>An absolute professional who leads by example, treats peers with respect, and seeks and gives constructive feedback</p>\n\n<p>An excellent communicator, able to convey research insights and complex concepts to a diverse audience in simple terms</p>\n\n<p>A growth mindset, enthusiastic about experimenting with new research methods and pushing your own craft in new ways</p>\n\n<p>Deeply curious about and highly attuned to human behavior</p>\n\n<p>\_</p>\n\n<p>Your experience includes:</p>\n\n<p>10+ years of industry experience, working on UX Research preferably at least some within the context of product design</p>\n\n<p>Bachelor/Masters Degree in research, psychology, sociology, decision sciences, HCI, UX or or related field or equivalent practical experience</p>\n\n<p>Experience with designing and analyzing A/B experiments</p>\n\n<p>Experienced planning and leading both lean and deeper qualitative and quantitative research activities</p>\n\n<p>Essential English Fluency</p>\n\n<p>Nice to have German, Italian or French as well</p>\n\n<p>A team player</p>\n\n<p>\_</p>\n\n<p>It would be a plus if you have:</p>\n\n<p>Experience in Fin tech or product team</p>\n\n<p>What you gain:</p>\n\n<p>Get to make an impact on thousands of people’s lives every day</p>\n\n<p>Be paid a competitive salary with stock options</p>\n\n<p>Benefit from remote work opportunities and flexible working hours</p>\n\n<p>Have the option to take German language courses</p>\n\n<p>Be supported to grow and take leadership from day one</p>\n\n<p>Work with the best and learn from other competent and brilliant people</p>\n\n<p>Work in a beautiful, inspiring international office in Berlin</p>\n\n<p>Have the option to bring your best buddy to work: we love dogs!</p>\n\n<p>Please don't forget to send us your portfolio.</p>\n\n<p>\_</p>\n\n<p>At Taxfix, we don’t just\_accept diversity, we celebrate it! We’re proudly committed to equal employment opportunities no matter your gender, race, religion, age, sexual orientation, color, disability or place of origin. We care about one another at Taxfix and are grateful for each person’s individual contribution to our overall purpose and goals.</p>\n\n<p>Join us to build a better future together! If you are planning to apply, feel free to put down my name as a reference and contact me any time if you have questions about Taxfix</p>\n\n<p>\_</p>\n\n<p>For more information on this offer contact our alumni <a href=\"/users/ellen\">Ellen</a></p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

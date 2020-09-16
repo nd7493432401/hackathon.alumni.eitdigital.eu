@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e83e241f-8378-4414-a5c5-5983ba2b34de
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/330
+alias:
+  -
+    value: /job/head-growth
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

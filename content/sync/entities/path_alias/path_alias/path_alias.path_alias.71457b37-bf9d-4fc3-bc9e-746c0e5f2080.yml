@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 71457b37-bf9d-4fc3-bc9e-746c0e5f2080
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/495
+alias:
+  -
+    value: /job/data-engineer-fmx
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

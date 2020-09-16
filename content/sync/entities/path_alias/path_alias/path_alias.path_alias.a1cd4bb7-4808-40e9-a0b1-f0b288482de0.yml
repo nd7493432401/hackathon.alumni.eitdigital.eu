@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a1cd4bb7-4808-40e9-a0b1-f0b288482de0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/302
+alias:
+  -
+    value: /group/eit-kicouchsurfing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: c32b08aa-6c07-4992-bf56-0aa18e30b123
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: IMG_20181128_191422_2.jpg
+thumbnail:
+  -
+    alt: 'Budapest Community'
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 7908807f-33ce-43ac-8bc2-bf576e9da548
+created:
+  -
+    value: '2020-05-05T10:09:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T10:09:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Budapest Community'
+    title: ''
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 7908807f-33ce-43ac-8bc2-bf576e9da548
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.7908807f-33ce-43ac-8bc2-bf576e9da548

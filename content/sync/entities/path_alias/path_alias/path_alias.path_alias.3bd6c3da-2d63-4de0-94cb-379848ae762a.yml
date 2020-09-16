@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3bd6c3da-2d63-4de0-94cb-379848ae762a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/240
+alias:
+  -
+    value: /event/lisbon-investment-summit-18
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,21 @@
+uuid: dc18910d-714e-41b5-a2f5-0207b965a437
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_friend_extra_information
+    - profile.type.eit_digital_friend
+  module:
+    - text
+id: profile.eit_digital_friend.field_friend_extra_information
+field_name: field_friend_extra_information
+entity_type: profile
+bundle: eit_digital_friend
+label: 'Extra Information'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

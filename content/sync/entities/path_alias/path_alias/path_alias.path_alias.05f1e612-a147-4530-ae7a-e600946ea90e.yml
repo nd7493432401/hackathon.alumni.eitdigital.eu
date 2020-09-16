@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 05f1e612-a147-4530-ae7a-e600946ea90e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/388
+alias:
+  -
+    value: /job/working-student-android-app-developer-junior-fm
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

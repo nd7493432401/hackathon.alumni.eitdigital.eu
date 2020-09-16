@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 34c1173c-f84c-4ef7-848c-f72fe4d8096e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/363
+alias:
+  -
+    value: /job/business-development-manager-coo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

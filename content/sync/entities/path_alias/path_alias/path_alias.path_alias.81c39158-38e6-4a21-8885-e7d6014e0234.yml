@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 81c39158-38e6-4a21-8885-e7d6014e0234
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/167
+alias:
+  -
+    value: /event/6th-master-school-kick
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cb009b74-6200-4b9a-9892-210c12888c49
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/47
+alias:
+  -
+    value: /article/jeroen-jade-spring-conf-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

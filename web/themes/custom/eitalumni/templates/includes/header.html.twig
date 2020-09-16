@@ -1,0 +1,89 @@
+{% set logo_path = "/images/EIT-Digital-Alumni-White-Logo.svg" %}
+
+<header id="header" role="banner" class="header">
+	<div class="navbar-fixed-top nav-top">
+		<div class="container-fluid nav-top-inner">
+
+			<button type="button" class="header-hamburger" data-toggle="sidebar" data-target=".sidebar-left">
+				<span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+			</button>
+			
+			{# {% if logo %} #}
+				<a class="header-logo" href="{{ front_page }}" title="{{ 'Home'|t }}">
+					<img src="{{ base_path ~ directory }}{{ logo_path }}" alt="{{ 'Home'|t }}" />
+				</a>
+			{# {% endif %} #}
+
+			{% if logged_in %}
+				<div class="user-box pull-right">
+				    {# {% user %} #}
+					{# {% set user_data = user_load(user.uid) %} #}
+					{% set firstName = user.field_first_name.und.0.value %}
+					{% set lastName = user.field_last_name.und.0.value %}
+		
+				<button type="button" class="header-user-btn" data-toggle="sidebar" data-target=".sidebar-right">
+					<span class="glyphicon glyphicon-user" aria-hidden="true"></span> <b>{{ firstName }} {{ lastName }}</b>
+					{# <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span> #}
+				</button>
+						
+				{# {% if secondary_nav %}
+					{{ secondary_nav }}
+				{% endif %} #}
+
+				{# {% set items = simplify_menu('user-actions') %}
+
+				<ul class="menu nav navbar-nav secondary">
+				  {% for menu_item in items.menu_tree %}
+				    <li class="{{ item_class }} leaf">
+				      <a href="{{ menu_item.url }}" class="{{ link_class }}">{{ menu_item.text }}</a>
+				    </li>
+				  {% endfor %}
+				</ul> #}
+						
+				</div>
+				
+			{% else %}
+				<div class="login-buttons pull-right">
+					<a href="{{ base_path }}user/login" class="btn btn-glass">LOGIN</a>
+					<a href="{{ base_path }}signup" class="btn btn-glass-inverse">SIGNUP</a>
+				</div>				
+			{% endif %}
+		</div>
+	</div>
+	
+	<div class="container-fluid hidden-xs menu-top">
+		<nav role="navigation">
+			{% if  page.navigation %}
+				{{  page.navigation }}
+			{% endif %}
+		</nav>
+	</div>
+</header>
+
+{#  Left menu #}
+<div class="col-xs-7 col-sm-4 col-md-3 sidebar sidebar-left sidebar-animate">
+	
+	<button type="button" class="sidebar-hamburger-close" data-toggle="sidebar" data-target=".sidebar-left">
+		<span class="glyphicon glyphicon glyphicon-remove" aria-hidden="true"></span>
+	</button>
+
+	<a class="offcanvas-logo" href="{{ front_page }}" title="{{ 'Home'|t }}">
+		<img src="{{ base_path ~ directory }}{{ logo_path }}" alt="{{ 'Home'|t }}" style="width: 70%;"/>
+	</a>
+
+    {% if page.sidebar_left_menu %}
+        {{ page.sidebar_left_menu }}
+    {% endif %}
+    
+</div>
+
+{#  Right menu #}
+<div class="col-xs-7 col-sm-4 col-md-3 sidebar sidebar-right sidebar-animate">
+	
+	<button type="button" class="sidebar-hamburger-close" data-toggle="sidebar" data-target=".sidebar-right">
+		<span class="glyphicon glyphicon glyphicon-remove" aria-hidden="true"></span>
+	</button>
+
+	{{ page.usermenu }}
+    
+</div>

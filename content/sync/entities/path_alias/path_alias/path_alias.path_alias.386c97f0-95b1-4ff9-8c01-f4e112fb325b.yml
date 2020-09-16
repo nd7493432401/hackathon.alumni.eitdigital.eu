@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 386c97f0-95b1-4ff9-8c01-f4e112fb325b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/33
+alias:
+  -
+    value: /article/our-alumni-members-community-days-innoenergy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

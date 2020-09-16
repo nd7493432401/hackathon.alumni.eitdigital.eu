@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 6ecc8f75-bf12-4667-a362-680afa76ae98
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'UX Engineer '
+created:
+  -
+    value: '2019-07-04T22:20:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:05:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ux-engineer
+body: {  }
+field_apply_link: {  }
+field_company:
+  -
+    value: 'Friend Factory'
+    format: full_html
+    processed: 'Friend Factory'
+field_expiration_date:
+  -
+    value: '2019-08-05T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>We, Friend Factory, just started our journey towards building a worldwide mobile camera driven platform. We work with the latest advanced technology within facial capture, datamodel design and 3D asset creation. We are now looking for great people to join our journey.<br />\r\nWe are looking for an UX Engineer that can help us reach our first users with our yet unreleased app \"Frever\". The vision of Frever is to become a social media and content creation tool that allows for anyone to create animated content to share with friends. You will be responsible for outlining the major versions and the iterations in which we onboard features to reach this vision. Moreover, you will be responsible to develop a look and feel of our app that appeals to our audience encompassing their esthetic values and established behaviors. To sum up, you will be fully responsible of shaping how our first iOS and subsequently Andriod application will be experienced by our end users.</p>\r\n\r\n<p>Your primary tasks are to:<br />\r\n• based on beta users data, partner and business requests and market developments together with the product team develop user stories (preferably done in Unity)<br />\r\n• rapidly create prototypes in 2D/3D (preferably created through scripting or re-use of scripts in Unity)<br />\r\n• lead the user testing phase which includes responsibility of testflight releases, building a network of focus groups and maintaining it, setting up useful A/B tests of different versions as well as gathering of data from these tests.<br />\r\n• analyze user testing data which may result in either new iteration of 2D/3D prototypes or confirmed UX/UI designs which will be sent to the development team for integration into the product.</p>\r\n\r\n<p>If you fit this description, you are the right fit:<br />\r\n• a developer who has passion towards bringing great UX to users and interest / experience working with UX design and UI development<br />\r\n• a designer who has stepped in the coding world and loves to develop great UI in codes while still loving to do UX<br />\r\n• a person who wouldn't mind to constantly challenge yourself and your prototypes because you believe in failing fast with rapid prototype testing and what you care the most is bringing the best experience to your users</p>\r\n\r\n<p>You will report to the CPO and management team directly.<br />\r\nIf you are interested please contact Erik Wahlberg, on the details below and we are happy to chat about the next steps!</p>\r\n\r\n<p>Erik Wahlberg, CEO<br />\r\n+46 70 424 21 95 I erik@friendfactory.com</p>\r\n"
+    format: full_html
+    processed: "<p>We, Friend Factory, just started our journey towards building a worldwide mobile camera driven platform. We work with the latest advanced technology within facial capture, datamodel design and 3D asset creation. We are now looking for great people to join our journey.<br />\nWe are looking for an UX Engineer that can help us reach our first users with our yet unreleased app \"Frever\". The vision of Frever is to become a social media and content creation tool that allows for anyone to create animated content to share with friends. You will be responsible for outlining the major versions and the iterations in which we onboard features to reach this vision. Moreover, you will be responsible to develop a look and feel of our app that appeals to our audience encompassing their esthetic values and established behaviors. To sum up, you will be fully responsible of shaping how our first iOS and subsequently Andriod application will be experienced by our end users.</p>\n\n<p>Your primary tasks are to:<br />\n• based on beta users data, partner and business requests and market developments together with the product team develop user stories (preferably done in Unity)<br />\n• rapidly create prototypes in 2D/3D (preferably created through scripting or re-use of scripts in Unity)<br />\n• lead the user testing phase which includes responsibility of testflight releases, building a network of focus groups and maintaining it, setting up useful A/B tests of different versions as well as gathering of data from these tests.<br />\n• analyze user testing data which may result in either new iteration of 2D/3D prototypes or confirmed UX/UI designs which will be sent to the development team for integration into the product.</p>\n\n<p>If you fit this description, you are the right fit:<br />\n• a developer who has passion towards bringing great UX to users and interest / experience working with UX design and UI development<br />\n• a designer who has stepped in the coding world and loves to develop great UI in codes while still loving to do UX<br />\n• a person who wouldn't mind to constantly challenge yourself and your prototypes because you believe in failing fast with rapid prototype testing and what you care the most is bringing the best experience to your users</p>\n\n<p>You will report to the CPO and management team directly.<br />\nIf you are interested please contact Erik Wahlberg, on the details below and we are happy to chat about the next steps!</p>\n\n<p>Erik Wahlberg, CEO<br />\n+46 70 424 21 95 I erik@friendfactory.com</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm '
+    format: full_html
+    processed: 'Stockholm '
+field_more_details_link:
+  -
+    uri: 'mailto:erik@friendfactory.com'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

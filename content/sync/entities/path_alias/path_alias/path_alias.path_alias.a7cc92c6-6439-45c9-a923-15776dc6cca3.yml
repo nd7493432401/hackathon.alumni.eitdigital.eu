@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a7cc92c6-6439-45c9-a923-15776dc6cca3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/598
+alias:
+  -
+    value: /job/senior-security-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

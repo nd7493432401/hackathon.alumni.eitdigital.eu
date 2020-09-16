@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: e294dfcc-060f-4ec7-9044-d02486829284
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:09:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Startup Contest 2019 results are in!'
+created:
+  -
+    value: '2019-11-07T12:30:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:09:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/startup-contest-2019-results-are
+body:
+  -
+    value: "<p>For the 4th year in a row,&nbsp;the EIT Digital Alumni Foundation is&nbsp;running the <strong>Alumni Start-up Contest</strong> (aka Ambassador Program), which rewards the entrepreneurial efforts of our community members,&nbsp;by sending them to showcase their companies&nbsp;in some of Europe's <strong>hottest tech conferences</strong>.</p>\r\n\r\n<p>After careful consideration by our jury members, we finally have the name of the start-up&nbsp;that will get a Founder Pass, travel and accommodation expenses fully covered to represent our community in&nbsp;<strong><a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">TechCrunch Disrupt Berlin 2019</a></strong>. Thus, we want to congratulate&nbsp;our 2019 winner...</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong><span style=\"font-size:18px;\"><a href=\"https://www.imagilabs.com/\">ImagiLabs</a>!</span></strong></p>\r\n\r\n<p>As a community and creative tools for teenage girls to learn coding, our jury commented ImagiLabs as \"great solution\" and \"inspiring\", as the idea of ImagiLabs starts with:</p>\r\n\r\n<blockquote>\r\n<p>If technology is the future, that means that the people driving innovation in tech are essentially the ones shaping the future. And we believe that women deserve a 50% say in what our world is going to look like. But today, we make up less than 20% of the tech workforce in the EU.<br />\r\n<br />\r\nA major root cause is that teenage girls are not exposed to tools teaching them technical skills or providing a gateway for developing interest.</p>\r\n</blockquote>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>All startup applicants were evaluated on the dimensions of 1) product, 2) team, 3) maturity, 4) growth potential and 5) fit with TechCrunch Disrupt. The scores were provided by an&nbsp;<strong>external jury panel</strong>,&nbsp;composed of 3 Business Developers of the <a href=\"https://www.eitdigital.eu/accelerator/\" target=\"_blank\"><strong>EIT Digital Accelerator</strong></a> with great experience in evaluating the potential value&nbsp;of start-up companies. The results were very close and the Jurors mentioned that&nbsp;all the startup applicants in this contest <strong>stood out in different ways</strong>. We present now (in alphabetical order)&nbsp;the runner-up startups who applied this year for the alumni ambassador competition. Make sure to check them out!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"App-ray\" data-entity-type=\"file\" data-entity-uuid=\"c7eeba05-9122-4691-849d-c0bd081a18ed\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20appray.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://app-ray.co/\">APP-RAY</a>&nbsp;@<a href=\"https://alumni.eitdigital.eu/users/zsmav\">Zsolt Nemeth</a></strong></span></p>\r\n\r\n<p>A security guard for your mobile apps</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"Bitphy\" data-entity-type=\"file\" data-entity-uuid=\"90903aa8-b203-49e7-bf20-f6996e0aeebc\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20bitphy_0.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong><a href=\"https://www.bitphy.com/\">BitPhy</a>&nbsp;@<a href=\"https://alumni.eitdigital.eu/users/sturgelose\">Erik Berdonces Bonelo</a></strong></span></p>\r\n\r\n<p>A data driver automating and optimising sales and management for large retailers</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"ImagiLabs\" data-entity-type=\"file\" data-entity-uuid=\"fa0d0b26-63e4-430e-ba78-3613ee07c81a\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20Imagilab.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong><a href=\"https://www.imagilabs.com/\">ImagiLabs</a>&nbsp;@<a href=\"https://alumni.eitdigital.eu/users/dorapalfi\">Dora Palfi</a></strong></span></p>\r\n\r\n<p>A community and creative tools for teenage girls to learn coding</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"MXC Foundation\" data-entity-type=\"file\" data-entity-uuid=\"9f58c479-a3cf-4ace-8339-f1fe21453c01\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20mxc.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://www.mxc.org/\">MXC Foundation</a>&nbsp;@<a href=\"https://alumni.eitdigital.eu/users/sheenhx\">Xin Hu</a></strong></span></p>\r\n\r\n<p>A Blockchain star aiming to solve smart city challenges</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"SPIoT\" data-entity-type=\"file\" data-entity-uuid=\"c45c4617-a7b2-41f7-bf88-acfcc31a14da\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20spiot.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong>SPIoT @<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\">Marija Matijevic</a></strong></span></p>\r\n\r\n<p>A conscious supervisor overseeing food consumption and quality</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"SpotYet\" data-entity-type=\"file\" data-entity-uuid=\"c42b909c-cc26-461b-9e43-ff54f4505c26\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/SC%20Spotyet.png\" /></p>\r\n\r\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://spotyet.com/\">SpotYet</a>&nbsp;@<a href=\"https://alumni.eitdigital.eu/users/sergiulazar1221gmailcom\">Sergiu Lazar Angelescu</a></strong></span></p>\r\n\r\n<p>An assistant helping professional networking and team-building</p>\r\n\r\n<p><br />\r\n&nbsp;</p>\r\n\r\n<p>Thanks once again to our jury members for their valuable contribution. We also thank everyone who applied this year and&nbsp;wish you lots of success in your projects. We are looking forward to seeing all of you&nbsp;making the headlines soon!</p>\r\n"
+    format: full_html
+    processed: "<p>For the 4th year in a row,\_the EIT Digital Alumni Foundation is\_running the <strong>Alumni Start-up Contest</strong> (aka Ambassador Program), which rewards the entrepreneurial efforts of our community members,\_by sending them to showcase their companies\_in some of Europe's <strong>hottest tech conferences</strong>.</p>\n\n<p>After careful consideration by our jury members, we finally have the name of the start-up\_that will get a Founder Pass, travel and accommodation expenses fully covered to represent our community in\_<strong><a href=\"https://techcrunch.com/events/disrupt-berlin-2019/\" target=\"_blank\">TechCrunch Disrupt Berlin 2019</a></strong>. Thus, we want to congratulate\_our 2019 winner...</p>\n\n<p>\_</p>\n\n<p><strong><span style=\"font-size:18px;\"><a href=\"https://www.imagilabs.com/\">ImagiLabs</a>!</span></strong></p>\n\n<p>As a community and creative tools for teenage girls to learn coding, our jury commented ImagiLabs as \"great solution\" and \"inspiring\", as the idea of ImagiLabs starts with:</p>\n\n<blockquote>\n<p>If technology is the future, that means that the people driving innovation in tech are essentially the ones shaping the future. And we believe that women deserve a 50% say in what our world is going to look like. But today, we make up less than 20% of the tech workforce in the EU.<br />\n<br />\nA major root cause is that teenage girls are not exposed to tools teaching them technical skills or providing a gateway for developing interest.</p>\n</blockquote>\n\n<p>\_</p>\n\n<p>All startup applicants were evaluated on the dimensions of 1) product, 2) team, 3) maturity, 4) growth potential and 5) fit with TechCrunch Disrupt. The scores were provided by an\_<strong>external jury panel</strong>,\_composed of 3 Business Developers of the <a href=\"https://www.eitdigital.eu/accelerator/\" target=\"_blank\"><strong>EIT Digital Accelerator</strong></a> with great experience in evaluating the potential value\_of start-up companies. The results were very close and the Jurors mentioned that\_all the startup applicants in this contest <strong>stood out in different ways</strong>. We present now (in alphabetical order)\_the runner-up startups who applied this year for the alumni ambassador competition. Make sure to check them out!</p>\n\n<p>\_</p>\n\n<p><img alt=\"App-ray\" data-entity-type=\"file\" data-entity-uuid=\"c7eeba05-9122-4691-849d-c0bd081a18ed\" src=\"/sites/default/files/inline-images/SC%20appray.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://app-ray.co/\">APP-RAY</a>\_@<a href=\"https://alumni.eitdigital.eu/users/zsmav\">Zsolt Nemeth</a></strong></span></p>\n\n<p>A security guard for your mobile apps</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><img alt=\"Bitphy\" data-entity-type=\"file\" data-entity-uuid=\"90903aa8-b203-49e7-bf20-f6996e0aeebc\" src=\"/sites/default/files/inline-images/SC%20bitphy_0.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong><a href=\"https://www.bitphy.com/\">BitPhy</a>\_@<a href=\"https://alumni.eitdigital.eu/users/sturgelose\">Erik Berdonces Bonelo</a></strong></span></p>\n\n<p>A data driver automating and optimising sales and management for large retailers</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><img alt=\"ImagiLabs\" data-entity-type=\"file\" data-entity-uuid=\"fa0d0b26-63e4-430e-ba78-3613ee07c81a\" src=\"/sites/default/files/inline-images/SC%20Imagilab.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong><a href=\"https://www.imagilabs.com/\">ImagiLabs</a>\_@<a href=\"https://alumni.eitdigital.eu/users/dorapalfi\">Dora Palfi</a></strong></span></p>\n\n<p>A community and creative tools for teenage girls to learn coding</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><img alt=\"MXC Foundation\" data-entity-type=\"file\" data-entity-uuid=\"9f58c479-a3cf-4ace-8339-f1fe21453c01\" src=\"/sites/default/files/inline-images/SC%20mxc.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://www.mxc.org/\">MXC Foundation</a>\_@<a href=\"https://alumni.eitdigital.eu/users/sheenhx\">Xin Hu</a></strong></span></p>\n\n<p>A Blockchain star aiming to solve smart city challenges</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><img alt=\"SPIoT\" data-entity-type=\"file\" data-entity-uuid=\"c45c4617-a7b2-41f7-bf88-acfcc31a14da\" src=\"/sites/default/files/inline-images/SC%20spiot.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong>SPIoT @<a href=\"https://alumni.eitdigital.eu/users/marijamatijevigmailcom\">Marija Matijevic</a></strong></span></p>\n\n<p>A conscious supervisor overseeing food consumption and quality</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><img alt=\"SpotYet\" data-entity-type=\"file\" data-entity-uuid=\"c42b909c-cc26-461b-9e43-ff54f4505c26\" src=\"/sites/default/files/inline-images/SC%20Spotyet.png\" /></p>\n\n<p><span style=\"font-size:16px;\"><strong><a href=\"http://spotyet.com/\">SpotYet</a>\_@<a href=\"https://alumni.eitdigital.eu/users/sergiulazar1221gmailcom\">Sergiu Lazar Angelescu</a></strong></span></p>\n\n<p>An assistant helping professional networking and team-building</p>\n\n<p><br />\n\_</p>\n\n<p>Thanks once again to our jury members for their valuable contribution. We also thank everyone who applied this year and\_wish you lots of success in your projects. We are looking forward to seeing all of you\_making the headlines soon!</p>\n"
+    summary: 'For the 4th year in a row,&nbsp;the EIT Digital Alumni Foundation is&nbsp;running the Alumni Start-u'
+    summary_processed: "For the 4th year in a row,\_the EIT Digital Alumni Foundation is\_running the Alumni Start-u"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Find out who goes to TechCrunch Disrupt Berlin 2019!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 93737ad2-4438-4dc7-8ff4-e36863c1f4e1
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.93737ad2-4438-4dc7-8ff4-e36863c1f4e1

@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: 953508cb-f5c9-4a00-8f7f-57d9739158ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: group
+    target_type: node_type
+    target_uuid: 5a7a2c83-1d9b-4fa9-b57e-077492357b47
+revision_timestamp:
+  -
+    value: '2020-03-26T14:51:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'USA Local Community'
+created:
+  -
+    value: '2020-03-26T14:49:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-17T09:15:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /group/usa-local-community
+body: {  }
+field_external_group_webpage:
+  -
+    uri: 'internal://www.facebook.com/groups/338310450282715'
+    title: 'Join our Facebook group!'
+    options: {  }
+field_group_dec:
+  -
+    value: "<p>The USA chapter was&nbsp;established in <strong>2017</strong>, with&nbsp;<a href=\"https://alumni.eitdigital.eu/event/alumni-tour-rocketspace\">our first meetup held at RocketSpace</a>, where our members had the opportunity to get to know each other,&nbsp;get familiar with our Foundation's mission and meet the&nbsp;<a href=\"https://www.eitdigital.eu/about-us/locations/silicon-valley-hub/\">Silicon Valley&nbsp;Hub</a> team.</p>\r\n\r\n<p>In November&nbsp;<strong>2018 </strong>we hosted a&nbsp;<a href=\"https://alumni.eitdigital.eu/event/san-francisco-eit-digital-alumni-drinks\">second informal meetup</a>, where the attendees could share the reasons why they chose&nbsp;San Francisco&nbsp;as the place to continue their careers.&nbsp;<br />\r\n&nbsp;</p>\r\n\r\n<p>The US Local group is excited to welcome&nbsp;more people in their team:&nbsp;feel free to&nbsp;<strong>join our&nbsp;<a href=\"https://www.facebook.com/groups/338310450282715\">Facebook&nbsp;group</a></strong>&nbsp;and help us&nbsp;<a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a>&nbsp;/ suggest even&nbsp;<strong>more events</strong>!</p>\r\n\r\n<p><strong>Special thanks&nbsp;</strong>to all group members who have contributed to the USA Local Community and made it what it is today:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://alumni.eitdigital.eu/users/rgmvisser\">Ruud Visser</a></li>\r\n</ul>\r\n"
+    format: basic_html
+    processed: "<p>The USA chapter was\_established in <strong>2017</strong>, with\_<a href=\"https://alumni.eitdigital.eu/event/alumni-tour-rocketspace\">our first meetup held at RocketSpace</a>, where our members had the opportunity to get to know each other,\_get familiar with our Foundation's mission and meet the\_<a href=\"https://www.eitdigital.eu/about-us/locations/silicon-valley-hub/\">Silicon Valley\_Hub</a> team.</p>\n\n<p>In November\_<strong>2018 </strong>we hosted a\_<a href=\"https://alumni.eitdigital.eu/event/san-francisco-eit-digital-alumni-drinks\">second informal meetup</a>, where the attendees could share the reasons why they chose\_San Francisco\_as the place to continue their careers.\_<br />\n\_</p>\n\n<p>The US Local group is excited to welcome\_more people in their team:\_feel free to\_<strong>join our\_<a href=\"https://www.facebook.com/groups/338310450282715\">Facebook\_group</a></strong>\_and help us\_<a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">organize</a>\_/ suggest even\_<strong>more events</strong>!</p>\n\n<p><strong>Special thanks\_</strong>to all group members who have contributed to the USA Local Community and made it what it is today:</p>\n\n<ul>\n\t<li><a href=\"https://alumni.eitdigital.eu/users/rgmvisser\">Ruud Visser</a></li>\n</ul>\n"
+field_group_image:
+  -
+    target_type: media
+    target_uuid: 2df540cc-3ef3-4c54-8b14-0fdb1d7ad90e
+field_group_intro_image:
+  -
+    target_type: media
+    target_uuid: 2df540cc-3ef3-4c54-8b14-0fdb1d7ad90e
+field_group_introduction:
+  -
+    value: "<p>The official group of the EIT Digital Alumni in the USA (mainly around the San Francisco Bay Area)</p>\r\n"
+    format: basic_html
+    processed: "<p>The official group of the EIT Digital Alumni in the USA (mainly around the San Francisco Bay Area)</p>\n"
+field_group_leader:
+  -
+    value: 'Ruud Visser'
+    format: basic_html
+    processed: 'Ruud Visser'
+field_group_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1792da6-0a9c-4e09-b6a3-123e2766ebc8
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.2df540cc-3ef3-4c54-8b14-0fdb1d7ad90e
+    taxonomy_term:
+      - taxonomy_term.alumni_group_type.b1792da6-0a9c-4e09-b6a3-123e2766ebc8

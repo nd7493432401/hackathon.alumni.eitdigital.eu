@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 09cadc9a-ceda-4ce7-b140-33013fe9993c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/44
+alias:
+  -
+    value: /event-type/eit-digital-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

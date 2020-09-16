@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f4527328-d9f2-4945-bdbe-8c0df4bf7571
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Annual Meeting 2020: Location Announcement'
+created:
+  -
+    value: '2019-12-12T20:22:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:11:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/annual-meeting-2020-location-announcement
+body:
+  -
+    value: "<p>After unforgettable editions of <strong>our flagship event</strong>, the Annual (Alumni) Meeting, we decided&nbsp;to give a small twist to its organization for next year, leveraging&nbsp;the talent and creativity of our&nbsp;alumni. For this reason, <a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">we announced an </a><strong><a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">Open Call</a> </strong>and invited all the members of our community to tell us their favourite locations, applying&nbsp;to join the official Working Group who will help us bring the Annual Meeting there.</p>\r\n\r\n<p>During the application period, which ran for one month from November 8th to December 8th, we received in a total of&nbsp;<strong>four applications</strong>&nbsp;offering beautiful locations and exciting side activities. In alphabetical order, the applicant teams and proposed locations were:</p>\r\n\r\n<ul>\r\n\t<li><a href=\"https://drive.google.com/open?id=11294a6ORnsMJjvh4ljaZKSqGQrmhow4n\" target=\"_blank\"><strong>Amsterdam Crew</strong></a>: Limassol, Cyprus</li>\r\n\t<li><a href=\"https://drive.google.com/open?id=15DXkWEechXxklbkmyvyKKh8B0jF1icZ5\" target=\"_blank\"><strong>Croatia (Hrvatska) Local Group, Split-Dalmatia County</strong></a>: Split, Croatia</li>\r\n\t<li><a href=\"https://drive.google.com/open?id=13UnCMmY6-yYsCRFDpJstrMjKaz9azWAZ\" target=\"_blank\"><strong>EIT Digital Alumni Helsinki</strong></a>: Baltic Sea cruise between Stockholm and Helsinki</li>\r\n\t<li><a href=\"https://drive.google.com/open?id=1g_9EtP1cQEZccFq3zT8iUNe6y8VeCiZ4\" target=\"_blank\"><strong>EIT-Rods</strong></a>: Cluj Napoca, Romania</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The Alumni Board thanks all teams listed above, because all applications were <strong>carefully prepared</strong> and provided&nbsp;sufficient details about the aspects we requested, such as the estimated budget, possible venue and partners, or the available options for transportation and accommodation. We were surprised (in a good way!) about the number and the quality of the applications, thus making it harder for us to reach a decision.</p>\r\n\r\n<p>After careful evaluation, which forced us to postpone the&nbsp;announcement a couple of days after the date that we had originally planned, we are happy to finally tell you that the&nbsp;<strong>Annual Meeting 2020</strong>&nbsp;of the EIT Digital Alumni will be held at the end of April / beginning of May&nbsp;in...</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><strong>Split, Croatia!</strong></p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"Split\" data-entity-type=\"file\" data-entity-uuid=\"bbb69d57-a2d4-43a5-ac94-b0ff9ca2f666\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/split-1590201_1280.jpg\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Even though&nbsp;all applications were good, the proposal by the team \"Croatia (Hrvatska) Local Group, Split-Dalmatia County\" clearly stood out in all discussions and <strong>was rated the strongest proposal</strong> by most Alumni Board members. One of the decisive factors was that the applicant team proactively engaged in conversations with the local university to host the presentations and workshops in their facilities, requested price quotes and negotiated&nbsp;discounts with local hotels, and identified several other potential partners. Furthermore, the Alumni Board considered the proposal was reasonable&nbsp;in terms of overall costs and found no major risks left unanswered in the document. The&nbsp;full detail of the evaluation criteria and scores&nbsp;<a href=\"https://docs.google.com/spreadsheets/d/1Z1U1LV3EFt30EcUKmKTKAXSvDYxx-CAvY_G2keZJcHI/edit?usp=sharing\" target=\"_blank\">can be found here</a>.&nbsp;</p>\r\n\r\n<p>We congratulate <a href=\"https://alumni.eitdigital.eu/users/korac\" target=\"_blank\">Kristijan Korać</a> and <a href=\"https://alumni.eitdigital.eu/users/josip\" target=\"_blank\">Josip Vukoja</a>, who will lead and coordinate the new <strong>Working Group</strong> for the Annual Meeting 2020. We share their excitement for&nbsp;\"stepping up the&nbsp;game\" and agree with their motivation statement that <em>\"bringing top-notch EIT Digital ALUMNI professionals would be beneficial not only for Croatia but for the whole Balkan area and other Eastern Europe countries as well (most of them ARISE)\".</em></p>\r\n\r\n<p>Regardless of this&nbsp;result, we want to reward the effort of all members of our community who answered to our Open Call. Thus, we have decided that all alumni&nbsp;who submitted an application will get <strong>priority sign-up </strong>for the next Annual Meeting. In other words, they will be notified in advance when registrations open and therefore, will have extra time to confirm their spots.</p>\r\n\r\n<p>Once again, we thank all applicants for their&nbsp;engagement and invite them, as well as the rest of our alumni, to keep in touch for more updates!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"2019 annual meeting\" data-entity-type=\"file\" data-entity-uuid=\"5ab72f3b-5e6c-4cf9-ad2c-f4117a775b4e\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/2019_annual_meeting_0.png\" /></p>\r\n\r\n<p>(Photos of the Annual Meeting 2019 in&nbsp;Porto, Portugal)</p>\r\n"
+    format: full_html
+    processed: "<p>After unforgettable editions of <strong>our flagship event</strong>, the Annual (Alumni) Meeting, we decided\_to give a small twist to its organization for next year, leveraging\_the talent and creativity of our\_alumni. For this reason, <a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">we announced an </a><strong><a href=\"http://bit.ly/digitalumni20_call\" target=\"_blank\">Open Call</a> </strong>and invited all the members of our community to tell us their favourite locations, applying\_to join the official Working Group who will help us bring the Annual Meeting there.</p>\n\n<p>During the application period, which ran for one month from November 8th to December 8th, we received in a total of\_<strong>four applications</strong>\_offering beautiful locations and exciting side activities. In alphabetical order, the applicant teams and proposed locations were:</p>\n\n<ul>\n\t<li><a href=\"https://drive.google.com/open?id=11294a6ORnsMJjvh4ljaZKSqGQrmhow4n\" target=\"_blank\"><strong>Amsterdam Crew</strong></a>: Limassol, Cyprus</li>\n\t<li><a href=\"https://drive.google.com/open?id=15DXkWEechXxklbkmyvyKKh8B0jF1icZ5\" target=\"_blank\"><strong>Croatia (Hrvatska) Local Group, Split-Dalmatia County</strong></a>: Split, Croatia</li>\n\t<li><a href=\"https://drive.google.com/open?id=13UnCMmY6-yYsCRFDpJstrMjKaz9azWAZ\" target=\"_blank\"><strong>EIT Digital Alumni Helsinki</strong></a>: Baltic Sea cruise between Stockholm and Helsinki</li>\n\t<li><a href=\"https://drive.google.com/open?id=1g_9EtP1cQEZccFq3zT8iUNe6y8VeCiZ4\" target=\"_blank\"><strong>EIT-Rods</strong></a>: Cluj Napoca, Romania</li>\n</ul>\n\n<p>\_</p>\n\n<p>The Alumni Board thanks all teams listed above, because all applications were <strong>carefully prepared</strong> and provided\_sufficient details about the aspects we requested, such as the estimated budget, possible venue and partners, or the available options for transportation and accommodation. We were surprised (in a good way!) about the number and the quality of the applications, thus making it harder for us to reach a decision.</p>\n\n<p>After careful evaluation, which forced us to postpone the\_announcement a couple of days after the date that we had originally planned, we are happy to finally tell you that the\_<strong>Annual Meeting 2020</strong>\_of the EIT Digital Alumni will be held at the end of April / beginning of May\_in...</p>\n\n<p>\_</p>\n\n<p style=\"text-align: center;\"><strong>Split, Croatia!</strong></p>\n\n<p style=\"text-align: center;\"><img alt=\"Split\" data-entity-type=\"file\" data-entity-uuid=\"bbb69d57-a2d4-43a5-ac94-b0ff9ca2f666\" src=\"/sites/default/files/inline-images/split-1590201_1280.jpg\" /></p>\n\n<p>\_</p>\n\n<p>Even though\_all applications were good, the proposal by the team \"Croatia (Hrvatska) Local Group, Split-Dalmatia County\" clearly stood out in all discussions and <strong>was rated the strongest proposal</strong> by most Alumni Board members. One of the decisive factors was that the applicant team proactively engaged in conversations with the local university to host the presentations and workshops in their facilities, requested price quotes and negotiated\_discounts with local hotels, and identified several other potential partners. Furthermore, the Alumni Board considered the proposal was reasonable\_in terms of overall costs and found no major risks left unanswered in the document. The\_full detail of the evaluation criteria and scores\_<a href=\"https://docs.google.com/spreadsheets/d/1Z1U1LV3EFt30EcUKmKTKAXSvDYxx-CAvY_G2keZJcHI/edit?usp=sharing\" target=\"_blank\">can be found here</a>.\_</p>\n\n<p>We congratulate <a href=\"https://alumni.eitdigital.eu/users/korac\" target=\"_blank\">Kristijan Korać</a> and <a href=\"https://alumni.eitdigital.eu/users/josip\" target=\"_blank\">Josip Vukoja</a>, who will lead and coordinate the new <strong>Working Group</strong> for the Annual Meeting 2020. We share their excitement for\_\"stepping up the\_game\" and agree with their motivation statement that <em>\"bringing top-notch EIT Digital ALUMNI professionals would be beneficial not only for Croatia but for the whole Balkan area and other Eastern Europe countries as well (most of them ARISE)\".</em></p>\n\n<p>Regardless of this\_result, we want to reward the effort of all members of our community who answered to our Open Call. Thus, we have decided that all alumni\_who submitted an application will get <strong>priority sign-up </strong>for the next Annual Meeting. In other words, they will be notified in advance when registrations open and therefore, will have extra time to confirm their spots.</p>\n\n<p>Once again, we thank all applicants for their\_engagement and invite them, as well as the rest of our alumni, to keep in touch for more updates!</p>\n\n<p>\_</p>\n\n<p><img alt=\"2019 annual meeting\" data-entity-type=\"file\" data-entity-uuid=\"5ab72f3b-5e6c-4cf9-ad2c-f4117a775b4e\" src=\"/sites/default/files/inline-images/2019_annual_meeting_0.png\" /></p>\n\n<p>(Photos of the Annual Meeting 2019 in\_Porto, Portugal)</p>\n"
+    summary: 'After unforgettable editions of our flagship event, the Annual (Alumni) Meeting, we decided&nbsp;to '
+    summary_processed: "After unforgettable editions of our flagship event, the Annual (Alumni) Meeting, we decided\_to "
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The next edition of our biggest event has now a host location'
+field_image:
+  -
+    target_type: media
+    target_uuid: a166e109-9d75-4595-95b1-1d93a3033be2
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.a166e109-9d75-4595-95b1-1d93a3033be2

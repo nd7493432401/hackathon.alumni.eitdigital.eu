@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e302aaab-2d01-4aaa-99ed-5deb7e806ba8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/105
+alias:
+  -
+    value: /article/organize-moderate-eit-alumni-connect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

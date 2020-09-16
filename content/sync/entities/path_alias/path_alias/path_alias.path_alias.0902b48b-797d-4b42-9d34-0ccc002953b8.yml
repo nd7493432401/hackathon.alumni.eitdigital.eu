@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0902b48b-797d-4b42-9d34-0ccc002953b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/603
+alias:
+  -
+    value: /job/senior-linux-embedded-sw-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

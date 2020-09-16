@@ -1,0 +1,29 @@
+uuid: 2c4139ce-0d37-4deb-b16d-50f1d004b136
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_position
+    - node.type.candidate
+    - taxonomy.vocabulary.candidate_type
+id: node.candidate.field_position
+field_name: field_position
+entity_type: node
+bundle: candidate
+label: Position
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      candidate_type: candidate_type
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

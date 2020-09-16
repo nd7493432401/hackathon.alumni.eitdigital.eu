@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: bbb69d57-a2d4-43a5-ac94-b0ff9ca2f666
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: split-1590201_1280.jpg
+uri:
+  -
+    value: 'public://inline-images/split-1590201_1280.jpg'
+    url: /sites/default/files/inline-images/split-1590201_1280.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 265472
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-05-06T13:35:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-06T13:36:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

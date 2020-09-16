@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fcc68c6d-6635-4bd5-a598-8aa5f029b1e7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/556
+alias:
+  -
+    value: /job/postdocs-robotics-ai-autonomous-vehicles
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

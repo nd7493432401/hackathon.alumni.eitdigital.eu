@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8295fcdb-9389-4cea-8cfa-126ff2c61d7e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/61
+alias:
+  -
+    value: /article/digitalumni17-agenda
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

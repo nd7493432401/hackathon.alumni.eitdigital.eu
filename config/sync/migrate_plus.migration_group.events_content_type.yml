@@ -1,0 +1,10 @@
+uuid: 81538bcc-0718-4960-9ca3-300db941f05c
+langcode: en
+status: true
+dependencies: {  }
+id: events_content_type
+label: 'Events Content Type'
+description: ''
+source_type: 'Drupal 7'
+module: null
+shared_configuration: null

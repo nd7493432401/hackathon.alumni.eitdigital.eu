@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4fc180fc-2805-4a73-a5f7-9a1749c26ad6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/116
+alias:
+  -
+    value: /exit-universities/saarland-university-saarbrucken-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

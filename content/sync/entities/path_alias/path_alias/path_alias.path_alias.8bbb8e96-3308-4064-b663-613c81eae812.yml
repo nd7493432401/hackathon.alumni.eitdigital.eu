@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8bbb8e96-3308-4064-b663-613c81eae812
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/491
+alias:
+  -
+    value: /job/data-science-pm-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

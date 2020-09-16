@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 24048d3c-bacd-49b8-9cb7-a4de48d37573
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/161
+alias:
+  -
+    value: /event/italian-innovation-day
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

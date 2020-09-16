@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 04594847-2f38-47d3-bf5f-b1944e44d3c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:52:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Spotlight on: Wilfried Dron'
+created:
+  -
+    value: '2018-11-03T10:35:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:52:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/spotlight-wilfried-dron
+body:
+  -
+    value: "<p>It all began in 2011, when he was a student at the&nbsp;<a href=\"http://doctoralschool.eitdigital.eu\">EIT Digital&nbsp;Doctoral School</a>. For his PhD he was supposed to work on devices with lifetime constraints, but the battery died before the product lifecycle was over. He decided to make the development of the tool subject of his PhD.&nbsp;Finally, in&nbsp;<strong>September 2016</strong>, it was the founding moment of Wisebatt - an innovative electronic prototyping solution. Read all <a href=\"https://www.eitdigital.eu/newsroom/success-stories/eureka-moment-during-eit-digital-doctoral-school-leads-to-promising-startup/\">WISEBATT's story&nbsp;in this article</a>.</p>\r\n\r\n<p>Today, only two years later,&nbsp;<a href=\"http://wisebatt.com\">Wisebatt</a>&nbsp;has just <strong>closed its first round of 1 million euros</strong> with EMERTEC 5 fund managed by Demeter Ventures and the Paris Region Venture Fund (PRVF) managed by CapDecisif Management. The French start-up is now properly financed to boost its development.</p>\r\n\r\n<p>Wisebatt edits a very innovative electronic prototyping solution. Wisebatt vision is to become the reference prototyping platform to <strong>shorten the R&amp;D cycle</strong> and lower development cost of electronic devices powered with a battery. The growth potential of Wisebatt is very high if one considers the millions of IOT devices being developed.</p>\r\n\r\n<p><strong>Gather industrial knowledge</strong></p>\r\n\r\n<p>The world of software is now well documented and equipped with online platforms. Meanwhile hardware engineering is still tedious with its hundreds of thousands of available electronic components. The simplification, acceleration and optimization of the design phase is crucial for electronics engineers and technicians; they need to quickly compare and choose the best possible components.<br />\r\nWisebatt displays a catalogue of several hundred models of electronic component references. Because it relies on its <strong>simulation and modelling engine</strong>, engineers get to make the best choice in an instant while taking into account the context of their application.<br />\r\n\"We created a tool to perform simulations and obtain the same conclusions in a few minutes as we would have obtained in several days, or even in several weeks with the usual methods. Our tool provides 90% accurate results” says Wilfried, CEO and co-founder of the company.</p>\r\n\r\n<p><strong>Features</strong></p>\r\n\r\n<p>The Wisebatt software is available from web browser like any other Software As A Service. It relies on algorithms developed through academic research and executed on High Performance Computing servers. The component library has several hundred references and is continuously extended. Just like many modern software development tools, Wisebatt encourages interactions between users. They can share their knowledge with the community to help other engineers develop the best possible electronic device.</p>\r\n\r\n<p>\"We want to make users aware that their collaboration allows them to evolve further on their projects\" says Wilfried. For Marion Blatter, co-founder of Wisebatt and Chief Product Officer, \"The software allows engineers to iterate faster and therefore to progress and innovate in a shorter time\".</p>\r\n\r\n<p>Jean-Philippe Gendre, Investment Director of Demeter Ventures and Yvan-Michel Ehkirch, Partner of CapDecisif Management point out: \"Wisebatt has managed to develop a powerful, very versatile and easy-to-use software. The Wisebatt platform allows developers to design reliable battery-powered systems. It also lets marketing engineers simulate new use cases. The work done by this young team, the relevance of the product offering and the strong growth of users have convinced us\".</p>\r\n\r\n<p>The platform is currently used by <strong>more than 400 engineers from 350 companies in 23 countries</strong>. Wisebatt, initially incubated in Agoranov&nbsp;in the 6th arrondissement of Paris, has now its own premises in Paris. The current workforce of the company is 11 people. View <a href=\"https://techcrunch.com/video/wisebatt-presents-at-startup-battlefield-europe/\">Wilfried's pitch here</a>.</p>\r\n"
+    format: full_html
+    processed: "<p>It all began in 2011, when he was a student at the\_<a href=\"http://doctoralschool.eitdigital.eu\">EIT Digital\_Doctoral School</a>. For his PhD he was supposed to work on devices with lifetime constraints, but the battery died before the product lifecycle was over. He decided to make the development of the tool subject of his PhD.\_Finally, in\_<strong>September 2016</strong>, it was the founding moment of Wisebatt - an innovative electronic prototyping solution. Read all <a href=\"https://www.eitdigital.eu/newsroom/success-stories/eureka-moment-during-eit-digital-doctoral-school-leads-to-promising-startup/\">WISEBATT's story\_in this article</a>.</p>\n\n<p>Today, only two years later,\_<a href=\"http://wisebatt.com\">Wisebatt</a>\_has just <strong>closed its first round of 1 million euros</strong> with EMERTEC 5 fund managed by Demeter Ventures and the Paris Region Venture Fund (PRVF) managed by CapDecisif Management. The French start-up is now properly financed to boost its development.</p>\n\n<p>Wisebatt edits a very innovative electronic prototyping solution. Wisebatt vision is to become the reference prototyping platform to <strong>shorten the R&amp;D cycle</strong> and lower development cost of electronic devices powered with a battery. The growth potential of Wisebatt is very high if one considers the millions of IOT devices being developed.</p>\n\n<p><strong>Gather industrial knowledge</strong></p>\n\n<p>The world of software is now well documented and equipped with online platforms. Meanwhile hardware engineering is still tedious with its hundreds of thousands of available electronic components. The simplification, acceleration and optimization of the design phase is crucial for electronics engineers and technicians; they need to quickly compare and choose the best possible components.<br />\nWisebatt displays a catalogue of several hundred models of electronic component references. Because it relies on its <strong>simulation and modelling engine</strong>, engineers get to make the best choice in an instant while taking into account the context of their application.<br />\n\"We created a tool to perform simulations and obtain the same conclusions in a few minutes as we would have obtained in several days, or even in several weeks with the usual methods. Our tool provides 90% accurate results” says Wilfried, CEO and co-founder of the company.</p>\n\n<p><strong>Features</strong></p>\n\n<p>The Wisebatt software is available from web browser like any other Software As A Service. It relies on algorithms developed through academic research and executed on High Performance Computing servers. The component library has several hundred references and is continuously extended. Just like many modern software development tools, Wisebatt encourages interactions between users. They can share their knowledge with the community to help other engineers develop the best possible electronic device.</p>\n\n<p>\"We want to make users aware that their collaboration allows them to evolve further on their projects\" says Wilfried. For Marion Blatter, co-founder of Wisebatt and Chief Product Officer, \"The software allows engineers to iterate faster and therefore to progress and innovate in a shorter time\".</p>\n\n<p>Jean-Philippe Gendre, Investment Director of Demeter Ventures and Yvan-Michel Ehkirch, Partner of CapDecisif Management point out: \"Wisebatt has managed to develop a powerful, very versatile and easy-to-use software. The Wisebatt platform allows developers to design reliable battery-powered systems. It also lets marketing engineers simulate new use cases. The work done by this young team, the relevance of the product offering and the strong growth of users have convinced us\".</p>\n\n<p>The platform is currently used by <strong>more than 400 engineers from 350 companies in 23 countries</strong>. Wisebatt, initially incubated in Agoranov\_in the 6th arrondissement of Paris, has now its own premises in Paris. The current workforce of the company is 11 people. View <a href=\"https://techcrunch.com/video/wisebatt-presents-at-startup-battlefield-europe/\">Wilfried's pitch here</a>.</p>\n"
+    summary: 'It all began in 2011, when he was a student at the&nbsp;EIT Digital&nbsp;Doctoral School. For his Ph'
+    summary_processed: "It all began in 2011, when he was a student at the\_EIT Digital\_Doctoral School. For his Ph"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 034bd80d-abe2-4174-a34e-635367169c76
+field_article_introduction:
+  -
+    value: 'Eureka moment during EIT Digital Doctoral School leads to promising startup'
+field_image:
+  -
+    target_type: media
+    target_uuid: 41031603-8cf7-441f-b367-71784721ef92
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.034bd80d-abe2-4174-a34e-635367169c76
+    media:
+      - media.image.41031603-8cf7-441f-b367-71784721ef92

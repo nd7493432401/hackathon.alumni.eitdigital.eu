@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6f9c9316-436c-4186-ab3c-05b7ab838b04
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/425
+alias:
+  -
+    value: /job/doctorate-hci-ux
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

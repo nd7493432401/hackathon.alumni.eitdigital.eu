@@ -1,0 +1,10 @@
+uuid: 30d5e8f5-e44f-4ac3-babb-aa793154d92f
+langcode: en
+status: true
+dependencies: {  }
+id: education
+label: Education
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

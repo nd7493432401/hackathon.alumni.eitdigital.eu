@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: bf0759cf-b3d9-419f-a373-78333a00dde4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Lead UX Designer (f/m/x)'
+created:
+  -
+    value: '2020-01-17T08:38:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:28:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/lead-ux-designer-fmx
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://finiata-jobs.personio.de/job/174233'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Finiata
+    format: full_html
+    processed: Finiata
+field_expiration_date:
+  -
+    value: '2020-01-17T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>&nbsp;</p>\r\n\r\n<p><strong>Lead UX Designer (f/m/x)</strong></p>\r\n\r\n<p><em>Permanent employee, Full-time · Berlin</em></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>YOUR MISSION</strong><br />\r\nGuide the entire UX process, from research through prototyping and design, to analysis and iteration</p>\r\n\r\n<p>Conduct user research (qualitative and quantitative), gather insights and use analytics to identify user needs, desires, and behaviors</p>\r\n\r\n<p>Articulate user journeys with scenarios, storyboards, presentations, and prototypes to effectively communicate and validate interaction and design ideas</p>\r\n\r\n<p>Analyze user interface problems and create design solutions that meet measurable business goals and requirements</p>\r\n\r\n<p>Build strong relationships, influence, and partnerships with leaders inside the core product team to efficiently implement user experiences that are cohesive, inclusive, and well-informed</p>\r\n\r\n<p>Raise the bar for product quality across our products by advocating for user-centered product roadmaps, and insights-driven by user research</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>YOUR PROFILE</strong></p>\r\n\r\n<p>Degree in Design (e.g. interaction, graphic, visual communications, product, industrial, etc), Human-Computer Interaction (HCI), or a related field, or equivalent practical experience</p>\r\n\r\n<p>5+ years of experience in translating stakeholder goals, user research, and complex user flows into simple experiences</p>\r\n\r\n<p>Measurable impact on improving SaaS, e-commerce or Fintech products</p>\r\n\r\n<p>Experience managing or leading design teams</p>\r\n\r\n<p>Excellent communication skills and experience collaborating with Product Management and Engineering counterparts</p>\r\n\r\n<p>Experience in Agile/Scrum environments</p>\r\n\r\n<p>Have cross-platform design experiences (Web, Android, iOS, email)</p>\r\n\r\n<p>Technically fluent, comfortable working closely with engineering</p>\r\n\r\n<p>Fluent in English.<br />\r\n<br />\r\n<br />\r\n<strong>ABOUT US</strong><br />\r\nAs one of the fastest-growing FinTech companies in Europe, Finiata is an exciting place to work. We are determined to help small businesses and freelancers in Europe to focus on what really matters – saving them time, stress and money by providing accessible and seamless financing and cash flow solutions.</p>\r\n\r\n<p>In less than 2 years, Finiata has raised more than €23 million from top European investors. This has been possible by focusing on long-term customer needs and providing the best solutions based on real customer feedback.</p>\r\n\r\n<p>Setting business up for success is Finiata’s reason for existence. Our easy-to-use Finiata App enables businesses to receive working-capital, credited to their bank account within 15 minutes, resolving the struggle for liquidity without any credit history or complicated forms.</p>\r\n\r\n<p>Finiata is filled with curious people who want to learn while having fun. Our diverse team of 60 talents from 19 nations is located across three locations in Germany, Poland, and Ukraine. We appreciate the power of diversity and share a passion for product development and creating exceptional user experiences that have a real impact on our customers’ lives. Join a fast-growing company of smart and ambitious people to support more than 1 million small businesses over the next 5 years!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>For more information contact our alumnus<a href=\"/users/ecodallaluna\"> Ilario</a></p>\r\n"
+    format: full_html
+    processed: "<p>\_</p>\n\n<p><strong>Lead UX Designer (f/m/x)</strong></p>\n\n<p><em>Permanent employee, Full-time · Berlin</em></p>\n\n<p>\_</p>\n\n<p><strong>YOUR MISSION</strong><br />\nGuide the entire UX process, from research through prototyping and design, to analysis and iteration</p>\n\n<p>Conduct user research (qualitative and quantitative), gather insights and use analytics to identify user needs, desires, and behaviors</p>\n\n<p>Articulate user journeys with scenarios, storyboards, presentations, and prototypes to effectively communicate and validate interaction and design ideas</p>\n\n<p>Analyze user interface problems and create design solutions that meet measurable business goals and requirements</p>\n\n<p>Build strong relationships, influence, and partnerships with leaders inside the core product team to efficiently implement user experiences that are cohesive, inclusive, and well-informed</p>\n\n<p>Raise the bar for product quality across our products by advocating for user-centered product roadmaps, and insights-driven by user research</p>\n\n<p>\_</p>\n\n<p><strong>YOUR PROFILE</strong></p>\n\n<p>Degree in Design (e.g. interaction, graphic, visual communications, product, industrial, etc), Human-Computer Interaction (HCI), or a related field, or equivalent practical experience</p>\n\n<p>5+ years of experience in translating stakeholder goals, user research, and complex user flows into simple experiences</p>\n\n<p>Measurable impact on improving SaaS, e-commerce or Fintech products</p>\n\n<p>Experience managing or leading design teams</p>\n\n<p>Excellent communication skills and experience collaborating with Product Management and Engineering counterparts</p>\n\n<p>Experience in Agile/Scrum environments</p>\n\n<p>Have cross-platform design experiences (Web, Android, iOS, email)</p>\n\n<p>Technically fluent, comfortable working closely with engineering</p>\n\n<p>Fluent in English.<br />\n<br />\n<br />\n<strong>ABOUT US</strong><br />\nAs one of the fastest-growing FinTech companies in Europe, Finiata is an exciting place to work. We are determined to help small businesses and freelancers in Europe to focus on what really matters – saving them time, stress and money by providing accessible and seamless financing and cash flow solutions.</p>\n\n<p>In less than 2 years, Finiata has raised more than €23 million from top European investors. This has been possible by focusing on long-term customer needs and providing the best solutions based on real customer feedback.</p>\n\n<p>Setting business up for success is Finiata’s reason for existence. Our easy-to-use Finiata App enables businesses to receive working-capital, credited to their bank account within 15 minutes, resolving the struggle for liquidity without any credit history or complicated forms.</p>\n\n<p>Finiata is filled with curious people who want to learn while having fun. Our diverse team of 60 talents from 19 nations is located across three locations in Germany, Poland, and Ukraine. We appreciate the power of diversity and share a passion for product development and creating exceptional user experiences that have a real impact on our customers’ lives. Join a fast-growing company of smart and ambitious people to support more than 1 million small businesses over the next 5 years!</p>\n\n<p>\_</p>\n\n<p>For more information contact our alumnus<a href=\"/users/ecodallaluna\"> Ilario</a></p>\n"
+field_job_location:
+  -
+    value: 'Berlin, Germany'
+    format: full_html
+    processed: 'Berlin, Germany'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

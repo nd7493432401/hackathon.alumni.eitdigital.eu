@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8584be62-60eb-4416-b233-169baa4c5f5f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/202
+alias:
+  -
+    value: /event/trento-alumni-networking-meetup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

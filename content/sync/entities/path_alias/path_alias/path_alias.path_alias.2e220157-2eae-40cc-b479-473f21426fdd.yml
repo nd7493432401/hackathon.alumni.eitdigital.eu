@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2e220157-2eae-40cc-b479-473f21426fdd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/67
+alias:
+  -
+    value: /entry-universities/institut-mines-telecom-rennes-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 489bb249-aab1-4edf-834a-d20336f497eb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/429
+alias:
+  -
+    value: /job/front-end-full-stack-software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

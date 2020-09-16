@@ -1,0 +1,19 @@
+uuid: 3bfa1630-6da6-491d-8263-fbcc822312d5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_university
+    - paragraphs.paragraphs_type.education
+id: paragraph.education.field_university
+field_name: field_university
+entity_type: paragraph
+bundle: education
+label: University
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

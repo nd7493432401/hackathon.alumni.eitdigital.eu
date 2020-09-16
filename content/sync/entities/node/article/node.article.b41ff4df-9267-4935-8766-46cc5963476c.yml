@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: b41ff4df-9267-4935-8766-46cc5963476c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:12:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Annual Meeting 2020: Social Responsibility in Tech'
+created:
+  -
+    value: '2020-01-28T12:24:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:12:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/annual-meeting-2020-social-responsibility-tech
+body:
+  -
+    value: "<p>The EIT Digital Alumni are a valuable community of tech professionals in different fields. But what do we have in common across all of our areas of expertise? We just need to look at <strong>the world we live in</strong> to realize the answer:</p>\r\n\r\n<p dir=\"ltr\">On the one hand, it has never been easier to travel, connect and keep in touch with our loved ones. On the other hand, we have become extremely dependent on mobile devices and recommender algorithms to plan our daily lives. We have access to more information than any previous generations, yet the lines between reality and fiction are <strong>blurrier than ever before</strong>, because of trends like microtargeted disinformation, AI-generated deepfakes, filter bubbles and fake news.</p>\r\n\r\n<p dir=\"ltr\">The UN Secretary General, António Guterres, has recently warned that <strong>“the dark side of technology”</strong> is <a href=\"https://news.un.org/en/story/2020/01/1055791\" target=\"_blank\">one of the four horsemen</a> threatening the future of humanity in the 21st century. During the latest World Economic Forum meeting in Davos, historian and writer Yuval Noah Harari claimed that we are already <a href=\"https://www.facebook.com/watch/?v=1049146935420249\" target=\"_blank\">in the midst of an AI-arms race</a> that can concentrate all global wealth in very few tech hubs...</p>\r\n\r\n<p dir=\"ltr\">For all the reasons above, we have decided to focus this year on some of the most important challenges our society faces when it comes to digitalization, creating a unique opportunity to reflect on the ways in which we can transform our society into a utopia or dystopia: Sustainability, inclusion, diversity, data privacy and public transparency are some of the key aspects that affect all of us alike. Thus, the theme of the Annual Meeting 2020 will be <strong>\"Social Responsibility in Tech\".</strong></p>\r\n\r\n<p dir=\"ltr\">We are happy to invite you to <a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2020\" target=\"_blank\">our largest and most exciting event</a>, which will be hosted in <strong>Split, Croatia</strong> between <strong>Thursday 30th of April</strong> and <strong>Sunday 3rd of May, 2020</strong>. The programme will include a broad range of activities that will not only boost your career from a professional and personal point of view, but will also allow you to take a short holiday together with old and new friends, surrounded by pleasant weather&nbsp;and relaxing views.</p>\r\n\r\n<p dir=\"ltr\"><img alt=\"Split, Croatia\" data-entity-type=\"file\" data-entity-uuid=\"e5da6869-c334-4005-9759-1df304200689\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/split-3748162_1920.jpg\" /></p>\r\n\r\n<p dir=\"ltr\">&nbsp;</p>\r\n\r\n<p dir=\"ltr\"><strong>Croatia</strong> is also in the spotlight of European leaders and policy-makers this year, because it is the first time ever the country holds the rotating <a href=\"https://eu2020.hr/\" target=\"_blank\">presidency of the Council of the EU</a>, so this is the perfect occasion to reflect how our continent can position itself as a stronger market for digital innovation. Can Europe provide a stable and reliable environment that fosters technological development, without hindering the rights and freedoms of the individuals?</p>\r\n\r\n<p dir=\"ltr\">Join your fellow alumni, participate in the discussion and let's build together <strong>a vision for our future societies, now!&nbsp;</strong></p>\r\n\r\n<p dir=\"ltr\">&nbsp;</p>\r\n\r\n<p dir=\"ltr\"><em>Registrations for the Annual Meeting 2020 are open between February 10th and&nbsp;March 8th. <a href=\"http://bit.ly/digitalumni20_register\" target=\"_blank\"><strong>More information and application&nbsp;link HERE.</strong></a></em></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni are a valuable community of tech professionals in different fields. But what do we have in common across all of our areas of expertise? We just need to look at <strong>the world we live in</strong> to realize the answer:</p>\n\n<p dir=\"ltr\">On the one hand, it has never been easier to travel, connect and keep in touch with our loved ones. On the other hand, we have become extremely dependent on mobile devices and recommender algorithms to plan our daily lives. We have access to more information than any previous generations, yet the lines between reality and fiction are <strong>blurrier than ever before</strong>, because of trends like microtargeted disinformation, AI-generated deepfakes, filter bubbles and fake news.</p>\n\n<p dir=\"ltr\">The UN Secretary General, António Guterres, has recently warned that <strong>“the dark side of technology”</strong> is <a href=\"https://news.un.org/en/story/2020/01/1055791\" target=\"_blank\">one of the four horsemen</a> threatening the future of humanity in the 21st century. During the latest World Economic Forum meeting in Davos, historian and writer Yuval Noah Harari claimed that we are already <a href=\"https://www.facebook.com/watch/?v=1049146935420249\" target=\"_blank\">in the midst of an AI-arms race</a> that can concentrate all global wealth in very few tech hubs...</p>\n\n<p dir=\"ltr\">For all the reasons above, we have decided to focus this year on some of the most important challenges our society faces when it comes to digitalization, creating a unique opportunity to reflect on the ways in which we can transform our society into a utopia or dystopia: Sustainability, inclusion, diversity, data privacy and public transparency are some of the key aspects that affect all of us alike. Thus, the theme of the Annual Meeting 2020 will be <strong>\"Social Responsibility in Tech\".</strong></p>\n\n<p dir=\"ltr\">We are happy to invite you to <a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2020\" target=\"_blank\">our largest and most exciting event</a>, which will be hosted in <strong>Split, Croatia</strong> between <strong>Thursday 30th of April</strong> and <strong>Sunday 3rd of May, 2020</strong>. The programme will include a broad range of activities that will not only boost your career from a professional and personal point of view, but will also allow you to take a short holiday together with old and new friends, surrounded by pleasant weather\_and relaxing views.</p>\n\n<p dir=\"ltr\"><img alt=\"Split, Croatia\" data-entity-type=\"file\" data-entity-uuid=\"e5da6869-c334-4005-9759-1df304200689\" src=\"/sites/default/files/inline-images/split-3748162_1920.jpg\" /></p>\n\n<p dir=\"ltr\">\_</p>\n\n<p dir=\"ltr\"><strong>Croatia</strong> is also in the spotlight of European leaders and policy-makers this year, because it is the first time ever the country holds the rotating <a href=\"https://eu2020.hr/\" target=\"_blank\">presidency of the Council of the EU</a>, so this is the perfect occasion to reflect how our continent can position itself as a stronger market for digital innovation. Can Europe provide a stable and reliable environment that fosters technological development, without hindering the rights and freedoms of the individuals?</p>\n\n<p dir=\"ltr\">Join your fellow alumni, participate in the discussion and let's build together <strong>a vision for our future societies, now!\_</strong></p>\n\n<p dir=\"ltr\">\_</p>\n\n<p dir=\"ltr\"><em>Registrations for the Annual Meeting 2020 are open between February 10th and\_March 8th. <a href=\"http://bit.ly/digitalumni20_register\" target=\"_blank\"><strong>More information and application\_link HERE.</strong></a></em></p>\n"
+    summary: 'The EIT Digital Alumni are a valuable community of tech professionals in different fields. But what '
+    summary_processed: 'The EIT Digital Alumni are a valuable community of tech professionals in different fields. But what '
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Let''s build together a vision for our future societies'
+field_image:
+  -
+    target_type: media
+    target_uuid: c2694b6b-58f6-432a-bd66-658639caa2b5
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.c2694b6b-58f6-432a-bd66-658639caa2b5

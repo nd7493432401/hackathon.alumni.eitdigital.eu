@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a3b40210-dfa3-4d8c-bb87-4961bcc59bf0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/515
+alias:
+  -
+    value: /job/uiux-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

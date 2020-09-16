@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 2056679a-20b0-4d7b-b354-16bc37723907
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Sandip Pandey'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/sandip-pandey
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>My motivation to apply for the position of Secretary of the EIT Digital Alumni to contribute the community to make it stronger and better organized and in the process gain a meaningful lifetime experience.</p>'
+    format: full_html
+    processed: '<p>My motivation to apply for the position of Secretary of the EIT Digital Alumni to contribute the community to make it stronger and better organized and in the process gain a meaningful lifetime experience.</p>'
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Sandip Pandey'
+    format: full_html
+    processed: 'Sandip Pandey'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>My vision for the community in the days to come is to make the Alumni association a place of value for all current and past students and try to engage them to be active members of the community in the ways they can. Myself, I would like to personally incline towards creating our Alumni association to be a go to place for current and future graduates aspiring to be innovators &amp; entrepreneurs to get meaningful help, suggestions and advice especially during their starting stage and support them in any ways possible during their entrepreneurial career.&nbsp;</p>'
+    format: full_html
+    processed: "<p>My vision for the community in the days to come is to make the Alumni association a place of value for all current and past students and try to engage them to be active members of the community in the ways they can. Myself, I would like to personally incline towards creating our Alumni association to be a go to place for current and future graduates aspiring to be innovators &amp; entrepreneurs to get meaningful help, suggestions and advice especially during their starting stage and support them in any ways possible during their entrepreneurial career.\_</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>I like to keep things planned and organized. Though I don''t have any previous experience working as Secretary, I think I can learn in the process &nbsp;and do a good job.</p>'
+    format: full_html
+    processed: "<p>I like to keep things planned and organized. Though I don't have any previous experience working as Secretary, I think I can learn in the process \_and do a good job.</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

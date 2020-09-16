@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 428fa2c0-654b-48fa-82db-d8d16a739b8f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/93
+alias:
+  -
+    value: /article/winner-our-slush-contest
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

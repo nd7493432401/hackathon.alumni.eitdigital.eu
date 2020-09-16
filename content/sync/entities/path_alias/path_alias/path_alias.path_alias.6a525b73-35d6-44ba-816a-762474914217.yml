@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6a525b73-35d6-44ba-816a-762474914217
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/171
+alias:
+  -
+    value: /event/diffusion-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

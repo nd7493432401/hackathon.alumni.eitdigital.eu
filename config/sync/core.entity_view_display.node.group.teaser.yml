@@ -1,0 +1,53 @@
+uuid: 2c5f2663-9061-4eab-b5b0-3d313e84f940
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.group.body
+    - field.field.node.group.field_external_group_webpage
+    - field.field.node.group.field_group_dec
+    - field.field.node.group.field_group_image
+    - field.field.node.group.field_group_intro_image
+    - field.field.node.group.field_group_introduction
+    - field.field.node.group.field_group_leader
+    - field.field.node.group.field_group_type
+    - node.type.group
+  module:
+    - media
+    - text
+    - user
+id: node.group.teaser
+targetEntityType: node
+bundle: group
+mode: teaser
+content:
+  field_group_intro_image:
+    type: media_thumbnail
+    weight: 0
+    region: content
+    label: visually_hidden
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+  field_group_introduction:
+    type: text_default
+    weight: 1
+    region: content
+    label: visually_hidden
+    settings: {  }
+    third_party_settings: {  }
+  links:
+    weight: 2
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  body: true
+  field_external_group_webpage: true
+  field_group_dec: true
+  field_group_image: true
+  field_group_leader: true
+  field_group_type: true
+  langcode: true

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8d1ba93d-0e5a-4973-a5d5-62f3fd5a99ad
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/123
+alias:
+  -
+    value: /candidate/craig-kershaw
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

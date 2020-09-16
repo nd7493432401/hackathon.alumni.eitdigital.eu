@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 073f93f1-6b0e-4fb3-abd0-8a784c0a0d8e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/554
+alias:
+  -
+    value: /job/ingenieur-terrain-field-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

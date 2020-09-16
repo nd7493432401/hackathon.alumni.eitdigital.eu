@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bd36427a-a61e-4d8f-8be4-d74c93b3c741
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/378
+alias:
+  -
+    value: /job/back-end-devops-software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

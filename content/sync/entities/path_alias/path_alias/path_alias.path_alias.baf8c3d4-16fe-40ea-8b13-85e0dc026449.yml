@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: baf8c3d4-16fe-40ea-8b13-85e0dc026449
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/497
+alias:
+  -
+    value: /job/uxui-specialist
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

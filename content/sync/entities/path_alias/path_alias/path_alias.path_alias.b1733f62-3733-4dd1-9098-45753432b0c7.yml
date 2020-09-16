@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1733f62-3733-4dd1-9098-45753432b0c7
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /webform/contact/drafts
+alias:
+  -
+    value: /form/contact/drafts
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

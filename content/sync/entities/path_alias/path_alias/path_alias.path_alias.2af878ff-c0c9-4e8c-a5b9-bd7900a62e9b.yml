@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2af878ff-c0c9-4e8c-a5b9-bd7900a62e9b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/89
+alias:
+  -
+    value: /article/spotlight-yue-tianchi
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

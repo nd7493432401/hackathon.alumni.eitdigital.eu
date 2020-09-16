@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 728ce31c-4252-4795-8807-a6e13dc12da8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Teresa Santos Coelho'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/teresa-santos-coelho
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>I have always been a very active person, looking to try new things. When I started my Bachelor I was part of three very different student groups and when I started my Master''s with EIT, the situation was no different.</p><p>When I was a first year student, I went to Brussels to the first EIT Digital Meeting where I came across this amazing group of people and started to be more and more excited to be part of it.&nbsp;Since then, I been part of the organising teams of the Meetings in Trento and, most recently, in Porto and the EIT Connect in Budapest. I want to be able to continue and be even more active!</p>'
+    format: full_html
+    processed: "<p>I have always been a very active person, looking to try new things. When I started my Bachelor I was part of three very different student groups and when I started my Master's with EIT, the situation was no different.</p><p>When I was a first year student, I went to Brussels to the first EIT Digital Meeting where I came across this amazing group of people and started to be more and more excited to be part of it.\_Since then, I been part of the organising teams of the Meetings in Trento and, most recently, in Porto and the EIT Connect in Budapest. I want to be able to continue and be even more active!</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Teresa Santos Coelho'
+    format: full_html
+    processed: 'Teresa Santos Coelho'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I love how different this community is from anything similar we might have in Europe. The fact that it is rather a young community means also that we are growing together and looking for ways to develop our own identity. Recently, I was told that it was impressive how we were able to get together every year and brigging people from all over just for a few days, which made me incredibly proud of the group I belong to.&nbsp;As such, my vision for this community bases, on the one hand,&nbsp;on the strong bond that we have, as a group, and try to make it grow even more.</p><p>Besides, I believe that we should not only invest on the personal aspect of our community, as well as to&nbsp;bring more&nbsp;value to it. This is not only by creating a name to the outside world as well as&nbsp;to the ones that are already in the community and use the tallented people we already have and&nbsp;learn from them.</p>'
+    format: full_html
+    processed: "<p>I love how different this community is from anything similar we might have in Europe. The fact that it is rather a young community means also that we are growing together and looking for ways to develop our own identity. Recently, I was told that it was impressive how we were able to get together every year and brigging people from all over just for a few days, which made me incredibly proud of the group I belong to.\_As such, my vision for this community bases, on the one hand,\_on the strong bond that we have, as a group, and try to make it grow even more.</p><p>Besides, I believe that we should not only invest on the personal aspect of our community, as well as to\_bring more\_value to it. This is not only by creating a name to the outside world as well as\_to the ones that are already in the community and use the tallented people we already have and\_learn from them.</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>People should vote for me because I am motivated, will push forward and continue the great work the previous boards have already done! I am a hardworking team-player that is dedicated and eager to learn more, while using my previous experiences, into this role! Last but not the least, more than "giving back", I want to see this community&nbsp;thrive and develop!</p><p>&nbsp;</p>'
+    format: full_html
+    processed: "<p>People should vote for me because I am motivated, will push forward and continue the great work the previous boards have already done! I am a hardworking team-player that is dedicated and eager to learn more, while using my previous experiences, into this role! Last but not the least, more than \"giving back\", I want to see this community\_thrive and develop!</p><p>\_</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

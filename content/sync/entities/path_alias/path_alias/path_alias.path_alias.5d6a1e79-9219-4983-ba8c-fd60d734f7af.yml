@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5d6a1e79-9219-4983-ba8c-fd60d734f7af
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/203
+alias:
+  -
+    value: /tags/alumni-news
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1a8a468c-7978-4604-b2f6-935d0b72f0c0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/152
+alias:
+  -
+    value: /summer-schools/2016-stockholm-future-cloud
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

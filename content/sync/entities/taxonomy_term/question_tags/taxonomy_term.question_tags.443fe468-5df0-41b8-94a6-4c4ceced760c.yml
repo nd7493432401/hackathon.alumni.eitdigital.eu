@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 443fe468-5df0-41b8-94a6-4c4ceced760c
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: question_tags
+    target_type: taxonomy_vocabulary
+    target_uuid: 7362754c-25ec-4269-87d2-62a23554489e
+revision_created:
+  -
+    value: '2020-03-23T14:33:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: alumni
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-23T14:33:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /question-tags/alumni
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

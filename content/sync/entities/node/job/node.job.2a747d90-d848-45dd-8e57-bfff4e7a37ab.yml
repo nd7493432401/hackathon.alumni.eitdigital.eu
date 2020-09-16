@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 2a747d90-d848-45dd-8e57-bfff4e7a37ab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Data Engineer'
+created:
+  -
+    value: '2018-12-04T18:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:45:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/data-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://jobs.lever.co/tradeshift/aa7a1a89-d411-4771-a29f-8385608ea4fc/apply'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Tradeshift
+    format: full_html
+    processed: Tradeshift
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>Would you be excited to join our growing team of analytics experts? <a href=\"https://tradeshift.com/\" target=\"_blank\">Tradeshift</a> is looking for a savvy Data Engineer who will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. As a Data Engineer you will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. To achieve this, you should be an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. We expect you to be excited by the prospect of optimizing or even redesigning our company’s data architecture to support our next generation of products and data&nbsp;initiatives.&nbsp;We value individuals who are self-directed and comfortable with supporting the data needs of multiple teams, systems and products.</p>\r\n\r\n<h3>What you will be doing:</h3>\r\n\r\n<ul>\r\n\t<li>Create and maintain optimal data pipeline architecture</li>\r\n\t<li>Assemble large, complex data sets that meet functional / non-functional business requirements</li>\r\n\t<li>Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.</li>\r\n\t<li>Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies</li>\r\n\t<li>Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics</li>\r\n\t<li>Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs</li>\r\n\t<li>Keep our data separated and secure across national boundaries through multiple data centers and AWS regions</li>\r\n\t<li>Work with data and analytics experts to strive for greater functionality in our data systems</li>\r\n</ul>\r\n\r\n<h3>About you:</h3>\r\n\r\n<ul>\r\n\t<li>3+ years of experience in a Data Engineer role</li>\r\n\t<li>Working SQL knowledge and experience working with relational databases as well as variety of other databases</li>\r\n\t<li>Experience building and optimizing ‘big data’ data pipelines, architectures and data sets</li>\r\n\t<li>Strong analytic skills related to working with unstructured datasets</li>\r\n\t<li>Experience with building processes supporting data transformation, data structures, metadata, dependency and workload management</li>\r\n\t<li>Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores</li>\r\n\t<li>Strong project management and organizational skills</li>\r\n\t<li>Experience with supporting and working with cross-functional teams in a dynamic environment</li>\r\n\t<li>Experience with object-oriented/object function scripting languages such as Java, Scala, etc.</li>\r\n\t<li>Experience with relational SQL and NoSQL databases, including Postgres and Cassandra</li>\r\n\t<li>Experience with AWS cloud services like EC2, EMR, RDS, Redshift</li>\r\n\t<li>It’s a plus if you have worked with big data tools like Hadoop, Spark, Kafka, etc., data pipeline and workflow management tools like Azkaban, Luigi, Airflow, etc., and stream-processing systems like Apache Flink, Storm, Spark Streaming, etc.</li>\r\n\t<li>Experience with supporting and working with cross-functional teams in a dynamic environment</li>\r\n\t<li>Strong project management and organizational skills</li>\r\n\t<li>Graduate degree in Computer Science, Informatics or relevant experience.</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p>Would you be excited to join our growing team of analytics experts? <a href=\"https://tradeshift.com/\" target=\"_blank\">Tradeshift</a> is looking for a savvy Data Engineer who will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. As a Data Engineer you will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. To achieve this, you should be an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. We expect you to be excited by the prospect of optimizing or even redesigning our company’s data architecture to support our next generation of products and data\_initiatives.\_We value individuals who are self-directed and comfortable with supporting the data needs of multiple teams, systems and products.</p>\n\n<h3>What you will be doing:</h3>\n\n<ul>\n\t<li>Create and maintain optimal data pipeline architecture</li>\n\t<li>Assemble large, complex data sets that meet functional / non-functional business requirements</li>\n\t<li>Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.</li>\n\t<li>Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies</li>\n\t<li>Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics</li>\n\t<li>Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs</li>\n\t<li>Keep our data separated and secure across national boundaries through multiple data centers and AWS regions</li>\n\t<li>Work with data and analytics experts to strive for greater functionality in our data systems</li>\n</ul>\n\n<h3>About you:</h3>\n\n<ul>\n\t<li>3+ years of experience in a Data Engineer role</li>\n\t<li>Working SQL knowledge and experience working with relational databases as well as variety of other databases</li>\n\t<li>Experience building and optimizing ‘big data’ data pipelines, architectures and data sets</li>\n\t<li>Strong analytic skills related to working with unstructured datasets</li>\n\t<li>Experience with building processes supporting data transformation, data structures, metadata, dependency and workload management</li>\n\t<li>Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores</li>\n\t<li>Strong project management and organizational skills</li>\n\t<li>Experience with supporting and working with cross-functional teams in a dynamic environment</li>\n\t<li>Experience with object-oriented/object function scripting languages such as Java, Scala, etc.</li>\n\t<li>Experience with relational SQL and NoSQL databases, including Postgres and Cassandra</li>\n\t<li>Experience with AWS cloud services like EC2, EMR, RDS, Redshift</li>\n\t<li>It’s a plus if you have worked with big data tools like Hadoop, Spark, Kafka, etc., data pipeline and workflow management tools like Azkaban, Luigi, Airflow, etc., and stream-processing systems like Apache Flink, Storm, Spark Streaming, etc.</li>\n\t<li>Experience with supporting and working with cross-functional teams in a dynamic environment</li>\n\t<li>Strong project management and organizational skills</li>\n\t<li>Graduate degree in Computer Science, Informatics or relevant experience.</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Copenhagen, Denmark'
+    format: full_html
+    processed: 'Copenhagen, Denmark'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/yesgee'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

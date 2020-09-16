@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a84eafae-786a-4eb0-a857-3788a97ed373
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/537
+alias:
+  -
+    value: /job/cloud-iot-security-researchers
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

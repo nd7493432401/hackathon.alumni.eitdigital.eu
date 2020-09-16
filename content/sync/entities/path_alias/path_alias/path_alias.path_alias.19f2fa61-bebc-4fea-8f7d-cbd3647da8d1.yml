@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 19f2fa61-bebc-4fea-8f7d-cbd3647da8d1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/59
+alias:
+  -
+    value: /entry-universities/unitn-university-trento-trento-italy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

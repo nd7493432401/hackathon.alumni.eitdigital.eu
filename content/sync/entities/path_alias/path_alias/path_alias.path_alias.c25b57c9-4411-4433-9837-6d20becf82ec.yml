@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c25b57c9-4411-4433-9837-6d20becf82ec
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/413
+alias:
+  -
+    value: /job/post-master-professional-kiwame
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

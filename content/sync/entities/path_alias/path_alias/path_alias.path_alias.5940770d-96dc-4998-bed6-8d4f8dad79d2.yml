@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5940770d-96dc-4998-bed6-8d4f8dad79d2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/85
+alias:
+  -
+    value: /article/real-eit-cross-kic-story
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

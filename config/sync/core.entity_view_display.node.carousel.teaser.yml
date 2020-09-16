@@ -1,0 +1,39 @@
+uuid: 2aa6d316-7e18-4f79-8e25-e6f019552b57
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.carousel.body
+    - field.field.node.carousel.field_carousel_button_text
+    - field.field.node.carousel.field_carousel_button_url
+    - field.field.node.carousel.field_carousel_image
+    - field.field.node.carousel.field_carousel_subtitle
+    - node.type.carousel
+  module:
+    - text
+    - user
+id: node.carousel.teaser
+targetEntityType: node
+bundle: carousel
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_carousel_button_text: true
+  field_carousel_button_url: true
+  field_carousel_image: true
+  field_carousel_subtitle: true
+  langcode: true

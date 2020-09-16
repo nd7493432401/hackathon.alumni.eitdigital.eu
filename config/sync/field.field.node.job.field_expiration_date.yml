@@ -1,0 +1,21 @@
+uuid: cd44a472-0005-4966-82f4-a169f845fcf8
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_expiration_date
+    - node.type.job
+  module:
+    - datetime
+id: node.job.field_expiration_date
+field_name: field_expiration_date
+entity_type: node
+bundle: job
+label: 'Expiration Date'
+description: 'When does the job expire? Leave empty for no expiration.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: datetime

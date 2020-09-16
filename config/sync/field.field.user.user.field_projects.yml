@@ -1,0 +1,34 @@
+uuid: 3fcbccab-a920-4726-97aa-445dc19a28ad
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_projects
+    - paragraphs.paragraphs_type.projects
+  module:
+    - entity_reference_revisions
+    - user
+id: user.user.field_projects
+field_name: field_projects
+entity_type: user
+bundle: user
+label: Projects
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      projects: projects
+    target_bundles_drag_drop:
+      education:
+        weight: 2
+        enabled: false
+      projects:
+        enabled: true
+        weight: 4
+field_type: entity_reference_revisions

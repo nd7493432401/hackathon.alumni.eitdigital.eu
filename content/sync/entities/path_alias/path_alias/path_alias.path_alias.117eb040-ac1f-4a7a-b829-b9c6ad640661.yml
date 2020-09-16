@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 117eb040-ac1f-4a7a-b829-b9c6ad640661
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/244
+alias:
+  -
+    value: /event/eit-alumni-startup-days
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

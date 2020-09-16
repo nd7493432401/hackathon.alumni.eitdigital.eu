@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: a74e641b-1057-4762-806d-3f0810f4e100
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:47:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'What language does your thermostat speak?'
+created:
+  -
+    value: '2018-06-01T12:27:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:47:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/what-language-does-your-thermostat-speak
+body:
+  -
+    value: "<p>Since recently, “Open Sesame” and other miracles belong to our daily life as routinely as they used to belong to oriental fairy tales. We give commands to Alexa and Google Home, and as if by magic, the light goes on and off and the music plays. We talk to home assistants but how do devices within these systems talk to each other?</p>\r\n\r\n<p>I had a chat with&nbsp;<a href=\"https://alumni.eitdigital.eu/users/ankithbale\">Ankith Bale</a>&nbsp;who recently gave a speech about&nbsp;<a href=\"https://www.threadgroup.org/\">Thread</a> — a protocol designed specifically for connected home solutions at the&nbsp;<a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2018\">EIT Digital Alumni&nbsp;Meeting</a> in Trento, Italy. Ankith is an embedded software engineer at&nbsp;<a href=\"https://www.broadcom.com/\">Broadcom</a>&nbsp;working with wi-fi protocol. He got curious about Thread while writing his Master thesis at Philips Lighting Research and continued exploring this topic.</p>\r\n\r\n<p><strong>Ankith, everybody is now talking about IoT. Connected devices have to communicate with each other — this is where protocols come into play, correct?</strong></p>\r\n\r\n<p>That’s absolutely right. Protocols are the languages which devices use to talk to each other seamlessly.</p>\r\n\r\n<p><strong>Thread is relatively new. What is it about?</strong></p>\r\n\r\n<p>Thread is a new protocol that was built specifically for the IoT. It’s a low-power secure mesh networking protocol. Thread was created to realise the idea of a connected home.</p>\r\n\r\n<p><strong>We all know some examples of connected home solutions, for instance, Alexa or Google Home. Which protocols are currently employed by these devices?</strong></p>\r\n\r\n<p>The usual suspects: Bluetooth, ZigBee and Z-Wave. However, although these protocols have been in use for quite a while, they’re not ideal for IoT applications.</p>\r\n\r\n<p><strong>What are their drawbacks?</strong></p>\r\n\r\n<p>There are quite a few of them when it comes to the concept of a connected home. The key challenges would be insufficient security built into the protocol or poor interoperability as devices from various vendors may not know how to talk to each other. Also, devices are more power-hungry.</p>\r\n\r\n<p><strong>Was Thread designed to solve these issues? What are its advantages?</strong></p>\r\n\r\n<p>Yes. I’ll focus on the five majors ones that set Thread apart from the rest of the protocols. Firstly, it is IP-based which implies an easy connection to the network. You can connect devices at your home directly to the internet without any alterations required. The second clear advantage is the built-in security — a dedicated security mechanism and a dedicated commissioning process. The latter makes adding new devices to the network very simple. Thirdly, Thread network is very robust. If one device fails the network still functions. Moreover, as it’s highly flexible, if a device with a bigger role fails, a smaller device with a lower role can take over and keep the network operational.</p>\r\n\r\n<p><strong>Could you give us an example: what is a small device and a big device?</strong></p>\r\n\r\n<p>A big device is, for instance, a router — a device that talks to the Internet and to the mesh network or Thread network devices like a thermostat at your place. Let’s assume that a router collapses for some reason. Then any device with a lower role — say, a thermostat — can take over the role of the router and keep the Thread network operational.</p>\r\n\r\n<p><strong>You’ve named four advantages so far: IP basis, built-in security, steadiness and flexibility. What’s the fifth one?</strong></p>\r\n\r\n<p>Thread supports low-power devices. With this protocol devices won’t run out of battery any time soon after the launch, they can last for years with a single battery. This is a critical point. You don’t want your thermostat to run out of battery when you are on a holiday.</p>\r\n\r\n<p><strong>Which resources would you recommend to those people who want to learn more about Thread?</strong></p>\r\n\r\n<p>A good starting point is the&nbsp;Thread Group&nbsp;webpage that offers a lot of resources to companies as well as engineers. Thread group runs a certification programme for companies developing IoT products or solutions which grants many benefits worth exploring.</p>\r\n\r\n<p><strong>What is Thread Group?</strong></p>\r\n\r\n<p>It is a technology alliance of leading companies that are into IoT, for example, Samsung Electronics, Google, Nest Labs, Schneider Electric, Silicon Labs, etc. These companies realised the downsides of the existing protocols applied in connected home solutions and teamed up to develop a protocol which would address all those challenges. Thread is thus not vendor-specific. It’s a result of a joint effort which businesses can use for delivering their own products.</p>\r\n\r\n<hr />\r\n<p><em>Did you find this article interesting? Then share the article so that more people could learn about Thread, too. Thanks!</em></p>\r\n\r\n<p><a href=\"https://alumni.eitdigital.eu/users/dkamkalova\"><i>Darya Kamkalova</i></a></p>\r\n\r\n<p id=\"a850\" name=\"a850\">[originally posted&nbsp;<a href=\"http://bit.ly/ankith-d18\">on Medium</a>]</p>\r\n"
+    format: full_html
+    processed: "<p>Since recently, “Open Sesame” and other miracles belong to our daily life as routinely as they used to belong to oriental fairy tales. We give commands to Alexa and Google Home, and as if by magic, the light goes on and off and the music plays. We talk to home assistants but how do devices within these systems talk to each other?</p>\n\n<p>I had a chat with\_<a href=\"https://alumni.eitdigital.eu/users/ankithbale\">Ankith Bale</a>\_who recently gave a speech about\_<a href=\"https://www.threadgroup.org/\">Thread</a> — a protocol designed specifically for connected home solutions at the\_<a href=\"https://alumni.eitdigital.eu/event/annual-meeting-2018\">EIT Digital Alumni\_Meeting</a> in Trento, Italy. Ankith is an embedded software engineer at\_<a href=\"https://www.broadcom.com/\">Broadcom</a>\_working with wi-fi protocol. He got curious about Thread while writing his Master thesis at Philips Lighting Research and continued exploring this topic.</p>\n\n<p><strong>Ankith, everybody is now talking about IoT. Connected devices have to communicate with each other — this is where protocols come into play, correct?</strong></p>\n\n<p>That’s absolutely right. Protocols are the languages which devices use to talk to each other seamlessly.</p>\n\n<p><strong>Thread is relatively new. What is it about?</strong></p>\n\n<p>Thread is a new protocol that was built specifically for the IoT. It’s a low-power secure mesh networking protocol. Thread was created to realise the idea of a connected home.</p>\n\n<p><strong>We all know some examples of connected home solutions, for instance, Alexa or Google Home. Which protocols are currently employed by these devices?</strong></p>\n\n<p>The usual suspects: Bluetooth, ZigBee and Z-Wave. However, although these protocols have been in use for quite a while, they’re not ideal for IoT applications.</p>\n\n<p><strong>What are their drawbacks?</strong></p>\n\n<p>There are quite a few of them when it comes to the concept of a connected home. The key challenges would be insufficient security built into the protocol or poor interoperability as devices from various vendors may not know how to talk to each other. Also, devices are more power-hungry.</p>\n\n<p><strong>Was Thread designed to solve these issues? What are its advantages?</strong></p>\n\n<p>Yes. I’ll focus on the five majors ones that set Thread apart from the rest of the protocols. Firstly, it is IP-based which implies an easy connection to the network. You can connect devices at your home directly to the internet without any alterations required. The second clear advantage is the built-in security — a dedicated security mechanism and a dedicated commissioning process. The latter makes adding new devices to the network very simple. Thirdly, Thread network is very robust. If one device fails the network still functions. Moreover, as it’s highly flexible, if a device with a bigger role fails, a smaller device with a lower role can take over and keep the network operational.</p>\n\n<p><strong>Could you give us an example: what is a small device and a big device?</strong></p>\n\n<p>A big device is, for instance, a router — a device that talks to the Internet and to the mesh network or Thread network devices like a thermostat at your place. Let’s assume that a router collapses for some reason. Then any device with a lower role — say, a thermostat — can take over the role of the router and keep the Thread network operational.</p>\n\n<p><strong>You’ve named four advantages so far: IP basis, built-in security, steadiness and flexibility. What’s the fifth one?</strong></p>\n\n<p>Thread supports low-power devices. With this protocol devices won’t run out of battery any time soon after the launch, they can last for years with a single battery. This is a critical point. You don’t want your thermostat to run out of battery when you are on a holiday.</p>\n\n<p><strong>Which resources would you recommend to those people who want to learn more about Thread?</strong></p>\n\n<p>A good starting point is the\_Thread Group\_webpage that offers a lot of resources to companies as well as engineers. Thread group runs a certification programme for companies developing IoT products or solutions which grants many benefits worth exploring.</p>\n\n<p><strong>What is Thread Group?</strong></p>\n\n<p>It is a technology alliance of leading companies that are into IoT, for example, Samsung Electronics, Google, Nest Labs, Schneider Electric, Silicon Labs, etc. These companies realised the downsides of the existing protocols applied in connected home solutions and teamed up to develop a protocol which would address all those challenges. Thread is thus not vendor-specific. It’s a result of a joint effort which businesses can use for delivering their own products.</p>\n\n<hr />\n<p><em>Did you find this article interesting? Then share the article so that more people could learn about Thread, too. Thanks!</em></p>\n\n<p><a href=\"https://alumni.eitdigital.eu/users/dkamkalova\"><i>Darya Kamkalova</i></a></p>\n\n<p id=\"a850\" name=\"a850\">[originally posted\_<a href=\"http://bit.ly/ankith-d18\">on Medium</a>]</p>\n"
+    summary: 'Since recently, &ldquo;Open Sesame&rdquo; and other miracles belong to our daily life as routinely a'
+    summary_processed: 'Since recently, “Open Sesame” and other miracles belong to our daily life as routinely a'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'Darya interviewed Ankith who talks about Thread - a protocol for smart home solutions'
+field_image:
+  -
+    target_type: media
+    target_uuid: ba0b70ed-15d6-488e-ba54-dc7e155bee48
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.ba0b70ed-15d6-488e-ba54-dc7e155bee48

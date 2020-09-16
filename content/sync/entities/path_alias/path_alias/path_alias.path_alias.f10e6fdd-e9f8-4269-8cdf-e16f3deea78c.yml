@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f10e6fdd-e9f8-4269-8cdf-e16f3deea78c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/1
+alias:
+  -
+    value: /users/admin
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

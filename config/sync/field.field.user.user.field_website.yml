@@ -1,0 +1,48 @@
+uuid: f57f585a-934b-4e8f-af40-4f9b6dccb5e0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_website
+  module:
+    - link
+    - multiple_registration
+    - user
+third_party_settings:
+  multiple_registration:
+    user_additional_register_form:
+      authenticated: 0
+      potential_member_master: 0
+      potential_member_phd: 0
+      potential_member_employee: 0
+      alumni_member_employee: 0
+      associate_member_summer_school: 0
+      associate_member_professional_school: 0
+      alumni_member_master: 0
+      alumni_member_phd: 0
+      friend_member: 0
+    user_additional_register_form_required:
+      authenticated: 0
+      potential_member_master: 0
+      potential_member_phd: 0
+      potential_member_employee: 0
+      alumni_member_employee: 0
+      associate_member_summer_school: 0
+      associate_member_professional_school: 0
+      alumni_member_master: 0
+      alumni_member_phd: 0
+      friend_member: 0
+id: user.user.field_website
+field_name: field_website
+entity_type: user
+bundle: user
+label: Website
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 0
+field_type: link

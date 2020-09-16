@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 456b4352-9ed7-40a6-8f20-ce60d9b91e65
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: vote-elections.jpg
+thumbnail:
+  -
+    alt: Elections
+    title: null
+    width: 4898
+    height: 2041
+    target_type: file
+    target_uuid: 4558faba-f565-4c57-8312-de9f0f04a44c
+created:
+  -
+    value: '2020-05-05T12:43:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T12:43:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: Elections
+    title: ''
+    width: 4898
+    height: 2041
+    target_type: file
+    target_uuid: 4558faba-f565-4c57-8312-de9f0f04a44c
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.4558faba-f565-4c57-8312-de9f0f04a44c

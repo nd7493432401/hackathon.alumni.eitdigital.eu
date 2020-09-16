@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 11e1f722-486c-46aa-ac7b-f862ba85a88d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/216
+alias:
+  -
+    value: /tracks-master-school/embedded-systems-es
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1e649a27-f0ed-40b4-b6a1-e14777a4d0b6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/196
+alias:
+  -
+    value: /summer-schools/2015-karlsruhe-smart-energy-systems
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

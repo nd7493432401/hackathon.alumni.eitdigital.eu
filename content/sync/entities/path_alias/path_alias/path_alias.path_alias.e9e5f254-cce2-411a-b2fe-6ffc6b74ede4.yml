@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e9e5f254-cce2-411a-b2fe-6ffc6b74ede4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/141
+alias:
+  -
+    value: /candidate/teo-patras-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

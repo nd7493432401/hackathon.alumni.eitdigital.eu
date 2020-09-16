@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f86a8b62-310f-423a-9c37-e79c62683d69
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:13:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'One ticket for SLUSH 2016'
+created:
+  -
+    value: '2016-09-27T13:59:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:13:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/one-ticket-slush-2016
+body:
+  -
+    value: "<p>The winner of \"One ticket for Slush 2016\" is...&nbsp;Bálint Zsiga! :)</p>\r\n\r\n<p>Bálint has been an HCID student at the EIT Digital Master School, studying at Aalto University and KTH Royal Institute of Technology and graduating in 2015. He applied at our contest with his concept called&nbsp;Atmo, a continuation of his thesis in which he explored \"how interactive light can enhance the gameplay experience of board games\".</p>\r\n\r\n<p>\"Atmo provides a new interface for board gaming. It turns players’ room into an immersive, interactive environment with the help of projections on the table, ambient light and sound that are tightly connected to their games' theme, events and player actions. Players keep Atmo above their table, which tracks their actions like dice rolls in the game. Atmo opens a new dimension in the field of board games. It allows the usage of dynamic game boards, more immersive storytelling and totally new game mechanics\".</p>\r\n\r\n<p>Bálint and his team just graduated from the Talent Program of Kitchen Budapest and are now finalising their prototype with its first playable demo, planning to take their first game in front of players in a few weeks. They were sure&nbsp;\"to be a good team to support and help to get to Slush to present Atmo to a wide audience, validate our idea further, get connections\"&nbsp;.</p>\r\n\r\n<p>Therefore, the Board decided to choose Bálint as our EIT Digital Alumni Ambassador at Slush 2016! CONGRATS!</p>\r\n\r\n<p>Read more about his story and the idea behind ATMO <a href=\"http://bit.ly/2cFDytO\">here</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>The winner of \"One ticket for Slush 2016\" is...\_Bálint Zsiga! :)</p>\n\n<p>Bálint has been an HCID student at the EIT Digital Master School, studying at Aalto University and KTH Royal Institute of Technology and graduating in 2015. He applied at our contest with his concept called\_Atmo, a continuation of his thesis in which he explored \"how interactive light can enhance the gameplay experience of board games\".</p>\n\n<p>\"Atmo provides a new interface for board gaming. It turns players’ room into an immersive, interactive environment with the help of projections on the table, ambient light and sound that are tightly connected to their games' theme, events and player actions. Players keep Atmo above their table, which tracks their actions like dice rolls in the game. Atmo opens a new dimension in the field of board games. It allows the usage of dynamic game boards, more immersive storytelling and totally new game mechanics\".</p>\n\n<p>Bálint and his team just graduated from the Talent Program of Kitchen Budapest and are now finalising their prototype with its first playable demo, planning to take their first game in front of players in a few weeks. They were sure\_\"to be a good team to support and help to get to Slush to present Atmo to a wide audience, validate our idea further, get connections\"\_.</p>\n\n<p>Therefore, the Board decided to choose Bálint as our EIT Digital Alumni Ambassador at Slush 2016! CONGRATS!</p>\n\n<p>Read more about his story and the idea behind ATMO <a href=\"http://bit.ly/2cFDytO\">here</a>!</p>\n"
+    summary: "The winner of \"One ticket for Slush 2016\" is... Bálint Zsiga! :) \r\nBálint has been an HCID student at the EIT Digital Master School"
+    summary_processed: "The winner of \"One ticket for Slush 2016\" is... Bálint Zsiga! :) \nBálint has been an HCID student at the EIT Digital Master School"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The winner of "One ticket for Slush 2016" is Bálint Zsiga'
+field_image:
+  -
+    target_type: media
+    target_uuid: d1f2d91f-dc8e-4394-9c68-56778255f1d8
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.d1f2d91f-dc8e-4394-9c68-56778255f1d8

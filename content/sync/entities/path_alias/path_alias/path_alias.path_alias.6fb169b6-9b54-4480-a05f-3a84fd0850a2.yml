@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6fb169b6-9b54-4480-a05f-3a84fd0850a2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/213
+alias:
+  -
+    value: /event/slush-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

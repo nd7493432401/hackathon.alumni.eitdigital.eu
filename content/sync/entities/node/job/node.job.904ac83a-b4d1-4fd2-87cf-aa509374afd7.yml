@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 904ac83a-b4d1-4fd2-87cf-aa509374afd7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'UX Designer'
+created:
+  -
+    value: '2020-01-10T09:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:26:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ux-designer-2
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.careers.philips.com/professional/global/en/job/PHILUS345065ENGLOBAL/UX-Designer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Royal Philips'
+    format: full_html
+    processed: 'Royal Philips'
+field_expiration_date:
+  -
+    value: '2020-01-10T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>In this role, you have the opportunity to<br />\r\n<br />\r\nHelp us to advance healthcare by creating innovative solutions for healthcare providers as well as the patients. In healthcare, there are many opportunities and challenges to improve the lives of patients by designing solutions for patients and the healthcare organizations that provide care to them.<br />\r\n<br />\r\nYou are responsible for<br />\r\n&nbsp;</p>\r\n\r\n<p>[analysis/research] Understanding people, business and societies, framing the problem with a strong focus on user needs and requirements</p>\r\n\r\n<p>[creation/validation] Creating user focused strategies, innovations, solutions and experiences and the user testing and validation of these, considering usability, sustainability and appropriate visual and verbal articulation in line with DLS and Brand guidelines</p>\r\n\r\n<p>[process/delivery] Executing on scope, driving own efficiency, delivering appropriate design quality within budget and project parameters</p>\r\n\r\n<p>[stakeholder focus] Focusing on the customer, collaborating, partnering and co-creating with internal and external stakeholders, with clear and impactful communication and articulation of design decision making</p>\r\n\r\n<p>[team] Contributing to effective teamwork, receiving guidance and being a pro-active team player, offering a point of view<br />\r\n&nbsp;</p>\r\n\r\n<p>You are a part of<br />\r\n<br />\r\nA global design team to deliver best in class experiences and solutions used by clinicians, patients, healthcare consumers and healthcare administrators. You will be working for the Imaging Guided Therapy business together with a design team of 20+ people composed of a program manager, a design business partner, product and UX designers.<br />\r\n<br />\r\nTo succeed in this role, you should have the following skills and experience<br />\r\n&nbsp;</p>\r\n\r\n<p>Bachelor degree in Design, Design Research or related discipline, or equivalent professional Design training experience.</p>\r\n\r\n<p>Minimum 3+ years of relevant professional experience.</p>\r\n\r\n<p>Interest in Designing for healthcare applications</p>\r\n\r\n<p>Demonstrable design or design research experience from relevant companies, agencies, institutions or own consultancy.</p>\r\n\r\n<p>Understands and applies broader business and market context, able to synthesize different perspectives and reframe the design challenge</p>\r\n\r\n<p>Independently drives and executes design solution creation within a project team, thinking holistically in eco-systems</p>\r\n\r\n<p>Independently leads projects of average complexity with good understanding of budget and time constraints, driving efficiency and holding project level design quality reviews</p>\r\n\r\n<p>Works together with or consulting business stakeholders, actively managing relationships and challenging the status quo to drive innovation and step-up for the user</p>\r\n\r\n<p>Effectively guides internal and external resources on project basis</p>\r\n\r\n<p>Experience with Sketch, InVision and prototyping tools, being flexible in adapting towards new tools and way of working</p>\r\n\r\n<p>Fluent in English, both written and verbal</p>\r\n\r\n<p>Willingness and ability to travel to customers globally</p>\r\n\r\n<p>For more details please reach to Alumni <a href=\"mailto:lvyuan0302@hotmail.com\">Yuan</a></p>\r\n"
+    format: full_html
+    processed: "<p>In this role, you have the opportunity to<br />\n<br />\nHelp us to advance healthcare by creating innovative solutions for healthcare providers as well as the patients. In healthcare, there are many opportunities and challenges to improve the lives of patients by designing solutions for patients and the healthcare organizations that provide care to them.<br />\n<br />\nYou are responsible for<br />\n\_</p>\n\n<p>[analysis/research] Understanding people, business and societies, framing the problem with a strong focus on user needs and requirements</p>\n\n<p>[creation/validation] Creating user focused strategies, innovations, solutions and experiences and the user testing and validation of these, considering usability, sustainability and appropriate visual and verbal articulation in line with DLS and Brand guidelines</p>\n\n<p>[process/delivery] Executing on scope, driving own efficiency, delivering appropriate design quality within budget and project parameters</p>\n\n<p>[stakeholder focus] Focusing on the customer, collaborating, partnering and co-creating with internal and external stakeholders, with clear and impactful communication and articulation of design decision making</p>\n\n<p>[team] Contributing to effective teamwork, receiving guidance and being a pro-active team player, offering a point of view<br />\n\_</p>\n\n<p>You are a part of<br />\n<br />\nA global design team to deliver best in class experiences and solutions used by clinicians, patients, healthcare consumers and healthcare administrators. You will be working for the Imaging Guided Therapy business together with a design team of 20+ people composed of a program manager, a design business partner, product and UX designers.<br />\n<br />\nTo succeed in this role, you should have the following skills and experience<br />\n\_</p>\n\n<p>Bachelor degree in Design, Design Research or related discipline, or equivalent professional Design training experience.</p>\n\n<p>Minimum 3+ years of relevant professional experience.</p>\n\n<p>Interest in Designing for healthcare applications</p>\n\n<p>Demonstrable design or design research experience from relevant companies, agencies, institutions or own consultancy.</p>\n\n<p>Understands and applies broader business and market context, able to synthesize different perspectives and reframe the design challenge</p>\n\n<p>Independently drives and executes design solution creation within a project team, thinking holistically in eco-systems</p>\n\n<p>Independently leads projects of average complexity with good understanding of budget and time constraints, driving efficiency and holding project level design quality reviews</p>\n\n<p>Works together with or consulting business stakeholders, actively managing relationships and challenging the status quo to drive innovation and step-up for the user</p>\n\n<p>Effectively guides internal and external resources on project basis</p>\n\n<p>Experience with Sketch, InVision and prototyping tools, being flexible in adapting towards new tools and way of working</p>\n\n<p>Fluent in English, both written and verbal</p>\n\n<p>Willingness and ability to travel to customers globally</p>\n\n<p>For more details please reach to Alumni <a href=\"mailto:lvyuan0302@hotmail.com\">Yuan</a></p>\n"
+field_job_location:
+  -
+    value: Eindhoven
+    format: full_html
+    processed: Eindhoven
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

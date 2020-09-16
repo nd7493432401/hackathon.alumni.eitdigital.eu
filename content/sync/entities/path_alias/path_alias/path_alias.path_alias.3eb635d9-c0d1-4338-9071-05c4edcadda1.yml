@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3eb635d9-c0d1-4338-9071-05c4edcadda1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/222
+alias:
+  -
+    value: /event/landing-festival
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

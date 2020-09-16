@@ -1,0 +1,29 @@
+uuid: c2a5864a-fa3d-4b9f-b8a6-ad2a0867682c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_employee_from
+    - profile.type.eit_digital_employee
+    - taxonomy.vocabulary.entry_y
+id: profile.eit_digital_employee.field_employee_from
+field_name: field_employee_from
+entity_type: profile
+bundle: eit_digital_employee
+label: From
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      entry_y: entry_y
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

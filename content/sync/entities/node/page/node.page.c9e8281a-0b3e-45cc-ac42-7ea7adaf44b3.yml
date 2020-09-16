@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: c9e8281a-0b3e-45cc-ac42-7ea7adaf44b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: e084dd6e-a694-41b6-ae1d-a5076f3a851f
+revision_timestamp:
+  -
+    value: '2020-02-26T16:48:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'About Us'
+created:
+  -
+    value: '2020-02-13T16:55:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-08T09:02:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /about-us
+body:
+  -
+    value: "<p>The EIT Digital Alumni Foundation creates a vibrant, active and successful alumni network for EIT Digital. Our mission is to keep strong connections among fellow alumni and the EIT Digital ecosystem.</p>\r\n\r\n<p>We organise meet-ups, maintain an engaged community and discussion forum, keep track of alumni careers and support students and alumni to get in contact with companies, public institutions and academia.</p>\r\n\r\n<p>Our alumni are graduates of the EIT Digital Education programmes, as well as individuals who had a formal function in EIT Digital. The community also welcomes associate members and friends of EIT Digital.</p>\r\n\r\n<p>EIT Digital Alumni was registered on 17 July 2014 as a non-profit Foundation with registration number 0556.809.197 and has its seat in Brussels, Belgium.</p>\r\n\r\n<h4>For all general inquiries please contact: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></h4>\r\n\r\n<hr />\r\n<p>Take a look at the following <strong>slides</strong>&nbsp;and <strong>video</strong>&nbsp;if you would like to know more about our Community and get involved in our activities.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"485\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"//www.slideshare.net/slideshow/embed_code/key/JaGEaDOxfCYcOY\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" width=\"100%\"></iframe></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"100%\"></iframe></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni Foundation creates a vibrant, active and successful alumni network for EIT Digital. Our mission is to keep strong connections among fellow alumni and the EIT Digital ecosystem.</p>\n\n<p>We organise meet-ups, maintain an engaged community and discussion forum, keep track of alumni careers and support students and alumni to get in contact with companies, public institutions and academia.</p>\n\n<p>Our alumni are graduates of the EIT Digital Education programmes, as well as individuals who had a formal function in EIT Digital. The community also welcomes associate members and friends of EIT Digital.</p>\n\n<p>EIT Digital Alumni was registered on 17 July 2014 as a non-profit Foundation with registration number 0556.809.197 and has its seat in Brussels, Belgium.</p>\n\n<h4>For all general inquiries please contact: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></h4>\n\n<hr />\n<p>Take a look at the following <strong>slides</strong>\_and <strong>video</strong>\_if you would like to know more about our Community and get involved in our activities.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"485\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"//www.slideshare.net/slideshow/embed_code/key/JaGEaDOxfCYcOY\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" width=\"100%\"></iframe></p>\n\n<p>\_</p>\n\n<p><iframe allowfullscreen=\"true\" allowtransparency=\"true\" frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdigitalumni%2Fvideos%2F1006495232840214%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"100%\"></iframe></p>\n"
+    summary: ''
+    summary_processed: ''
+field_basic_page_image:
+  -
+    target_type: media
+    target_uuid: 7c7b603d-3140-4adc-b728-192bdf043503
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.7c7b603d-3140-4adc-b728-192bdf043503

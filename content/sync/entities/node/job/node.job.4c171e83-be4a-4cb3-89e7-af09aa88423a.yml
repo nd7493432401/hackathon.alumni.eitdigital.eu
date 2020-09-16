@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 4c171e83-be4a-4cb3-89e7-af09aa88423a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Lead iOS Developer'
+created:
+  -
+    value: '2018-05-03T13:03:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:01:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/lead-ios-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.imagicase.com/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: imagiCase
+    format: full_html
+    processed: imagiCase
+field_expiration_date:
+  -
+    value: '2018-05-25T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<h4 style=\"text-align: center;\"><strong><span style=\"font-size:18px;\">imagiCase is looking to grow their&nbsp;team!</span></strong></h4>\r\n\r\n<h1><strong><span style=\"font-size:20px;\">About&nbsp;imagiCase</span></strong></h1>\r\n\r\n<p>Do you think we need to get more girls into tech? And that youth need better tools to learn the basics of programming and be exposed to technology in a fun and creative way? Do you agree that computer science can be applied to many more school subjects than mathematics?<br />\r\n<br />\r\nThese are some of the fundamental ideas guiding the development of imagiCase, a start-up affiliated with KTH innovation that is aiming to inspire the next generation of female technologists. Our first product is a phone case with embedded LED lights that can be programmed to display any color, pattern or text through a mobile application. The application teaches programming concepts by linking these ideas to the visual representations on the phone case. In order to further engage our users, the platform also allows them to share their creations with each other and to work on their codes together. Finally, in order to ensure the quality of learning and to assist a guided learning experience, imagiCase also offers tutorials of varying levels in the app.<br />\r\n<br />\r\nimagiCase started as a research project at KTH. While affiliated with KTH innovation we also received a grant and participated in an incubation program with Start-Up Chile. Just recently we were selected as one of the start-ups to be part of Ericsson Garage, Ericsson’s incubation program. We are two co-founders: Beatrice is leading the hardware development while Dora is in charge of design and running our business and operations. We are looking for a third technical team member (possibly co-owner) to lead the development of our software.</p>\r\n\r\n<h1><strong><span style=\"font-size:20px;\">About the Role</span></strong></h1>\r\n\r\n<p>We are looking for someone to lead the development of the imagiCase application. We will be working together to bring our existing designs to reality and we will work iteratively conducting continuous user studies to ensure we are building the product our customers want! Your main focus will be building the iOS app that communicates with our hardware prototype and allows users to write code and send data over bluetooth to our hardware. For the first release, the fundamental features include bluetooth communication, a development environment where the users can write Python code and a dynamic keyboard that is designed for writing code. Later releases will focus more on the educational and social components of the product. You will have a lot of influence over the product and need to be able to stand on your own feet, be organised and self-driven.<br />\r\n<br />\r\nWe are a small team that moves fast and iterates. We follow the agile-scrum methodology and use tools such as Trello and Slack. We put high emphasis on communication and documentation. This was a result of our remote working culture but it is now a crucial part of how we operate. We are looking to bring the agile workflow more into our engineering and do weekly sprints, code reviews, testing and use continuous deployment infrastructure. As the lead software engineer, together with our CTO, you will be laying the foundations of the development culture.</p>\r\n\r\n<h1><strong><span style=\"font-size:20px;\">About You</span></strong></h1>\r\n\r\n<p>We are not just looking for an iOS developer. We are looking for a team member, someone with strong iOS development skills and who is here to stay, and together with us set the foundations of our engineering environment. On one hand, we are looking for someone with a proven passion for programming and for problem solving. On the other hand, we are looking for someone excited to set the foundations of the technology stack and our engineering environment.</p>\r\n\r\n<p><strong>Basic requirements:</strong></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>iOS (Objective C and/or Swift)</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Firebase or other mobile backend platforms</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Git</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>entrepreneurial mindset: ambitious, self-driven, and target-oriented with an ability to thrive in a fast-paced team environment</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>team oriented attitude</p>\r\n\t</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>willingness to be independent and are excited to take the lead on the project and make decisions that will shape the future of the product</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p>Ideally we would like someone with strong iOS and previous startup experience, but we are open to less experience if there is high interest and a good fit with our mission and values.<br />\r\n<br />\r\n<strong><span style=\"font-size:20px;\">What we Offer</span></strong></p>\r\n\r\n<ul>\r\n\t<li>\r\n\t<p>An opportunity to join a start-up with a social mission that operates in an exciting and quickly growing market and work together with a passionate and motivated team!</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Our cooperation will start with a part time 2-3 month consulting agreement to develop the foundations of the imagiCase application. Our intention is to have you join us as the lead-developer, and part-owner of the company afterwards!</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>Office at Ericsson Garage from May - October</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>It is possible to discuss remote work</p>\r\n\t</li>\r\n\t<li>\r\n\t<p>If you are interested, email your CV, and a summary of your experience to&nbsp;<a data-content=\"dora@imagicase.com\" data-type=\"mail\" href=\"mailto:dora@imagicase.com\" target=\"_self\">dora@imagicase.com</a></p>\r\n\t</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<h4 style=\"text-align: center;\"><strong><span style=\"font-size:18px;\">imagiCase is looking to grow their\_team!</span></strong></h4>\n\n<h1><strong><span style=\"font-size:20px;\">About\_imagiCase</span></strong></h1>\n\n<p>Do you think we need to get more girls into tech? And that youth need better tools to learn the basics of programming and be exposed to technology in a fun and creative way? Do you agree that computer science can be applied to many more school subjects than mathematics?<br />\n<br />\nThese are some of the fundamental ideas guiding the development of imagiCase, a start-up affiliated with KTH innovation that is aiming to inspire the next generation of female technologists. Our first product is a phone case with embedded LED lights that can be programmed to display any color, pattern or text through a mobile application. The application teaches programming concepts by linking these ideas to the visual representations on the phone case. In order to further engage our users, the platform also allows them to share their creations with each other and to work on their codes together. Finally, in order to ensure the quality of learning and to assist a guided learning experience, imagiCase also offers tutorials of varying levels in the app.<br />\n<br />\nimagiCase started as a research project at KTH. While affiliated with KTH innovation we also received a grant and participated in an incubation program with Start-Up Chile. Just recently we were selected as one of the start-ups to be part of Ericsson Garage, Ericsson’s incubation program. We are two co-founders: Beatrice is leading the hardware development while Dora is in charge of design and running our business and operations. We are looking for a third technical team member (possibly co-owner) to lead the development of our software.</p>\n\n<h1><strong><span style=\"font-size:20px;\">About the Role</span></strong></h1>\n\n<p>We are looking for someone to lead the development of the imagiCase application. We will be working together to bring our existing designs to reality and we will work iteratively conducting continuous user studies to ensure we are building the product our customers want! Your main focus will be building the iOS app that communicates with our hardware prototype and allows users to write code and send data over bluetooth to our hardware. For the first release, the fundamental features include bluetooth communication, a development environment where the users can write Python code and a dynamic keyboard that is designed for writing code. Later releases will focus more on the educational and social components of the product. You will have a lot of influence over the product and need to be able to stand on your own feet, be organised and self-driven.<br />\n<br />\nWe are a small team that moves fast and iterates. We follow the agile-scrum methodology and use tools such as Trello and Slack. We put high emphasis on communication and documentation. This was a result of our remote working culture but it is now a crucial part of how we operate. We are looking to bring the agile workflow more into our engineering and do weekly sprints, code reviews, testing and use continuous deployment infrastructure. As the lead software engineer, together with our CTO, you will be laying the foundations of the development culture.</p>\n\n<h1><strong><span style=\"font-size:20px;\">About You</span></strong></h1>\n\n<p>We are not just looking for an iOS developer. We are looking for a team member, someone with strong iOS development skills and who is here to stay, and together with us set the foundations of our engineering environment. On one hand, we are looking for someone with a proven passion for programming and for problem solving. On the other hand, we are looking for someone excited to set the foundations of the technology stack and our engineering environment.</p>\n\n<p><strong>Basic requirements:</strong></p>\n\n<ul>\n\t<li>\n\t<p>iOS (Objective C and/or Swift)</p>\n\t</li>\n\t<li>\n\t<p>Firebase or other mobile backend platforms</p>\n\t</li>\n\t<li>\n\t<p>Git</p>\n\t</li>\n\t<li>\n\t<p>entrepreneurial mindset: ambitious, self-driven, and target-oriented with an ability to thrive in a fast-paced team environment</p>\n\t</li>\n\t<li>\n\t<p>team oriented attitude</p>\n\t</li>\n</ul>\n\n<ul>\n\t<li>\n\t<p>willingness to be independent and are excited to take the lead on the project and make decisions that will shape the future of the product</p>\n\t</li>\n</ul>\n\n<p>Ideally we would like someone with strong iOS and previous startup experience, but we are open to less experience if there is high interest and a good fit with our mission and values.<br />\n<br />\n<strong><span style=\"font-size:20px;\">What we Offer</span></strong></p>\n\n<ul>\n\t<li>\n\t<p>An opportunity to join a start-up with a social mission that operates in an exciting and quickly growing market and work together with a passionate and motivated team!</p>\n\t</li>\n\t<li>\n\t<p>Our cooperation will start with a part time 2-3 month consulting agreement to develop the foundations of the imagiCase application. Our intention is to have you join us as the lead-developer, and part-owner of the company afterwards!</p>\n\t</li>\n\t<li>\n\t<p>Office at Ericsson Garage from May - October</p>\n\t</li>\n\t<li>\n\t<p>It is possible to discuss remote work</p>\n\t</li>\n\t<li>\n\t<p>If you are interested, email your CV, and a summary of your experience to\_<a data-content=\"dora@imagicase.com\" data-type=\"mail\" href=\"mailto:dora@imagicase.com\" target=\"_self\">dora@imagicase.com</a></p>\n\t</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link:
+  -
+    uri: 'https://www.imagicase.com/people'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

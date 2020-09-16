@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 17b45055-d29c-45c6-a06a-f68f20a60eb3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/310
+alias:
+  -
+    value: /group/usa-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

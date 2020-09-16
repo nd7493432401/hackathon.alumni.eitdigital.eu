@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 58066ede-3d49-4d81-a4a0-02d42367ddae
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/138
+alias:
+  -
+    value: /candidate/anand-bhaskaran
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

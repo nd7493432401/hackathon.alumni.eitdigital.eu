@@ -1,0 +1,69 @@
+uuid: 6df1728b-eb0e-42be-9739-aac5844c117f
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - profile
+id: profile.field_office
+field_name: field_office
+entity_type: profile
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Brussels Head Office'
+      label: 'Brussels Head Office'
+    -
+      value: 'Berlin Node'
+      label: 'Berlin Node'
+    -
+      value: 'Munich Satellite'
+      label: 'Munich Satellite'
+    -
+      value: 'Budapest Node'
+      label: 'Budapest Node'
+    -
+      value: 'Eindhoven Node'
+      label: 'Eindhoven Node'
+    -
+      value: 'Amsterdam Satellite'
+      label: 'Amsterdam Satellite'
+    -
+      value: 'Helsinki Node'
+      label: 'Helsinki Node'
+    -
+      value: 'Madrid Node'
+      label: 'Madrid Node'
+    -
+      value: 'London Node'
+      label: 'London Node'
+    -
+      value: 'Paris Node'
+      label: 'Paris Node'
+    -
+      value: 'Rennes Satellite'
+      label: 'Rennes Satellite'
+    -
+      value: 'Sophia Antipolis Satellite'
+      label: 'Sophia Antipolis Satellite'
+    -
+      value: 'Stockholm Node'
+      label: 'Stockholm Node'
+    -
+      value: 'Trento Node'
+      label: 'Trento Node'
+    -
+      value: 'Milan Satellite'
+      label: 'Milan Satellite'
+    -
+      value: 'Silicon Valley Hub'
+      label: 'Silicon Valley Hub'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 5605132e-ff98-4ba7-9a2f-2d718a44d0c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:59:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: '5th Graduation Ceremony 2018'
+created:
+  -
+    value: '2018-06-11T13:38:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:59:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/5th-graduation-ceremony-2018
+body: {  }
+field_event_:
+  -
+    value: Eindhoven
+    format: full_html
+    processed: Eindhoven
+field_event_date:
+  -
+    value: '2018-11-24T10:00:00+01:00'
+    end_value: '2018-11-24T21:30:00+01:00'
+field_event_description:
+  -
+    value: "<p>Find here the video-streaming of the <strong>whole Ceremony</strong>!</p>\r\n\r\n<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gEquvKNRza4?start=4910\" width=\"560\"></iframe></p>\r\n\r\n<p>If <strong>in Eindhoven</strong> (whether for the Graduation or not), don't miss <a href=\"http://bit.ly/grad-meetup18\">our Sunday post-breakfast meetup with the Alumni community</a>!</p>\r\n\r\n<p>---</p>\r\n\r\n<p>Lights off, spot on. On <strong>24 November 2018</strong>, over 220 graduates of the EIT Digital Master School will be shining on stage in a theatre in the Dutch city <strong>Eindhoven</strong>, while officially receiving their double master’s degree and a certificate from the <a href=\"http://eit.europa.eu\">European Institute of Innovation and Technology (EIT)</a>. The&nbsp;so-called \"City of Lights\" is selected to celebrate the fifth official Graduation Ceremony of the EIT Digital Master School.</p>\r\n\r\n<p>This new cohort of graduates&nbsp;will offer Europe fresh talents to help drive the digital transformation. These talents are highly needed in Europe, because <a href=\"https://ec.europa.eu/digital-single-market/en/news/digital-skills-gap-europe\">according to the&nbsp;European Comission</a>, forty percent of companies have difficulties finding skilled ICT specialists and there will be 500.00 unfilled vacancies for ICT professionals by 2020.</p>\r\n\r\n<p>During the graduation ceremony the students and their relatives will hear inspirational speeches from Prof Dr Willem Jonker, CEO of EIT Digital and dr. Jan Mengelers, Chairman Executive Board, Eindhoven University of Technology. After the official ceremony, the students will be invited to a gala dinner and party in the iconic&nbsp;<a href=\"https://www.evoluon.com/\">Evoluon</a>&nbsp;in Eindhoven.</p>\r\n"
+    format: full_html
+    processed: "<p>Find here the video-streaming of the <strong>whole Ceremony</strong>!</p>\n\n<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gEquvKNRza4?start=4910\" width=\"560\"></iframe></p>\n\n<p>If <strong>in Eindhoven</strong> (whether for the Graduation or not), don't miss <a href=\"http://bit.ly/grad-meetup18\">our Sunday post-breakfast meetup with the Alumni community</a>!</p>\n\n<p>---</p>\n\n<p>Lights off, spot on. On <strong>24 November 2018</strong>, over 220 graduates of the EIT Digital Master School will be shining on stage in a theatre in the Dutch city <strong>Eindhoven</strong>, while officially receiving their double master’s degree and a certificate from the <a href=\"http://eit.europa.eu\">European Institute of Innovation and Technology (EIT)</a>. The\_so-called \"City of Lights\" is selected to celebrate the fifth official Graduation Ceremony of the EIT Digital Master School.</p>\n\n<p>This new cohort of graduates\_will offer Europe fresh talents to help drive the digital transformation. These talents are highly needed in Europe, because <a href=\"https://ec.europa.eu/digital-single-market/en/news/digital-skills-gap-europe\">according to the\_European Comission</a>, forty percent of companies have difficulties finding skilled ICT specialists and there will be 500.00 unfilled vacancies for ICT professionals by 2020.</p>\n\n<p>During the graduation ceremony the students and their relatives will hear inspirational speeches from Prof Dr Willem Jonker, CEO of EIT Digital and dr. Jan Mengelers, Chairman Executive Board, Eindhoven University of Technology. After the official ceremony, the students will be invited to a gala dinner and party in the iconic\_<a href=\"https://www.evoluon.com/\">Evoluon</a>\_in Eindhoven.</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 4ebe3718-961b-4868-bf4d-d8ef85bb4ee8
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 4ebe3718-961b-4868-bf4d-d8ef85bb4ee8
+field_event_introduction:
+  -
+    value: "<p>Eindhoven, the Dutch \"City of Lights\" will host the 5th Graduation Day of the EIT Digital Master School</p>\r\n"
+    format: full_html
+    processed: "<p>Eindhoven, the Dutch \"City of Lights\" will host the 5th Graduation Day of the EIT Digital Master School</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 47af7299-1713-497f-b050-07e709595023
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.4ebe3718-961b-4868-bf4d-d8ef85bb4ee8
+    taxonomy_term:
+      - taxonomy_term.event_type.47af7299-1713-497f-b050-07e709595023

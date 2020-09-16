@@ -1,0 +1,18 @@
+uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Candidate
+type: candidate
+description: 'Candidate Content Type'
+help: ''
+new_revision: false
+preview_mode: 0
+display_submitted: true

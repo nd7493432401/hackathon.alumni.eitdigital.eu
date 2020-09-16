@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 8ce51f31-fd45-4c48-b845-69e8465a9046
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior UX/UI Designer'
+created:
+  -
+    value: '2018-11-07T10:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:39:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-uxui-designer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://career.happysocks.com/jobs/127792-senior-ux-ui-designer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Happy Socks AB'
+    format: full_html
+    processed: 'Happy Socks AB'
+field_expiration_date:
+  -
+    value: '2018-12-07T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>At Happy Socks we have made it our mission to spread happiness everywhere, and you only have to spend a few minutes with us to realize how seriously we take it! In fact, our fun, positive approach is probably the reason we’ve seen such amazing growth over the past couple of years.</p>\r\n\r\n<p>For our HQ in Stockholm, we are now looking for an&nbsp;<strong>experienced UX/UI Designer&nbsp;</strong>who can provide leadership and direction for UX design development at happysocks.com. Someone who can generate exquisite experiences from business and user needs. Who can communicate, cooperate and inspire, working closely with key product stakeholders, technology and marketing.</p>\r\n\r\n<p>The role is part of the Digital Product Team and reports to the Digital Product Manager in the eCommerce Department.&nbsp;</p>\r\n\r\n<p>eCommerce at Happy Socks is a vibrant, fun loving and international group of experts covering almost every area relevant to our digital store. Join us and make our team complete!</p>\r\n\r\n<p><strong>TASKS &amp; RESPONSIBILITIES</strong></p>\r\n\r\n<ul>\r\n\t<li>Create UX-optimized visual designs ready for development.</li>\r\n\t<li>Turn user insights, research findings and identified opportunities into concepts and UI solutions.</li>\r\n\t<li>Take broad, conceptual ideas and turn them into something useful and valuable for our customers.</li>\r\n\t<li>Work closely together with and align with Brand and Creative teams.</li>\r\n</ul>\r\n\r\n<p><strong>REQUIREMENTS &amp; SKILLS</strong></p>\r\n\r\n<ul>\r\n\t<li>Minimum 5 years’ work experience as web designer preferably in eCommerce.</li>\r\n\t<li>Proven strength in communication design (this is not an entry-level position).</li>\r\n\t<li>Fluent in English.</li>\r\n\t<li>Experience:\r\n\t<ul>\r\n\t\t<li>with multiple, full product life cycles from concept through to live delivery, to iteration.</li>\r\n\t\t<li>in creating animations.</li>\r\n\t\t<li>with rapid prototyping, through tools like InVision, and preferably through HTML / CSS.</li>\r\n\t\t<li>with leveraging and creating design pattern libraries.</li>\r\n\t\t<li>working with data-driven design.</li>\r\n\t\t<li>with UX principles in design and tasks.</li>\r\n\t\t<li>from Magento eCommerce platform is an advantage.</li>\r\n\t</ul>\r\n\t</li>\r\n</ul>\r\n\r\n<p>Please attach portfolio along with your application. After the first round of interviews you will be asked to complete a brief test.</p>\r\n"
+    format: full_html
+    processed: "<p>At Happy Socks we have made it our mission to spread happiness everywhere, and you only have to spend a few minutes with us to realize how seriously we take it! In fact, our fun, positive approach is probably the reason we’ve seen such amazing growth over the past couple of years.</p>\n\n<p>For our HQ in Stockholm, we are now looking for an\_<strong>experienced UX/UI Designer\_</strong>who can provide leadership and direction for UX design development at happysocks.com. Someone who can generate exquisite experiences from business and user needs. Who can communicate, cooperate and inspire, working closely with key product stakeholders, technology and marketing.</p>\n\n<p>The role is part of the Digital Product Team and reports to the Digital Product Manager in the eCommerce Department.\_</p>\n\n<p>eCommerce at Happy Socks is a vibrant, fun loving and international group of experts covering almost every area relevant to our digital store. Join us and make our team complete!</p>\n\n<p><strong>TASKS &amp; RESPONSIBILITIES</strong></p>\n\n<ul>\n\t<li>Create UX-optimized visual designs ready for development.</li>\n\t<li>Turn user insights, research findings and identified opportunities into concepts and UI solutions.</li>\n\t<li>Take broad, conceptual ideas and turn them into something useful and valuable for our customers.</li>\n\t<li>Work closely together with and align with Brand and Creative teams.</li>\n</ul>\n\n<p><strong>REQUIREMENTS &amp; SKILLS</strong></p>\n\n<ul>\n\t<li>Minimum 5 years’ work experience as web designer preferably in eCommerce.</li>\n\t<li>Proven strength in communication design (this is not an entry-level position).</li>\n\t<li>Fluent in English.</li>\n\t<li>Experience:\n\t<ul>\n\t\t<li>with multiple, full product life cycles from concept through to live delivery, to iteration.</li>\n\t\t<li>in creating animations.</li>\n\t\t<li>with rapid prototyping, through tools like InVision, and preferably through HTML / CSS.</li>\n\t\t<li>with leveraging and creating design pattern libraries.</li>\n\t\t<li>working with data-driven design.</li>\n\t\t<li>with UX principles in design and tasks.</li>\n\t\t<li>from Magento eCommerce platform is an advantage.</li>\n\t</ul>\n\t</li>\n</ul>\n\n<p>Please attach portfolio along with your application. After the first round of interviews you will be asked to complete a brief test.</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/gigiho'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

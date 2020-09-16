@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 18e81201-0cca-48c2-85a7-099731afdbd0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:45:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Fast Prototyping Bootcamp in the French Alps'
+created:
+  -
+    value: '2019-06-13T06:04:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:45:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/fast-prototyping-bootcamp-french-alps
+body: {  }
+field_event_:
+  -
+    value: 'University Grenoble Alpes'
+    format: full_html
+    processed: 'University Grenoble Alpes'
+field_event_date:
+  -
+    value: '2019-07-09T09:00:00+02:00'
+    end_value: '2019-07-12T19:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>EIT Health Bootcamp seeks Alumni with expertise in prototyping!</p>\r\n\r\n<p><strong>Application Deadline: 18 Jun 2019 </strong></p>\r\n\r\n<p>Are you quick at setting up app and website prototypes? Come coach at the <a href=\"https://www.eithealth.eu/en_US/-/eit-health-bootcamp-seeks-alumni-prototype-expert\">EIT Health&nbsp;bootcamp-style training in the Alps</a>!</p>\r\n\r\n<div>\r\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">EIT Alumni coaches are being sought to help students learn about <strong>fast prototyping</strong> at the <a href=\"https://www.eithealth.eu/en_US/poze\" style=\"color:#014fa1; text-decoration-line:none\" target=\"_blank\">EIT Health Campus POZE ELab</a> session, taking place <strong>9-12 July 2019 </strong>in the French Alps. </span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">To foster the improvement of each project, the student teams will be coached on software or hardware challenges, depending on their needs. EIT Alumni coaches are needed to help the teams with software fast prototyping (mostly for creating prototypes of apps or websites). The goal of this work is for students to have a mockup of their solution at the end of the bootcamp, using solutions like WordPress, App Inventor, Ionic, etc. depending on their need and skills.</span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">During this bootcamp you will meet other coaches specialised in hardware fast prototyping. You will be able to learn and use a 3D printer, the laser cutter and every tool available in the FabLab, and have a chance to enjoy the Alps! </span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 10px\"><strong><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">All expenses will be covered by the event organizers.</span></span></span></span></strong></p>\r\n\r\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">Those interested in applying are asked to contact EIT Health by sending an email to <a href=\"mailto:alumni@eithealth.eu\" style=\"color:#014fa1; text-decoration-line:none\">alumni@eithealth.eu.</a></span></span></span></span></p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>EIT Health Bootcamp seeks Alumni with expertise in prototyping!</p>\n\n<p><strong>Application Deadline: 18 Jun 2019 </strong></p>\n\n<p>Are you quick at setting up app and website prototypes? Come coach at the <a href=\"https://www.eithealth.eu/en_US/-/eit-health-bootcamp-seeks-alumni-prototype-expert\">EIT Health\_bootcamp-style training in the Alps</a>!</p>\n\n<div>\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">EIT Alumni coaches are being sought to help students learn about <strong>fast prototyping</strong> at the <a href=\"https://www.eithealth.eu/en_US/poze\" style=\"color:#014fa1; text-decoration-line:none\" target=\"_blank\">EIT Health Campus POZE ELab</a> session, taking place <strong>9-12 July 2019 </strong>in the French Alps. </span></span></span></span></p>\n\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">To foster the improvement of each project, the student teams will be coached on software or hardware challenges, depending on their needs. EIT Alumni coaches are needed to help the teams with software fast prototyping (mostly for creating prototypes of apps or websites). The goal of this work is for students to have a mockup of their solution at the end of the bootcamp, using solutions like WordPress, App Inventor, Ionic, etc. depending on their need and skills.</span></span></span></span></p>\n\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">During this bootcamp you will meet other coaches specialised in hardware fast prototyping. You will be able to learn and use a 3D printer, the laser cutter and every tool available in the FabLab, and have a chance to enjoy the Alps! </span></span></span></span></p>\n\n<p style=\"margin:0px 0px 10px\"><strong><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">All expenses will be covered by the event organizers.</span></span></span></span></strong></p>\n\n<p style=\"margin:0px 0px 10px\"><span style=\"font-size:14.6667px\"><span style=\"color:#555555\"><span style=\"font-family:&quot;Titillium Web&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\"><span style=\"background-color:#ffffff\">Those interested in applying are asked to contact EIT Health by sending an email to <a href=\"mailto:alumni@eithealth.eu\" style=\"color:#014fa1; text-decoration-line:none\">alumni@eithealth.eu.</a></span></span></span></span></p>\n</div>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 99f7bb02-4580-44c8-ba18-e6299914955a
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 99f7bb02-4580-44c8-ba18-e6299914955a
+field_event_introduction:
+  -
+    value: "<p>EIT Health Bootcamp seeks Alumni with expertise in prototyping!</p>\r\n"
+    format: full_html
+    processed: "<p>EIT Health Bootcamp seeks Alumni with expertise in prototyping!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6f99c263-3fb3-4dcc-a03b-0113e0048af3
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.99f7bb02-4580-44c8-ba18-e6299914955a
+    taxonomy_term:
+      - taxonomy_term.event_type.6f99c263-3fb3-4dcc-a03b-0113e0048af3

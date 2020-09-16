@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 1083dcfd-a389-4be4-9ba0-704123a26502
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:15:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Join the EIT Alumni Startup Days!'
+created:
+  -
+    value: '2016-11-26T13:53:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:15:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/join-eit-alumni-startup-days
+body:
+  -
+    value: "<p>The second edition of the <a href=\"http://startupdays.eitalumni.eu\">EIT Alumni Startup Days</a> will take place simultaneously in six European cities (Eindhoven, Barcelona, Berlin, Paris, Stockholm and Lisbon) over a 54 hour period from the 2-4 December 2016. With over 200 participants and organizers expected on the day, this European-wide event will create experiences, ideas and solutions to drive innovation across Europe.</p>\r\n\r\n<p>The EIT Alumni Startup days is a community building initiative that enhances cooperation across the EIT’s Knowledge and Innovation Communities. By bringing together students, graduates, researchers, developers, young professionals and start-up enthusiasts in 6 cities across Europe for a 54 hour event, we connect a global network of entrepreneurs and innovators.</p>\r\n\r\n<p>Challenges addressed by the participants will come from corporate sponsors, companies within the local innovation ecosystem or EIT Alumni members wanting to expand and seek help for their start-up propositions.</p>\r\n\r\n<p>Space is limited, so book your place now at&nbsp;<a href=\"http://startupdays.eitalumni.eu\">startupdays.eitalumni.eu</a></p>\r\n\r\n<p>Also join our Facebook events for the location you are participating in:</p>\r\n\r\n<p><a href=\"https://www.facebook.com/events/1816985698549710/\">Paris</a>&nbsp;-&nbsp;<a href=\"https://www.facebook.com/events/1820432124909260/\">Eindhoven</a>&nbsp;-&nbsp;<a href=\"https://www.facebook.com/events/1761233477473636/\">Stockholm</a> - <a href=\"https://www.facebook.com/events/1757674767830073/\">Barcelona</a>&nbsp;-&nbsp;<a href=\"https://www.facebook.com/events/380274598971498/\">Berlin</a>&nbsp;- <a href=\"https://www.facebook.com/events/1789053438032866/\">Lisbon</a></p>\r\n"
+    format: full_html
+    processed: "<p>The second edition of the <a href=\"http://startupdays.eitalumni.eu\">EIT Alumni Startup Days</a> will take place simultaneously in six European cities (Eindhoven, Barcelona, Berlin, Paris, Stockholm and Lisbon) over a 54 hour period from the 2-4 December 2016. With over 200 participants and organizers expected on the day, this European-wide event will create experiences, ideas and solutions to drive innovation across Europe.</p>\n\n<p>The EIT Alumni Startup days is a community building initiative that enhances cooperation across the EIT’s Knowledge and Innovation Communities. By bringing together students, graduates, researchers, developers, young professionals and start-up enthusiasts in 6 cities across Europe for a 54 hour event, we connect a global network of entrepreneurs and innovators.</p>\n\n<p>Challenges addressed by the participants will come from corporate sponsors, companies within the local innovation ecosystem or EIT Alumni members wanting to expand and seek help for their start-up propositions.</p>\n\n<p>Space is limited, so book your place now at\_<a href=\"http://startupdays.eitalumni.eu\">startupdays.eitalumni.eu</a></p>\n\n<p>Also join our Facebook events for the location you are participating in:</p>\n\n<p><a href=\"https://www.facebook.com/events/1816985698549710/\">Paris</a>\_-\_<a href=\"https://www.facebook.com/events/1820432124909260/\">Eindhoven</a>\_-\_<a href=\"https://www.facebook.com/events/1761233477473636/\">Stockholm</a> - <a href=\"https://www.facebook.com/events/1757674767830073/\">Barcelona</a>\_-\_<a href=\"https://www.facebook.com/events/380274598971498/\">Berlin</a>\_- <a href=\"https://www.facebook.com/events/1789053438032866/\">Lisbon</a></p>\n"
+    summary: 'The second edition of the EIT Alumni Startup Days will take place simultaneously in six European cities'
+    summary_processed: 'The second edition of the EIT Alumni Startup Days will take place simultaneously in six European cities'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The 2nd edition of the Startup Days will take place simultaneously in 6 European cities'
+field_image:
+  -
+    target_type: media
+    target_uuid: f2784df5-a568-4452-bcb2-b73bb0730cb1
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.f2784df5-a568-4452-bcb2-b73bb0730cb1

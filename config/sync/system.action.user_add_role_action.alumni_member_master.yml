@@ -1,0 +1,14 @@
+uuid: 477504fd-57a3-49b2-b9b3-79dade803eb8
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_master
+  module:
+    - user
+id: user_add_role_action.alumni_member_master
+label: 'Add the Alumni Member (Master) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: alumni_member_master

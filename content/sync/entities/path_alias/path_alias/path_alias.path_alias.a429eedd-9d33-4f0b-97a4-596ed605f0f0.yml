@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a429eedd-9d33-4f0b-97a4-596ed605f0f0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/160
+alias:
+  -
+    value: /summer-schools/2017-budapest-machine-learning-financial-data
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

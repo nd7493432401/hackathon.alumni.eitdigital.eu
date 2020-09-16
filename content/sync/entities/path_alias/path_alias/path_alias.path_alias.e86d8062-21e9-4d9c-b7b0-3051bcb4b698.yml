@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e86d8062-21e9-4d9c-b7b0-3051bcb4b698
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/542
+alias:
+  -
+    value: /job/data-scientist-and-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7eb1d192-903a-4ec2-ae0d-5a164f1ec472
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/313
+alias:
+  -
+    value: /group/netherlands-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

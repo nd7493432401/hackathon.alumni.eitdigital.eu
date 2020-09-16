@@ -1,0 +1,19 @@
+content_access_roles_gids:
+  anonymous: 1
+  authenticated: 2
+  administrator: 3
+  potential_member_master: 4
+  potential_member_phd: 5
+  potential_member_employee: 6
+  associate_member_master: 7
+  associate_member_phd: 8
+  alumni_member_employee: 9
+  associate_member_summer_school: 10
+  associate_member_professional_school: 11
+  alumni_member_master: 12
+  alumni_member_phd: 13
+  friend_member: 14
+  board_member: 15
+  editor: 16
+_core:
+  default_config_hash: 7LkiviGITIpniIOOIzpuxR7r4XzqqYN_cwu0fb0kx1M

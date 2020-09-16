@@ -1,0 +1,14 @@
+uuid: 15ad492f-5b7a-47cd-90b8-34f0825b0cdd
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_employee
+  module:
+    - user
+id: user_remove_role_action.alumni_member_employee
+label: 'Remove the Alumni Member (Employee) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: alumni_member_employee

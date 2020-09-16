@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 873f3393-212f-47f1-865e-565abf24b94e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 24872291148_5c328eb8cb_o.jpg
+thumbnail:
+  -
+    alt: 'App''ero'
+    title: null
+    width: 2384
+    height: 1592
+    target_type: file
+    target_uuid: 2fbe9ed7-de75-4e9c-b0b0-d230c80ce5a0
+created:
+  -
+    value: '2020-05-02T09:33:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T09:33:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'App''ero'
+    title: ''
+    width: 2384
+    height: 1592
+    target_type: file
+    target_uuid: 2fbe9ed7-de75-4e9c-b0b0-d230c80ce5a0
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.2fbe9ed7-de75-4e9c-b0b0-d230c80ce5a0

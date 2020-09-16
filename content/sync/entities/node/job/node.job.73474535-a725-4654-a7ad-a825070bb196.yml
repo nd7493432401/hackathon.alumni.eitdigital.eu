@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 73474535-a725-4654-a7ad-a825070bb196
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Professional - NOIISE'
+created:
+  -
+    value: '2019-10-11T13:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:05:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-professional-noiise
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:postmaster2020@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital'
+    format: full_html
+    processed: 'EIT Digital'
+field_expiration_date:
+  -
+    value: '2019-10-30T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<div class=\"WordSection1\">\r\n<p><span><span>The Post-Master positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas. The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</span></span></p>\r\n\r\n<p class=\"MsoBodyText\"><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\">Activities: </span></b></span></p>\r\n\r\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\">Innovation area: Digital Wellbeing </span></span></p>\r\n\r\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\">Activities: NOIISE - Noise Optimization for Innovation Incubators, Spaces &amp; Environments</span></span></p>\r\n\r\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\">The activity is targeting the new workplace typology ‘Co-working space’ as found at WeWork operating globally or The Factory in Berlin. Goal is to develop a tool, through which the user of a co-working space can easily find the most suitable place for his or her planned active based on noise. We will use noise pattern recognition algorithms to simulate and predict the suitability of a certain area in the co-working space. In a next step we will develop a framework and architectural design strategy for ‘how to design’ the new workplace based on our findings during a pilot at the Factory in Berlin. Owners and operators benefit from the tools and our framework insofar, that it enables them to amend or convert their real estate in a way that the occupancy rate increases. A start-up will be founded. Partners are: </span><span><span><span>Technical University Berlin (Product Design and Principle Investigator, Business Champion), </span></span></span><span lang=\"EN-GB\" xml:lang=\"EN-GB\">Signify (Philips), Sensorberg, AuDeering </span></span></p>\r\n\r\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Job Profile</span></span></b></span></p>\r\n\r\n<p class=\"Default\"><span lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>We are looking for one Post-Master Professional that will perform the following tasks: </span></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><span>Design and production of App Drafts using Adobe DX, Indigo or similar</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Development of Dashboards to be technically integrated in the user experiemce media</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Working with back end data architecture and real time data input</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Deploying the UEx part of the activity within the knowledge database of the activity and vision for future development of the activity</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Assistance in the development of our cyber-physical system ‘NOIISee’</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Development of AI Azur-Kinect based pattern recognition for the parametric generation of the design of wall panels and 2,5-D furniture for open-space workplaces</span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span>The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. English is the working language in the activity. German language skills are an asset. You will be working in a university and research environment.</span></span></p>\r\n\r\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Location&nbsp; </span></span></b></span></p>\r\n\r\n<p><span><span><span><span>Place of Employment is the EIT Digital Co-location Centre in Berlin, Germany. Occasional European travel to be expected.</span></span></span></span></p>\r\n\r\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Offer</span></span></b></span></p>\r\n\r\n<ul>\r\n\t<li><span><span><span><span><span>One-year full-time contract with possibility of renewal for another year* </span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Guidance by Innovation Leader and Node Director </span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>Exposure to a multinational work environment</span></span></span></span></span></li>\r\n\t<li><span><span><span><span><span>The opportunity of working on a deep tech project</span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p><span><span><i><span><span><span>*Contract duration and salary range may vary between different Nodes and Countries due to national legislation.</span></span></span></i></span></span></p>\r\n\r\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>How to apply</span></span></b> </span></p>\r\n\r\n<p><span><span>Please email your CV and a motivation letter to </span></span><a href=\"mailto:postmaster2020@eitdigital.eu\"><span lang=\"SV\" xml:lang=\"SV\">postmaster2020@eitdigital.eu</span></a> <span><span>outlining how your skills and</span></span> <span><span>experience meet the qualifications of the position you apply for. In the subject of your e-mail please mention: “NOIISE_PM_Berlin”.</span></span></p>\r\n\r\n<p><span><span>Applications without a motivation letter will not be considered.</span></span> <span><span>Please specify the Activity Name, position and location you are applying for.</span></span></p>\r\n\r\n<p class=\"MsoBodyText\"><span><span>Applications</span><i> </i><span>should be submitted until October 30, 2019</span></span></p>\r\n</div>\r\n"
+    format: full_html
+    processed: "<div class=\"WordSection1\">\n<p><span><span>The Post-Master positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas. The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</span></span></p>\n\n<p class=\"MsoBodyText\"><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\">Activities: </span></b></span></p>\n\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\">Innovation area: Digital Wellbeing </span></span></p>\n\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\">Activities: NOIISE - Noise Optimization for Innovation Incubators, Spaces &amp; Environments</span></span></p>\n\n<p class=\"MsoBodyText\"><span><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\">The activity is targeting the new workplace typology ‘Co-working space’ as found at WeWork operating globally or The Factory in Berlin. Goal is to develop a tool, through which the user of a co-working space can easily find the most suitable place for his or her planned active based on noise. We will use noise pattern recognition algorithms to simulate and predict the suitability of a certain area in the co-working space. In a next step we will develop a framework and architectural design strategy for ‘how to design’ the new workplace based on our findings during a pilot at the Factory in Berlin. Owners and operators benefit from the tools and our framework insofar, that it enables them to amend or convert their real estate in a way that the occupancy rate increases. A start-up will be founded. Partners are: </span><span><span><span>Technical University Berlin (Product Design and Principle Investigator, Business Champion), </span></span></span><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\">Signify (Philips), Sensorberg, AuDeering </span></span></p>\n\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Job Profile</span></span></b></span></p>\n\n<p class=\"Default\"><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>We are looking for one Post-Master Professional that will perform the following tasks: </span></span></p>\n\n<ul>\n\t<li><span><span><span><span><span>Design and production of App Drafts using Adobe DX, Indigo or similar</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Development of Dashboards to be technically integrated in the user experiemce media</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Working with back end data architecture and real time data input</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Deploying the UEx part of the activity within the knowledge database of the activity and vision for future development of the activity</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Assistance in the development of our cyber-physical system ‘NOIISee’</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Development of AI Azur-Kinect based pattern recognition for the parametric generation of the design of wall panels and 2,5-D furniture for open-space workplaces</span></span></span></span></span></li>\n</ul>\n\n<p><span><span>The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. English is the working language in the activity. German language skills are an asset. You will be working in a university and research environment.</span></span></p>\n\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Location\_ </span></span></b></span></p>\n\n<p><span><span><span><span>Place of Employment is the EIT Digital Co-location Centre in Berlin, Germany. Occasional European travel to be expected.</span></span></span></span></p>\n\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>Offer</span></span></b></span></p>\n\n<ul>\n\t<li><span><span><span><span><span>One-year full-time contract with possibility of renewal for another year* </span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Guidance by Innovation Leader and Node Director </span></span></span></span></span></li>\n\t<li><span><span><span><span><span>Exposure to a multinational work environment</span></span></span></span></span></li>\n\t<li><span><span><span><span><span>The opportunity of working on a deep tech project</span></span></span></span></span></li>\n</ul>\n\n<p><span><span><i><span><span><span>*Contract duration and salary range may vary between different Nodes and Countries due to national legislation.</span></span></span></i></span></span></p>\n\n<p><span><b><span lang=\"EN-GB\" xml:lang=\"EN-GB\" xml:lang=\"EN-GB\"><span>How to apply</span></span></b> </span></p>\n\n<p><span><span>Please email your CV and a motivation letter to </span></span><a href=\"mailto:postmaster2020@eitdigital.eu\"><span lang=\"SV\" xml:lang=\"SV\" xml:lang=\"SV\">postmaster2020@eitdigital.eu</span></a> <span><span>outlining how your skills and</span></span> <span><span>experience meet the qualifications of the position you apply for. In the subject of your e-mail please mention: “NOIISE_PM_Berlin”.</span></span></p>\n\n<p><span><span>Applications without a motivation letter will not be considered.</span></span> <span><span>Please specify the Activity Name, position and location you are applying for.</span></span></p>\n\n<p class=\"MsoBodyText\"><span><span>Applications</span><i> </i><span>should be submitted until October 30, 2019</span></span></p>\n</div>\n"
+field_job_location:
+  -
+    value: 'Berlin, Germany'
+    format: full_html
+    processed: 'Berlin, Germany'
+field_more_details_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

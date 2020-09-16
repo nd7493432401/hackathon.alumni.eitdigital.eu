@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7806cfa3-b857-47b2-94cf-3f4fdfecca5b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/460
+alias:
+  -
+    value: /job/online-community-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2206b79b-d391-4bda-9bb2-a9a4a09c7862
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/323
+alias:
+  -
+    value: /job/sales-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

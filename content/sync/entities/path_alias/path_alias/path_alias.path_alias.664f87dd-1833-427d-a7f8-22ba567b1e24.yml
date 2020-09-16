@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 664f87dd-1833-427d-a7f8-22ba567b1e24
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/526
+alias:
+  -
+    value: /job/finance-strategy-digital-transformation-anaplan-senior-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

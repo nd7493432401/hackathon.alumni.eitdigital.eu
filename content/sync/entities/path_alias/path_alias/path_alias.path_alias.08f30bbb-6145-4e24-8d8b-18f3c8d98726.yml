@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 08f30bbb-6145-4e24-8d8b-18f3c8d98726
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/11
+alias:
+  -
+    value: /summer-schools
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

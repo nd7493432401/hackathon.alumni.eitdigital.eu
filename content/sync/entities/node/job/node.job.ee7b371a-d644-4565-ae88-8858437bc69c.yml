@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: ee7b371a-d644-4565-ae88-8858437bc69c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'DevOps Consultant'
+created:
+  -
+    value: '2019-09-16T05:06:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:13:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/devops-consultant-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://eficode.teamtailor.com/jobs/154048-devops-consultant'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Eficode
+    format: full_html
+    processed: Eficode
+field_expiration_date:
+  -
+    value: '2020-09-30T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Eficode is currently looking for individuals with Devops experience and that have a passion for improving software development processes. The primary responsibility of this role would be to advance our customers' software delivery methods and thus help them to improve their competitiveness. You will be developing, optimizing and implementing continuous delivery solutions along with novel test automation for various customers.&nbsp;Positions are available in all Eficode's locations: Helsinki, Tampere, Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Amsterdam and München.</p>\r\n\r\n<p>The versatile nature of our client work assignments will provide you with opportunities to utilize your extensive programming and tooling competence. You will also get a chance to investigate technologies you aren't familiar with and seek to provide the best outcomes for their use.</p>\r\n\r\n<p>Our ideal candidate is someone who will actively seek answers and solutions to our customers' questions and challenges, then can communicate and implement them effectively. As an important part of supporting our customers, you will help resolve problems, provide Devops guidance relating to tooling, processes and ways to improve the development lifecycle.</p>\r\n\r\n<p><strong>WE EXPECT YOU TO HAVE:</strong></p>\r\n\r\n<p>&nbsp;- An easy going nature and someone who gets along well with other people</p>\r\n\r\n<p>&nbsp;- Programming skills, preferably with several programming languages</p>\r\n\r\n<p>&nbsp;- Interest in agile methods of software development and test automation</p>\r\n\r\n<p>&nbsp;- Good English language skills</p>\r\n\r\n<p>&nbsp;- Demonstrates initiative and willingness to learn new technologies and skills</p>\r\n\r\n<p>&nbsp;- Preferably experience in front-end Java Development</p>\r\n\r\n<p><strong>WE VALUE:</strong></p>\r\n\r\n<p>&nbsp;- Knowledge and experience working with&nbsp;a variety of DevOps tools (i.e. Jenkins, Git, Ansible, Chef, Puppet, Docker), virtualization tools (i.e.&nbsp;Vagrant, Docker, Kubernetes), cloud services (i.e. AWS, DigitalOcean, OpenStack, Azure) and test automation tools (i.e. Robot Framework, Cucumber and Selenium)</p>\r\n\r\n<p>&nbsp;- Having good scripting skills (i.e. Ruby, Bash, Python, Perl and Ant)</p>\r\n\r\n<p>&nbsp;- Experiences having worked with automated processes and infrastructure provisioning</p>\r\n\r\n<p>&nbsp;- Experiences working on a variety of previous development projects with DevOps related tooling and processes</p>\r\n\r\n<p><strong>WE OFFER:</strong></p>\r\n\r\n<p>&nbsp;- Lots of opportunities to develop your expertise together with our top notch devops teams</p>\r\n\r\n<p>&nbsp;- Great team spirit and the possibility to make a difference as a member of our agile and innovative organization</p>\r\n\r\n<p>&nbsp;- Relaxed in-house, office culture with regular Friday activities for training and socializing</p>\r\n\r\n<p>&nbsp;- A place where learning and mentoring is part of our DNA</p>\r\n\r\n<p>&nbsp;- Freedom to choose your ways of working, tools etc.</p>\r\n\r\n<p>&nbsp;- A chance to speak at our annual conferences&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>We are looking forward to your application!</p>\r\n"
+    format: full_html
+    processed: "<p>Eficode is currently looking for individuals with Devops experience and that have a passion for improving software development processes. The primary responsibility of this role would be to advance our customers' software delivery methods and thus help them to improve their competitiveness. You will be developing, optimizing and implementing continuous delivery solutions along with novel test automation for various customers.\_Positions are available in all Eficode's locations: Helsinki, Tampere, Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Amsterdam and München.</p>\n\n<p>The versatile nature of our client work assignments will provide you with opportunities to utilize your extensive programming and tooling competence. You will also get a chance to investigate technologies you aren't familiar with and seek to provide the best outcomes for their use.</p>\n\n<p>Our ideal candidate is someone who will actively seek answers and solutions to our customers' questions and challenges, then can communicate and implement them effectively. As an important part of supporting our customers, you will help resolve problems, provide Devops guidance relating to tooling, processes and ways to improve the development lifecycle.</p>\n\n<p><strong>WE EXPECT YOU TO HAVE:</strong></p>\n\n<p>\_- An easy going nature and someone who gets along well with other people</p>\n\n<p>\_- Programming skills, preferably with several programming languages</p>\n\n<p>\_- Interest in agile methods of software development and test automation</p>\n\n<p>\_- Good English language skills</p>\n\n<p>\_- Demonstrates initiative and willingness to learn new technologies and skills</p>\n\n<p>\_- Preferably experience in front-end Java Development</p>\n\n<p><strong>WE VALUE:</strong></p>\n\n<p>\_- Knowledge and experience working with\_a variety of DevOps tools (i.e. Jenkins, Git, Ansible, Chef, Puppet, Docker), virtualization tools (i.e.\_Vagrant, Docker, Kubernetes), cloud services (i.e. AWS, DigitalOcean, OpenStack, Azure) and test automation tools (i.e. Robot Framework, Cucumber and Selenium)</p>\n\n<p>\_- Having good scripting skills (i.e. Ruby, Bash, Python, Perl and Ant)</p>\n\n<p>\_- Experiences having worked with automated processes and infrastructure provisioning</p>\n\n<p>\_- Experiences working on a variety of previous development projects with DevOps related tooling and processes</p>\n\n<p><strong>WE OFFER:</strong></p>\n\n<p>\_- Lots of opportunities to develop your expertise together with our top notch devops teams</p>\n\n<p>\_- Great team spirit and the possibility to make a difference as a member of our agile and innovative organization</p>\n\n<p>\_- Relaxed in-house, office culture with regular Friday activities for training and socializing</p>\n\n<p>\_- A place where learning and mentoring is part of our DNA</p>\n\n<p>\_- Freedom to choose your ways of working, tools etc.</p>\n\n<p>\_- A chance to speak at our annual conferences\_</p>\n\n<p>\_</p>\n\n<p>We are looking forward to your application!</p>\n"
+field_job_location:
+  -
+    value: Helsinki
+    format: full_html
+    processed: Helsinki
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,38 @@
+uuid: d23ebee2-66d5-46f2-8d59-b6da09cc964b
+langcode: en
+status: true
+dependencies:
+  module:
+    - ctools
+    - system
+  theme:
+    - eitalumni
+_core:
+  default_config_hash: wDR9JKEATSWldBjw8du8s3G2zjEYeQf88nlld11hMLo
+id: eitalumni_breadcrumbs
+theme: eitalumni
+region: header
+weight: -7
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      article: article
+      candidate: candidate
+      carousel: carousel
+      discussion: discussion
+      event: event
+      group: group
+      job: job
+      page: page
+      webform: webform
+    negate: true
+    context_mapping:
+      node: '@node.node_route_context:node'

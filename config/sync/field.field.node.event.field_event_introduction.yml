@@ -1,0 +1,21 @@
+uuid: 487f7410-4010-40c1-a046-282ec31a68b7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_event_introduction
+    - node.type.event
+  module:
+    - text
+id: node.event.field_event_introduction
+field_name: field_event_introduction
+entity_type: node
+bundle: event
+label: 'Event Introduction'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

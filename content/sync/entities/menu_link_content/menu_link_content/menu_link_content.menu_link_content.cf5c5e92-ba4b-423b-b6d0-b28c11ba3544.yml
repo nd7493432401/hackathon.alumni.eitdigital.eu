@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: cf5c5e92-ba4b-423b-b6d0-b28c11ba3544
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-02-17T10:58:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'Latest News'
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/news'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -50
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-04-30T13:29:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

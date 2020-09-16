@@ -1,0 +1,24 @@
+uuid: a94a5bfb-e788-415e-aacd-9dd5177f5aee
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.homepage_carousel
+  module:
+    - views
+  theme:
+    - eitalumni
+id: views_block__homepage_carousel_block_1
+theme: eitalumni
+region: carousel
+weight: 0
+provider: null
+plugin: 'views_block:homepage_carousel-block_1'
+settings:
+  id: 'views_block:homepage_carousel-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: '5'
+visibility: {  }

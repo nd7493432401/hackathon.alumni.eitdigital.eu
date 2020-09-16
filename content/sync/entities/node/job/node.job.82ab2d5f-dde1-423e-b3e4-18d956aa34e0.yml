@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 82ab2d5f-dde1-423e-b3e4-18d956aa34e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Graduate Trainee'
+created:
+  -
+    value: '2016-12-31T15:58:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:42:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/graduate-trainee
+body: {  }
+field_apply_link:
+  -
+    uri: 'http://www.juniper.net/jobs?935082'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Juniper Networks'
+    format: full_html
+    processed: 'Juniper Networks'
+field_expiration_date:
+  -
+    value: '2017-09-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Juniper Kickstart is a Graduate Training Program across EMEA that’ll give you the freedom to experience our global business as you learn and develop your technical skills as part of a 12-month program.</p>\r\n\r\n<p>Our technical Graduate Program is designed to give and immerse you into real world experience through formal and informal training, team assignments, individual project work and rotational assignments through our technical business units. You will truly be part of the team and will deliver value back to our business. Juniper Networks believes in learning through value and we know that as a graduate you will bring great value into our organization from the day that you join us.</p>\r\n\r\n<p>You’ll get the chance to work in one or more of the following teams throughout the program duration:</p>\r\n\r\n<p>- Advanced Services – Remote consultation and network design optimization</p>\r\n\r\n<p>- Professional Services – Designing and Building complex state of the art networks</p>\r\n\r\n<p>- Juniper Technical Assistance Centre - Technical Support and network troubleshooting</p>\r\n\r\n<p><strong>Essentials:</strong></p>\r\n\r\n<p>- Knowledge of IP networking layer technologies</p>\r\n\r\n<p>- Good verbal and written English language skills</p>\r\n\r\n<p>- Strong interest in working as part of a global and culturally diverse team</p>\r\n\r\n<p>- Genuine enthusiasm, passion and energy to be part of customer oriented teams</p>\r\n\r\n<p>- Bachelors or Masters graduate with Computer Science, Network, Programming or Engineering IT degree</p>\r\n\r\n<p><strong>A plus if you have:</strong></p>\r\n\r\n<p>- Experience with programming languages such as Python, Puppet, Chef, Ansible, Ruby and Unix/Linux operating systems</p>\r\n\r\n<p>- Awareness and knowledge of Software Defined Networking (SDN), OS virtualization and cloud orchestration technologies</p>\r\n"
+    format: full_html
+    processed: "<p>Juniper Kickstart is a Graduate Training Program across EMEA that’ll give you the freedom to experience our global business as you learn and develop your technical skills as part of a 12-month program.</p>\n\n<p>Our technical Graduate Program is designed to give and immerse you into real world experience through formal and informal training, team assignments, individual project work and rotational assignments through our technical business units. You will truly be part of the team and will deliver value back to our business. Juniper Networks believes in learning through value and we know that as a graduate you will bring great value into our organization from the day that you join us.</p>\n\n<p>You’ll get the chance to work in one or more of the following teams throughout the program duration:</p>\n\n<p>- Advanced Services – Remote consultation and network design optimization</p>\n\n<p>- Professional Services – Designing and Building complex state of the art networks</p>\n\n<p>- Juniper Technical Assistance Centre - Technical Support and network troubleshooting</p>\n\n<p><strong>Essentials:</strong></p>\n\n<p>- Knowledge of IP networking layer technologies</p>\n\n<p>- Good verbal and written English language skills</p>\n\n<p>- Strong interest in working as part of a global and culturally diverse team</p>\n\n<p>- Genuine enthusiasm, passion and energy to be part of customer oriented teams</p>\n\n<p>- Bachelors or Masters graduate with Computer Science, Network, Programming or Engineering IT degree</p>\n\n<p><strong>A plus if you have:</strong></p>\n\n<p>- Experience with programming languages such as Python, Puppet, Chef, Ansible, Ruby and Unix/Linux operating systems</p>\n\n<p>- Awareness and knowledge of Software Defined Networking (SDN), OS virtualization and cloud orchestration technologies</p>\n"
+field_job_location:
+  -
+    value: Amsterdam
+    format: full_html
+    processed: Amsterdam
+field_more_details_link:
+  -
+    uri: 'mailto:University-Opportunities-EMEA@juniper.net'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

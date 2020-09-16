@@ -1,0 +1,8 @@
+uuid: f60c4825-a045-4c73-9cec-f47ea2b59223
+langcode: en
+status: true
+dependencies: {  }
+name: 'Candidate Type'
+vid: candidate_type
+description: ''
+weight: 0

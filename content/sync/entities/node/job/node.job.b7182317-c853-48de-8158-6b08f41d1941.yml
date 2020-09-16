@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: b7182317-c853-48de-8158-6b08f41d1941
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'UX Designer'
+created:
+  -
+    value: '2020-01-10T09:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:25:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ux-designer-3
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.careers.philips.com/professional/global/en/job/PHILUS345065ENGLOBAL/UX-Designer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Royal Philips'
+    format: full_html
+    processed: 'Royal Philips'
+field_expiration_date:
+  -
+    value: '2020-01-10T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>My team is looking for a new UX designer to join us.</p>\r\n\r\n<p>Check the details here:</p>\r\n\r\n<p>https://www.linkedin.com/jobs/view/1681817854/</p>\r\n\r\n<p>Please reach me if you'd like to get a reference:&nbsp;lvyuan0302@hotmail.com</p>\r\n"
+    format: full_html
+    processed: "<p>My team is looking for a new UX designer to join us.</p>\n\n<p>Check the details here:</p>\n\n<p>https://www.linkedin.com/jobs/view/1681817854/</p>\n\n<p>Please reach me if you'd like to get a reference:\_lvyuan0302@hotmail.com</p>\n"
+field_job_location:
+  -
+    value: Eindhoven
+    format: full_html
+    processed: Eindhoven
+field_more_details_link:
+  -
+    uri: 'https://www.linkedin.com/jobs/view/1681817854/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

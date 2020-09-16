@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: c1968d13-01d6-411a-9ac1-00614c208362
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Deep Fuzzing IIoTs'
+created:
+  -
+    value: '2017-12-02T14:53:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/deep-fuzzing-iiots
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:sudipta_chattopadhyay@sutd.edu.sg'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Singapore University of Technology and Design'
+    format: full_html
+    processed: 'Singapore University of Technology and Design'
+field_expiration_date:
+  -
+    value: '2018-01-01T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">Initiatives such as “Industry 4.0” aims to drive the smart manufacturing industry via strongly connected internet-of-things (IoT). As opposed to IoTs in home automation, Industrial internet-of-things (in short, IIoT) are often safety critical. IIoTs share</span></span><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\"> some common constraints as follows: i) Often these systems require reliability and stability in the device-to-device communication, including short and stable latency times. ii) As IIoT devices are often connected to the cyber space (for data analytics and intelligent control), it is crucial that these systems are protected from potential cyber attacks. The current security technologies (e.g. attestation) are incapable to deal with the scale and complexity of IIoTs. As a result, despite their promise, IIoTs present severe risk due to its potential vulnerability to cyber attacks. For instance, an attacker might gain access to an IIoT device and turn it into a weapon to launch large-scale cyber attacks, inflicting significant financial damage to the respective industry.&nbsp; Driven by the characteristics and constraints shared by IIoTs, this project targets systematic validation of IIoTs and making them robust against a variety of cyber attacks. </span></span><span lang=\"EN-SG\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">Broadly, in this project we will investigate the following research problems: </span></span></span></p>\r\n\r\n<ol>\r\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">How to design realistic attack models for IIoTs? </span></span></span></li>\r\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">How to design systematic and automatic validation techniques for IIoTs? </span></span></span></li>\r\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">Driven by the outcome of previous research question, how do we monitor IIoT activities to detect potential cyber attacks in real-time? </span></span></span></li>\r\n</ol>\r\n\r\n<p style=\"text-align:justify\"><strong>TO APPLY:</strong></p>\r\n\r\n<p style=\"text-align:justify\">Contact Prof. <a href=\"mailto:sudipta_chattopadhyay@sutd.edu.sg?subject=SUTD-I2R%20thematic%20program%20on%20Industrial%20IoT\"><strong>Sudipta Chattopadhyay</strong></a>&nbsp;by e-mail (website: <a href=\"https://sudiptac.bitbucket.io/\">https://sudiptac.bitbucket.io/</a>), with your CV first. Then, apply here:&nbsp;<span style=\"text-justify:inter-ideograph\"><span style=\"font-size:11.0pt\"><span style=\"font-family:Arial\"><a href=\"https://www.a-star.edu.sg/singa-award/How-to-Apply.aspx\">https://www.a-star.edu.sg/singa-award/How-to-Apply.aspx</a>.</span></span></span><br />\r\n<span style=\"text-justify:inter-ideograph\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">Remember to indicate in your application that you are applying for <b>\"SUTD-I2R thematic program on Industrial IoT\"</b></span></span></span></p>\r\n\r\n<p style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\"><em><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"font-family:Arial\">Successful applicants will be fully funded for four years together with the support for conference travels. The tuition fee is also fully waived. </span></span>&nbsp;</span></em></p>\r\n\r\n<p style=\"text-align:justify\"><strong>Application Deadline is 1st January, 2018.</strong></p>\r\n"
+    format: full_html
+    processed: "<p style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\" xml:lang=\"EN-SG\"><span style=\"font-family:Arial\">Initiatives such as “Industry 4.0” aims to drive the smart manufacturing industry via strongly connected internet-of-things (IoT). As opposed to IoTs in home automation, Industrial internet-of-things (in short, IIoT) are often safety critical. IIoTs share</span></span><span lang=\"EN-US\" style=\"font-size:11.0pt\" xml:lang=\"EN-US\"><span style=\"font-family:Arial\"> some common constraints as follows: i) Often these systems require reliability and stability in the device-to-device communication, including short and stable latency times. ii) As IIoT devices are often connected to the cyber space (for data analytics and intelligent control), it is crucial that these systems are protected from potential cyber attacks. The current security technologies (e.g. attestation) are incapable to deal with the scale and complexity of IIoTs. As a result, despite their promise, IIoTs present severe risk due to its potential vulnerability to cyber attacks. For instance, an attacker might gain access to an IIoT device and turn it into a weapon to launch large-scale cyber attacks, inflicting significant financial damage to the respective industry.\_ Driven by the characteristics and constraints shared by IIoTs, this project targets systematic validation of IIoTs and making them robust against a variety of cyber attacks. </span></span><span lang=\"EN-SG\" style=\"font-size:11.0pt\" xml:lang=\"EN-SG\"><span style=\"font-family:Arial\">Broadly, in this project we will investigate the following research problems: </span></span></span></p>\n\n<ol>\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\" xml:lang=\"EN-SG\"><span style=\"font-family:Arial\">How to design realistic attack models for IIoTs? </span></span></span></li>\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\" xml:lang=\"EN-SG\"><span style=\"font-family:Arial\">How to design systematic and automatic validation techniques for IIoTs? </span></span></span></li>\n\t<li style=\"text-align:justify\"><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-SG\" style=\"font-size:11.0pt\" xml:lang=\"EN-SG\"><span style=\"font-family:Arial\">Driven by the outcome of previous research question, how do we monitor IIoT activities to detect potential cyber attacks in real-time? </span></span></span></li>\n</ol>\n\n<p style=\"text-align:justify\"><strong>TO APPLY:</strong></p>\n\n<p style=\"text-align:justify\">Contact Prof. <a href=\"mailto:sudipta_chattopadhyay@sutd.edu.sg?subject=SUTD-I2R%20thematic%20program%20on%20Industrial%20IoT\"><strong>Sudipta Chattopadhyay</strong></a>\_by e-mail (website: <a href=\"https://sudiptac.bitbucket.io/\">https://sudiptac.bitbucket.io/</a>), with your CV first. Then, apply here:\_<span style=\"text-justify:inter-ideograph\"><span style=\"font-size:11.0pt\"><span style=\"font-family:Arial\"><a href=\"https://www.a-star.edu.sg/singa-award/How-to-Apply.aspx\">https://www.a-star.edu.sg/singa-award/How-to-Apply.aspx</a>.</span></span></span><br />\n<span style=\"text-justify:inter-ideograph\"><span lang=\"EN-US\" style=\"font-size:11.0pt\" xml:lang=\"EN-US\"><span style=\"font-family:Arial\">Remember to indicate in your application that you are applying for <b>\"SUTD-I2R thematic program on Industrial IoT\"</b></span></span></span></p>\n\n<p style=\"text-align:justify\">\_</p>\n\n<p style=\"text-align:justify\"><em><span style=\"text-justify:inter-ideograph\"><span lang=\"EN-US\" style=\"font-size:11.0pt\" xml:lang=\"EN-US\"><span style=\"font-family:Arial\">Successful applicants will be fully funded for four years together with the support for conference travels. The tuition fee is also fully waived. </span></span>\_</span></em></p>\n\n<p style=\"text-align:justify\"><strong>Application Deadline is 1st January, 2018.</strong></p>\n"
+field_job_location:
+  -
+    value: Singapore
+    format: full_html
+    processed: Singapore
+field_more_details_link:
+  -
+    uri: 'https://www.a-star.edu.sg/singa-award/How-to-Apply.aspx'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

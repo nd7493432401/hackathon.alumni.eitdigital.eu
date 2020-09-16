@@ -1,0 +1,21 @@
+uuid: 9c39d67d-4d74-4b45-8178-b06abec9b51a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_languages
+  module:
+    - languagefield
+    - user
+id: user.user.field_languages
+field_name: field_languages
+entity_type: user
+bundle: user
+label: Languages
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: language_field

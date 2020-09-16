@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a75fc13c-dcc3-42a9-a50e-46d898fb35eb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/169
+alias:
+  -
+    value: /event/fast-prototyping-bootcamp-french-alps
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

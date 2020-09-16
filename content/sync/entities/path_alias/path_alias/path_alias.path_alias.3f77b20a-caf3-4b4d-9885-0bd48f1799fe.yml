@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3f77b20a-caf3-4b4d-9885-0bd48f1799fe
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/12
+alias:
+  -
+    value: /foundation-laws
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

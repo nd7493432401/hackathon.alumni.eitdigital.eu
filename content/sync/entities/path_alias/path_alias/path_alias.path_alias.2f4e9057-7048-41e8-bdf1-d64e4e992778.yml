@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2f4e9057-7048-41e8-bdf1-d64e4e992778
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/608
+alias:
+  -
+    value: /job/phd-sweng-ml-programming-languages-security
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

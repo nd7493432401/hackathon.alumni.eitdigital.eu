@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bca1c49a-3af4-4200-914a-7f213dec3d27
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/114
+alias:
+  -
+    value: /exit-universities/elte-eotvos-lorand-university-budapest-hungary
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

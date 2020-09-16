@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: efc6da34-adef-4f21-b91e-b876d495a6a7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Mohit Ahuja'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/mohit-ahuja-0
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>EIT has changed my life for good. When I moved from India at 26 years of age, I was confident but uncertain of what lies in future for me. I thought making friends would be difficult at this age, and surprisingly from this program, I was lucky to find a few of my closest friends who I catch up with regularly. My internship and the job at Scania was also a result of being an alumnus here. So, there has been a positive role of&nbsp;EIT Alumni&nbsp;in recent years, both to my personal as well as my professional life. Starting from a not-so-confident person who used to fear to get on a stage, I happily bloomed into a public speaker these days with so much positivity in my life, EIT made it possible for me.&nbsp;</p><p>&nbsp;</p><p>As a technology officer, I believe I can repay back my community in more ways than one. I,&nbsp;as a tech hacker, I was always looking for an opportunity like this to come up so that my skill set can be used for good for my own community.</p>'
+    format: full_html
+    processed: "<p>EIT has changed my life for good. When I moved from India at 26 years of age, I was confident but uncertain of what lies in future for me. I thought making friends would be difficult at this age, and surprisingly from this program, I was lucky to find a few of my closest friends who I catch up with regularly. My internship and the job at Scania was also a result of being an alumnus here. So, there has been a positive role of\_EIT Alumni\_in recent years, both to my personal as well as my professional life. Starting from a not-so-confident person who used to fear to get on a stage, I happily bloomed into a public speaker these days with so much positivity in my life, EIT made it possible for me.\_</p><p>\_</p><p>As a technology officer, I believe I can repay back my community in more ways than one. I,\_as a tech hacker, I was always looking for an opportunity like this to come up so that my skill set can be used for good for my own community.</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Mohit Ahuja'
+    format: full_html
+    processed: 'Mohit Ahuja'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I am a tech hacker and this presents me with a strong skill set of being a (web) developer&nbsp;as well as a product owner on the same day. In my daily job at Scania, I convert business requirements to a tech product (like our website is), automating stuff which can be.&nbsp;<br><br>Being a user experience thinker, I think user-first and tech-second, trained in HCID at EIT, I believe the website we have can be drastically modernised and be made more exciting. Moving forward I would like to integrate the experience on various platform - Telegram and other communication channels such as Newsletter, Alumni Website, Yammer&nbsp;etc to be made uniform.&nbsp;<br><br>Also, I would like to evaluate going forward if possibly we can integrate EIT Climate and Health with us on some communication platform so we can benefit from their knowledge/updates/opportunities and them from us.</p>'
+    format: full_html
+    processed: "<p>I am a tech hacker and this presents me with a strong skill set of being a (web) developer\_as well as a product owner on the same day. In my daily job at Scania, I convert business requirements to a tech product (like our website is), automating stuff which can be.\_<br /><br />Being a user experience thinker, I think user-first and tech-second, trained in HCID at EIT, I believe the website we have can be drastically modernised and be made more exciting. Moving forward I would like to integrate the experience on various platform - Telegram and other communication channels such as Newsletter, Alumni Website, Yammer\_etc to be made uniform.\_<br /><br />Also, I would like to evaluate going forward if possibly we can integrate EIT Climate and Health with us on some communication platform so we can benefit from their knowledge/updates/opportunities and them from us.</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>I am one of you,&nbsp;maybe let me say someone just like you. I have a positive personality and let''s-do-it attitude towards things. Having actively volunteered at almost all EIT events during my stay in Sweden and Netherlands, and other non-EIT&nbsp;events in Germany, France and Belgium as well. As an alumnus, I keep with the latest and greatest in our community. This chance seemed like a perfect match for me and my tech skill set.</p><p>I am now seeking a chance so that I can give back to EIT&nbsp;alumni in a way that can use my technical skills as well.</p>'
+    format: full_html
+    processed: "<p>I am one of you,\_maybe let me say someone just like you. I have a positive personality and let's-do-it attitude towards things. Having actively volunteered at almost all EIT events during my stay in Sweden and Netherlands, and other non-EIT\_events in Germany, France and Belgium as well. As an alumnus, I keep with the latest and greatest in our community. This chance seemed like a perfect match for me and my tech skill set.</p><p>I am now seeking a chance so that I can give back to EIT\_alumni in a way that can use my technical skills as well.</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

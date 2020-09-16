@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5334fdfe-8506-4663-ab78-ff4dcec016c9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/42
+alias:
+  -
+    value: /users/wremomasp
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

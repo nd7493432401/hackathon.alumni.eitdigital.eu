@@ -1,0 +1,14 @@
+uuid: 2bf889f9-a8c8-4571-a148-6290f505179e
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_phd
+  module:
+    - user
+id: user_remove_role_action.associate_member_phd
+label: 'Remove the Associate Member (PHD) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: associate_member_phd

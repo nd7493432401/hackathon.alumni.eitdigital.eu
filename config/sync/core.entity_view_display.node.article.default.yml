@@ -1,0 +1,180 @@
+uuid: a17b1de7-2701-4d05-ab87-b507146a9f1d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.article.body
+    - field.field.node.article.field_alumni_of_the_week
+    - field.field.node.article.field_alumni_week_image
+    - field.field.node.article.field_alumni_week_link
+    - field.field.node.article.field_alumni_week_title
+    - field.field.node.article.field_article_category
+    - field.field.node.article.field_article_introduction
+    - field.field.node.article.field_image
+    - field.field.node.article.field_introduction_image
+    - node.type.article
+  module:
+    - ds
+    - link
+    - media
+    - smart_trim
+    - taxonomy
+    - text
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: bs_2col_stacked
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          top:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+          left:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          right:
+            wrapper: div
+            classes:
+              col-sm-6: col-sm-6
+            add_region_classes: 1
+            attributes: ''
+          bottom:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      top:
+        - field_image
+      left:
+        - body
+        - node_title
+        - links
+      right:
+        - field_article_introduction
+        - field_article_category
+    fields:
+      node_title:
+        plugin_id: node_title
+        weight: 2
+        label: hidden
+        formatter: default
+_core:
+  default_config_hash: ChmU3AVqDKU32A_fyChG0W9dTRKmVBR58B6OClCLvZI
+id: node.article.default
+targetEntityType: node
+bundle: article
+mode: default
+content:
+  body:
+    type: text_default
+    weight: 1
+    region: left
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+  field_alumni_of_the_week:
+    weight: 6
+    label: above
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+    type: boolean
+    region: content
+  field_alumni_week_image:
+    type: entity_reference_entity_view
+    weight: 7
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    region: content
+  field_alumni_week_link:
+    weight: 9
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  field_alumni_week_title:
+    weight: 8
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_article_category:
+    type: entity_reference_rss_category
+    weight: 5
+    region: right
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+  field_article_introduction:
+    type: smart_trim
+    weight: 4
+    region: right
+    label: above
+    settings:
+      trim_length: 600
+      trim_type: chars
+      trim_suffix: ''
+      wrap_output: false
+      wrap_class: trimmed
+      more_link: false
+      more_class: more-link
+      more_text: More
+      summary_handler: full
+      trim_options: {  }
+    third_party_settings: {  }
+  field_image:
+    type: media_thumbnail
+    weight: 0
+    region: top
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+  field_introduction_image:
+    type: entity_reference_entity_view
+    weight: 10
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 3
+    region: left
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  langcode: true

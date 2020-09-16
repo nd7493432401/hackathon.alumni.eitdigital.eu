@@ -1,0 +1,29 @@
+uuid: 64a69f61-89b4-45f9-b53b-27f9172b0866
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_summer_school
+    - profile.type.eit_digital_summer_school
+    - taxonomy.vocabulary.summer_schools
+id: profile.eit_digital_summer_school.field_summer_school
+field_name: field_summer_school
+entity_type: profile
+bundle: eit_digital_summer_school
+label: 'Summer School Attended'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      summer_schools: summer_schools
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

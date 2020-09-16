@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 998334e2-92e4-45ef-9a97-ff9682be9e65
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/78
+alias:
+  -
+    value: /article/meet-landing-festival
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

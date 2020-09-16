@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fa2f1d57-7dc9-4389-9edc-42febbc42299
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/462
+alias:
+  -
+    value: /job/post-master-professional-2
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

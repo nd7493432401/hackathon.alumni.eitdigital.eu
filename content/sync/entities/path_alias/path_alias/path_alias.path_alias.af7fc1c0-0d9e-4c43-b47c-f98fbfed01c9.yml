@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: af7fc1c0-0d9e-4c43-b47c-f98fbfed01c9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/46
+alias:
+  -
+    value: /users/slucajeso
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

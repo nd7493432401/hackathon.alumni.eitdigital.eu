@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3b9abad5-049a-4ccf-b289-f1115d451743
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/581
+alias:
+  -
+    value: /job/computer-vision-scientist-permanent-position
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

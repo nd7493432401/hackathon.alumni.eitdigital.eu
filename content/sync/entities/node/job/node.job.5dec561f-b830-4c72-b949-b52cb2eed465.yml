@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 5dec561f-b830-4c72-b949-b52cb2eed465
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Back End Developer'
+created:
+  -
+    value: '2020-03-08T17:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:07:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/back-end-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://careers.nectarinehealth.com/jobs/843552-back-end-developer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Nectarine Health'
+    format: full_html
+    processed: 'Nectarine Health'
+field_expiration_date:
+  -
+    value: '2020-05-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>About Nectarine Health</strong></p>\r\n\r\n<p>Nectarine Health’s goal is to give older people the confidence to live independently in their own home for longer. We believe that better, more intelligent tools can help society maintain high quality care for its ageing global population.</p>\r\n\r\n<p>Designed to provide peace of mind for families caring for their loved ones, and for professional caregivers, the Nectarine solution provides them with tailored alerts and health insights, helping them to provide more effective care when required.&nbsp; By monitoring well-being patterns and alerting care providers to key health events more common in an older population, such as a fall, we hope to alleviate some of the burden on the primary care system, and help more people enjoy independent living for longer.</p>\r\n\r\n<p>Nectarine connects a state-of-the-art wearable wristband with a streaming IoT platform, analyzing real-time sensor data 24/7 using state of the art deep learning models. These insights are then presented as alerts, patterns of well-being through a simple mobile and web user experience.</p>\r\n\r\n<p>Founded in 2016, we started off providing this solution for nurses, carers and administrators in nursing homes to help them look after their residents more effectively, enabling the delivery of better, more timely care.&nbsp; We now have billions of data points and insights into patterns of activity allowing us to detect falls and provide alerts with ever greater accuracy and make proactive assessment of well-being possible.</p>\r\n\r\n<p>Nectarine Health is an international company with headquarters in Gamla Stan, Stockholm, Sweden. We are expanding rapidly and looking for those passionate about building great products.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Why are we different?</strong></p>\r\n\r\n<p>Our always-on 24/7 streaming AIoT platform</p>\r\n\r\n<p>Our stylish, durable long life wristband</p>\r\n\r\n<p>Our state of the art machine learning applications</p>\r\n\r\n<p>Unique and rapidly growing data sets</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>What’s next?</strong></p>\r\n\r\n<p>In 2020 we will take Nectarine to consumers and their carers in their own home, irrespective of whether care is provided by a family member or neighbor, a professional care provider or someone else. We will be looking to enter markets outside of Sweden, starting with the USA and UK, and to grow our business operations to meet the needs of our international customers.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Role description</strong></p>\r\n\r\n<p>As a back-end developer you will be responsible for the brain of the Nectarine Healths cloud system, including performance, security, and reliability. The back-end is a sophisticated system providing infrastructure for the AI models as well as a data streaming pipeline connecting all the data streams from the devices. Scaling up/down is also a very important part of the back-end, to make the required system resources available, when needed.</p>\r\n\r\n<p>You will report to VP Software Henric Johansson.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Skills/Profile&nbsp;</strong></p>\r\n\r\n<p>At least 5 years of Back-End experience keeping online production environments operating at peak performance, in the cloud, and in containers</p>\r\n\r\n<p>Implementing and maintaining continuous integration and delivery (CI/CD)</p>\r\n\r\n<p>Linux operating systems</p>\r\n\r\n<p>Programming in Golang</p>\r\n\r\n<p>Environments and tools covering: Jenkins, Docker, Kubernetes, GitHub and Kafka</p>\r\n\r\n<p>Security concepts and implementation</p>\r\n\r\n<p>External APIs</p>\r\n\r\n<p>Excellent English communication skills, we are an international team and our corporate language is English</p>\r\n\r\n<p>You collaborate well with others and are actively contributing to your team</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Come and join us if&nbsp;you&nbsp;</strong></p>\r\n\r\n<p>Thrive in a workplace that is characterized by deep technical expertise, dedication, transparency and having fun</p>\r\n\r\n<p>Welcome collaboration with talented teams committed to a common cause</p>\r\n\r\n<p>Are energized by a fast-paced and inspiring start-up environment</p>\r\n\r\n<p>Are excited by&nbsp;our global ambitions&nbsp;</p>\r\n\r\n<p>Are looking for personal and professional development opportunities</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>You couldn’t be joining Nectarine at a more exciting time!</p>\r\n"
+    format: full_html
+    processed: "<p><strong>About Nectarine Health</strong></p>\n\n<p>Nectarine Health’s goal is to give older people the confidence to live independently in their own home for longer. We believe that better, more intelligent tools can help society maintain high quality care for its ageing global population.</p>\n\n<p>Designed to provide peace of mind for families caring for their loved ones, and for professional caregivers, the Nectarine solution provides them with tailored alerts and health insights, helping them to provide more effective care when required.\_ By monitoring well-being patterns and alerting care providers to key health events more common in an older population, such as a fall, we hope to alleviate some of the burden on the primary care system, and help more people enjoy independent living for longer.</p>\n\n<p>Nectarine connects a state-of-the-art wearable wristband with a streaming IoT platform, analyzing real-time sensor data 24/7 using state of the art deep learning models. These insights are then presented as alerts, patterns of well-being through a simple mobile and web user experience.</p>\n\n<p>Founded in 2016, we started off providing this solution for nurses, carers and administrators in nursing homes to help them look after their residents more effectively, enabling the delivery of better, more timely care.\_ We now have billions of data points and insights into patterns of activity allowing us to detect falls and provide alerts with ever greater accuracy and make proactive assessment of well-being possible.</p>\n\n<p>Nectarine Health is an international company with headquarters in Gamla Stan, Stockholm, Sweden. We are expanding rapidly and looking for those passionate about building great products.</p>\n\n<p>\_</p>\n\n<p><strong>Why are we different?</strong></p>\n\n<p>Our always-on 24/7 streaming AIoT platform</p>\n\n<p>Our stylish, durable long life wristband</p>\n\n<p>Our state of the art machine learning applications</p>\n\n<p>Unique and rapidly growing data sets</p>\n\n<p>\_</p>\n\n<p><strong>What’s next?</strong></p>\n\n<p>In 2020 we will take Nectarine to consumers and their carers in their own home, irrespective of whether care is provided by a family member or neighbor, a professional care provider or someone else. We will be looking to enter markets outside of Sweden, starting with the USA and UK, and to grow our business operations to meet the needs of our international customers.</p>\n\n<p>\_</p>\n\n<p><strong>Role description</strong></p>\n\n<p>As a back-end developer you will be responsible for the brain of the Nectarine Healths cloud system, including performance, security, and reliability. The back-end is a sophisticated system providing infrastructure for the AI models as well as a data streaming pipeline connecting all the data streams from the devices. Scaling up/down is also a very important part of the back-end, to make the required system resources available, when needed.</p>\n\n<p>You will report to VP Software Henric Johansson.\_</p>\n\n<p>\_</p>\n\n<p><strong>Skills/Profile\_</strong></p>\n\n<p>At least 5 years of Back-End experience keeping online production environments operating at peak performance, in the cloud, and in containers</p>\n\n<p>Implementing and maintaining continuous integration and delivery (CI/CD)</p>\n\n<p>Linux operating systems</p>\n\n<p>Programming in Golang</p>\n\n<p>Environments and tools covering: Jenkins, Docker, Kubernetes, GitHub and Kafka</p>\n\n<p>Security concepts and implementation</p>\n\n<p>External APIs</p>\n\n<p>Excellent English communication skills, we are an international team and our corporate language is English</p>\n\n<p>You collaborate well with others and are actively contributing to your team</p>\n\n<p>\_</p>\n\n<p><strong>Come and join us if\_you\_</strong></p>\n\n<p>Thrive in a workplace that is characterized by deep technical expertise, dedication, transparency and having fun</p>\n\n<p>Welcome collaboration with talented teams committed to a common cause</p>\n\n<p>Are energized by a fast-paced and inspiring start-up environment</p>\n\n<p>Are excited by\_our global ambitions\_</p>\n\n<p>Are looking for personal and professional development opportunities</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p>You couldn’t be joining Nectarine at a more exciting time!</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: d2d706f5-60af-4841-831e-717bfca4a534
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:32:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Local Reps Gathering 2019'
+created:
+  -
+    value: '2019-01-27T17:51:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:32:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/local-reps-gathering-2019
+body: {  }
+field_event_:
+  -
+    value: 'EIT House, Brussels'
+    format: full_html
+    processed: 'EIT House, Brussels'
+field_event_date:
+  -
+    value: '2019-05-31T18:00:00+02:00'
+    end_value: '2019-06-02T18:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>As promised, also in 2019 we will hold the <strong>Local Reps Gathering</strong>&nbsp;- after a successful edition in 2018.&nbsp;In the next months our Alumni Foundation will be having <strong>a new board</strong> after a&nbsp;2-year mandate of service from the current one. Therefore, we thought it would be useful to <strong>combine</strong> the Board transition with the&nbsp;Local Reps Gathering!</p>\r\n\r\n<p>The reason behind this is to have proper <strong>alignment</strong> with the new board and, at the same time, to officially introduce to the newly elected board our <a href=\"/node/68\">most loyal members</a>, representing our various Local Teams. This way, the outgoing Board will be able to share their projections and business plan with the new one and you, to <strong>receive feedback</strong> and plan together our strategy for 2019 and the future.&nbsp;</p>\r\n\r\n<p>It will be a long weekend of discussions, from Friday 31 May to Sunday 2 June -&nbsp;but we'll keep it cool, promised! The handover meeting will be held at the <a href=\"https://eit.europa.eu/eit-house-brussels\">EIT House in Brussels</a>.</p>\r\n\r\n<p>We have already invited some of the most engaged members in our community to join us. Get active, <a href=\"https://alumni.eitdigital.eu/propose\"><strong>propose and help organize an event in your city</strong></a>!</p>\r\n"
+    format: full_html
+    processed: "<p>As promised, also in 2019 we will hold the <strong>Local Reps Gathering</strong>\_- after a successful edition in 2018.\_In the next months our Alumni Foundation will be having <strong>a new board</strong> after a\_2-year mandate of service from the current one. Therefore, we thought it would be useful to <strong>combine</strong> the Board transition with the\_Local Reps Gathering!</p>\n\n<p>The reason behind this is to have proper <strong>alignment</strong> with the new board and, at the same time, to officially introduce to the newly elected board our <a href=\"/node/68\">most loyal members</a>, representing our various Local Teams. This way, the outgoing Board will be able to share their projections and business plan with the new one and you, to <strong>receive feedback</strong> and plan together our strategy for 2019 and the future.\_</p>\n\n<p>It will be a long weekend of discussions, from Friday 31 May to Sunday 2 June -\_but we'll keep it cool, promised! The handover meeting will be held at the <a href=\"https://eit.europa.eu/eit-house-brussels\">EIT House in Brussels</a>.</p>\n\n<p>We have already invited some of the most engaged members in our community to join us. Get active, <a href=\"https://alumni.eitdigital.eu/propose\"><strong>propose and help organize an event in your city</strong></a>!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+field_event_introduction:
+  -
+    value: "<p>We thought it would be useful to combine the Board transition with the&nbsp;Local Reps Gathering 2019</p>\r\n"
+    format: full_html
+    processed: "<p>We thought it would be useful to combine the Board transition with the\_Local Reps Gathering 2019</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8a7b9811-459e-4ffa-9b91-11b0c7f04e50
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.13c3fd46-1154-4b09-b85b-ef80c01ac5e1
+    taxonomy_term:
+      - taxonomy_term.event_type.8a7b9811-459e-4ffa-9b91-11b0c7f04e50

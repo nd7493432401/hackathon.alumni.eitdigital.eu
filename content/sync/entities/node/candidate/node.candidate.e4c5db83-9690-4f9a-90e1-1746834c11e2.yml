@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: e4c5db83-9690-4f9a-90e1-1746834c11e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Blanca Martinez de Aragon'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/blanca-martinez-de-aragon
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>I am proud of being an EIT Alumni and want to make this community even stronger!!&nbsp;</p>'
+    format: full_html
+    processed: "<p>I am proud of being an EIT Alumni and want to make this community even stronger!!\_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Blanca Martinez de Aragon'
+    format: full_html
+    processed: 'Blanca Martinez de Aragon'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I believe the most important part of the community is <strong>to learn from each other</strong> -&nbsp;&nbsp;meet, share ideas and experiences. We are lucky to be part of such a diverse network of people and should take advantage of it :)</p>'
+    format: full_html
+    processed: "<p>I believe the most important part of the community is <strong>to learn from each other</strong> -\_\_meet, share ideas and experiences. We are lucky to be part of such a diverse network of people and should take advantage of it :)</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>I am motivated, like new challenges and would make sure to do my best. I believe I am prepared for this position and my background in&nbsp;consulting (including financial sector) would add value to the team.&nbsp;</p>'
+    format: full_html
+    processed: "<p>I am motivated, like new challenges and would make sure to do my best. I believe I am prepared for this position and my background in\_consulting (including financial sector) would add value to the team.\_</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

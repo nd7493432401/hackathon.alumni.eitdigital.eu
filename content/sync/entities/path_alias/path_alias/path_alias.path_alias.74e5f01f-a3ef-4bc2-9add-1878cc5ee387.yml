@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 74e5f01f-a3ef-4bc2-9add-1878cc5ee387
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/80
+alias:
+  -
+    value: /article/gaffar-our-new-community-coordinator
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

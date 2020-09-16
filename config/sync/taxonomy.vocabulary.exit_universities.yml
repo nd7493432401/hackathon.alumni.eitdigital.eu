@@ -1,0 +1,8 @@
+uuid: 23bd9b62-3607-4c2f-b9d6-640ab81a6981
+langcode: en
+status: true
+dependencies: {  }
+name: 'Exit Universities'
+vid: exit_universities
+description: ''
+weight: 0

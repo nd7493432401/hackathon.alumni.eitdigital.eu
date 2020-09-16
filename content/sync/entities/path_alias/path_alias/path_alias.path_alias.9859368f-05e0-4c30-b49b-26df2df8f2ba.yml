@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9859368f-05e0-4c30-b49b-26df2df8f2ba
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/210
+alias:
+  -
+    value: /tracks-master-school/software-and-service-architectures-ssa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

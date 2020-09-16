@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e25e9c10-9d90-42bf-951d-6ef89ba99e54
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/349
+alias:
+  -
+    value: /job/web-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

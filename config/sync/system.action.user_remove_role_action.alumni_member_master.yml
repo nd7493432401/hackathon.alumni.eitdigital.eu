@@ -1,0 +1,14 @@
+uuid: 86304523-4d7b-45ca-9e6c-9e7815714d18
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.alumni_member_master
+  module:
+    - user
+id: user_remove_role_action.alumni_member_master
+label: 'Remove the Alumni Member (Master) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: alumni_member_master

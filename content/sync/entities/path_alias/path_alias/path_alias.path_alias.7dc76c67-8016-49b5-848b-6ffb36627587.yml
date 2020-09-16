@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7dc76c67-8016-49b5-848b-6ffb36627587
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/63
+alias:
+  -
+    value: /article/physical-board-meeting-2020-jan
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

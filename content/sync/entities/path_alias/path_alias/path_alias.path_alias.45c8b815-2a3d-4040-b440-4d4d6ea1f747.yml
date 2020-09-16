@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 45c8b815-2a3d-4040-b440-4d4d6ea1f747
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/398
+alias:
+  -
+    value: /job/senior-product-designer-uxui
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

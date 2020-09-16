@@ -1,0 +1,10 @@
+uuid: 8d613d85-6e47-4bd1-8091-c44ca12d4703
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.employee
+label: 'Employee Register'
+targetEntityType: user
+cache: true

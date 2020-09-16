@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 7e5964a6-e7d0-4cf6-b84b-73835f084b9a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Professional '
+created:
+  -
+    value: '2019-02-06T09:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:59:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-professional-3
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/finance/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital, Pay with a Smile'
+    format: full_html
+    processed: 'EIT Digital, Pay with a Smile'
+field_expiration_date:
+  -
+    value: '2019-02-28T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>EIT Digital seeks two Post-Master Professionals for its \"Pay with a Smile\" Innovation Activity</strong></p>\r\n\r\n<p>The Post-Master Professional positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development.</p>\r\n\r\n<p><strong>Action Line:</strong> The two Post-Master Professionals will report to the Digital Finance Action Line Leader.</p>\r\n\r\n<p><strong>Activity Name:</strong> Pay with a Smile (PWaS) As part of the project, we are developing a start-up commercialising seamless payment method based on biometric technology for traditional retails. The work will consist in building the MVP at the same time as the venture. The candidates will support the venture creation and technology development to meet the requirements of the early adopters along with timely deployment.</p>\r\n\r\n<p><strong>Job Profile</strong></p>\r\n\r\n<p>We are seeking two highly motivated candidates with knowledge and interest in <strong>biometric technologies, electronic payment methods and/or big data.</strong> Project management experience and basic knowledge about IT architecture is a plus. The candidates will be responsible for monitoring, testing and reporting on the product development, as well as deployment in selected early adopters coordinating a consortium of partners. Excellent command of English is required; Spanish, Hungarian are an asset.</p>\r\n\r\n<p><strong>Location</strong></p>\r\n\r\n<p>Place of Employment is the EIT Digital Co-Location Centre in Budapest, Hungary, or Madrid, Spain.</p>\r\n\r\n<p>Occasional European travel to be expected.</p>\r\n\r\n<p><strong>Offer</strong></p>\r\n\r\n<p>• One-year full-time contract with possibility of renewal for another year*</p>\r\n\r\n<p>• Guidance from Action Line Leader and Node Director in Budapest, Hungary or Madrid, Spain.</p>\r\n\r\n<p><em>*Contract duration may vary between different Nodes and Countries due to national legislation.</em></p>\r\n\r\n<p>To Apply Please email your CV and motivation letter in English to: <strong>postmasterapplication@eitdigital.eu</strong>, highlighting how your skills and experience meet the qualifications requested for this position. Applications without a motivation letter will not be considered. Please specify the <u>Activity Name, position and location</u> you are applying for. Applications should be submitted until <strong>February 28th, 2019, 5 PM CET.</strong></p>\r\n"
+    format: full_html
+    processed: "<p><strong>EIT Digital seeks two Post-Master Professionals for its \"Pay with a Smile\" Innovation Activity</strong></p>\n\n<p>The Post-Master Professional positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development.</p>\n\n<p><strong>Action Line:</strong> The two Post-Master Professionals will report to the Digital Finance Action Line Leader.</p>\n\n<p><strong>Activity Name:</strong> Pay with a Smile (PWaS) As part of the project, we are developing a start-up commercialising seamless payment method based on biometric technology for traditional retails. The work will consist in building the MVP at the same time as the venture. The candidates will support the venture creation and technology development to meet the requirements of the early adopters along with timely deployment.</p>\n\n<p><strong>Job Profile</strong></p>\n\n<p>We are seeking two highly motivated candidates with knowledge and interest in <strong>biometric technologies, electronic payment methods and/or big data.</strong> Project management experience and basic knowledge about IT architecture is a plus. The candidates will be responsible for monitoring, testing and reporting on the product development, as well as deployment in selected early adopters coordinating a consortium of partners. Excellent command of English is required; Spanish, Hungarian are an asset.</p>\n\n<p><strong>Location</strong></p>\n\n<p>Place of Employment is the EIT Digital Co-Location Centre in Budapest, Hungary, or Madrid, Spain.</p>\n\n<p>Occasional European travel to be expected.</p>\n\n<p><strong>Offer</strong></p>\n\n<p>• One-year full-time contract with possibility of renewal for another year*</p>\n\n<p>• Guidance from Action Line Leader and Node Director in Budapest, Hungary or Madrid, Spain.</p>\n\n<p><em>*Contract duration may vary between different Nodes and Countries due to national legislation.</em></p>\n\n<p>To Apply Please email your CV and motivation letter in English to: <strong>postmasterapplication@eitdigital.eu</strong>, highlighting how your skills and experience meet the qualifications requested for this position. Applications without a motivation letter will not be considered. Please specify the <u>Activity Name, position and location</u> you are applying for. Applications should be submitted until <strong>February 28th, 2019, 5 PM CET.</strong></p>\n"
+field_job_location:
+  -
+    value: 'Budapest/ Madrid '
+    format: full_html
+    processed: 'Budapest/ Madrid '
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/alexandrasabou'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

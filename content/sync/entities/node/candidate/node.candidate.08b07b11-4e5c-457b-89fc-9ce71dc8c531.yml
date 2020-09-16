@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 08b07b11-4e5c-457b-89fc-9ce71dc8c531
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Paul Velthuis'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/paul-velthuis
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>My name is Paul Velthuis and I would like to apply for the position of treasurer. I would like to contribute more to the EIT Digital Alumni Community. Currently, I am helping already the community in Berlin to organise their activities. The role of treasurer is interesting for me, since I have a background in Business and IT. As a job&nbsp;&nbsp;I am helping Zalando to optimise their financial process. I would like to make my financial expertise valuable for the community. In the past I have done the finances of another student community, here I managed&nbsp; together with other volunteers a budget of 400.000 euros. In the role I checked the balance sheets, and validated if the bills were handed in correctly. From this role I learned how to make proper financial statements, which is still beneficial to me in daily life. Another exprience I have is gathering and spending money from our financers. In the past I have organised lunch lectures by companies to makr people more engaged with companies. I organised also events where famous dutch entreprenours would come to tell about their experience of making a company.&nbsp;For the role of treasurer, I would like to learn more about how to build a financial vision for a community. This including how to spend the money better for the community, so that we can enrich our lives with new experiences and connections.</p>'
+    format: full_html
+    processed: "<p>My name is Paul Velthuis and I would like to apply for the position of treasurer. I would like to contribute more to the EIT Digital Alumni Community. Currently, I am helping already the community in Berlin to organise their activities. The role of treasurer is interesting for me, since I have a background in Business and IT. As a job\_\_I am helping Zalando to optimise their financial process. I would like to make my financial expertise valuable for the community. In the past I have done the finances of another student community, here I managed\_ together with other volunteers a budget of 400.000 euros. In the role I checked the balance sheets, and validated if the bills were handed in correctly. From this role I learned how to make proper financial statements, which is still beneficial to me in daily life. Another exprience I have is gathering and spending money from our financers. In the past I have organised lunch lectures by companies to makr people more engaged with companies. I organised also events where famous dutch entreprenours would come to tell about their experience of making a company.\_For the role of treasurer, I would like to learn more about how to build a financial vision for a community. This including how to spend the money better for the community, so that we can enrich our lives with new experiences and connections.</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Paul Velthuis'
+    format: full_html
+    processed: 'Paul Velthuis'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>My vision is a community that is there to exchange knowledge. This not only technical knowledge, but also knowledge about the local community and life in a city. This for me is very important, since most live far away from their family, and then local help is more important. In addition, to enable knowledge exchange, In the past month I went to the Community Days of our sister KIC InnoEnergy, to try and build a stronger relationship. Moreover, this December I am organising with some other local EIT Digital Alumni in Berlin some events for the recent graduates that will visit Berlin. When I am in the board,&nbsp; I would like to assist in organising events.</p>'
+    format: full_html
+    processed: "<p>My vision is a community that is there to exchange knowledge. This not only technical knowledge, but also knowledge about the local community and life in a city. This for me is very important, since most live far away from their family, and then local help is more important. In addition, to enable knowledge exchange, In the past month I went to the Community Days of our sister KIC InnoEnergy, to try and build a stronger relationship. Moreover, this December I am organising with some other local EIT Digital Alumni in Berlin some events for the recent graduates that will visit Berlin. When I am in the board,\_ I would like to assist in organising events.</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>The reason why I would like your vote, is because I feel very connected with the community, and this makes me feel very passionate about making this board and the future of the EIT Digital Community a success. I would be very thankful for the opportunity to make&nbsp; great experiences for EIT Digital&nbsp;Alumni.&nbsp; &nbsp;&nbsp;</p>'
+    format: full_html
+    processed: "<p>The reason why I would like your vote, is because I feel very connected with the community, and this makes me feel very passionate about making this board and the future of the EIT Digital Community a success. I would be very thankful for the opportunity to make\_ great experiences for EIT Digital\_Alumni.\_ \_\_</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

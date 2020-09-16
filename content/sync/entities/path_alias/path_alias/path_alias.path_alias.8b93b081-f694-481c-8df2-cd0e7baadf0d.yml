@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8b93b081-f694-481c-8df2-cd0e7baadf0d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/151
+alias:
+  -
+    value: /summer-schools/2018-rennes-predictive-analytics-big-data-mobility-and-open-platforms-efficient-and
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

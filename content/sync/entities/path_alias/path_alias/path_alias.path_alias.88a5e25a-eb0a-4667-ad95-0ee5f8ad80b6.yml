@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 88a5e25a-eb0a-4667-ad95-0ee5f8ad80b6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/620
+alias:
+  -
+    value: /job/machine-learning-engineer-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

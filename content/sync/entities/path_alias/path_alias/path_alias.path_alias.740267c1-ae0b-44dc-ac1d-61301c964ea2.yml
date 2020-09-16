@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 740267c1-ae0b-44dc-ac1d-61301c964ea2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/334
+alias:
+  -
+    value: /job/postdoc-navigation-decision-making-and-teleoperation-autonomous-vehicles
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

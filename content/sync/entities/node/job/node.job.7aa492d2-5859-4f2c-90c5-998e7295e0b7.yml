@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 7aa492d2-5859-4f2c-90c5-998e7295e0b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Data Scientist'
+created:
+  -
+    value: '2019-07-16T10:09:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:07:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/data-scientist-1
+body: {  }
+field_apply_link:
+  -
+    uri: 'http://jobs.thomsonreuters.com/ShowJob/Id/318092/Data-Scientist/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Thomson Reuters'
+    format: full_html
+    processed: 'Thomson Reuters'
+field_expiration_date:
+  -
+    value: '2019-08-31T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>Job Description</strong></p>\r\n\r\n<p>Are you excited about working with data and applying a broad range of data science techniques to&nbsp;challenging&nbsp;business problems? We are currently looking for a data scientist with an entrepreneurial spirit to join the team at Thomson Reuters Labs in Zug.</p>\r\n\r\n<p>What do we do? We experiment, build and deliver. We work with big data sets to discover what new products, services, or&nbsp;analysis&nbsp;we can create for our customers. You might be familiar with Reuters News, but you might not know that Thomson Reuters is also one of the&nbsp;leading&nbsp;sources of information for legal professionals, corporates and tax professionals. We have over 60,000 TBs worth of legal, regulatory, news and tax data.</p>\r\n\r\n<p>You will be part of a fast-paced team that behaves like a startup but leverages the support and resources of a world-class enterprise. You will also work closely with other data scientists, engineers and designers at Thomson Reuters Labs to drive projects forward and into our products.</p>\r\n\r\n<p><strong>Major Responsibilities/Accountabilities:</strong></p>\r\n\r\n<p>Collaborate with and learn from dozens of data scientists—PhD’s and Masters grads with experience in deep learning, machine learning, big data, statistics, natural language processing, probabilistic programming and data visualization—at Thomson Reuters Labs around the world to build AI systems that push the boundaries of what was previously considered possible.</p>\r\n\r\n<p>Interact with customers and internal business partners to understand their business and develop hypotheses about AI solutions to real world problems in legal, regulatory, news and tax domains.</p>\r\n\r\n<p>Run experiments and proof-of-concepts to test the feasibility of ideas by practically applying data science skills and tools</p>\r\n\r\n<p>Process and work with large and diverse data sets using big data and public cloud technology</p>\r\n\r\n<p>Work on projects as part of a global team across multiple locations and time zones</p>\r\n\r\n<p>Confidently communicate and present complex concepts to any audience</p>\r\n\r\n<p><strong>Qualifications</strong></p>\r\n\r\n<p>Master’s Degree or PhD in relevant field such as computer science, statistics, computational linguistics, applied mathematics, physics or a related discipline</p>\r\n\r\n<p>Strong experience with scripting languages like Python or R.</p>\r\n\r\n<p>Development skills to rapidly deliver minimum viable products</p>\r\n\r\n<p>Academic and/or industry experience with one or more of</p>\r\n\r\n<p>Natural Language Processing</p>\r\n\r\n<p>Machine Learning</p>\r\n\r\n<p>Information Retrieval</p>\r\n\r\n<p>Big Data Systems and Analytics</p>\r\n\r\n<p>Data Visualization</p>\r\n\r\n<p>Cloud Technology, APIs and Databases</p>\r\n\r\n<p><strong>About Thomson Reuters Labs</strong></p>\r\n\r\n<p>With outstanding support from both the CEO and CTO, Thomson Reuters Labs is fueling data-driven innovation, developed in-house with a brilliant team of data scientists and sourced externally through partnership with game-changing startups and top academic researchers.</p>\r\n\r\n<p>The goal of the Labs is simple: find new data science, machine learning and AI opportunities; prototype them; validate them; and work with product teams to bring them to market. We take on a wide variety of projects, use an agile approach to create minimal viable products, and work with the business units to find a path to market or production. By doing this we de-risk new opportunities in terms of technical viability, data viability, and customer demand.</p>\r\n\r\n<p>At Thomson Reuters, we believe what we do matters. We are passionate about our work, inspired by the impact it has on our business and our customers. As a team, we believe in winning as one - collaborating to reach shared goals, and developing through challenging and meaningful experiences. With more than 25,000 employees in more than&nbsp;100 countries, we work flexibly across boundaries and realize innovations that help shape industries around the world. Making this happen is a dynamic, evolving process, and we count on each employee to be a catalyst in driving our performance - and their own.</p>\r\n\r\n<p>As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.</p>\r\n\r\n<p>We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.<br />\r\n<br />\r\nTo learn more about what we offer, please visit&nbsp;thomsonreuters.com/careers.<br />\r\n<br />\r\nMore information about Thomson Reuters can be found on&nbsp;thomsonreuters.com.</p>\r\n\r\n<p><strong>EIT alumni specific message</strong>: If you decide to apply, consider putting 'Milda Norkute' name in 'How you heard about this position?' field- it will work as a referral, which would help your application stand out a little and if you did get hired I’d get a small thank you from the company.</p>\r\n"
+    format: full_html
+    processed: "<p><strong>Job Description</strong></p>\n\n<p>Are you excited about working with data and applying a broad range of data science techniques to\_challenging\_business problems? We are currently looking for a data scientist with an entrepreneurial spirit to join the team at Thomson Reuters Labs in Zug.</p>\n\n<p>What do we do? We experiment, build and deliver. We work with big data sets to discover what new products, services, or\_analysis\_we can create for our customers. You might be familiar with Reuters News, but you might not know that Thomson Reuters is also one of the\_leading\_sources of information for legal professionals, corporates and tax professionals. We have over 60,000 TBs worth of legal, regulatory, news and tax data.</p>\n\n<p>You will be part of a fast-paced team that behaves like a startup but leverages the support and resources of a world-class enterprise. You will also work closely with other data scientists, engineers and designers at Thomson Reuters Labs to drive projects forward and into our products.</p>\n\n<p><strong>Major Responsibilities/Accountabilities:</strong></p>\n\n<p>Collaborate with and learn from dozens of data scientists—PhD’s and Masters grads with experience in deep learning, machine learning, big data, statistics, natural language processing, probabilistic programming and data visualization—at Thomson Reuters Labs around the world to build AI systems that push the boundaries of what was previously considered possible.</p>\n\n<p>Interact with customers and internal business partners to understand their business and develop hypotheses about AI solutions to real world problems in legal, regulatory, news and tax domains.</p>\n\n<p>Run experiments and proof-of-concepts to test the feasibility of ideas by practically applying data science skills and tools</p>\n\n<p>Process and work with large and diverse data sets using big data and public cloud technology</p>\n\n<p>Work on projects as part of a global team across multiple locations and time zones</p>\n\n<p>Confidently communicate and present complex concepts to any audience</p>\n\n<p><strong>Qualifications</strong></p>\n\n<p>Master’s Degree or PhD in relevant field such as computer science, statistics, computational linguistics, applied mathematics, physics or a related discipline</p>\n\n<p>Strong experience with scripting languages like Python or R.</p>\n\n<p>Development skills to rapidly deliver minimum viable products</p>\n\n<p>Academic and/or industry experience with one or more of</p>\n\n<p>Natural Language Processing</p>\n\n<p>Machine Learning</p>\n\n<p>Information Retrieval</p>\n\n<p>Big Data Systems and Analytics</p>\n\n<p>Data Visualization</p>\n\n<p>Cloud Technology, APIs and Databases</p>\n\n<p><strong>About Thomson Reuters Labs</strong></p>\n\n<p>With outstanding support from both the CEO and CTO, Thomson Reuters Labs is fueling data-driven innovation, developed in-house with a brilliant team of data scientists and sourced externally through partnership with game-changing startups and top academic researchers.</p>\n\n<p>The goal of the Labs is simple: find new data science, machine learning and AI opportunities; prototype them; validate them; and work with product teams to bring them to market. We take on a wide variety of projects, use an agile approach to create minimal viable products, and work with the business units to find a path to market or production. By doing this we de-risk new opportunities in terms of technical viability, data viability, and customer demand.</p>\n\n<p>At Thomson Reuters, we believe what we do matters. We are passionate about our work, inspired by the impact it has on our business and our customers. As a team, we believe in winning as one - collaborating to reach shared goals, and developing through challenging and meaningful experiences. With more than 25,000 employees in more than\_100 countries, we work flexibly across boundaries and realize innovations that help shape industries around the world. Making this happen is a dynamic, evolving process, and we count on each employee to be a catalyst in driving our performance - and their own.</p>\n\n<p>As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.</p>\n\n<p>We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.<br />\n<br />\nTo learn more about what we offer, please visit\_thomsonreuters.com/careers.<br />\n<br />\nMore information about Thomson Reuters can be found on\_thomsonreuters.com.</p>\n\n<p><strong>EIT alumni specific message</strong>: If you decide to apply, consider putting 'Milda Norkute' name in 'How you heard about this position?' field- it will work as a referral, which would help your application stand out a little and if you did get hired I’d get a small thank you from the company.</p>\n"
+field_job_location:
+  -
+    value: 'Zug, Switzerland'
+    format: full_html
+    processed: 'Zug, Switzerland'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

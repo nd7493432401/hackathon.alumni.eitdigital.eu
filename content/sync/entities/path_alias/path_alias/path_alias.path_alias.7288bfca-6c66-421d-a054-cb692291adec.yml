@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7288bfca-6c66-421d-a054-cb692291adec
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/198
+alias:
+  -
+    value: /summer-schools/2016-eindhoven-health-wellbeing-i
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

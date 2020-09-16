@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: ef5c736e-f8d4-4877-84fc-9ae1c3f7704c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:59:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-doc - Computer Vision & Machine Learning for Robotics'
+created:
+  -
+    value: '2017-11-17T00:10:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T09:51:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-doc-computer-vision-machine-learning-robotics
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:natalia.diaz@ensta-paristech.fr'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'ENSTA ParisTech/INRIA'
+    format: full_html
+    processed: 'ENSTA ParisTech/INRIA'
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p><strong># Position description #</strong></p>\r\n\r\n<p>The Autonomous Systems and Robotics team at <a href=\"http://asr.ensta.fr\">ENSTA ParisTech</a>&nbsp;and <a href=\"http://flowers.inria.fr\">INRIA</a>&nbsp;is opening a&nbsp;<strong>12 months postdoc position</strong> in the area of vision and machine learning, and in particular representation learning for robotics. The goal is to develop approaches that make it possible to learn relevant low dimensional representations from images that will support behavior learning. The position will take place in the context of the <strong>DREAM H2020</strong> european project.</p>\r\n\r\n<p><strong># Context #</strong></p>\r\n\r\n<p>The <a href=\"http://www.robotsthatdream.eu/\">DREAM European project</a> is focused on the bootstrap of a developmental process allowing a robot to learn about its environment and the objects it contains. DREAM is one of the five selected projects of the FET call (Future and Emerging Technologies) on « Knowing, doing, being: cognition beyond problem solving ». The position involves robotics experiments that will be done in simulation and on the Baxter robot in close collaboration with the <a href=\"http://www.isir.upmc.fr/\">ISIR laboratory at UPMC</a>.</p>\r\n\r\n<p><strong># Requirements #</strong></p>\r\n\r\n<p>We are looking for highly motivated candidates with a strong academic record. An excellent background is expected with a PhD in computer vision for robotics, representation learning (e.g., deep learning), reinforcement learning or more generally machine learning. Significant experience in real robotics applications will be appreciated. Programming skills in modern C++ and python are expected, along with experience with ROS.</p>\r\n\r\n<p><strong># To apply #</strong> Inquiry about the position can be directed to natalia.diaz@ensta-paristech.fr. Applicants should send a CV, motivation letter (max 1 page), and a list of three references in a single pdf file to natalia.diaz@ensta-paristech.fr. Please put [DREAM post-doc] in the subject of the mail. Review of applicants will begin immediately, and will continue until the position is filled.</p>\r\n"
+    format: full_html
+    processed: "<p><strong># Position description #</strong></p>\n\n<p>The Autonomous Systems and Robotics team at <a href=\"http://asr.ensta.fr\">ENSTA ParisTech</a>\_and <a href=\"http://flowers.inria.fr\">INRIA</a>\_is opening a\_<strong>12 months postdoc position</strong> in the area of vision and machine learning, and in particular representation learning for robotics. The goal is to develop approaches that make it possible to learn relevant low dimensional representations from images that will support behavior learning. The position will take place in the context of the <strong>DREAM H2020</strong> european project.</p>\n\n<p><strong># Context #</strong></p>\n\n<p>The <a href=\"http://www.robotsthatdream.eu/\">DREAM European project</a> is focused on the bootstrap of a developmental process allowing a robot to learn about its environment and the objects it contains. DREAM is one of the five selected projects of the FET call (Future and Emerging Technologies) on « Knowing, doing, being: cognition beyond problem solving ». The position involves robotics experiments that will be done in simulation and on the Baxter robot in close collaboration with the <a href=\"http://www.isir.upmc.fr/\">ISIR laboratory at UPMC</a>.</p>\n\n<p><strong># Requirements #</strong></p>\n\n<p>We are looking for highly motivated candidates with a strong academic record. An excellent background is expected with a PhD in computer vision for robotics, representation learning (e.g., deep learning), reinforcement learning or more generally machine learning. Significant experience in real robotics applications will be appreciated. Programming skills in modern C++ and python are expected, along with experience with ROS.</p>\n\n<p><strong># To apply #</strong> Inquiry about the position can be directed to natalia.diaz@ensta-paristech.fr. Applicants should send a CV, motivation letter (max 1 page), and a list of three references in a single pdf file to natalia.diaz@ensta-paristech.fr. Please put [DREAM post-doc] in the subject of the mail. Review of applicants will begin immediately, and will continue until the position is filled.</p>\n"
+field_job_location:
+  -
+    value: 'Palaiseau, France'
+    format: full_html
+    processed: 'Palaiseau, France'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

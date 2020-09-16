@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f6c56958-4c8a-495f-9f6d-7c9c81db6144
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/183
+alias:
+  -
+    value: /event/4th-graduation-ceremony-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

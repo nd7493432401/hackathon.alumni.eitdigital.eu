@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 3b961e46-65b1-4c9c-b2a5-9f199c686c66
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Social Media Manager (Italian)'
+created:
+  -
+    value: '2017-10-29T15:36:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:40:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/social-media-manager-italian
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:angela.hornberg@ahc-frankfurt.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Fintech Startup'
+    format: full_html
+    processed: 'Fintech Startup'
+field_expiration_date:
+  -
+    value: '2017-12-31T02:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>Siamo un nuovo prodotto finanziario digitale, facilmente accessibile a ogni azienda italiana che grazie alla tecnologia permette di rendere liquido il capitale circolante in 48 ore; è una startup tecnologica, fondata nel settembre 2015.</p>\r\n\r\n<p>Oggi siamo un gruppo di 25 professionisti e giovani talenti, in gran parte tra i 28 e i 35 anni, siamo attivi sul mercato da febbraio 2017 e in questi pochi mesi abbiamo già raccolto più di 1500 richieste di finanziamento e attivato 150 clienti erogando 28M€ di finanziamento.</p>\r\n\r\n<p>Per potenziare il nostro organico in area marketing siamo alla ricerca di un Social &amp; Content Manager che si occuperà di disegnare e implementare la strategia del brand sui social media, di creare e sviluppare un piano editoriale, identificando gli infuencer e i target di riferimento, e di gestire la community di utenti.</p>\r\n\r\n<p>Cerchiamo un esperto di social media, una persona capace di inventare e raccontare storie con una genuina passione per la comunicazione e le relazioni. È importante possedere una visione strategica e una significativa esperienza di marketing digitale.</p>\r\n\r\n<p>Le attività comprendono la realizzazione dei contenuti da declinare sui diversi canali social e sul blog, la gestione delle conversazioni sui social, la creazione di campagne di comunicazione dal punto di vista dei contenuti, l’analisi dei risultati ed il reporting.</p>\r\n\r\n<p>Il profilo che cerchiamo è positivo, curioso, capace di lavorare in team, con una passione per la tecnologia e un talento per la scrittura. Valutiamo positivamente esperienze nel mercato finanziario e/o B2B.</p>\r\n\r\n<p><strong>PRINCIPALI RESPONSABILITÀ</strong></p>\r\n\r\n<p>• Ottimizzare l’acquisizione di clienti e la conversion e sui canali social e inbound</p>\r\n\r\n<p>• Sviluppo della strategia social e Digital PR</p>\r\n\r\n<p>• Gestione dei social media e delle conversazioni</p>\r\n\r\n<p>• Elaborazione del piano editoriale per il blog e i canali social</p>\r\n\r\n<p>• Attività di Digital PR, identificazione e attivazione degli influencer</p>\r\n\r\n<p>• Moderazione commenti</p>\r\n\r\n<p>• Gestione analytics, dati e reporting</p>\r\n\r\n<p><strong>REQUISITI</strong></p>\r\n\r\n<p>• 3/5 anni di esperienza nel ruolo</p>\r\n\r\n<p>• Esperienza in digital content creation (siti, blog, social media, video)</p>\r\n\r\n<p>• Capacità di elaborare testi e disegnare piani editoriali</p>\r\n\r\n<p>• Esperienza di creazione, gestione e monitoraggio di paid adv. su social e Adwords</p>\r\n\r\n<p>• Capacità di integrarsi in un ambiente dinamico ed in continua evoluzione</p>\r\n"
+    format: full_html
+    processed: "<p>Siamo un nuovo prodotto finanziario digitale, facilmente accessibile a ogni azienda italiana che grazie alla tecnologia permette di rendere liquido il capitale circolante in 48 ore; è una startup tecnologica, fondata nel settembre 2015.</p>\n\n<p>Oggi siamo un gruppo di 25 professionisti e giovani talenti, in gran parte tra i 28 e i 35 anni, siamo attivi sul mercato da febbraio 2017 e in questi pochi mesi abbiamo già raccolto più di 1500 richieste di finanziamento e attivato 150 clienti erogando 28M€ di finanziamento.</p>\n\n<p>Per potenziare il nostro organico in area marketing siamo alla ricerca di un Social &amp; Content Manager che si occuperà di disegnare e implementare la strategia del brand sui social media, di creare e sviluppare un piano editoriale, identificando gli infuencer e i target di riferimento, e di gestire la community di utenti.</p>\n\n<p>Cerchiamo un esperto di social media, una persona capace di inventare e raccontare storie con una genuina passione per la comunicazione e le relazioni. È importante possedere una visione strategica e una significativa esperienza di marketing digitale.</p>\n\n<p>Le attività comprendono la realizzazione dei contenuti da declinare sui diversi canali social e sul blog, la gestione delle conversazioni sui social, la creazione di campagne di comunicazione dal punto di vista dei contenuti, l’analisi dei risultati ed il reporting.</p>\n\n<p>Il profilo che cerchiamo è positivo, curioso, capace di lavorare in team, con una passione per la tecnologia e un talento per la scrittura. Valutiamo positivamente esperienze nel mercato finanziario e/o B2B.</p>\n\n<p><strong>PRINCIPALI RESPONSABILITÀ</strong></p>\n\n<p>• Ottimizzare l’acquisizione di clienti e la conversion e sui canali social e inbound</p>\n\n<p>• Sviluppo della strategia social e Digital PR</p>\n\n<p>• Gestione dei social media e delle conversazioni</p>\n\n<p>• Elaborazione del piano editoriale per il blog e i canali social</p>\n\n<p>• Attività di Digital PR, identificazione e attivazione degli influencer</p>\n\n<p>• Moderazione commenti</p>\n\n<p>• Gestione analytics, dati e reporting</p>\n\n<p><strong>REQUISITI</strong></p>\n\n<p>• 3/5 anni di esperienza nel ruolo</p>\n\n<p>• Esperienza in digital content creation (siti, blog, social media, video)</p>\n\n<p>• Capacità di elaborare testi e disegnare piani editoriali</p>\n\n<p>• Esperienza di creazione, gestione e monitoraggio di paid adv. su social e Adwords</p>\n\n<p>• Capacità di integrarsi in un ambiente dinamico ed in continua evoluzione</p>\n"
+field_job_location:
+  -
+    value: Milan
+    format: full_html
+    processed: Milan
+field_more_details_link:
+  -
+    uri: 'https://www.dropbox.com/s/y7q54jooimdf9ma/Social_Media_MNG.pdf?dl=0'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dbbc4f9a-733f-4bcf-93c9-d99302a52140
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/218
+alias:
+  -
+    value: /event/alumni-students-meet-share
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

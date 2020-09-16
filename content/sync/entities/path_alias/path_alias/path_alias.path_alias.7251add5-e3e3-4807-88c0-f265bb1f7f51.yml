@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7251add5-e3e3-4807-88c0-f265bb1f7f51
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/547
+alias:
+  -
+    value: /job/junior-consultant-advanced-planning-solutions
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

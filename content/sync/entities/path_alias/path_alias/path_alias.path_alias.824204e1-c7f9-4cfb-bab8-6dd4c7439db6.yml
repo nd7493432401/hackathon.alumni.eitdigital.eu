@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 824204e1-c7f9-4cfb-bab8-6dd4c7439db6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/127
+alias:
+  -
+    value: /local-representative/sweden-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

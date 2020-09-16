@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 5e06ace6-69de-4e98-a80b-0309a9ff0861
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Doctorate in HCI / UX'
+created:
+  -
+    value: '2018-06-11T10:46:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:52:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/doctorate-hci-ux
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://emea3.recruitmentplatform.com/appproc/index.cfm?event=createSessionAfterSessionClear&ID=QMUFK026203F3VBQB7V7VV4S8&sType=Social%20Recruiting&jobboard=0&nPTID=23879&bSessionClear=true&nProfileIdFoundInAGP='
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'University of Luxembourg'
+    format: full_html
+    processed: 'University of Luxembourg'
+field_expiration_date:
+  -
+    value: '2018-07-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>The University of Luxembourg invites applications for the following vacancy in its Faculty of Language and Literature, Humanities, Arts and Education<br />\r\n<br />\r\n<strong>Doctoral Candidate in the field of Human-Computer Interaction / User Experience and Computer-Based Assessment</strong></p>\r\n\r\n<ul>\r\n\t<li>Ref : F3-060019</li>\r\n\t<li>Full-time, 40 hrs/week</li>\r\n\t<li>14-months fixed-term contract (renewable up to 3 years)</li>\r\n\t<li>Student and employee status (36 months PhD study programme)</li>\r\n</ul>\r\n\r\n<p>The Human-Computer Interaction (HCI) research group at the Institute of Cognitive Science and Assessment (COSA) is looking for a PhD candidate to research new HCI challenges in Computer-Based Assessment (CBA), especially User Experience (UX) as applied to CBA. Drawing on prior research done over the past years in our place, this PhD research project aims to understand new trends in CBA and to analyse them with a specific focus on HCI aspects. More specifically, the candidate is expected to introduce the concept of UX to the domain of CBA and to deploy methods specific to this concept for both design and evaluation of CBA tools. The candidate is expected to develop his / her PhD project around those objectives, while a range of high-value use cases and datasets, both local and international, will be made available for integration into the PhD project.</p>\r\n\r\n<p>The successful candidate integrates a highly interdisciplinary team specializing in Human-Computer Interactions at the University of Luxembourg. He / she will closely collaborate with colleagues from the Luxembourg Centre for Educational Testing (LUCET), one of the leading research centres in CBA. Under the supervision of Dr Vincent Koenig, the candidate will have the opportunity of completing a doctoral thesis in the area of Psychology / Human-Computer Interaction. The candidate will have access to state-of-the art facilities (e.g. user laboratory) in support of his / her project.</p>\r\n\r\n<h5 id=\"JDLabel-Field2\">Your Role</h5>\r\n\r\n<ul>\r\n\t<li>Completing a doctoral thesis in Psychology;</li>\r\n\t<li>Participation in the doctoral training activities of COSA / LUCET;</li>\r\n\t<li>Preparation of research publications and participation in academic conferences;</li>\r\n\t<li>Participation in the joint research group activities (e.g., team meetings, brainstorming sessions, paper club, colloquia);</li>\r\n\t<li>Liaise with project partners, prepare reports and coordinate meetings;</li>\r\n</ul>\r\n\r\n<p>Providing assistance to general research group activities when appropriate (e.g., teaching, connecting with other research projects);<br />\r\n<br />\r\n<br />\r\n<em>Further Information</em><br />\r\nDr Vincent Koenig&nbsp;<br />\r\nEmail: Vincent.koenigATuni.lu</p>\r\n\r\n<h5 id=\"JDLabel-Field3\">Your Profile</h5>\r\n\r\n<ul>\r\n\t<li>Master’s degree in social sciences</li>\r\n\t<li>Strong background in either HCI or CBA (psychology or cognitive science might be preferred, a computer-science profile might however also fit);</li>\r\n\t<li>You are well familiar with research methods in social sciences (e.g., empirical research, experiment design, questionnaire design) as well as statistical methods;</li>\r\n\t<li>You are well familiar with HCI concepts and methods for UX design and evaluation or with CBA;</li>\r\n\t<li>High interest and proficiency with IT in general;</li>\r\n\t<li>You are team-oriented while being able to autonomously conduct specific tasks;</li>\r\n\t<li>Excellent written and spoken proficiency in English; French is considered an additional strong asset;</li>\r\n\t<li>You feel at ease connecting with students, pupils, school principals and other key users or stakeholders in the field;</li>\r\n\t<li>You like working in an interdisciplinary and multilingual environment.</li>\r\n</ul>\r\n\r\n<h5 id=\"JDLabel-Field4\">We offer</h5>\r\n\r\n<ul>\r\n\t<li>Attractive salary;</li>\r\n\t<li>A supportive academic community;</li>\r\n\t<li>Personal work space at the University;</li>\r\n\t<li>A vibrant multicultural environment.<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<h5 id=\"JDLabel-Field5\">Further Information</h5>\r\n\r\n<p>Candidates should submit the following documents:</p>\r\n\r\n<ul>\r\n\t<li>Motivation letter;</li>\r\n\t<li>Curriculum vitae (including a list of publications if applicable);</li>\r\n\t<li>Copy of diplomas</li>\r\n\t<li>Full transcripts of previous degrees</li>\r\n</ul>\r\n\r\n<p>Relevant reference letter(s) (if available)<br />\r\n<br />\r\nThe successful candidate should be able to take up the position in September 2018.<br />\r\n<br />\r\nPlease apply online (in English, French or German) by July 01, 2018.</p>\r\n"
+    format: full_html
+    processed: "<p>The University of Luxembourg invites applications for the following vacancy in its Faculty of Language and Literature, Humanities, Arts and Education<br />\n<br />\n<strong>Doctoral Candidate in the field of Human-Computer Interaction / User Experience and Computer-Based Assessment</strong></p>\n\n<ul>\n\t<li>Ref : F3-060019</li>\n\t<li>Full-time, 40 hrs/week</li>\n\t<li>14-months fixed-term contract (renewable up to 3 years)</li>\n\t<li>Student and employee status (36 months PhD study programme)</li>\n</ul>\n\n<p>The Human-Computer Interaction (HCI) research group at the Institute of Cognitive Science and Assessment (COSA) is looking for a PhD candidate to research new HCI challenges in Computer-Based Assessment (CBA), especially User Experience (UX) as applied to CBA. Drawing on prior research done over the past years in our place, this PhD research project aims to understand new trends in CBA and to analyse them with a specific focus on HCI aspects. More specifically, the candidate is expected to introduce the concept of UX to the domain of CBA and to deploy methods specific to this concept for both design and evaluation of CBA tools. The candidate is expected to develop his / her PhD project around those objectives, while a range of high-value use cases and datasets, both local and international, will be made available for integration into the PhD project.</p>\n\n<p>The successful candidate integrates a highly interdisciplinary team specializing in Human-Computer Interactions at the University of Luxembourg. He / she will closely collaborate with colleagues from the Luxembourg Centre for Educational Testing (LUCET), one of the leading research centres in CBA. Under the supervision of Dr Vincent Koenig, the candidate will have the opportunity of completing a doctoral thesis in the area of Psychology / Human-Computer Interaction. The candidate will have access to state-of-the art facilities (e.g. user laboratory) in support of his / her project.</p>\n\n<h5 id=\"JDLabel-Field2\">Your Role</h5>\n\n<ul>\n\t<li>Completing a doctoral thesis in Psychology;</li>\n\t<li>Participation in the doctoral training activities of COSA / LUCET;</li>\n\t<li>Preparation of research publications and participation in academic conferences;</li>\n\t<li>Participation in the joint research group activities (e.g., team meetings, brainstorming sessions, paper club, colloquia);</li>\n\t<li>Liaise with project partners, prepare reports and coordinate meetings;</li>\n</ul>\n\n<p>Providing assistance to general research group activities when appropriate (e.g., teaching, connecting with other research projects);<br />\n<br />\n<br />\n<em>Further Information</em><br />\nDr Vincent Koenig\_<br />\nEmail: Vincent.koenigATuni.lu</p>\n\n<h5 id=\"JDLabel-Field3\">Your Profile</h5>\n\n<ul>\n\t<li>Master’s degree in social sciences</li>\n\t<li>Strong background in either HCI or CBA (psychology or cognitive science might be preferred, a computer-science profile might however also fit);</li>\n\t<li>You are well familiar with research methods in social sciences (e.g., empirical research, experiment design, questionnaire design) as well as statistical methods;</li>\n\t<li>You are well familiar with HCI concepts and methods for UX design and evaluation or with CBA;</li>\n\t<li>High interest and proficiency with IT in general;</li>\n\t<li>You are team-oriented while being able to autonomously conduct specific tasks;</li>\n\t<li>Excellent written and spoken proficiency in English; French is considered an additional strong asset;</li>\n\t<li>You feel at ease connecting with students, pupils, school principals and other key users or stakeholders in the field;</li>\n\t<li>You like working in an interdisciplinary and multilingual environment.</li>\n</ul>\n\n<h5 id=\"JDLabel-Field4\">We offer</h5>\n\n<ul>\n\t<li>Attractive salary;</li>\n\t<li>A supportive academic community;</li>\n\t<li>Personal work space at the University;</li>\n\t<li>A vibrant multicultural environment.<br />\n\t\_</li>\n</ul>\n\n<h5 id=\"JDLabel-Field5\">Further Information</h5>\n\n<p>Candidates should submit the following documents:</p>\n\n<ul>\n\t<li>Motivation letter;</li>\n\t<li>Curriculum vitae (including a list of publications if applicable);</li>\n\t<li>Copy of diplomas</li>\n\t<li>Full transcripts of previous degrees</li>\n</ul>\n\n<p>Relevant reference letter(s) (if available)<br />\n<br />\nThe successful candidate should be able to take up the position in September 2018.<br />\n<br />\nPlease apply online (in English, French or German) by July 01, 2018.</p>\n"
+field_job_location:
+  -
+    value: Luxembourg
+    format: full_html
+    processed: Luxembourg
+field_more_details_link:
+  -
+    uri: 'https://recruitment.uni.lu/en/details.html?nPostingId=12996&nPostingTargetId=23879&id=QMUFK026203F3VBQB7V7VV4S8&LG=UK&mask=karriereseiten&sType=Social%20Recruiting'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

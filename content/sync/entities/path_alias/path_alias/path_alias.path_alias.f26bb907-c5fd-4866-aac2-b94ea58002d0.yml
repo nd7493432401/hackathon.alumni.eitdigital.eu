@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f26bb907-c5fd-4866-aac2-b94ea58002d0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/339
+alias:
+  -
+    value: /job/strategy-consulting-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

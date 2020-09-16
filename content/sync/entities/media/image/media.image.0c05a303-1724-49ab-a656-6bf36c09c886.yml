@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 0c05a303-1724-49ab-a656-6bf36c09c886
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 32775665883_2b300dc9ab_k.jpg
+thumbnail:
+  -
+    alt: 'Industrial Doctorates'
+    title: null
+    width: 2048
+    height: 791
+    target_type: file
+    target_uuid: 8261683f-d370-4e7d-861f-6a662450b889
+created:
+  -
+    value: '2020-05-02T09:22:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T09:22:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Industrial Doctorates'
+    title: ''
+    width: 2048
+    height: 791
+    target_type: file
+    target_uuid: 8261683f-d370-4e7d-861f-6a662450b889
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.8261683f-d370-4e7d-861f-6a662450b889

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7c87c370-2381-44a8-90af-6f9499d64215
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/147
+alias:
+  -
+    value: /summer-schools/2019-ljubljana-digital-transformation-resilient-cities
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

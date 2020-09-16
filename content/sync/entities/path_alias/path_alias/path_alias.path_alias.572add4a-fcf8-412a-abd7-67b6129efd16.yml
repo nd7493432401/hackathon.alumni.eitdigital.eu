@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 572add4a-fcf8-412a-abd7-67b6129efd16
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/25
+alias:
+  -
+    value: /event-type/cross-kic
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

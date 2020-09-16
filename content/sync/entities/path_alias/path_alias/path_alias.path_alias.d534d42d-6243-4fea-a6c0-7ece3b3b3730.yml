@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d534d42d-6243-4fea-a6c0-7ece3b3b3730
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/621
+alias:
+  -
+    value: /job/backend-senior-developer-javascala
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

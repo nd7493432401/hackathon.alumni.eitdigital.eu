@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: fd841074-57de-4885-a4e7-b6276250407c
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-02-27T09:04:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'EIT Digital'
+description: {  }
+menu_name:
+  -
+    value: footer-menu
+link:
+  -
+    uri: 'http://www.eitdigital.eu/'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -50
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2020-02-27T09:04:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

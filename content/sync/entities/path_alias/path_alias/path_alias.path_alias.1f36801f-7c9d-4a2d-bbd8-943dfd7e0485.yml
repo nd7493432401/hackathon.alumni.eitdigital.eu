@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1f36801f-7c9d-4a2d-bbd8-943dfd7e0485
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/188
+alias:
+  -
+    value: /summer-schools/2019-eindhoven-healthy-lifestyle-and-behavioural-change
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

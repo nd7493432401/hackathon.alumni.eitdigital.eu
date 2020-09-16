@@ -1,0 +1,27 @@
+uuid: eea43a7c-ccb2-40c2-8ceb-14820b211b51
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_summer_school.field_participation_year
+    - field.field.profile.eit_digital_summer_school.field_summer_school
+    - profile.type.eit_digital_summer_school
+id: profile.eit_digital_summer_school.default
+targetEntityType: profile
+bundle: eit_digital_summer_school
+mode: default
+content:
+  field_participation_year:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_summer_school:
+    weight: 27
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+hidden:
+  is_default: true

@@ -1,0 +1,8 @@
+uuid: dc9f935b-bfb3-4aa5-83f2-7a01048f717f
+langcode: en
+status: true
+dependencies: {  }
+name: 'Local Representative'
+vid: local_representative
+description: ''
+weight: 0

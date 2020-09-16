@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a070e16a-8a2c-424d-93f2-9dee2da89eab
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/399
+alias:
+  -
+    value: /job/several-positions-wanted
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

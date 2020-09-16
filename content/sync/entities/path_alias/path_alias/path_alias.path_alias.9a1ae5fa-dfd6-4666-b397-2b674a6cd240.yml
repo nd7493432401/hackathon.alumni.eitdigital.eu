@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9a1ae5fa-dfd6-4666-b397-2b674a6cd240
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/173
+alias:
+  -
+    value: /event/continuation-cyber-security-myths-and-beyond
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

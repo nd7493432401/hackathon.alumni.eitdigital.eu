@@ -1,0 +1,24 @@
+uuid: dca54cca-8cd7-4f66-828c-68952c5b5a42
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.home_events
+  module:
+    - views
+  theme:
+    - eitalumni
+id: views_block__home_events_block_1
+theme: eitalumni
+region: home2
+weight: 0
+provider: null
+plugin: 'views_block:home_events-block_1'
+settings:
+  id: 'views_block:home_events-block_1'
+  label: Events
+  provider: views
+  label_display: visible
+  views_label: Events
+  items_per_page: none
+visibility: {  }

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 1171a692-4c05-4cd9-ab3e-517418fa936e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Privacy And Security Europe 2017'
+created:
+  -
+    value: '2017-08-16T08:46:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/privacy-and-security-europe-2017
+body:
+  -
+    value: "<p><strong>Security and Privacy</strong> are the core of any computer system. The security industry is a key player when it comes to organisational implementation that also enables data breach responses. Our Alumni community touches every aspect of the ICT world, and we want our members to <strong>continuously learn</strong> and be motivated in their areas of speciality - professionally and otherwise.</p>\r\n\r\n<p>To this effect, we would like to introduce you to an event facilitated by <a href=\"https://go.forrester.com/\">Forrester</a>. Forrester is one of the most influential research and advisory firms in the world. They work with business and technology leaders to develop <strong>customer-obsessed strategies</strong> that drive growth. Through proprietary research, data, custom consulting, exclusive executive peer groups, and events, the Forrester adventure is a singular and compelling purpose: to challenge the thinking of clients and to help lead change in their organisations.</p>\r\n\r\n<p>This event - <a href=\"https://events.forrester.com/ehome/index.php?eventid=210956&amp;\">Privacy and Security Europe 2017</a> - is designed to bring security and IT professionals together with business strategy leaders, to collaboratively leverage security and trust for future growth in our ever growing and challenging environment.</p>\r\n\r\n<p>If you are passionate about security trends and the role privacy and security play in business development, then this forum is right for you.</p>\r\n\r\n<p>Exclusively for our Alumni members, <u><strong>we got an incredible discount of 70% OFF from Forrester</strong></u>!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>In order to apply this discount, follow these <strong>4 simple steps</strong>:</p>\r\n\r\n<p>- <a href=\"mailto:alumni@eitdigital.eu\">Send us an email</a> to indicate your interest. A <strong>promo code</strong> will be provided to you</p>\r\n\r\n<p>- Access the <a href=\"https://events.forrester.com/ereg/newreg.php?eventid=210956\">Registration Page</a> of the event</p>\r\n\r\n<p>- Select the option: <u>Single Ticket</u> (if this option is not ticked, it will give an error)</p>\r\n\r\n<p>- Then select option: non-government, Education and non-profit.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The deadline for purchasing a ticket is stipulated to be mid of September. We will be delighted to have alumni members represent us, not only for the added appraisal it brings to the community, but also for your personal development.</p>\r\n\r\n<p>For any question or further information, do not hesitate to contact our Events Officer Bobo at <a href=\"mailto:t.dibi@eitdigital.eu\">t.dibi@eitdigital.eu</a>.</p>\r\n\r\n<p>The EIT Digital Alumni Board</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>P.S. We are open to discuss about supporting other similar initiatives, building collaborations or sponsoring participation at events and conferences. Feel free to get in touch with us at anytime.</p>\r\n"
+    format: full_html
+    processed: "<p><strong>Security and Privacy</strong> are the core of any computer system. The security industry is a key player when it comes to organisational implementation that also enables data breach responses. Our Alumni community touches every aspect of the ICT world, and we want our members to <strong>continuously learn</strong> and be motivated in their areas of speciality - professionally and otherwise.</p>\n\n<p>To this effect, we would like to introduce you to an event facilitated by <a href=\"https://go.forrester.com/\">Forrester</a>. Forrester is one of the most influential research and advisory firms in the world. They work with business and technology leaders to develop <strong>customer-obsessed strategies</strong> that drive growth. Through proprietary research, data, custom consulting, exclusive executive peer groups, and events, the Forrester adventure is a singular and compelling purpose: to challenge the thinking of clients and to help lead change in their organisations.</p>\n\n<p>This event - <a href=\"https://events.forrester.com/ehome/index.php?eventid=210956&amp;\">Privacy and Security Europe 2017</a> - is designed to bring security and IT professionals together with business strategy leaders, to collaboratively leverage security and trust for future growth in our ever growing and challenging environment.</p>\n\n<p>If you are passionate about security trends and the role privacy and security play in business development, then this forum is right for you.</p>\n\n<p>Exclusively for our Alumni members, <u><strong>we got an incredible discount of 70% OFF from Forrester</strong></u>!</p>\n\n<p>\_</p>\n\n<p>In order to apply this discount, follow these <strong>4 simple steps</strong>:</p>\n\n<p>- <a href=\"mailto:alumni@eitdigital.eu\">Send us an email</a> to indicate your interest. A <strong>promo code</strong> will be provided to you</p>\n\n<p>- Access the <a href=\"https://events.forrester.com/ereg/newreg.php?eventid=210956\">Registration Page</a> of the event</p>\n\n<p>- Select the option: <u>Single Ticket</u> (if this option is not ticked, it will give an error)</p>\n\n<p>- Then select option: non-government, Education and non-profit.</p>\n\n<p>\_</p>\n\n<p>The deadline for purchasing a ticket is stipulated to be mid of September. We will be delighted to have alumni members represent us, not only for the added appraisal it brings to the community, but also for your personal development.</p>\n\n<p>For any question or further information, do not hesitate to contact our Events Officer Bobo at <a href=\"mailto:t.dibi@eitdigital.eu\">t.dibi@eitdigital.eu</a>.</p>\n\n<p>The EIT Digital Alumni Board</p>\n\n<p>\_</p>\n\n<p>P.S. We are open to discuss about supporting other similar initiatives, building collaborations or sponsoring participation at events and conferences. Feel free to get in touch with us at anytime.</p>\n"
+    summary: 'Security and Privacy are the core of any computer system. The security industry is a key player when'
+    summary_processed: 'Security and Privacy are the core of any computer system. The security industry is a key player when'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'We got an incredible discount of 70% OFF for Forrester''s Privacy & Security Europe 2017!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 80d780d1-b393-460f-a0a4-ea929fc52423
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.80d780d1-b393-460f-a0a4-ea929fc52423

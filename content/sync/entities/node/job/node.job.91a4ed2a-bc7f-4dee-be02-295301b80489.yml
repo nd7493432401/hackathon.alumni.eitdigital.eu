@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 91a4ed2a-bc7f-4dee-be02-295301b80489
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior backend engineer/architect'
+created:
+  -
+    value: '2020-03-02T14:50:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T13:38:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-backend-engineerarchitect
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:jasper@gapminder.org'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Gapminder Foundation'
+    format: full_html
+    processed: 'Gapminder Foundation'
+field_expiration_date:
+  -
+    value: '2020-04-30T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>At Gapminder we fight devastating ignorance with a fact-based world view anyone can understand.&nbsp;</p>\r\n\r\n<p>We identify the worst misconceptions the public has about the world, and seek to replace them with a fact-based worldview. To do this, we gather reliable data about global development and communicate it to people in ways that are fun and easy to understand. We bring data and statistics to life, by telling stories behind the data with visualizations. We collaborate with universities, UN, public agencies and non-governmental organizations, and we are an independent Swedish foundation with no political, religious or economic affiliations. You might know us from our <a href=\"https://www.ted.com/search?cat=people&amp;q=gapminder\">TED talks</a> or the book <a href=\"https://www.gapminder.org/factfulness-book/\">Factfulness</a>.&nbsp;</p>\r\n\r\n<p>We are in an exciting phase at Gapminder, where we are exploring new and expanded products to provide the public, organizations and stakeholders with more tools for a fact-based world view.</p>\r\n\r\n<p><strong>What you will do</strong></p>\r\n\r\n<p>A big part of being able to expand, is having a stable and scalable back-end architecture which we build our tools and products upon. We are looking for a senior person that is ready to dive in hands on and help develop this, as well as lead our team of developers and data engineers in the process.</p>\r\n\r\n<p>On our <a href=\"https://www.gapminder.org/tools/\">Tools Page</a> we publish advanced data visualizations, fed by statistics from many different data sources. We plan to expand this page to serve a much larger amount of statistics and a public service where people can easily visualize, and possibly store, their own data. This requires a scalable backend architecture which we hope you will help us build.</p>\r\n\r\n<p>Moreover, we are looking for someone to improve our ETL processes, where we gather data from organizations like World Bank, UN, WHO and IHME, transform them to our <a href=\"https://open-numbers.github.io/ddf.html\">own data format</a> and load them to our <a href=\"https://github.com/open-numbers/\">Open Numbers</a> GitHub organization and into the <a href=\"https://github.com/Gapminder/big-waffle/\">DBMS feeding our visualizations</a>. This includes further defining our data format and API's and designing and developing the processes for our ETL pipeline, including scrapers, data QA, versioning, publishing and aligning the system with our manually curated datasets.</p>\r\n\r\n<p>As we enter into new projects, you may be involved to contribute in them too.&nbsp;</p>\r\n\r\n<p><em>In short</em></p>\r\n\r\n<p>&nbsp;- Build a scalable backend architecture for serving statistical data<br />\r\n&nbsp;-&nbsp;Improve design and implementation of data format and ETL pipelines<br />\r\n&nbsp;-&nbsp;Team management</p>\r\n\r\n<p><strong>Qualifications</strong></p>\r\n\r\n<p>Our visualizations and database wrapper are written in JavaScript, with the database being MariaDB (a MySQL fork). Our ETL pipelines are written in Python, heavily using the pandas library for data transformation and Apache Airflow for scheduling. Our servers are hosted on GCP. Experience with, but even more so interest in, most of these technologies is a requirement.</p>\r\n\r\n<p>We are looking for a hands on developer with leadership skills, that are comfortable leading development, including requirements gathering. We believe you have a user-centered approach to development. You have a healthy aversion to over-engineering and have no problem with getting up to speed with someone else’s code.</p>\r\n\r\n<p>Experience with project management and building testing practices in a team is a plus. So is experience using advanced Google Spreadsheets features, which our data crunchers and other teams work with.&nbsp;</p>\r\n\r\n<p><em>Need to have</em></p>\r\n\r\n<p>&nbsp;- 5 years of back-end software engineering<br />\r\n&nbsp;-&nbsp;Experience with JavaScript, Python, SQL, ETL processes, backend infrastructure<br />\r\n&nbsp;-&nbsp;Leadership experience<br />\r\n&nbsp;-&nbsp;Excellent communication skills in English, both written and verbal&nbsp;</p>\r\n\r\n<p><em>Good to have</em></p>\r\n\r\n<p>&nbsp;- Knowledge of building testing practices<br />\r\n&nbsp;- Knowledge of (global development) statistics<br />\r\n&nbsp;- Experience with other database paradigms than SQL (documents, graphs, big data etc)<br />\r\n&nbsp;- Project management experience or working in/leading development sprints&nbsp;<br />\r\n&nbsp;- Google spreadsheets knowledge</p>\r\n\r\n<p><strong>Working at Gapminder</strong></p>\r\n\r\n<p>We are a small but expanding organization of about 20 employees, with high ambitions and a big mission. You will enjoy working for us if you like a fast changing environment and working for a good cause.&nbsp;</p>\r\n\r\n<p>Our office is located in Stockholm, Sweden, in a cosy, homey apartment building close to the Zinkensdamm metro stop. We offer flexible working hours and are open to partly remote work. We do prefer if you are situated in the greater Stockholm area and want to visit the office regularly. Though we are based in Sweden, we work on a global scale, with projects and consultants all over the world. Our employees are from over 10 different countries and speak many languages, but English is our main language.&nbsp;</p>\r\n\r\n<p>Gapminder is all about open publication so our software is open source, data is open data and content is published under creative commons.</p>\r\n\r\n<p>The position is full time.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If working on these challenges sounds exciting to you, send us a message at jasper@gapminder.org</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Posted by Alumni Member: <a href=\"/users/jasperheeffer\">Jasper</a></p>\r\n"
+    format: full_html
+    processed: "<p>At Gapminder we fight devastating ignorance with a fact-based world view anyone can understand.\_</p>\n\n<p>We identify the worst misconceptions the public has about the world, and seek to replace them with a fact-based worldview. To do this, we gather reliable data about global development and communicate it to people in ways that are fun and easy to understand. We bring data and statistics to life, by telling stories behind the data with visualizations. We collaborate with universities, UN, public agencies and non-governmental organizations, and we are an independent Swedish foundation with no political, religious or economic affiliations. You might know us from our <a href=\"https://www.ted.com/search?cat=people&amp;q=gapminder\">TED talks</a> or the book <a href=\"https://www.gapminder.org/factfulness-book/\">Factfulness</a>.\_</p>\n\n<p>We are in an exciting phase at Gapminder, where we are exploring new and expanded products to provide the public, organizations and stakeholders with more tools for a fact-based world view.</p>\n\n<p><strong>What you will do</strong></p>\n\n<p>A big part of being able to expand, is having a stable and scalable back-end architecture which we build our tools and products upon. We are looking for a senior person that is ready to dive in hands on and help develop this, as well as lead our team of developers and data engineers in the process.</p>\n\n<p>On our <a href=\"https://www.gapminder.org/tools/\">Tools Page</a> we publish advanced data visualizations, fed by statistics from many different data sources. We plan to expand this page to serve a much larger amount of statistics and a public service where people can easily visualize, and possibly store, their own data. This requires a scalable backend architecture which we hope you will help us build.</p>\n\n<p>Moreover, we are looking for someone to improve our ETL processes, where we gather data from organizations like World Bank, UN, WHO and IHME, transform them to our <a href=\"https://open-numbers.github.io/ddf.html\">own data format</a> and load them to our <a href=\"https://github.com/open-numbers/\">Open Numbers</a> GitHub organization and into the <a href=\"https://github.com/Gapminder/big-waffle/\">DBMS feeding our visualizations</a>. This includes further defining our data format and API's and designing and developing the processes for our ETL pipeline, including scrapers, data QA, versioning, publishing and aligning the system with our manually curated datasets.</p>\n\n<p>As we enter into new projects, you may be involved to contribute in them too.\_</p>\n\n<p><em>In short</em></p>\n\n<p>\_- Build a scalable backend architecture for serving statistical data<br />\n\_-\_Improve design and implementation of data format and ETL pipelines<br />\n\_-\_Team management</p>\n\n<p><strong>Qualifications</strong></p>\n\n<p>Our visualizations and database wrapper are written in JavaScript, with the database being MariaDB (a MySQL fork). Our ETL pipelines are written in Python, heavily using the pandas library for data transformation and Apache Airflow for scheduling. Our servers are hosted on GCP. Experience with, but even more so interest in, most of these technologies is a requirement.</p>\n\n<p>We are looking for a hands on developer with leadership skills, that are comfortable leading development, including requirements gathering. We believe you have a user-centered approach to development. You have a healthy aversion to over-engineering and have no problem with getting up to speed with someone else’s code.</p>\n\n<p>Experience with project management and building testing practices in a team is a plus. So is experience using advanced Google Spreadsheets features, which our data crunchers and other teams work with.\_</p>\n\n<p><em>Need to have</em></p>\n\n<p>\_- 5 years of back-end software engineering<br />\n\_-\_Experience with JavaScript, Python, SQL, ETL processes, backend infrastructure<br />\n\_-\_Leadership experience<br />\n\_-\_Excellent communication skills in English, both written and verbal\_</p>\n\n<p><em>Good to have</em></p>\n\n<p>\_- Knowledge of building testing practices<br />\n\_- Knowledge of (global development) statistics<br />\n\_- Experience with other database paradigms than SQL (documents, graphs, big data etc)<br />\n\_- Project management experience or working in/leading development sprints\_<br />\n\_- Google spreadsheets knowledge</p>\n\n<p><strong>Working at Gapminder</strong></p>\n\n<p>We are a small but expanding organization of about 20 employees, with high ambitions and a big mission. You will enjoy working for us if you like a fast changing environment and working for a good cause.\_</p>\n\n<p>Our office is located in Stockholm, Sweden, in a cosy, homey apartment building close to the Zinkensdamm metro stop. We offer flexible working hours and are open to partly remote work. We do prefer if you are situated in the greater Stockholm area and want to visit the office regularly. Though we are based in Sweden, we work on a global scale, with projects and consultants all over the world. Our employees are from over 10 different countries and speak many languages, but English is our main language.\_</p>\n\n<p>Gapminder is all about open publication so our software is open source, data is open data and content is published under creative commons.</p>\n\n<p>The position is full time.\_</p>\n\n<p>\_</p>\n\n<p>If working on these challenges sounds exciting to you, send us a message at jasper@gapminder.org</p>\n\n<p>\_</p>\n\n<p>Posted by Alumni Member: <a href=\"/users/jasperheeffer\">Jasper</a></p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

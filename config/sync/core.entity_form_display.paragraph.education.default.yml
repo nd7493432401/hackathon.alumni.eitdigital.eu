@@ -1,0 +1,41 @@
+uuid: 9e2269ce-de43-45db-b5f6-cc979df59acb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.education.field_study_period
+    - field.field.paragraph.education.field_study_program
+    - field.field.paragraph.education.field_university
+    - paragraphs.paragraphs_type.education
+id: paragraph.education.default
+targetEntityType: paragraph
+bundle: education
+mode: default
+content:
+  field_study_period:
+    weight: 2
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_study_program:
+    weight: 1
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_university:
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+hidden:
+  created: true
+  status: true

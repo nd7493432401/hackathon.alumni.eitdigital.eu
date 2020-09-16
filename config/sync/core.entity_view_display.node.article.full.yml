@@ -1,0 +1,48 @@
+uuid: 360ecbc5-dbe1-4644-bb6b-55e96b9cc757
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.full
+    - field.field.node.article.body
+    - field.field.node.article.field_alumni_of_the_week
+    - field.field.node.article.field_alumni_week_image
+    - field.field.node.article.field_alumni_week_link
+    - field.field.node.article.field_alumni_week_title
+    - field.field.node.article.field_article_category
+    - field.field.node.article.field_article_introduction
+    - field.field.node.article.field_image
+    - field.field.node.article.field_introduction_image
+    - node.type.article
+  module:
+    - text
+    - user
+_core:
+  default_config_hash: ChmU3AVqDKU32A_fyChG0W9dTRKmVBR58B6OClCLvZI
+id: node.article.full
+targetEntityType: node
+bundle: article
+mode: full
+content:
+  body:
+    type: text_default
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+    label: hidden
+  links:
+    weight: 1
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_alumni_of_the_week: true
+  field_alumni_week_image: true
+  field_alumni_week_link: true
+  field_alumni_week_title: true
+  field_article_category: true
+  field_article_introduction: true
+  field_image: true
+  field_introduction_image: true
+  langcode: true

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1cd12cb6-ffe0-49e0-8735-401b94dffc4b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/295
+alias:
+  -
+    value: /event/alumni-reunion-2015
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

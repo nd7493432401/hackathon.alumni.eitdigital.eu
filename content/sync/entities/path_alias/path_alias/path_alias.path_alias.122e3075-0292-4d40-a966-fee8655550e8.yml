@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 122e3075-0292-4d40-a966-fee8655550e8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/51
+alias:
+  -
+    value: /users/hethene
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

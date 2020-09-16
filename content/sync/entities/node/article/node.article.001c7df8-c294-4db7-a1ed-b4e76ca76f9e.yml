@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 001c7df8-c294-4db7-a1ed-b4e76ca76f9e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-06-29T16:21:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Laéna is our new Events Officer'
+created:
+  -
+    value: '2016-02-28T14:17:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-29T16:21:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/laena-our-new-events-officer
+body:
+  -
+    value: "<p>The EIT Digital Alumni Foundation is happy to welcome Laena Nguyen as our new interim Events Officer. Laena was one of the organizers of the EIT Alumni Startup Days event last November, where she demonstrated to be a key resource in the coordination of the local Berlin chapter and the global collaboration with alumni&nbsp;from different cities and KICs. We celebrate that her initiative and commitment will now help driving our alumni community even further.</p>\r\n\r\n<p>Welcome, Laena!</p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni Foundation is happy to welcome Laena Nguyen as our new interim Events Officer. Laena was one of the organizers of the EIT Alumni Startup Days event last November, where she demonstrated to be a key resource in the coordination of the local Berlin chapter and the global collaboration with alumni\_from different cities and KICs. We celebrate that her initiative and commitment will now help driving our alumni community even further.</p>\n\n<p>Welcome, Laena!</p>\n"
+    summary: 'The EIT Digital Alumni Foundation is happy to welcome Laena Nguyen as our new interim Events Officer'
+    summary_processed: 'The EIT Digital Alumni Foundation is happy to welcome Laena Nguyen as our new interim Events Officer'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The EIT Digital Alumni Foundation is happy to welcome Laena Nguyen as our new interim Events Officer. '
+field_image:
+  -
+    target_type: media
+    target_uuid: 506f21de-b239-4e61-b738-64434ca40318
+field_introduction_image:
+  -
+    target_type: media
+    target_uuid: 67b76f4b-f1ca-404a-ad3a-f23b448431dc
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.506f21de-b239-4e61-b738-64434ca40318
+      - media.image.67b76f4b-f1ca-404a-ad3a-f23b448431dc

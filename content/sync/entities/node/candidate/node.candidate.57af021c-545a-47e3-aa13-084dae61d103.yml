@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 57af021c-545a-47e3-aa13-084dae61d103
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Jiayao Yu'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/jiayao-yu
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>Be part of the community and contribute&nbsp;as much as I can.</p><p>Marketing &amp; communication relates to my previous experience, and more importantly, it seems fun!</p>'
+    format: full_html
+    processed: "<p>Be part of the community and contribute\_as much as I can.</p><p>Marketing &amp; communication relates to my previous experience, and more importantly, it seems fun!</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Jiayao Yu'
+    format: full_html
+    processed: 'Jiayao Yu'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p><strong>Alumni blog</strong></p><p>Stories of or interviews on Alumni regarding professional, life experience.</p><p><strong>Timeline &amp; photo collection</strong></p><p>Collection of community events and photos&nbsp;chronologically.</p><p>I''m sure there''re more ideas coming on the way :)</p>'
+    format: full_html
+    processed: "<p><strong>Alumni blog</strong></p><p>Stories of or interviews on Alumni regarding professional, life experience.</p><p><strong>Timeline &amp; photo collection</strong></p><p>Collection of community events and photos\_chronologically.</p><p>I'm sure there're more ideas coming on the way :)</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>As a HCID alumni who designs UI/UX, I know how to communicate information and bring aesthetics by screen content.</p><p>Additionally,&nbsp;I worked for a campus magazine from a journalist to a chief-editor for 3 years, where I wrote news articles and led journalists and graphic design editors.</p>'
+    format: full_html
+    processed: "<p>As a HCID alumni who designs UI/UX, I know how to communicate information and bring aesthetics by screen content.</p><p>Additionally,\_I worked for a campus magazine from a journalist to a chief-editor for 3 years, where I wrote news articles and led journalists and graphic design editors.</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

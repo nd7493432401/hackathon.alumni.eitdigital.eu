@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a6553f42-8da8-4da7-a17b-00d27e11cc06
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/75
+alias:
+  -
+    value: /entry-universities/tu-darmstadt-darmstadt-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

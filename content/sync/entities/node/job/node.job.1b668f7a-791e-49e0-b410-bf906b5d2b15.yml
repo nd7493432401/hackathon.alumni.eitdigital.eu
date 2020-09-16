@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 1b668f7a-791e-49e0-b410-bf906b5d2b15
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'DevOps engineer'
+created:
+  -
+    value: '2019-03-05T16:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:36:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/devops-engineer
+body: {  }
+field_apply_link: {  }
+field_company:
+  -
+    value: 'Software Heritage'
+    format: full_html
+    processed: 'Software Heritage'
+field_expiration_date:
+  -
+    value: '2019-03-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>Software Heritage&nbsp;is an ambitious nonprofit, entirely Free/Open Source Software (FOSS) project that aims at collecting, organizing, preserving for the very long term, and sharing all publicly available software in source code form, together with the corresponding complete development history (e.g., from a Version Control System) where available. The Software Heritage archive already contains about 6 billion unique source code files and 1 billion commits, retrieved from more than 80 million software projects.</p>\r\n\r\n<p>We are looking for a senior devops engineer with&nbsp;either&nbsp;strong (Python) programming skills and a&nbsp;pronounced interest&nbsp;in (GNU/Linux) system administration&nbsp;or&nbsp;strong system administration skills and backend programming experience, to grow our operations team. The team is in charge of guaranteeing reliability of our day-by-day archiving activities, integrity of the Software Heritage archive in collaboration with mirror operators, and maintaining an efficient development environment for our developers.</p>\r\n"
+    format: full_html
+    processed: "<p>Software Heritage\_is an ambitious nonprofit, entirely Free/Open Source Software (FOSS) project that aims at collecting, organizing, preserving for the very long term, and sharing all publicly available software in source code form, together with the corresponding complete development history (e.g., from a Version Control System) where available. The Software Heritage archive already contains about 6 billion unique source code files and 1 billion commits, retrieved from more than 80 million software projects.</p>\n\n<p>We are looking for a senior devops engineer with\_either\_strong (Python) programming skills and a\_pronounced interest\_in (GNU/Linux) system administration\_or\_strong system administration skills and backend programming experience, to grow our operations team. The team is in charge of guaranteeing reliability of our day-by-day archiving activities, integrity of the Software Heritage archive in collaboration with mirror operators, and maintaining an efficient development environment for our developers.</p>\n"
+field_job_location:
+  -
+    value: Paris
+    format: full_html
+    processed: Paris
+field_more_details_link:
+  -
+    uri: 'https://www.softwareheritage.org/jobs/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

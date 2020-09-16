@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 210c353c-25cf-4e99-9de0-ff56b1fd87ff
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/18
+alias:
+  -
+    value: /article/trip-lisbon-landing-festival
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

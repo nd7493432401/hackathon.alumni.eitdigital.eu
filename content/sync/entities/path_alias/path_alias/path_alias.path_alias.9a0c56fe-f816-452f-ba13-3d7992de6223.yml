@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9a0c56fe-f816-452f-ba13-3d7992de6223
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/483
+alias:
+  -
+    value: /job/firmware-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

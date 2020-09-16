@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4f0d5bcd-30b5-4ad4-9361-4bd1be16842a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/42
+alias:
+  -
+    value: /event-type/conversation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

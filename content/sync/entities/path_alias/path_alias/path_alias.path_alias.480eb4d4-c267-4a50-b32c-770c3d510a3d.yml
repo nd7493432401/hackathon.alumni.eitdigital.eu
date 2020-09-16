@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 480eb4d4-c267-4a50-b32c-770c3d510a3d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/212
+alias:
+  -
+    value: /event/eit-connect-2016-apply-now
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: e2af6844-0991-4d61-b875-90b1ff388d16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: IMG_4093.jpg
+uri:
+  -
+    value: 'public://inline-images/IMG_4093.jpg'
+    url: /sites/default/files/inline-images/IMG_4093.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 956625
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-27T10:09:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-27T10:11:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 31088f01-eb14-44d0-9fd0-985cf9687b2b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/71
+alias:
+  -
+    value: /article/job-offer-graduates
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

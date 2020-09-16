@@ -1,0 +1,14 @@
+uuid: 8641e864-a124-46d1-9133-a02492b426a6
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_employee
+label: 'EIT Digital Employee'
+display_label: 'EIT Digital Employee'
+multiple: false
+registration: true
+roles:
+  potential_member_employee: potential_member_employee
+  alumni_member_employee: alumni_member_employee
+allow_revisions: false
+new_revision: false

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2f9b2f45-4c6d-41ee-a70b-f330580b7cb7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/366
+alias:
+  -
+    value: /job/data-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

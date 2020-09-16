@@ -1,0 +1,10 @@
+uuid: 3e089911-7570-4478-889d-b127497703b1
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.master_school
+label: 'Master School Register'
+targetEntityType: user
+cache: true

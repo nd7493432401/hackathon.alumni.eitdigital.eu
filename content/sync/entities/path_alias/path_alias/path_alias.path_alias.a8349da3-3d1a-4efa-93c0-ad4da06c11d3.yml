@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a8349da3-3d1a-4efa-93c0-ad4da06c11d3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/221
+alias:
+  -
+    value: /event/machine-learning-healthcare-empatica
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

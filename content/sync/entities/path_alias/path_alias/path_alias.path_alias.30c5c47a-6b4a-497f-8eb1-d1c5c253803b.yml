@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 30c5c47a-6b4a-497f-8eb1-d1c5c253803b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/590
+alias:
+  -
+    value: /job/network-engineer-juniper-graduate-program
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

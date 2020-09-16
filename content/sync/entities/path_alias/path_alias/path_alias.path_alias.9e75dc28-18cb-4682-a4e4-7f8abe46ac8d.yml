@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9e75dc28-18cb-4682-a4e4-7f8abe46ac8d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/467
+alias:
+  -
+    value: /job/senior-software-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

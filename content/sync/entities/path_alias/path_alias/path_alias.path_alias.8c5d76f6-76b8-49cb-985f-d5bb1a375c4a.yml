@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8c5d76f6-76b8-49cb-985f-d5bb1a375c4a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/329
+alias:
+  -
+    value: /job/brand-manager-mfd-uxui-design-products
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 22aba138-3a65-49af-9aa3-897e44478c47
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Artificial Intelligence Expert/Data Scientist'
+created:
+  -
+    value: '2019-04-08T07:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:43:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/artificial-intelligence-expertdata-scientist
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://careers.digitalworkforce.eu/jobs/212723-artificial-intelligence-expert-data-scientist'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Digital Workforce '
+    format: full_html
+    processed: 'Digital Workforce '
+field_expiration_date:
+  -
+    value: '2019-05-31T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Interested in being part of creating something totally new? Robotic Process Automation (RPA) has already found its place in most bigger companies. But we do not want to settle with this. We want to find new ways of making our robots more intelligent with adding on AI and ML techniques on top of RPA. To do this we need forerunners in the field of Data Science to help us create value adding concepts for our customers using RPA, AI and ML. But let’s start with telling a bit about ourselves!</p>\r\n\r\n<p><a href=\"https://digitalworkforce.com/\"><strong style=\"box-sizing:inherit\">Digital Workforce</strong></a> is the <strong style=\"box-sizing:inherit\">highest growing</strong> <em style=\"box-sizing:inherit\">Intelligent Process Automation</em> (IPA) service company operating in Northern and Central Europe. Our <strong style=\"box-sizing:inherit\">mission</strong> is to improve knowledge work and business productivity by leaving dull routines to digital workers and freeing up human resource to more creative and meaningful tasks. Overall, we are now a team of 180 and growing fast! The rapidly growing IPA business, internationalisation and product development mean that we operate in fast paced work environment and value involvement from all team members. At the core of everything we do is a learning mindset which means that at Digtial Workforce we want to constantly grow both as a company and on an individual level.</p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">And now a bit more about the position we are currently hoping to fill at our office in Helsinki (or Stockholm) as</strong></span></span></span></span></span><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">Artificial Intelligence Expert/Data Scientist</strong></span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">As Artificial Intelligence Expert/Data Scientist, you will be a key part of Digital Workforce’s Artificial Intelligence and Machine Learning practice. Our vision is to make processes run autonomously using cutting edge technologies like Deep Learning, Natural Language Processing, Image Processing and Analytics, Computer Vision etc. To execute on this vision, we have started to build an Intelligent Process Automation SaaS platform. You will get an opportunity to not only be the part of the core team that will develop this platform but also solve real-life business problems for customers.</span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">Your day-to-day work will consist of finding out what kind of possibilities there are for using ML and AI together with robotics in close co-operation with your teammates, prototyping possible solutions and industrializing these into the IPA cloud production environment.</span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">In this role you get to be a pioneer of your field and have a chance to shape the company’s take on AI. We already have some projects ongoing around the subject and have competent people who will be eager to help you in driving things forward. We want to do things in an agile way and our fast-paced growth offers an exciting ride. Sounds interesting? We hope so! This is a great opportunity to join a growing, fast paced IPA company operating in Northern and Central Europe.</span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">To summarise, see the specs below and how to apply. We are filling the position as soon as we find the right person so apply as soon as possible!</span></span></span></span></span></p>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">What we provide:</strong></span></span></span></span></span></p>\r\n\r\n<ul style=\"box-sizing:inherit; margin:0px 0px 0.75em; padding:0px 0px 0px 1.5em; color:#333333; font-family:Nunito; font-size:21px; background-color:#ffffff\">\r\n\t<li style=\"box-sizing:inherit\">Super interesting working environment</li>\r\n\t<li style=\"box-sizing:inherit\">Great, fun team who are true professionals in what they do</li>\r\n\t<li style=\"box-sizing:inherit\">Growth company committed to learning and involving all team members</li>\r\n\t<li style=\"box-sizing:inherit\">International company, ability to work with multicultural team</li>\r\n\t<li style=\"box-sizing:inherit\">Great benefits (e.g. Health insurance that also covers leisure time, lunch benefit<strong style=\"box-sizing:inherit\">, </strong>Travel insurance for leisure time travel etc.)</li>\r\n\t<li style=\"box-sizing:inherit\">Great company culture: value-driven company with nice get-togethers, for example Friday afternoon beers, sporting events etc.</li>\r\n\t<li style=\"box-sizing:inherit\">Encouraging attitude towards learning mindset and self-development: taking part in seminars, events, courses, knowledge sharing and for example blogging on AI topics on company’s blog</li>\r\n\t<li style=\"box-sizing:inherit\">Possibility to work from home if needed</li>\r\n</ul>\r\n\r\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">What we look for:</strong></span></span></span></span></span></p>\r\n\r\n<ul style=\"box-sizing:inherit; margin:0px 0px 0.75em; padding:0px 0px 0px 1.5em; color:#333333; font-family:Nunito; font-size:21px; background-color:#ffffff\">\r\n\t<li style=\"box-sizing:inherit\">Innovative problem-solving mindset</li>\r\n\t<li style=\"box-sizing:inherit\">MSc or PhD degree (or recently graduating) in Machine Learning, Mathematics, Statistics or other closely related field</li>\r\n\t<li style=\"box-sizing:inherit\">Libraries like keras, tensor-flow, caffe, theano, scikit-learn etc.</li>\r\n\t<li style=\"box-sizing:inherit\">Experiences of natural language processing or image processing.</li>\r\n\t<li style=\"box-sizing:inherit\">Perfect understanding of statistical machine learning or deep learning</li>\r\n\t<li style=\"box-sizing:inherit\">Experience of building scalable solutions in the cloud will be an advantage</li>\r\n\t<li style=\"box-sizing:inherit\">A good balance between theory and practice and a strong desire to learn and keep up with the latest technologies</li>\r\n\t<li style=\"box-sizing:inherit\">Ability to use English and preferably also Finnish as your working language</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p>Interested in being part of creating something totally new? Robotic Process Automation (RPA) has already found its place in most bigger companies. But we do not want to settle with this. We want to find new ways of making our robots more intelligent with adding on AI and ML techniques on top of RPA. To do this we need forerunners in the field of Data Science to help us create value adding concepts for our customers using RPA, AI and ML. But let’s start with telling a bit about ourselves!</p>\n\n<p><a href=\"https://digitalworkforce.com/\"><strong style=\"box-sizing:inherit\">Digital Workforce</strong></a> is the <strong style=\"box-sizing:inherit\">highest growing</strong> <em style=\"box-sizing:inherit\">Intelligent Process Automation</em> (IPA) service company operating in Northern and Central Europe. Our <strong style=\"box-sizing:inherit\">mission</strong> is to improve knowledge work and business productivity by leaving dull routines to digital workers and freeing up human resource to more creative and meaningful tasks. Overall, we are now a team of 180 and growing fast! The rapidly growing IPA business, internationalisation and product development mean that we operate in fast paced work environment and value involvement from all team members. At the core of everything we do is a learning mindset which means that at Digtial Workforce we want to constantly grow both as a company and on an individual level.</p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">And now a bit more about the position we are currently hoping to fill at our office in Helsinki (or Stockholm) as</strong></span></span></span></span></span><br />\n\_</p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">Artificial Intelligence Expert/Data Scientist</strong></span></span></span></span></span></p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">As Artificial Intelligence Expert/Data Scientist, you will be a key part of Digital Workforce’s Artificial Intelligence and Machine Learning practice. Our vision is to make processes run autonomously using cutting edge technologies like Deep Learning, Natural Language Processing, Image Processing and Analytics, Computer Vision etc. To execute on this vision, we have started to build an Intelligent Process Automation SaaS platform. You will get an opportunity to not only be the part of the core team that will develop this platform but also solve real-life business problems for customers.</span></span></span></span></span></p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">Your day-to-day work will consist of finding out what kind of possibilities there are for using ML and AI together with robotics in close co-operation with your teammates, prototyping possible solutions and industrializing these into the IPA cloud production environment.</span></span></span></span></span></p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">In this role you get to be a pioneer of your field and have a chance to shape the company’s take on AI. We already have some projects ongoing around the subject and have competent people who will be eager to help you in driving things forward. We want to do things in an agile way and our fast-paced growth offers an exciting ride. Sounds interesting? We hope so! This is a great opportunity to join a growing, fast paced IPA company operating in Northern and Central Europe.</span></span></span></span></span></p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\">To summarise, see the specs below and how to apply. We are filling the position as soon as we find the right person so apply as soon as possible!</span></span></span></span></span></p>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">What we provide:</strong></span></span></span></span></span></p>\n\n<ul style=\"box-sizing:inherit; margin:0px 0px 0.75em; padding:0px 0px 0px 1.5em; color:#333333; font-family:Nunito; font-size:21px; background-color:#ffffff\">\n\t<li style=\"box-sizing:inherit\">Super interesting working environment</li>\n\t<li style=\"box-sizing:inherit\">Great, fun team who are true professionals in what they do</li>\n\t<li style=\"box-sizing:inherit\">Growth company committed to learning and involving all team members</li>\n\t<li style=\"box-sizing:inherit\">International company, ability to work with multicultural team</li>\n\t<li style=\"box-sizing:inherit\">Great benefits (e.g. Health insurance that also covers leisure time, lunch benefit<strong style=\"box-sizing:inherit\">, </strong>Travel insurance for leisure time travel etc.)</li>\n\t<li style=\"box-sizing:inherit\">Great company culture: value-driven company with nice get-togethers, for example Friday afternoon beers, sporting events etc.</li>\n\t<li style=\"box-sizing:inherit\">Encouraging attitude towards learning mindset and self-development: taking part in seminars, events, courses, knowledge sharing and for example blogging on AI topics on company’s blog</li>\n\t<li style=\"box-sizing:inherit\">Possibility to work from home if needed</li>\n</ul>\n\n<p style=\"margin:0px 0px 0.75em\"><span style=\"font-size:21px\"><span style=\"box-sizing:inherit\"><span style=\"font-family:Nunito\"><span style=\"color:#333333\"><span style=\"background-color:#ffffff\"><strong style=\"box-sizing:inherit\">What we look for:</strong></span></span></span></span></span></p>\n\n<ul style=\"box-sizing:inherit; margin:0px 0px 0.75em; padding:0px 0px 0px 1.5em; color:#333333; font-family:Nunito; font-size:21px; background-color:#ffffff\">\n\t<li style=\"box-sizing:inherit\">Innovative problem-solving mindset</li>\n\t<li style=\"box-sizing:inherit\">MSc or PhD degree (or recently graduating) in Machine Learning, Mathematics, Statistics or other closely related field</li>\n\t<li style=\"box-sizing:inherit\">Libraries like keras, tensor-flow, caffe, theano, scikit-learn etc.</li>\n\t<li style=\"box-sizing:inherit\">Experiences of natural language processing or image processing.</li>\n\t<li style=\"box-sizing:inherit\">Perfect understanding of statistical machine learning or deep learning</li>\n\t<li style=\"box-sizing:inherit\">Experience of building scalable solutions in the cloud will be an advantage</li>\n\t<li style=\"box-sizing:inherit\">A good balance between theory and practice and a strong desire to learn and keep up with the latest technologies</li>\n\t<li style=\"box-sizing:inherit\">Ability to use English and preferably also Finnish as your working language</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Helsinki or Stockholm '
+    format: full_html
+    processed: 'Helsinki or Stockholm '
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/ksoutar15'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8cfa3af4-1579-41d9-adf7-3d67a5ce3c77
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/566
+alias:
+  -
+    value: /job/post-master-professional-ezy-crwd-go
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

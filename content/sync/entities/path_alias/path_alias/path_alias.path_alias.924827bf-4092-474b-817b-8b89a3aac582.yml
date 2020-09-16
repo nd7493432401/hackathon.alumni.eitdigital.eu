@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 924827bf-4092-474b-817b-8b89a3aac582
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/15
+alias:
+  -
+    value: /event-type/hackathon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

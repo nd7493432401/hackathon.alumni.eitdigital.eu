@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 1d633003-78e0-44a5-a938-a46f589092e5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:27:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Annual Meeting 2017'
+created:
+  -
+    value: '2017-02-02T11:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:27:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/annual-meeting-2017
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2017-03-19T10:00:00+01:00'
+    end_value: '2017-03-20T19:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Dear members of our Community,</p>\r\n\r\n<p>Get ready to join the&nbsp;Annual Meeting&nbsp;of our awesome Community, which will be held in Brussels on <strong>20&nbsp;March 2017</strong>. Below the final version of the <em>Agenda</em>:</p>\r\n\r\n<h2><a href=\"http://localhost:8888/eit-digital-alumni-drupal8/sites/default/files/inline-images/digitalumni17%20Agenda%20image.jpg\"><img alt=\"Agenda\" data-entity-type=\"file\" data-entity-uuid=\"a4379122-b36d-4ff3-9de6-a3155ec85ee4\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/digitalumni17%20Agenda%20image.jpg\" /></a></h2>\r\n\r\n<hr />\r\n<h2>Instructions</h2>\r\n\r\n<p>Please let us know which sessions of the Annual Meeting&nbsp;you are able to attend <strong>before Friday 24 February, 23.59</strong>. We strongly recommend that you register as soon as possible, as the visit&nbsp;to the European&nbsp;Parliament and the accommodation assistance is reserved on&nbsp;a <em>first-come first-served basis</em>. Please fill in the form below to let us know if you have any dietary needs and/or if you would like to present your <em>research</em> or <em>startup</em> during the event. We may have to select the most interesting ones based on speaker's availability, general interest in the topic&nbsp;and time contraints.&nbsp;&nbsp;</p>\r\n\r\n<p>The Alumni Foundation can offer accommodation assistance for attending the Annual Meeting and&nbsp;the <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">EIT Digital Conference</a>. Terms and conditions for any such reimbursements apply.&nbsp;</p>\r\n\r\n<p>Once registered, we will review your application and - once verified - you will receive an acceptance email. We warmly suggest you to <u>book your own flight&nbsp;/&nbsp;train</u>&nbsp;asap. Tickets for <em>city transport</em>&nbsp;need to be secured individually too.</p>\r\n\r\n<p>Priority will be first given to Alumni members i.e. graduates and former employees, then to associate members and to students.</p>\r\n\r\n<hr />\r\n<h2>Social Media Challenge</h2>\r\n\r\n<p>In order to expand our reach and have <em>everyone </em>from our Community register on our website and (hopefully) join&nbsp;our event, we also launch a Social Media Challenge! The winners&nbsp;of the contest will get the <strong>costs associated with their&nbsp;flight</strong>&nbsp;(between a European city and Brussels, and return) covered by the&nbsp;EIT Digital Alumni Foundation.</p>\r\n\r\n<p><em>Each </em>of the following <em>meaningful</em> activities will be worth 1 point:</p>\r\n\r\n<ul>\r\n\t<li>Public&nbsp;post/picture on Facebook <em>tagging </em><a href=\"https://www.facebook.com/digitalumni\">our page</a> and using <em>#digitalumni17</em><br />\r\n\t&nbsp;</li>\r\n\t<li>Public post/picture on LinkedIn&nbsp;<em>tagging </em><a href=\"https://www.linkedin.com/company/eit-digital-alumni\">our page</a> and using <em>#digitalumni17</em><br />\r\n\t&nbsp;</li>\r\n\t<li>Tweet on Twitter <em>tagging </em><a href=\"https://twitter.com/digitalumni\">our profile</a> and using <em>#digitalumni17</em><br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p><em>Proof </em>of other forms of engagement (such as likes, shares, inviting people to like our pages or&nbsp;subscribe&nbsp;to our <a href=\"https://t.me/digitalumni\">channels</a>, suggesting initiatives, ...) will be worth extra points.</p>\r\n\r\n<p>Let your friends and the world know you are joining our event and what you expect from our Annual Meeting!</p>\r\n\r\n<h2>REGISTRATIONS ARE CLOSED</h2>\r\n\r\n<hr />"
+    format: full_html
+    processed: "<p>Dear members of our Community,</p>\n\n<p>Get ready to join the\_Annual Meeting\_of our awesome Community, which will be held in Brussels on <strong>20\_March 2017</strong>. Below the final version of the <em>Agenda</em>:</p>\n\n<h2><a href=\"http://localhost:8888/eit-digital-alumni-drupal8/sites/default/files/inline-images/digitalumni17%20Agenda%20image.jpg\"><img alt=\"Agenda\" data-entity-type=\"file\" data-entity-uuid=\"a4379122-b36d-4ff3-9de6-a3155ec85ee4\" src=\"/sites/default/files/inline-images/digitalumni17%20Agenda%20image.jpg\" /></a></h2>\n\n<hr />\n<h2>Instructions</h2>\n\n<p>Please let us know which sessions of the Annual Meeting\_you are able to attend <strong>before Friday 24 February, 23.59</strong>. We strongly recommend that you register as soon as possible, as the visit\_to the European\_Parliament and the accommodation assistance is reserved on\_a <em>first-come first-served basis</em>. Please fill in the form below to let us know if you have any dietary needs and/or if you would like to present your <em>research</em> or <em>startup</em> during the event. We may have to select the most interesting ones based on speaker's availability, general interest in the topic\_and time contraints.\_\_</p>\n\n<p>The Alumni Foundation can offer accommodation assistance for attending the Annual Meeting and\_the <a href=\"https://workspaces.eitdigital.eu/PROMISE/PRIVATE/FORMS/register_step1.aspx?guid=32165fbe-47c4-403e-86ad-fdd0bf800586\">EIT Digital Conference</a>. Terms and conditions for any such reimbursements apply.\_</p>\n\n<p>Once registered, we will review your application and - once verified - you will receive an acceptance email. We warmly suggest you to <u>book your own flight\_/\_train</u>\_asap. Tickets for <em>city transport</em>\_need to be secured individually too.</p>\n\n<p>Priority will be first given to Alumni members i.e. graduates and former employees, then to associate members and to students.</p>\n\n<hr />\n<h2>Social Media Challenge</h2>\n\n<p>In order to expand our reach and have <em>everyone </em>from our Community register on our website and (hopefully) join\_our event, we also launch a Social Media Challenge! The winners\_of the contest will get the <strong>costs associated with their\_flight</strong>\_(between a European city and Brussels, and return) covered by the\_EIT Digital Alumni Foundation.</p>\n\n<p><em>Each </em>of the following <em>meaningful</em> activities will be worth 1 point:</p>\n\n<ul>\n\t<li>Public\_post/picture on Facebook <em>tagging </em><a href=\"https://www.facebook.com/digitalumni\">our page</a> and using <em>#digitalumni17</em><br />\n\t\_</li>\n\t<li>Public post/picture on LinkedIn\_<em>tagging </em><a href=\"https://www.linkedin.com/company/eit-digital-alumni\">our page</a> and using <em>#digitalumni17</em><br />\n\t\_</li>\n\t<li>Tweet on Twitter <em>tagging </em><a href=\"https://twitter.com/digitalumni\">our profile</a> and using <em>#digitalumni17</em><br />\n\t\_</li>\n</ul>\n\n<p><em>Proof </em>of other forms of engagement (such as likes, shares, inviting people to like our pages or\_subscribe\_to our <a href=\"https://t.me/digitalumni\">channels</a>, suggesting initiatives, ...) will be worth extra points.</p>\n\n<p>Let your friends and the world know you are joining our event and what you expect from our Annual Meeting!</p>\n\n<h2>REGISTRATIONS ARE CLOSED</h2>\n\n<hr />"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: d316ccde-0ad7-4c85-8011-d962ea1bee75
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: d316ccde-0ad7-4c85-8011-d962ea1bee75
+field_event_introduction:
+  -
+    value: "<p>Get ready for our Annual reunion!</p>\r\n"
+    format: full_html
+    processed: "<p>Get ready for our Annual reunion!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.d316ccde-0ad7-4c85-8011-d962ea1bee75
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

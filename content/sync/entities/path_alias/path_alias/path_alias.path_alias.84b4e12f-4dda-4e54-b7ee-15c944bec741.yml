@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 84b4e12f-4dda-4e54-b7ee-15c944bec741
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/599
+alias:
+  -
+    value: /job/application-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

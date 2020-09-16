@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: c8a478e4-25a1-49f9-8fa3-b33857161af0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'PDEng program Data Science'
+created:
+  -
+    value: '2017-11-12T19:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:38:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/pdeng-program-data-science
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://www.jads.nl/apply-for-the-pdeng-data-science.html'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'JADS and DSC/e institutes'
+    format: full_html
+    processed: 'JADS and DSC/e institutes'
+field_expiration_date:
+  -
+    value: '2017-12-03T02:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>The Professional Doctorate in Engineering program Data Science is a two-year post-master's program. It qualifies students with an MSc degree in mathematics, statistic and computer science to become top-level professionals. Such professionals help industry and business with their decision-making processes based on real, actionable data or become innovative entrepreneurs in the data science ecosystem.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Part of the Stan Ackermans Institute</strong></p>\r\n\r\n<p>The PDEng program Data Science is part of the 4TU.School for Technological Design, the Stan Ackermans Institute, that offers more than twenty similar two-year post-master technological designer (PDEng) programs. The institute is a joint initiative of the three universities of technology in the Netherlands.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Hosted by JADS and DSC/e</strong></p>\r\n\r\n<p>The Jheronimus Academy of Data Science (JADS) – a joint initiative of Eindhoven University (TU/e) of Technology, Tilburg University (TiU), and the Data Science Centre Eindhoven (DSC/e) – hosts the PDEng program Data Science. The academy is a thriving data science community, in which postgraduate education, innovation, entrepreneurial activities, lifelong learning, and scientific research are integrated. A major part of the PDEng program Data Science is related to real-life, cross-functional projects with partners in the data science ecosystem.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Become a top-level professional data scientists</strong></p>\r\n\r\n<p>The PDEng program Data Science qualifies its students to become top-level professional data scientists. Candidates hold an MSc degree in fields such as mathematics, statistics, computer science, engineering, econometrics, geophysics, bio-informatics, and computational chemistry. They aim for a career in a big data environment that truly leverages their academic experience and talents in the fast growing in-demand field of Data Science. ​</p>\r\n\r\n<p>The qualified data science professional possesses competencies at high level related to project management, social and communicative skills. They help industry and business with their decision making processes based on real, actionable data and become the innovative, entrepreneurially minded specialists in the data science ecosystem.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Requirements</strong></p>\r\n\r\n<p>- Motivation and interest in Data Science</p>\r\n\r\n<p>- Having a Master&nbsp;degree or good (professional) work experience</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>The Jheronimus Academy of Data Science (in The Netherlands) is accepting PDEng trainees every 6 months (twice a year). The next assessment week is in March, 2018.</em></p>\r\n"
+    format: full_html
+    processed: "<p>The Professional Doctorate in Engineering program Data Science is a two-year post-master's program. It qualifies students with an MSc degree in mathematics, statistic and computer science to become top-level professionals. Such professionals help industry and business with their decision-making processes based on real, actionable data or become innovative entrepreneurs in the data science ecosystem.</p>\n\n<p>\_</p>\n\n<p><strong>Part of the Stan Ackermans Institute</strong></p>\n\n<p>The PDEng program Data Science is part of the 4TU.School for Technological Design, the Stan Ackermans Institute, that offers more than twenty similar two-year post-master technological designer (PDEng) programs. The institute is a joint initiative of the three universities of technology in the Netherlands.</p>\n\n<p>\_</p>\n\n<p><strong>Hosted by JADS and DSC/e</strong></p>\n\n<p>The Jheronimus Academy of Data Science (JADS) – a joint initiative of Eindhoven University (TU/e) of Technology, Tilburg University (TiU), and the Data Science Centre Eindhoven (DSC/e) – hosts the PDEng program Data Science. The academy is a thriving data science community, in which postgraduate education, innovation, entrepreneurial activities, lifelong learning, and scientific research are integrated. A major part of the PDEng program Data Science is related to real-life, cross-functional projects with partners in the data science ecosystem.</p>\n\n<p>\_</p>\n\n<p><strong>Become a top-level professional data scientists</strong></p>\n\n<p>The PDEng program Data Science qualifies its students to become top-level professional data scientists. Candidates hold an MSc degree in fields such as mathematics, statistics, computer science, engineering, econometrics, geophysics, bio-informatics, and computational chemistry. They aim for a career in a big data environment that truly leverages their academic experience and talents in the fast growing in-demand field of Data Science. ​</p>\n\n<p>The qualified data science professional possesses competencies at high level related to project management, social and communicative skills. They help industry and business with their decision making processes based on real, actionable data and become the innovative, entrepreneurially minded specialists in the data science ecosystem.</p>\n\n<p>\_</p>\n\n<p><strong>Requirements</strong></p>\n\n<p>- Motivation and interest in Data Science</p>\n\n<p>- Having a Master\_degree or good (professional) work experience</p>\n\n<p>\_</p>\n\n<p><em>The Jheronimus Academy of Data Science (in The Netherlands) is accepting PDEng trainees every 6 months (twice a year). The next assessment week is in March, 2018.</em></p>\n"
+field_job_location:
+  -
+    value: 'The Netherlands'
+    format: full_html
+    processed: 'The Netherlands'
+field_more_details_link:
+  -
+    uri: 'https://www.jads.nl/pdeng-post-master-data-science.html'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

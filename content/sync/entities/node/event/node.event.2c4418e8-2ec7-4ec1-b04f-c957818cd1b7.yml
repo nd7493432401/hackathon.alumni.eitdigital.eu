@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 2c4418e8-2ec7-4ec1-b04f-c957818cd1b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:02:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Smart contracts in the Sun - Berlin'
+created:
+  -
+    value: '2018-07-20T13:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:02:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/smart-contracts-sun-berlin
+body: {  }
+field_event_:
+  -
+    value: Tiergarten
+    format: full_html
+    processed: Tiergarten
+field_event_date:
+  -
+    value: '2018-07-28T12:00:00+02:00'
+    end_value: '2018-07-28T16:00:00+02:00'
+field_event_description:
+  -
+    value: "<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">It’s time for a <a href=\"https://www.facebook.com/events/1176173012530657/\">summer meetup in <strong>Berlin</strong></a>!&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />\r\n<span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">On Saturday 28, we’ll combine a discussion of a <strong>cutting-edge technology</strong> with an antique <strong>Slavic/Nordic game</strong> and a <strong>picnic</strong> in Tiergarten.&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><br />\r\n<strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">The learning part:&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Our alumnus <a href=\"https://alumni.eitdigital.eu/users/josip\">Josip</a><i><font color=\"#ff0000\">&nbsp;</font></i>will talk about <em>smart contracts</em>. It will be fascinating to see whether Blockchain technologies will indeed cause a shrinkage in the size of siloed firms. Nobel prize winner Ronald Coase suggests so. With embedded tools such as smart contracts, it has never been easier to automate contractual relationships, like the ones between companies and their manufacturers or suppliers. Blockchain-based smart contracts have the ability to simulate the benefits of vertical integration, whilst avoiding the investment and commitment risk for the integrator.</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />\r\n<br />\r\n<strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">The fun part:&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Join us to learn to play <strong>kubb</strong> with <a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya</a>&nbsp;– a game Slavic and Nordic people entertained themselves centuries ago!&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\">&nbsp;</p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><u><strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Bring your own food and drinks as well as blankets for a picnic.&nbsp;</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></u></p>\r\n\r\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><a href=\"https://www.facebook.com/events/1176173012530657/\">JOIN OUR FACEBOOK EVENT!</a><br />\r\n&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">It’s time for a <a href=\"https://www.facebook.com/events/1176173012530657/\">summer meetup in <strong>Berlin</strong></a>!\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />\n<span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">On Saturday 28, we’ll combine a discussion of a <strong>cutting-edge technology</strong> with an antique <strong>Slavic/Nordic game</strong> and a <strong>picnic</strong> in Tiergarten.\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><br />\n<strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">The learning part:\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Our alumnus <a href=\"https://alumni.eitdigital.eu/users/josip\">Josip</a><i><font color=\"#ff0000\">\_</font></i>will talk about <em>smart contracts</em>. It will be fascinating to see whether Blockchain technologies will indeed cause a shrinkage in the size of siloed firms. Nobel prize winner Ronald Coase suggests so. With embedded tools such as smart contracts, it has never been easier to automate contractual relationships, like the ones between companies and their manufacturers or suppliers. Blockchain-based smart contracts have the ability to simulate the benefits of vertical integration, whilst avoiding the investment and commitment risk for the integrator.</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />\n<br />\n<strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">The fun part:\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Join us to learn to play <strong>kubb</strong> with <a href=\"https://alumni.eitdigital.eu/users/dkamkalova\">Darya</a>\_– a game Slavic and Nordic people entertained themselves centuries ago!\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\">\_</p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><u><strong><span style=\"font-size:12px\"><span style=\"caret-color:#000000\"><span style=\"color:#000000\"><span style=\"font-family:Helvetica\"><span style=\"font-style:normal\"><span style=\"font-variant-caps:normal\"><span style=\"font-weight:normal\"><span style=\"letter-spacing:normal\"><span style=\"orphans:auto\"><span style=\"text-transform:none\"><span style=\"white-space:normal\"><span style=\"widows:auto\"><span style=\"word-spacing:0px\"><span style=\"-webkit-text-size-adjust:auto\"><span style=\"text-decoration:none\"><font face=\"tahoma, sans-serif\">Bring your own food and drinks as well as blankets for a picnic.\_</font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></strong></u></p>\n\n<p style=\"text-align:start; -webkit-text-stroke-width:0px; margin:0in 0in 0.0001pt\"><a href=\"https://www.facebook.com/events/1176173012530657/\">JOIN OUR FACEBOOK EVENT!</a><br />\n\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: e6f4a5bd-d8fe-4982-a23f-bed4d14ecf6a
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: e6f4a5bd-d8fe-4982-a23f-bed4d14ecf6a
+field_event_introduction:
+  -
+    value: "<p>Join us in Berlin for a picnic with talks on smart contracts and games</p>\r\n"
+    format: full_html
+    processed: "<p>Join us in Berlin for a picnic with talks on smart contracts and games</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6261ac73-f7d1-4f51-a8af-d7c96938daf2
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.e6f4a5bd-d8fe-4982-a23f-bed4d14ecf6a
+    taxonomy_term:
+      - taxonomy_term.event_type.6261ac73-f7d1-4f51-a8af-d7c96938daf2

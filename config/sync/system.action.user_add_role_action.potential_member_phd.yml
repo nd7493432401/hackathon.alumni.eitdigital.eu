@@ -1,0 +1,14 @@
+uuid: dcc20c70-51f6-40cd-af43-9710da83dcc3
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_phd
+  module:
+    - user
+id: user_add_role_action.potential_member_phd
+label: 'Add the Potential Member (PHD) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: potential_member_phd

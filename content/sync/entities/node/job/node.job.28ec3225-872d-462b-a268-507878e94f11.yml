@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 28ec3225-872d-462b-a268-507878e94f11
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Professional '
+created:
+  -
+    value: '2019-02-07T11:15:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:58:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-professional-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/cities/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital, DriveTrust'
+    format: full_html
+    processed: 'EIT Digital, DriveTrust'
+field_expiration_date:
+  -
+    value: '2019-02-28T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>EIT Digital seeks a Post-Master Professional for DriveTrust Innovation Activity</strong></p>\r\n\r\n<p>The Post-Master Professional vacancies are open to all graduates of the EIT Digital Master School.<br />\r\nThe Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development.</p>\r\n\r\n<p><strong>Action Line</strong>: The Post Master Professional will report to Digital Cities Action Line Leader</p>\r\n\r\n<p><strong>Activity Name</strong>: DriveTrust</p>\r\n\r\n<p>DriveTrust is a collaborative innovation activity that aims to make driving safer and more efficient. It involves a consortium including private and public actors. The focus of the activity is on developing hardware and software as an automotive aftermarket solution that can seamlessly create a driving score by detecting and analyzing driving behavior. The product will use emerging technologies like V2X, remote SIM provisioning (eSIM) and on-board DNN inference. Initial target market is vehicle insurance. The activity aims at creating a new venture in 2019.</p>\r\n\r\n<p><strong>Job Profile</strong></p>\r\n\r\n<p>We are looking for one Post-Master Professional that will act in the field of Start-Up Product Developer, responsible with designing and developing the product together with the team.</p>\r\n\r\n<p>S/he has experience and is interested in one or more of the following areas:</p>\r\n\r\n<ul>\r\n\t<li>Cloud computing and databases</li>\r\n\t<li>ARM Linux driver and firmware development</li>\r\n\t<li>ISP, camera drivers and multimedia pipelines on ARM Linux</li>\r\n\t<li>Neural networks and computer vision</li>\r\n\t<li>Business / Start-up Development</li>\r\n</ul>\r\n\r\n<p>The work will involve intense collaboration with EIT Digital partners, and other related stakeholders that are actively participating the activity. The working language in the activity is English.</p>\r\n\r\n<p><strong>Location</strong></p>\r\n\r\n<p>Place of Employment is the EIT Digital Satellite in Rennes, or the EIT Co-Location Centre in Paris, France.</p>\r\n\r\n<p>Occasional travel within the EU to be expected.</p>\r\n\r\n<p><strong>Offer</strong></p>\r\n\r\n<ul>\r\n\t<li>One-year full-time contract with possibility of renewal for another year*</li>\r\n\t<li>Guidance by Action Line Leader and Node Director in Paris/ Rennes, France.</li>\r\n</ul>\r\n\r\n<p>*Contract duration may vary between different Nodes and Countries due to national legislation.</p>\r\n\r\n<p><strong>To Apply</strong></p>\r\n\r\n<p>Please email your CV and motivation letter to: <a href=\"mailto:postmasterapplication@eitdigital.eu\">postmasterapplication@eitdigital.eu</a>, highlighting how your skills and experience meet the qualifications requested for this position.</p>\r\n\r\n<p>Applications without a motivation letter will not be considered.</p>\r\n\r\n<p>Please specify the <strong>Activity Name, position and location </strong>you are applying for.</p>\r\n\r\n<p>Applications should be submitted until <strong>February 28, 2019, 5 PM CET.&nbsp;</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><strong>EIT Digital seeks a Post-Master Professional for DriveTrust Innovation Activity</strong></p>\n\n<p>The Post-Master Professional vacancies are open to all graduates of the EIT Digital Master School.<br />\nThe Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas (Action Lines). The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master Professional’s personal entrepreneurship development.</p>\n\n<p><strong>Action Line</strong>: The Post Master Professional will report to Digital Cities Action Line Leader</p>\n\n<p><strong>Activity Name</strong>: DriveTrust</p>\n\n<p>DriveTrust is a collaborative innovation activity that aims to make driving safer and more efficient. It involves a consortium including private and public actors. The focus of the activity is on developing hardware and software as an automotive aftermarket solution that can seamlessly create a driving score by detecting and analyzing driving behavior. The product will use emerging technologies like V2X, remote SIM provisioning (eSIM) and on-board DNN inference. Initial target market is vehicle insurance. The activity aims at creating a new venture in 2019.</p>\n\n<p><strong>Job Profile</strong></p>\n\n<p>We are looking for one Post-Master Professional that will act in the field of Start-Up Product Developer, responsible with designing and developing the product together with the team.</p>\n\n<p>S/he has experience and is interested in one or more of the following areas:</p>\n\n<ul>\n\t<li>Cloud computing and databases</li>\n\t<li>ARM Linux driver and firmware development</li>\n\t<li>ISP, camera drivers and multimedia pipelines on ARM Linux</li>\n\t<li>Neural networks and computer vision</li>\n\t<li>Business / Start-up Development</li>\n</ul>\n\n<p>The work will involve intense collaboration with EIT Digital partners, and other related stakeholders that are actively participating the activity. The working language in the activity is English.</p>\n\n<p><strong>Location</strong></p>\n\n<p>Place of Employment is the EIT Digital Satellite in Rennes, or the EIT Co-Location Centre in Paris, France.</p>\n\n<p>Occasional travel within the EU to be expected.</p>\n\n<p><strong>Offer</strong></p>\n\n<ul>\n\t<li>One-year full-time contract with possibility of renewal for another year*</li>\n\t<li>Guidance by Action Line Leader and Node Director in Paris/ Rennes, France.</li>\n</ul>\n\n<p>*Contract duration may vary between different Nodes and Countries due to national legislation.</p>\n\n<p><strong>To Apply</strong></p>\n\n<p>Please email your CV and motivation letter to: <a href=\"mailto:postmasterapplication@eitdigital.eu\">postmasterapplication@eitdigital.eu</a>, highlighting how your skills and experience meet the qualifications requested for this position.</p>\n\n<p>Applications without a motivation letter will not be considered.</p>\n\n<p>Please specify the <strong>Activity Name, position and location </strong>you are applying for.</p>\n\n<p>Applications should be submitted until <strong>February 28, 2019, 5 PM CET.\_</strong></p>\n\n<p>\_</p>\n\n<p>\_</p>\n"
+field_job_location:
+  -
+    value: 'Rennes or Paris '
+    format: full_html
+    processed: 'Rennes or Paris '
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/alexandrasabou'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

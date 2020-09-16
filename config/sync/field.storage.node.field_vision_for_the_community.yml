@@ -1,0 +1,19 @@
+uuid: d8c41706-6c5f-4101-a983-e4ad8a51c577
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_vision_for_the_community
+field_name: field_vision_for_the_community
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

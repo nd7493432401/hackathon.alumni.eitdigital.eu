@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5ba6ba51-2eb1-4ef5-a5cc-7a5de9080266
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/410
+alias:
+  -
+    value: /job/big-data-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 126505cc-0845-4603-bd9d-3c6715375e5a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/282
+alias:
+  -
+    value: /event/annual-meeting-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

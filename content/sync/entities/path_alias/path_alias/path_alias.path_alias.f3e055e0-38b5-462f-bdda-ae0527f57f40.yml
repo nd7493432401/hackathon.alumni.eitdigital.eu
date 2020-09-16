@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f3e055e0-38b5-462f-bdda-ae0527f57f40
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/59
+alias:
+  -
+    value: /article/we-have-new-board
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

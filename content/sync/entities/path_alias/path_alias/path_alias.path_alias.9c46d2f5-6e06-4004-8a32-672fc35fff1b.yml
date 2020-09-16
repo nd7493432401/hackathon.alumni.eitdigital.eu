@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9c46d2f5-6e06-4004-8a32-672fc35fff1b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/37
+alias:
+  -
+    value: /event-type/networking-drinks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

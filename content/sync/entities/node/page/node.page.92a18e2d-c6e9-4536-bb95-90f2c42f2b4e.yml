@@ -1,0 +1,67 @@
+uuid:
+  -
+    value: 92a18e2d-c6e9-4536-bb95-90f2c42f2b4e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: e084dd6e-a694-41b6-ae1d-a5076f3a851f
+revision_timestamp:
+  -
+    value: '2020-03-27T10:49:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Alumni Slack Team'
+created:
+  -
+    value: '2020-03-27T10:43:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-27T10:56:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /eit-digital-alumni-slack-team
+body:
+  -
+    value: "<p>Wait for a few seconds for the script to load :)</p>\r\n"
+    format: full_html
+    processed: "<p>Wait for a few seconds for the script to load :)</p>\n"
+    summary: ''
+    summary_processed: ''
+field_basic_page_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

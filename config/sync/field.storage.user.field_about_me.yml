@@ -1,0 +1,19 @@
+uuid: de670519-fc20-49d4-8412-74d1f084741d
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.field_about_me
+field_name: field_about_me
+entity_type: user
+type: string_long
+settings:
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

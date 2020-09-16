@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4a7a0dbc-839a-4d8d-9d6d-f38643dd9dbc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/402
+alias:
+  -
+    value: /job/podcast-producereditor-part-time
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

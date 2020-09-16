@@ -1,0 +1,22 @@
+uuid: 82037658-b94c-42cc-bda5-1b56c005e673
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: group_label
+label: 'Group Pattern'
+type: 'canonical_entities:node'
+pattern: 'group/[node:title]'
+selection_criteria:
+  328c3014-0447-4364-a838-7a677312703c:
+    id: node_type
+    bundles:
+      group: group
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 328c3014-0447-4364-a838-7a677312703c
+selection_logic: and
+weight: -5
+relationships: {  }

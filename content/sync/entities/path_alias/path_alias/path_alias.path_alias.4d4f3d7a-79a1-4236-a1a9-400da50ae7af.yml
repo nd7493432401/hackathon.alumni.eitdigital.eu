@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4d4f3d7a-79a1-4236-a1a9-400da50ae7af
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/65
+alias:
+  -
+    value: /article/3-eit-alumni-teams-selected-take-part-heinnovate-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

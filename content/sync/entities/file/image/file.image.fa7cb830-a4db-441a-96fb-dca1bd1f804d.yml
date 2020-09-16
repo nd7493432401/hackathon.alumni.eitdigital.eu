@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: fa7cb830-a4db-441a-96fb-dca1bd1f804d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: 'Screenshot 2019-03-17 at 16.32.56.png'
+uri:
+  -
+    value: 'public://inline-images/Screenshot 2019-03-17 at 16.32.56.png'
+    url: /sites/default/files/inline-images/Screenshot%202019-03-17%20at%2016.32.56.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 743152
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-27T10:30:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-27T10:31:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

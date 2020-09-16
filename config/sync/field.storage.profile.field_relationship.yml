@@ -1,0 +1,20 @@
+uuid: 9efd992d-2d92-448a-b026-6b7d386a60dd
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - text
+id: profile.field_relationship
+field_name: field_relationship
+entity_type: profile
+type: text
+settings:
+  max_length: 255
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7a1b3006-c61e-442d-a335-6172f510cc5b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/121
+alias:
+  -
+    value: /candidate/paul-velthuis
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

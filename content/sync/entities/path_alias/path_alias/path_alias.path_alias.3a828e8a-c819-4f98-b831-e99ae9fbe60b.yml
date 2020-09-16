@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3a828e8a-c819-4f98-b831-e99ae9fbe60b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/488
+alias:
+  -
+    value: /job/medior-devops-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

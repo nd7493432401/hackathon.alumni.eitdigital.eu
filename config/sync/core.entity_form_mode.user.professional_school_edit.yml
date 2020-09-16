@@ -1,0 +1,10 @@
+uuid: 9e699cef-d2be-4fcf-a64b-0e9dbf7326f8
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.professional_school_edit
+label: 'Professional School Edit'
+targetEntityType: user
+cache: true

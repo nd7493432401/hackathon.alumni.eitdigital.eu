@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f3ab0510-21ce-4ca3-b08a-d3394479268c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/231
+alias:
+  -
+    value: /event/alumni-tour-rocketspace
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

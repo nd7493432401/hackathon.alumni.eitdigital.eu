@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 99a8fed4-6ef1-4079-9d10-eb7e53e6b302
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T08:22:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Ice Skating in Stockholm'
+created:
+  -
+    value: '2016-12-05T22:34:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T08:22:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/ice-skating-stockholm
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2016-12-13T16:00:00+01:00'
+    end_value: '2016-12-13T20:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Our great Local Representatives Yassin and Roman are inviting you to an EIT Digital Alumni meetup \"On Ice\" ;)</p>\r\n\r\n<p>This will happen on Tuesday, December 13th, at 18:00 at the ice skating ring in Vasaparken (close to St.Eriksplan T-Bana).</p>\r\n\r\n<p>Please note that you cannot rent skates there!</p>\r\n\r\n<p>Afterwards, at around 20:00, the group will move to a close-by bar for some hot tea and drinks. Feel like joining?</p>\r\n\r\n<p>Press on \"Going\" on <a href=\"https://www.facebook.com/events/1341744982511789/\">our Facebook event</a> and share it with your EIT friends ;)</p>\r\n"
+    format: full_html
+    processed: "<p>Our great Local Representatives Yassin and Roman are inviting you to an EIT Digital Alumni meetup \"On Ice\" ;)</p>\n\n<p>This will happen on Tuesday, December 13th, at 18:00 at the ice skating ring in Vasaparken (close to St.Eriksplan T-Bana).</p>\n\n<p>Please note that you cannot rent skates there!</p>\n\n<p>Afterwards, at around 20:00, the group will move to a close-by bar for some hot tea and drinks. Feel like joining?</p>\n\n<p>Press on \"Going\" on <a href=\"https://www.facebook.com/events/1341744982511789/\">our Facebook event</a> and share it with your EIT friends ;)</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 53ea49d3-b3de-4463-91bb-4da34d408e0f
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 53ea49d3-b3de-4463-91bb-4da34d408e0f
+field_event_introduction:
+  -
+    value: "<p>#digitalumni meetup on ice</p>\r\n"
+    format: full_html
+    processed: "<p>#digitalumni meetup on ice</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.53ea49d3-b3de-4463-91bb-4da34d408e0f

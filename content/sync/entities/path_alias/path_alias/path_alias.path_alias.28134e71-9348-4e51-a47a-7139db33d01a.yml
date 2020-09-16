@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 28134e71-9348-4e51-a47a-7139db33d01a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/228
+alias:
+  -
+    value: /event/eit-alumni-connect-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

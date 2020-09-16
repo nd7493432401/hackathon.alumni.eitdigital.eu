@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 79f88e58-3f4b-4b99-adf3-08d39d285e56
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/552
+alias:
+  -
+    value: /job/project-coordinator-cyber
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

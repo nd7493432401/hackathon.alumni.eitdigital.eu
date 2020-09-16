@@ -1,0 +1,14 @@
+uuid: 777ce66a-4b67-4fb7-9b90-c8aff8b6cbc3
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_master_school
+label: 'EIT Digital Master School'
+display_label: 'EIT Digital Master School'
+multiple: false
+registration: true
+roles:
+  potential_member_master: potential_member_master
+  alumni_member_master: alumni_member_master
+allow_revisions: false
+new_revision: false

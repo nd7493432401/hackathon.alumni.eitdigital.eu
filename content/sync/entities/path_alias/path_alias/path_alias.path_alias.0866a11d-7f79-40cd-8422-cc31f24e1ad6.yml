@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0866a11d-7f79-40cd-8422-cc31f24e1ad6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/475
+alias:
+  -
+    value: /job/web-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

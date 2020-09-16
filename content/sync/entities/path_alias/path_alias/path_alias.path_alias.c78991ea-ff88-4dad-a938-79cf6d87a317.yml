@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c78991ea-ff88-4dad-a938-79cf6d87a317
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/576
+alias:
+  -
+    value: /job/senior-backend-web-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

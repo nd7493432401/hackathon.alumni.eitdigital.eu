@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c463b02d-c360-4588-b4cf-522bb0f9af89
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/530
+alias:
+  -
+    value: /job/iot-programmer-startup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

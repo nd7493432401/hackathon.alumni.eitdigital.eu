@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 42d7d124-d0a1-4d25-b5e6-4a13a34c99ce
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/561
+alias:
+  -
+    value: /job/salesforce-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

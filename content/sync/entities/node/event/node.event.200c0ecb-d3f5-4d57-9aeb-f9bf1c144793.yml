@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 200c0ecb-d3f5-4d57-9aeb-f9bf1c144793
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T08:22:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'First EIT Alumni meetup in Helsinki'
+created:
+  -
+    value: '2016-12-06T22:37:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T08:22:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/first-eit-alumni-meetup-helsinki
+body: {  }
+field_event_:
+  -
+    value: 'Turbiini Teknobulevardi 3-5, 01530 Vantaa, Finland'
+    format: full_html
+    processed: 'Turbiini Teknobulevardi 3-5, 01530 Vantaa, Finland'
+field_event_date:
+  -
+    value: '2016-12-17T16:00:00+01:00'
+    end_value: '2016-12-17T19:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Good news everyone,</p>\r\n\r\n<p>For the first time ever, the EIT Digital Alumni and the Climate-KIC Alumni Association will have a co-organized Finland meetup!</p>\r\n\r\n<p>We would like to invite our dearest alumni and selected friends to come together to network, reflect on this year's Slush, and enjoy some pre-Christmas cheers.</p>\r\n\r\n<p>By the way, we are being hosted by the most awesome Turbiini Accelerator, so be ready for a tour of the workspace and prepare for some hands-on with the newest VR gadgets!</p>\r\n\r\n<p>We will provide some snacks and beverages (but feel free to bring your own drinks as well), so please invite your EIT friends, and come and meet the neighbours.</p>\r\n\r\n<p>More info at <a href=\"https://www.facebook.com/events/352377501806178/\">our Facebook event</a>!</p>\r\n\r\n<p>Cheers,<br />\r\nWilfried &amp; Jason ;)</p>\r\n"
+    format: full_html
+    processed: "<p>Good news everyone,</p>\n\n<p>For the first time ever, the EIT Digital Alumni and the Climate-KIC Alumni Association will have a co-organized Finland meetup!</p>\n\n<p>We would like to invite our dearest alumni and selected friends to come together to network, reflect on this year's Slush, and enjoy some pre-Christmas cheers.</p>\n\n<p>By the way, we are being hosted by the most awesome Turbiini Accelerator, so be ready for a tour of the workspace and prepare for some hands-on with the newest VR gadgets!</p>\n\n<p>We will provide some snacks and beverages (but feel free to bring your own drinks as well), so please invite your EIT friends, and come and meet the neighbours.</p>\n\n<p>More info at <a href=\"https://www.facebook.com/events/352377501806178/\">our Facebook event</a>!</p>\n\n<p>Cheers,<br />\nWilfried &amp; Jason ;)</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: a781a814-5fd3-4a35-8c86-786fb1451290
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: a781a814-5fd3-4a35-8c86-786fb1451290
+field_event_introduction:
+  -
+    value: "<p>Post-Slush reflection &amp; pre-Christmas cheers</p>\r\n"
+    format: full_html
+    processed: "<p>Post-Slush reflection &amp; pre-Christmas cheers</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.a781a814-5fd3-4a35-8c86-786fb1451290

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c44d6a6e-01a3-4332-af58-3e86bba01081
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/122
+alias:
+  -
+    value: /candidate/cristian-prigoana
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

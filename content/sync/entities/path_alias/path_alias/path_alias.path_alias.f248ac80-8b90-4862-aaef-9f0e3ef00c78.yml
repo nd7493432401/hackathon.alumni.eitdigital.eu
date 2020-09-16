@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f248ac80-8b90-4862-aaef-9f0e3ef00c78
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/81
+alias:
+  -
+    value: /article/working-group-meeting-february-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: f9126075-d08d-4a40-8664-4b2fdb165ee3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'XX Factor Pitching Challenge & Training'
+created:
+  -
+    value: '2019-02-03T16:23:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/xx-factor-pitching-challenge-training
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC, High Tech Campus 31, 5656 AE Eindhoven'
+    format: full_html
+    processed: 'EIT Digital CLC, High Tech Campus 31, 5656 AE Eindhoven'
+field_event_date:
+  -
+    value: '2019-03-08T17:00:00+01:00'
+    end_value: '2019-03-08T21:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>HEADLINE: <strong>The event is open for everyone</strong> :)<br />\r\n<br />\r\nThe EIT Digital Master School and <a href=\"http://women.eitalumni.eu\">EIT Women</a> present the <strong>XX Factor Pitching Challenge</strong>, a pitching competition open to <strong>all Alumni and Students</strong> across the <strong>Netherlands</strong>. The event will also have a Pitch training session from an expert from the EIT Alumni community. The winners and the runners of the Pitching challenge will receive some attractive goodies and a certificate from EIT Women and also get personal guidance from experts about taking their ideas forward and converting the ideas into plausible Business plans.<br />\r\n<br />\r\nThe participants of the event will get a chance to network with a diverse group of EIT Digital master school students and Alumni members. Hurry up and <a href=\"https://goo.gl/forms/5eljH0d5MJtkIzTE3\" target=\"_blank\">apply </a>soon, and we will get back to you shortly after.<br />\r\n<br />\r\n<strong><a href=\"https://goo.gl/forms/5eljH0d5MJtkIzTE3\" target=\"_blank\">Apply here!</a>&nbsp;-&nbsp;</strong>Application deadline: <strong>February 15</strong><br />\r\n<br />\r\nMore details about the event, organizers and the judges can be found on the EIT Women&nbsp;<a href=\"https://www.facebook.com/womenatEIT/\" target=\"_blank\">Facebook page</a>. Food and beverages will be provided by the organizers :)</p>\r\n"
+    format: full_html
+    processed: "<p>HEADLINE: <strong>The event is open for everyone</strong> :)<br />\n<br />\nThe EIT Digital Master School and <a href=\"http://women.eitalumni.eu\">EIT Women</a> present the <strong>XX Factor Pitching Challenge</strong>, a pitching competition open to <strong>all Alumni and Students</strong> across the <strong>Netherlands</strong>. The event will also have a Pitch training session from an expert from the EIT Alumni community. The winners and the runners of the Pitching challenge will receive some attractive goodies and a certificate from EIT Women and also get personal guidance from experts about taking their ideas forward and converting the ideas into plausible Business plans.<br />\n<br />\nThe participants of the event will get a chance to network with a diverse group of EIT Digital master school students and Alumni members. Hurry up and <a href=\"https://goo.gl/forms/5eljH0d5MJtkIzTE3\" target=\"_blank\">apply </a>soon, and we will get back to you shortly after.<br />\n<br />\n<strong><a href=\"https://goo.gl/forms/5eljH0d5MJtkIzTE3\" target=\"_blank\">Apply here!</a>\_-\_</strong>Application deadline: <strong>February 15</strong><br />\n<br />\nMore details about the event, organizers and the judges can be found on the EIT Women\_<a href=\"https://www.facebook.com/womenatEIT/\" target=\"_blank\">Facebook page</a>. Food and beverages will be provided by the organizers :)</p>\n"
+field_event_duration:
+  -
+    value: '17:00 - 21:00'
+    format: basic_html
+    processed: '17:00 - 21:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 3b2bceef-1c42-4d8b-bb2c-d63fd37025d8
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 3b2bceef-1c42-4d8b-bb2c-d63fd37025d8
+field_event_introduction:
+  -
+    value: "<p>Pitching competition open to all the people across the Netherlands</p>\r\n"
+    format: full_html
+    processed: "<p>Pitching competition open to all the people across the Netherlands</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8338ce99-2940-448d-9e57-7618a26fc16d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.3b2bceef-1c42-4d8b-bb2c-d63fd37025d8
+    taxonomy_term:
+      - taxonomy_term.event_type.8338ce99-2940-448d-9e57-7618a26fc16d

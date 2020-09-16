@@ -1,0 +1,24 @@
+uuid: dc7eccd2-42b6-4217-94c4-810969cbbde1
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.home_news_and_articles
+  module:
+    - views
+  theme:
+    - eitalumni
+id: views_block__home_news_and_articles_block_1
+theme: eitalumni
+region: home1
+weight: 0
+provider: null
+plugin: 'views_block:home_news_and_articles-block_1'
+settings:
+  id: 'views_block:home_news_and_articles-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility: {  }

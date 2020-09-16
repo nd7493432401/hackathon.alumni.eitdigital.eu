@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c7f6ea3c-2c4d-4fc2-aeba-8058a7095e99
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/73
+alias:
+  -
+    value: /entry-universities/tu-berlin-berlin-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

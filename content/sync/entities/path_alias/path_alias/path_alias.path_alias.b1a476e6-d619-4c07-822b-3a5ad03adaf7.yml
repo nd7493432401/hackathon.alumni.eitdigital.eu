@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1a476e6-d619-4c07-822b-3a5ad03adaf7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/179
+alias:
+  -
+    value: /event/eit-digital-ict-days
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

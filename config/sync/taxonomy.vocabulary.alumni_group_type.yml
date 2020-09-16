@@ -1,0 +1,8 @@
+uuid: e1f1bf54-a0b5-4a75-9e0e-9ea4b8d5909a
+langcode: en
+status: true
+dependencies: {  }
+name: 'Alumni Group Type'
+vid: alumni_group_type
+description: ''
+weight: 0

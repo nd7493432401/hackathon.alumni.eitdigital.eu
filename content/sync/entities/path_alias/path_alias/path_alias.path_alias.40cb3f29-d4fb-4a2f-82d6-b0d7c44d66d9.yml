@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 40cb3f29-d4fb-4a2f-82d6-b0d7c44d66d9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/405
+alias:
+  -
+    value: /job/lead-ios-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

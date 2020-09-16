@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0eaa6b43-5a78-40a4-ab55-5a5c29a63096
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/73
+alias:
+  -
+    value: /article/open-call-business-challenge-mentors-kick-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

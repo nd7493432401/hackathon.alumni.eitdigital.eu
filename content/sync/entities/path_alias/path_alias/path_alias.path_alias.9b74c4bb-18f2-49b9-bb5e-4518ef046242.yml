@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9b74c4bb-18f2-49b9-bb5e-4518ef046242
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/574
+alias:
+  -
+    value: /job/post-master-professional-takeoff-future-intelligent-industries
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

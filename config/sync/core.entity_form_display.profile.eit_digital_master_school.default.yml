@@ -1,0 +1,55 @@
+uuid: 076dad93-7cfa-41b5-98a8-a9e66dc743a9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_master_school.field_entry_university
+    - field.field.profile.eit_digital_master_school.field_entry_year
+    - field.field.profile.eit_digital_master_school.field_exit_university
+    - field.field.profile.eit_digital_master_school.field_graduation_year
+    - field.field.profile.eit_digital_master_school.field_summer_school_attended
+    - field.field.profile.eit_digital_master_school.field_track
+    - profile.type.eit_digital_master_school
+id: profile.eit_digital_master_school.default
+targetEntityType: profile
+bundle: eit_digital_master_school
+mode: default
+content:
+  field_entry_university:
+    weight: 28
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_entry_year:
+    weight: 29
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_exit_university:
+    weight: 30
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_graduation_year:
+    weight: 31
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_summer_school_attended:
+    weight: 32
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_track:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+hidden:
+  is_default: true

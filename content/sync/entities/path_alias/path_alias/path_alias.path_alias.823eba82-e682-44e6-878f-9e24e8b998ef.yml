@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 823eba82-e682-44e6-878f-9e24e8b998ef
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/594
+alias:
+  -
+    value: /job/data-science-data-engineering-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

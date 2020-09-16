@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3bfb073d-eef1-4c14-a7de-87df43d92e35
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/606
+alias:
+  -
+    value: /job/senior-full-stack-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

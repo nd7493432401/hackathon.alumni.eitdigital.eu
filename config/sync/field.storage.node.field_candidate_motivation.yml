@@ -1,0 +1,19 @@
+uuid: c008b10f-0359-4e96-8e22-0262d0c0ab40
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_candidate_motivation
+field_name: field_candidate_motivation
+entity_type: node
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

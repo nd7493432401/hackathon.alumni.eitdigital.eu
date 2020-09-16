@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 42862fc5-decf-49db-bc58-87487585a284
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:23:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'A brief recap of #digitalumni17'
+created:
+  -
+    value: '2017-04-11T14:27:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:23:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/brief-recap-digitalumni17
+body:
+  -
+    value: "<p>Robin&nbsp;from the EIT HQ wrote a brief article about our Annual Meeting&nbsp;#digitalumni17.</p>\r\n\r\n<p>Read it and also find more info about the&nbsp;EIT Alumni&nbsp;Community <a href=\"http://eitalumni.eu/blog/2017/04/06/eit-digital-alumni-annual-meeting-2017-digitalumni17/\">at this link</a> :)</p>\r\n"
+    format: full_html
+    processed: "<p>Robin\_from the EIT HQ wrote a brief article about our Annual Meeting\_#digitalumni17.</p>\n\n<p>Read it and also find more info about the\_EIT Alumni\_Community <a href=\"http://eitalumni.eu/blog/2017/04/06/eit-digital-alumni-annual-meeting-2017-digitalumni17/\">at this link</a> :)</p>\n"
+    summary: 'Robin&nbsp;from the EIT HQ wrote a brief article about our Annual Meeting&nbsp;#digitalumni17.Read i'
+    summary_processed: "Robin\_from the EIT HQ wrote a brief article about our Annual Meeting\_#digitalumni17.Read i"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'The 2nd Annual Meeting of the EIT Digital Alumni was a triumph!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 380c3b67-9f2b-46f9-98ad-a39a970793c2
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.380c3b67-9f2b-46f9-98ad-a39a970793c2

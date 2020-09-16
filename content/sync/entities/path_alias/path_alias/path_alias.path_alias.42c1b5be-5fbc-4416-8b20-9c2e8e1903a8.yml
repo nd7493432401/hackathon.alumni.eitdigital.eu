@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 42c1b5be-5fbc-4416-8b20-9c2e8e1903a8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/443
+alias:
+  -
+    value: /job/software-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

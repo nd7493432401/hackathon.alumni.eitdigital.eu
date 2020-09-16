@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e35b49da-3ebf-44d6-99e5-39644c288a54
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/74
+alias:
+  -
+    value: /article/eit-digital-alumni-survey-2016
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

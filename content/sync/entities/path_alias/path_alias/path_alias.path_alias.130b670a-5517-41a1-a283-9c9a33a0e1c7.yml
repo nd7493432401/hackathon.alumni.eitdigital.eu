@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 130b670a-5517-41a1-a283-9c9a33a0e1c7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/143
+alias:
+  -
+    value: /candidate/tamunomiebaka-dibi-bobo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

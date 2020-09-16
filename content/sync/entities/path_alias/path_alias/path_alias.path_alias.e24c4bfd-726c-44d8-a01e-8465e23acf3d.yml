@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e24c4bfd-726c-44d8-a01e-8465e23acf3d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/66
+alias:
+  -
+    value: /article/journey-towards-digitalumni18
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

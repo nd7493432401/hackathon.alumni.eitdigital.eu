@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: a1ea9e87-73d4-4d51-9afb-9c20b6715fcc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Cyber Security Strategy (Senior) Consultant'
+created:
+  -
+    value: '2019-11-25T17:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:37:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/cyber-security-strategy-senior-consultant
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:junewton@deloitte.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Deloitte
+    format: full_html
+    processed: Deloitte
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>&nbsp;</p>\r\n\r\n<p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organizations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.</span></p>\r\n\r\n<p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risk to enhance the reliability of systems and processes throughout their organization.</span></p>\r\n\r\n<p><span>The growing importance of IT in the business world brings with it an increased risk if the confidentiality, integrity and availability of information systems are not managed correctly. Hence we see an increased demand within the business world for independent services related to information security risks and controls.</span></p>\r\n\r\n<p><span>As an information security management professional you will help our clients in understanding their information security risks and designing solutions to manage these risks. Our approach allows us to determine the business risk posed to information assets and help build and maintain sustainable security solutions.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\r\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div>\r\n\r\n<ul>\r\n\t<li><span>You are passionate about cyber risk in high profile environments;</span></li>\r\n\t<li><span>You look forward to working together with business and technology stakeholders to develop an effective cyber strategy and combat cyber threat actors and techniques;</span></li>\r\n\t<li><span>You display a strong interest in technical and organizational aspects of cyber security, including understanding business contexts, identifying relevant cyber threats and assessing the maturity of cyber capabilities;</span></li>\r\n\t<li><span>You have an analytical mindset, can work autonomously, can handle multiple projects simultaneously and the pressure of deadlines. You are focused on achieving and exceeding client expectations;</span></li>\r\n\t<li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player</span></li>\r\n\t<li><span>You have an interest in international assignments and are prepared to travel for extended periods</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Desirable Skills</b></span></p>\r\n\r\n<ul>\r\n\t<li><span>Specific competencies in security standards (such as ISO 27001, NIST, etc.) and security or technical certifications are a plus;</span></li>\r\n\t<li><span>Previous experience with organizational strategy and/or information security is a plus;</span></li>\r\n\t<li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player.</span></li>\r\n\t<li><span>You are willing to travel abroad;</span></li>\r\n\t<li><span>Your approach is client- and result-oriented. You have an analytical mindset, can work autonomously and can handle multiple projects simultaneously and the pressure of deadlines.</span></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><span><b>Our Offer</b></span></p>\r\n\r\n<ul>\r\n\t<li><span>Become part of an innovative and challenging company where personal and professional development are key. All this within a pleasant, vibrant working atmosphere with room for team building and fun</span></li>\r\n\t<li><span>A people focused culture of continuous learning and coaching. We enjoy to continuously make you better. In your development we will invest (you do the rest).</span></li>\r\n\t<li><span>An attractive and competitive salary package with fringe benefits</span></li>\r\n\t<li><span>A brand new high tech working environment at the Gateway building at Zaventem Airport, where the paint is still wet</span></li>\r\n</ul>\r\n</div>\r\n"
+    format: full_html
+    processed: "<p>\_</p>\n\n<p><span><b>Deloitte</b> is a world leading professional services firm, providing accounting and auditing services, management consulting and legal and tax advice. In Belgium we are the largest professional service provider. Our offices offer services to multi-national and large organizations, public institutions and innumerable small, fast-growing companies. Thanks to a strong regional presence and our multi-disciplinary approach, we are ideally placed to meet the requirements of a wide range of public institutions and small and large companies.</span></p>\n\n<p><span>Our <b>Risk Advisory</b> practice is a global leader in helping clients manage risk and uncertainty from the boardroom to the network. We provide a broad array of services that allow our clients around the world to better measure, manage and control risk to enhance the reliability of systems and processes throughout their organization.</span></p>\n\n<p><span>The growing importance of IT in the business world brings with it an increased risk if the confidentiality, integrity and availability of information systems are not managed correctly. Hence we see an increased demand within the business world for independent services related to information security risks and controls.</span></p>\n\n<p><span>As an information security management professional you will help our clients in understanding their information security risks and designing solutions to manage these risks. Our approach allows us to determine the business risk posed to information assets and help build and maintain sustainable security solutions.</span></p>\n\n<p>\_</p>\n\n<div class=\"contentlinepanel\" id=\"requisitionDescriptionInterface.ID1351.row1\" title=\"\">\n<div class=\"inlinepanel\" id=\"requisitionDescriptionInterface.ID1367.row1\" title=\"\"><span><b>Your Profile</b></span></div>\n\n<ul>\n\t<li><span>You are passionate about cyber risk in high profile environments;</span></li>\n\t<li><span>You look forward to working together with business and technology stakeholders to develop an effective cyber strategy and combat cyber threat actors and techniques;</span></li>\n\t<li><span>You display a strong interest in technical and organizational aspects of cyber security, including understanding business contexts, identifying relevant cyber threats and assessing the maturity of cyber capabilities;</span></li>\n\t<li><span>You have an analytical mindset, can work autonomously, can handle multiple projects simultaneously and the pressure of deadlines. You are focused on achieving and exceeding client expectations;</span></li>\n\t<li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player</span></li>\n\t<li><span>You have an interest in international assignments and are prepared to travel for extended periods</span></li>\n</ul>\n\n<p>\_</p>\n\n<p><span><b>Desirable Skills</b></span></p>\n\n<ul>\n\t<li><span>Specific competencies in security standards (such as ISO 27001, NIST, etc.) and security or technical certifications are a plus;</span></li>\n\t<li><span>Previous experience with organizational strategy and/or information security is a plus;</span></li>\n\t<li><span>You have fluent language skills (English and preferably also Dutch or French) and you are a real team player.</span></li>\n\t<li><span>You are willing to travel abroad;</span></li>\n\t<li><span>Your approach is client- and result-oriented. You have an analytical mindset, can work autonomously and can handle multiple projects simultaneously and the pressure of deadlines.</span></li>\n</ul>\n\n<p>\_</p>\n\n<p><span><b>Our Offer</b></span></p>\n\n<ul>\n\t<li><span>Become part of an innovative and challenging company where personal and professional development are key. All this within a pleasant, vibrant working atmosphere with room for team building and fun</span></li>\n\t<li><span>A people focused culture of continuous learning and coaching. We enjoy to continuously make you better. In your development we will invest (you do the rest).</span></li>\n\t<li><span>An attractive and competitive salary package with fringe benefits</span></li>\n\t<li><span>A brand new high tech working environment at the Gateway building at Zaventem Airport, where the paint is still wet</span></li>\n</ul>\n</div>\n"
+field_job_location:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_more_details_link:
+  -
+    uri: 'https://dttbe.taleo.net/careersection/dttbe_pr_external/jobdetail.ftl?job=190000SU&tz=GMT%2B01%3A00&tzname'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

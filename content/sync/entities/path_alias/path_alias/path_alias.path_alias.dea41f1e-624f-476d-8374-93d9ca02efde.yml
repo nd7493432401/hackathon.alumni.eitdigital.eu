@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dea41f1e-624f-476d-8374-93d9ca02efde
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/591
+alias:
+  -
+    value: /job/digital-technology-leadership-programme
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

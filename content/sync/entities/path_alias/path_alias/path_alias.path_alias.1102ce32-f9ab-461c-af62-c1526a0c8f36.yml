@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1102ce32-f9ab-461c-af62-c1526a0c8f36
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/204
+alias:
+  -
+    value: /event/womeneit-cv-workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

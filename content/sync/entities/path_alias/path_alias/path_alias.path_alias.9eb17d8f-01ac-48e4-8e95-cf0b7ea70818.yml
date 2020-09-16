@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9eb17d8f-01ac-48e4-8e95-cf0b7ea70818
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/62
+alias:
+  -
+    value: /article/phd-or-post-doc-ict-internationalize-your-career
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

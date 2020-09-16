@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: f7111a18-cfd8-40c3-b5ab-cab43cd71afc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'SAP Hybris / Coremedia CMS Backend Developer (m/f/d)'
+created:
+  -
+    value: '2019-03-24T19:49:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:40:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/sap-hybris-coremedia-cms-backend-developer-mfd
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://recruitingapp-609.umantis.com/Vacancies/12240/Application/New/2'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Sartorius
+    format: full_html
+    processed: Sartorius
+field_expiration_date:
+  -
+    value: '2019-04-01T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><b>Sartorius</b>&nbsp;Our products enable the biopharmaceutical industry to be at the forefront of the development and advancement of treatments for serious diseases. Earning sales revenue of more than 1.6 billion in 2018 our people come from over 60 nations at 50 sites in 33 countries.&nbsp;<br />\r\n<br />\r\nFor our newly founded IT Software Development &amp; Innovation unit we are looking for an SAP Hybris and Coremedia CMS Backend Developer (m/f/d) either in Goettingen or Berlin.&nbsp;<br />\r\n<br />\r\n<b>Your tasks</b></p>\r\n\r\n<ul>\r\n\t<li>You will be responsible for the backend of sartorius.com, the website, shop and our global digital sales platform</li>\r\n\t<li>You will be part of our agile team responsible for enhancing and rolling out our global e-commerce platform, using SAP Hybris Commerce and Coremedia CMS</li>\r\n\t<li>You will have the unique opportunity to be a driving force in building our digital capabilities and shape digital transformation for a globally successful life science player</li>\r\n\t<li>You will develop high-quality code for complex and challenging tasks for our e-commerce backend software with a huge impact on the Sartorius organization and our customers</li>\r\n\t<li>You will work at the core of our e-commerce backend systems, building up a platform that scales, is open, state-of-the-art and flexible</li>\r\n\t<li>You will utilize state of the art development platforms and<br />\r\n\tmethods, like IntelliJ IDEA, GIT, CI and CD</li>\r\n\t<li>The solutions will have strong integration into business processes, application and data landscape, to bring the most value and facilitate our existing digital portfolio</li>\r\n</ul>\r\n\r\n<p><b>Your profile</b></p>\r\n\r\n<ul>\r\n\t<li>You have 3+ years of proven experience with Java and Spring, with focus on SAP Hybris&nbsp;</li>\r\n\t<li>Ideally, you gained experiences in various relevant technologies, like Maven 3, Hibernate, SQL/NoSQL, Solr, MongoDB, Tomcat, Node.js, JSP, REST, SOAP, jquery or python</li>\r\n\t<li>You bring in good understanding of modern development platforms and toolchains</li>\r\n\t<li>Excellent English skills and willingness to travel to other locations&nbsp;</li>\r\n\t<li>Strong identification with our core values: sustainability, openness, enjoyment</li>\r\n</ul>\r\n\r\n<p><b>Benefits</b></p>\r\n\r\n<ul>\r\n\t<li>Family-friendly working time regulation with flexible working hours with time recording</li>\r\n\t<li>Multilateral further education, e.g. language or intercultural trainings</li>\r\n</ul>\r\n\r\n<p><b>Interested?</b>&nbsp;Driving our future growth requires talented people. Sartorius is a dynamic organisation suited to people who want to showcase skills, be recognised for expertise and thrive in a vibrant and innovative environment.<br />\r\n<br />\r\nTo find out more about Sartorius as an employer visit our <a href=\"https://www.sartorius.com/sartorius/en/EUR/company/careers?setCountry=WW-en\" target=\"_blank\">website</a>.&nbsp;<br />\r\n<br />\r\nBecome part of our global team. Apply directly via our&nbsp;<a href=\"https://recruitingapp-609.umantis.com/Vacancies/5187/Application/New/2\">online job portal</a>.&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><b>Sartorius</b>\_Our products enable the biopharmaceutical industry to be at the forefront of the development and advancement of treatments for serious diseases. Earning sales revenue of more than 1.6 billion in 2018 our people come from over 60 nations at 50 sites in 33 countries.\_<br />\n<br />\nFor our newly founded IT Software Development &amp; Innovation unit we are looking for an SAP Hybris and Coremedia CMS Backend Developer (m/f/d) either in Goettingen or Berlin.\_<br />\n<br />\n<b>Your tasks</b></p>\n\n<ul>\n\t<li>You will be responsible for the backend of sartorius.com, the website, shop and our global digital sales platform</li>\n\t<li>You will be part of our agile team responsible for enhancing and rolling out our global e-commerce platform, using SAP Hybris Commerce and Coremedia CMS</li>\n\t<li>You will have the unique opportunity to be a driving force in building our digital capabilities and shape digital transformation for a globally successful life science player</li>\n\t<li>You will develop high-quality code for complex and challenging tasks for our e-commerce backend software with a huge impact on the Sartorius organization and our customers</li>\n\t<li>You will work at the core of our e-commerce backend systems, building up a platform that scales, is open, state-of-the-art and flexible</li>\n\t<li>You will utilize state of the art development platforms and<br />\n\tmethods, like IntelliJ IDEA, GIT, CI and CD</li>\n\t<li>The solutions will have strong integration into business processes, application and data landscape, to bring the most value and facilitate our existing digital portfolio</li>\n</ul>\n\n<p><b>Your profile</b></p>\n\n<ul>\n\t<li>You have 3+ years of proven experience with Java and Spring, with focus on SAP Hybris\_</li>\n\t<li>Ideally, you gained experiences in various relevant technologies, like Maven 3, Hibernate, SQL/NoSQL, Solr, MongoDB, Tomcat, Node.js, JSP, REST, SOAP, jquery or python</li>\n\t<li>You bring in good understanding of modern development platforms and toolchains</li>\n\t<li>Excellent English skills and willingness to travel to other locations\_</li>\n\t<li>Strong identification with our core values: sustainability, openness, enjoyment</li>\n</ul>\n\n<p><b>Benefits</b></p>\n\n<ul>\n\t<li>Family-friendly working time regulation with flexible working hours with time recording</li>\n\t<li>Multilateral further education, e.g. language or intercultural trainings</li>\n</ul>\n\n<p><b>Interested?</b>\_Driving our future growth requires talented people. Sartorius is a dynamic organisation suited to people who want to showcase skills, be recognised for expertise and thrive in a vibrant and innovative environment.<br />\n<br />\nTo find out more about Sartorius as an employer visit our <a href=\"https://www.sartorius.com/sartorius/en/EUR/company/careers?setCountry=WW-en\" target=\"_blank\">website</a>.\_<br />\n<br />\nBecome part of our global team. Apply directly via our\_<a href=\"https://recruitingapp-609.umantis.com/Vacancies/5187/Application/New/2\">online job portal</a>.\_</p>\n"
+field_job_location:
+  -
+    value: 'Goettingen / Berlin, Germany'
+    format: full_html
+    processed: 'Goettingen / Berlin, Germany'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/tamdibi'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

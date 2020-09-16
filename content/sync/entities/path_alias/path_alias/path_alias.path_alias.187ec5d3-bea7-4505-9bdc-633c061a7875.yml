@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 187ec5d3-bea7-4505-9bdc-633c061a7875
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/51
+alias:
+  -
+    value: /candidate-type/treasurer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 573955ea-f954-4b25-8f97-9c4445ce2dbf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Master thesis opportunities'
+created:
+  -
+    value: '2018-12-30T10:18:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:55:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/master-thesis-opportunities
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:hamed@finna.ai'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Finna
+    format: full_html
+    processed: Finna
+field_expiration_date:
+  -
+    value: '2019-02-15T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><a href=\"https://finna.ai\" target=\"_blank\">Finna </a>is building an AI assistant for Investment Banks, providing Investment Analysts and Portfolio Managers with cutting-edge algorithms and tools to boost their productivity and return. We are working with well-known banks such as Nordea and Pareto-Securities.<br />\r\n<br />\r\nWe are working with textual data and build various tools on top of the parsed text. Areas of machine learning we use, and you will be working with during your master thesis project are:</p>\r\n\r\n<ul>\r\n\t<li>Data Engineering</li>\r\n\t<li>Data Structure modeling</li>\r\n\t<li>Natural Language Processing</li>\r\n\t<li>Question Answering</li>\r\n\t<li>Recommendation System</li>\r\n</ul>\r\n\r\n<p>No in-depth knowledge in Capital Markets is required but preferred. We will go through the business problem in the on-boarding process. If you are interested in working in the intersection of Finance and Machine Learning, Finna is one of the best places to innovate and impact.<br />\r\nFeel free to contact Hamed (hamed@finna.ai) for questions and ideas with a brief background and motivation.</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://finna.ai\" target=\"_blank\">Finna </a>is building an AI assistant for Investment Banks, providing Investment Analysts and Portfolio Managers with cutting-edge algorithms and tools to boost their productivity and return. We are working with well-known banks such as Nordea and Pareto-Securities.<br />\n<br />\nWe are working with textual data and build various tools on top of the parsed text. Areas of machine learning we use, and you will be working with during your master thesis project are:</p>\n\n<ul>\n\t<li>Data Engineering</li>\n\t<li>Data Structure modeling</li>\n\t<li>Natural Language Processing</li>\n\t<li>Question Answering</li>\n\t<li>Recommendation System</li>\n</ul>\n\n<p>No in-depth knowledge in Capital Markets is required but preferred. We will go through the business problem in the on-boarding process. If you are interested in working in the intersection of Finance and Machine Learning, Finna is one of the best places to innovate and impact.<br />\nFeel free to contact Hamed (hamed@finna.ai) for questions and ideas with a brief background and motivation.</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/hamedmp'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

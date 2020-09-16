@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 47b2db72-a173-4b28-a5dc-afb465a72b9f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/307
+alias:
+  -
+    value: /group/annual-meeting-2020-group
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

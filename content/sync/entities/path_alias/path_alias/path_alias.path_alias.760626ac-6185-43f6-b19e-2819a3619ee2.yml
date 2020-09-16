@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 760626ac-6185-43f6-b19e-2819a3619ee2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/72
+alias:
+  -
+    value: /article/web-developer-needed
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

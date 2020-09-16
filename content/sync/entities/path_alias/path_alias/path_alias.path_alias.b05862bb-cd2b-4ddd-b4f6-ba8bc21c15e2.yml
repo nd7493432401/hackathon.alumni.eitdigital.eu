@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b05862bb-cd2b-4ddd-b4f6-ba8bc21c15e2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/200
+alias:
+  -
+    value: /event/deep-learning-trueyou-talk-image-classification
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

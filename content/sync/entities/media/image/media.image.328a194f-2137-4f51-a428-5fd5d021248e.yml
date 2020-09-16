@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 328a194f-2137-4f51-a428-5fd5d021248e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: IMG_20181226_111838717_HDR.jpg
+thumbnail:
+  -
+    alt: 'Alpine Talks'
+    title: null
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 931d511a-23d6-4522-8e0b-e3332b1b2d4b
+created:
+  -
+    value: '2020-04-08T08:56:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-08T08:56:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Alpine Talks'
+    title: ''
+    width: 4032
+    height: 3024
+    target_type: file
+    target_uuid: 931d511a-23d6-4522-8e0b-e3332b1b2d4b
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.931d511a-23d6-4522-8e0b-e3332b1b2d4b

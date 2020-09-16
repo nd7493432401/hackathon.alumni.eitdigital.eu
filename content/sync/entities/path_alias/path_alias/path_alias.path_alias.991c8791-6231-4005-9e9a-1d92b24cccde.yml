@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 991c8791-6231-4005-9e9a-1d92b24cccde
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/513
+alias:
+  -
+    value: /job/software-development-devops-business
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

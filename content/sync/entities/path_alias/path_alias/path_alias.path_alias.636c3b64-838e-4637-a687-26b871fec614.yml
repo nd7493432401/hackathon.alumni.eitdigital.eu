@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 636c3b64-838e-4637-a687-26b871fec614
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/361
+alias:
+  -
+    value: /job/junior-mid-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1935df62-9667-4522-9769-b5e03d2d7f00
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/87
+alias:
+  -
+    value: /event-type/visit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

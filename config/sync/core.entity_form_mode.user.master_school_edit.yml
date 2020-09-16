@@ -1,0 +1,10 @@
+uuid: 399b8381-8bb1-4d23-8e29-5001d6f1b556
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.master_school_edit
+label: 'Master School Edit'
+targetEntityType: user
+cache: true

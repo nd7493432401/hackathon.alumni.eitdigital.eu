@@ -1,0 +1,29 @@
+uuid: 6a86227f-d86d-4a76-bcf5-1eb07aab85b0
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:eef6b47c-48b0-4cae-8c8e-c11dfe35ae4a'
+  module:
+    - block_class
+    - block_content
+  theme:
+    - eitalumni
+third_party_settings:
+  block_class:
+    classes: 'col-sm-3 col-xs-6'
+id: footereitdigitalalumnioffice
+theme: eitalumni
+region: footer
+weight: -6
+provider: null
+plugin: 'block_content:eef6b47c-48b0-4cae-8c8e-c11dfe35ae4a'
+settings:
+  id: 'block_content:eef6b47c-48b0-4cae-8c8e-c11dfe35ae4a'
+  label: 'Alumni Office'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

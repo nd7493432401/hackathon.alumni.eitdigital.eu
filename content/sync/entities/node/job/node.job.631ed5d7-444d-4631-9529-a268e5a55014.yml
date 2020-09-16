@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 631ed5d7-444d-4631-9529-a268e5a55014
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Front End / Full-Stack Software Engineer'
+created:
+  -
+    value: '2019-07-16T10:07:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:07:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/front-end-full-stack-software-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'http://jobs.thomsonreuters.com/ShowJob/Id/318083/Front-End-Full-Stack-Software-Engineer/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Thomson Reuters'
+    format: full_html
+    processed: 'Thomson Reuters'
+field_expiration_date:
+  -
+    value: '2019-09-30T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Do you love creating innovative solutions for customers? We are currently seeking a passionate Software Engineer interested at building data-driven interfaces that drive transformation as a member of Thomson Reuters Labs in Zug. In this role, you will have significant and direct impact on our company in helping to create new information products which customers will use.</p>\r\n\r\n<p>What do we do? We experiment, build and deliver. We work with big data sets to discover what new products, services, or analysis we can create for our customers. You might be familiar with Reuters News, but you might not know that Thomson Reuters is also one of the leading sources of information for legal professionals, corporates and tax professionals. We have over 60,000 TBs worth of legal, regulatory, news and tax data.</p>\r\n\r\n<p>You will be part of a diverse, agile and interdisciplinary innovation team located in Zug. You will work closely with other engineers, designers, data scientists and stakeholders to innovate and code custom applications, data visualizations and interfaces. Incorporating UX and Design Thinking principles with agile methodology, you will produce production grade software that we can validate with customers.</p>\r\n\r\n<p>The global Thomson Reuters Labs team comes from a variety of backgrounds: finance, law, business, science and applied research. You’ll learn from and be working alongside engineers, research scientists, data scientists and designers in our sister-labs in Boston, US; Toronto/Waterloo Region, Canada; London, UK; and our Centre for AI and Cognitive Computing in Toronto, Canada.</p>\r\n\r\n<p>Using data science, statistical analytics and visualization, you will work with domain experts to rapidly prototype and develop production grade full stack applications.</p>\r\n\r\n<p>We are looking for an adaptable learner with a voracious curiosity and a continuous evolution of skills; someone who regularly gets into subjects over their head; who is comfortable with ambiguity and can creatively redirect when reaching dead ends.</p>\r\n\r\n<p>Is this you? Come join us.</p>\r\n\r\n<p><strong>Major Responsibilities / Accountabilities:</strong></p>\r\n\r\n<p>Develop innovative concepts to link end-users’ needs with data science solutions</p>\r\n\r\n<p>Create functional, useful and intuitive web applications for customers and partners</p>\r\n\r\n<p>Collaborate with data scientists and designers to deliver user interfaces and APIs</p>\r\n\r\n<p>Use, evolve and promote best practices for development</p>\r\n\r\n<p>Contribute to development of internal tooling to improve efficiency in processes</p>\r\n\r\n<p>Participate in internal and external development groups and presentations</p>\r\n\r\n<p>Evaluate emerging tools, frameworks and languages</p>\r\n\r\n<p><strong>Technical /Professional Skills &amp; Competencies:</strong></p>\r\n\r\n<p>Essential Skills &amp; Experience Required:</p>\r\n\r\n<p>Solid knowledge of React.js, Vue.js, Angular or similar application frameworks</p>\r\n\r\n<p>User Interface development based on UX research</p>\r\n\r\n<p>Experienced at building and interfacing with RESTful APIs</p>\r\n\r\n<p>Experience with version control systems (Git)</p>\r\n\r\n<p>Familiarity with continuous integration and delivery patterns</p>\r\n\r\n<p>Proficient in TypeScript / JavaScript</p>\r\n\r\n<p><strong>Working style</strong></p>\r\n\r\n<p>Comfortable in a fast-paced environment and motivated by solving complex technical and business problems</p>\r\n\r\n<p>Result-oriented with the ability to prioritize and focus on ideas and features that will have significant, measurable impact as defined by your interaction with stakeholders inside and outside the company</p>\r\n\r\n<p>Ability to set and meet project objectives and milestones</p>\r\n\r\n<p>Ability to independently work on several projects in parallel</p>\r\n\r\n<p>Curious and looking forward to learn new skills and technologies</p>\r\n\r\n<p>A team player, that happily joins a multi-cultural and friendly environment</p>\r\n\r\n<p><strong>Desired Skills:</strong></p>\r\n\r\n<p>Proficiency in back end development (Node.js) or equivalent technology stacks</p>\r\n\r\n<p>Knowledge of the principles of developing applications for Cloud (e.g. AWS)</p>\r\n\r\n<p>Understanding of Machine Learning, Data Science and Big Data processing techniques and technologies</p>\r\n\r\n<p><strong>Education/ Certifications:</strong></p>\r\n\r\n<p>BSc in Computer Sciences or Computer Engineering desirable.</p>\r\n\r\n<p><strong>About Thomson Reuters Labs</strong></p>\r\n\r\n<p>With outstanding support from both the CEO and CTO, Thomson Reuters Labs is fueling data-driven innovation, developed in-house with a brilliant team of data scientists and sourced externally through partnership with game-changing startups and top academic researchers.</p>\r\n\r\n<p>The goal of the Labs is simple: find new data science, machine learning and AI opportunities; prototype them; validate them; and work with product teams to bring them to market.&nbsp; We take on a wide variety of projects, use an agile approach to create minimal viable products, and work with the business units to find a path to market or production.&nbsp; By doing this we de-risk new opportunities in terms of technical viability, data viability, and customer demand.</p>\r\n\r\n<p>At Thomson Reuters, we believe what we do matters. We are passionate about our work, inspired by the impact it has on our business and our customers. As a team, we believe in winning as one - collaborating to reach shared goals, and developing through challenging and meaningful experiences. With more than 25,000 employees in more than&nbsp;100 countries, we work flexibly across boundaries and realize innovations that help shape industries around the world. Making this happen is a dynamic, evolving process, and we count on each employee to be a catalyst in driving our performance - and their own.</p>\r\n\r\n<p>As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.</p>\r\n\r\n<p>We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.<br />\r\n<br />\r\nTo learn more about what we offer, please visit&nbsp;thomsonreuters.com/careers.<br />\r\n<br />\r\nMore information about Thomson Reuters can be found on&nbsp;thomsonreuters.com.</p>\r\n\r\n<p><strong>EIT alumni specific message: </strong>If you decide to apply, consider putting 'Milda Norkute' name in 'How you heard about this position?' field- it will work as a referral, which would help your application stand out a little and if you did get hired I’d get a small thank you from the company.</p>\r\n"
+    format: full_html
+    processed: "<p>Do you love creating innovative solutions for customers? We are currently seeking a passionate Software Engineer interested at building data-driven interfaces that drive transformation as a member of Thomson Reuters Labs in Zug. In this role, you will have significant and direct impact on our company in helping to create new information products which customers will use.</p>\n\n<p>What do we do? We experiment, build and deliver. We work with big data sets to discover what new products, services, or analysis we can create for our customers. You might be familiar with Reuters News, but you might not know that Thomson Reuters is also one of the leading sources of information for legal professionals, corporates and tax professionals. We have over 60,000 TBs worth of legal, regulatory, news and tax data.</p>\n\n<p>You will be part of a diverse, agile and interdisciplinary innovation team located in Zug. You will work closely with other engineers, designers, data scientists and stakeholders to innovate and code custom applications, data visualizations and interfaces. Incorporating UX and Design Thinking principles with agile methodology, you will produce production grade software that we can validate with customers.</p>\n\n<p>The global Thomson Reuters Labs team comes from a variety of backgrounds: finance, law, business, science and applied research. You’ll learn from and be working alongside engineers, research scientists, data scientists and designers in our sister-labs in Boston, US; Toronto/Waterloo Region, Canada; London, UK; and our Centre for AI and Cognitive Computing in Toronto, Canada.</p>\n\n<p>Using data science, statistical analytics and visualization, you will work with domain experts to rapidly prototype and develop production grade full stack applications.</p>\n\n<p>We are looking for an adaptable learner with a voracious curiosity and a continuous evolution of skills; someone who regularly gets into subjects over their head; who is comfortable with ambiguity and can creatively redirect when reaching dead ends.</p>\n\n<p>Is this you? Come join us.</p>\n\n<p><strong>Major Responsibilities / Accountabilities:</strong></p>\n\n<p>Develop innovative concepts to link end-users’ needs with data science solutions</p>\n\n<p>Create functional, useful and intuitive web applications for customers and partners</p>\n\n<p>Collaborate with data scientists and designers to deliver user interfaces and APIs</p>\n\n<p>Use, evolve and promote best practices for development</p>\n\n<p>Contribute to development of internal tooling to improve efficiency in processes</p>\n\n<p>Participate in internal and external development groups and presentations</p>\n\n<p>Evaluate emerging tools, frameworks and languages</p>\n\n<p><strong>Technical /Professional Skills &amp; Competencies:</strong></p>\n\n<p>Essential Skills &amp; Experience Required:</p>\n\n<p>Solid knowledge of React.js, Vue.js, Angular or similar application frameworks</p>\n\n<p>User Interface development based on UX research</p>\n\n<p>Experienced at building and interfacing with RESTful APIs</p>\n\n<p>Experience with version control systems (Git)</p>\n\n<p>Familiarity with continuous integration and delivery patterns</p>\n\n<p>Proficient in TypeScript / JavaScript</p>\n\n<p><strong>Working style</strong></p>\n\n<p>Comfortable in a fast-paced environment and motivated by solving complex technical and business problems</p>\n\n<p>Result-oriented with the ability to prioritize and focus on ideas and features that will have significant, measurable impact as defined by your interaction with stakeholders inside and outside the company</p>\n\n<p>Ability to set and meet project objectives and milestones</p>\n\n<p>Ability to independently work on several projects in parallel</p>\n\n<p>Curious and looking forward to learn new skills and technologies</p>\n\n<p>A team player, that happily joins a multi-cultural and friendly environment</p>\n\n<p><strong>Desired Skills:</strong></p>\n\n<p>Proficiency in back end development (Node.js) or equivalent technology stacks</p>\n\n<p>Knowledge of the principles of developing applications for Cloud (e.g. AWS)</p>\n\n<p>Understanding of Machine Learning, Data Science and Big Data processing techniques and technologies</p>\n\n<p><strong>Education/ Certifications:</strong></p>\n\n<p>BSc in Computer Sciences or Computer Engineering desirable.</p>\n\n<p><strong>About Thomson Reuters Labs</strong></p>\n\n<p>With outstanding support from both the CEO and CTO, Thomson Reuters Labs is fueling data-driven innovation, developed in-house with a brilliant team of data scientists and sourced externally through partnership with game-changing startups and top academic researchers.</p>\n\n<p>The goal of the Labs is simple: find new data science, machine learning and AI opportunities; prototype them; validate them; and work with product teams to bring them to market.\_ We take on a wide variety of projects, use an agile approach to create minimal viable products, and work with the business units to find a path to market or production.\_ By doing this we de-risk new opportunities in terms of technical viability, data viability, and customer demand.</p>\n\n<p>At Thomson Reuters, we believe what we do matters. We are passionate about our work, inspired by the impact it has on our business and our customers. As a team, we believe in winning as one - collaborating to reach shared goals, and developing through challenging and meaningful experiences. With more than 25,000 employees in more than\_100 countries, we work flexibly across boundaries and realize innovations that help shape industries around the world. Making this happen is a dynamic, evolving process, and we count on each employee to be a catalyst in driving our performance - and their own.</p>\n\n<p>As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.</p>\n\n<p>We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.<br />\n<br />\nTo learn more about what we offer, please visit\_thomsonreuters.com/careers.<br />\n<br />\nMore information about Thomson Reuters can be found on\_thomsonreuters.com.</p>\n\n<p><strong>EIT alumni specific message: </strong>If you decide to apply, consider putting 'Milda Norkute' name in 'How you heard about this position?' field- it will work as a referral, which would help your application stand out a little and if you did get hired I’d get a small thank you from the company.</p>\n"
+field_job_location:
+  -
+    value: 'Zug, Switzerland'
+    format: full_html
+    processed: 'Zug, Switzerland'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

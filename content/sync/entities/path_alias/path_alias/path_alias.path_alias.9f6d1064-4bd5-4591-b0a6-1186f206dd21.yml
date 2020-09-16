@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9f6d1064-4bd5-4591-b0a6-1186f206dd21
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/531
+alias:
+  -
+    value: /job/post-master-professional-voice-commerce
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

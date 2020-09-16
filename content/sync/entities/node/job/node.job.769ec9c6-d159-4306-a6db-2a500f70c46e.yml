@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 769ec9c6-d159-4306-a6db-2a500f70c46e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:59:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Devops Expert'
+created:
+  -
+    value: '2018-02-06T20:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T09:58:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/devops-expert
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://eficode.easycruit.com/vacancy/1913567'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Eficode
+    format: full_html
+    processed: Eficode
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>We are looking for <strong>Devops Experts</strong> with a passion for software development and test automation. Positions are available in all Eficode's locations: Helsinki, Tampere, Stockholm, Gothenburg and Copenhagen.</p>\r\n\r\n<p>Your job is to advance our customers' software production processes and thus help them to improve their competitiveness. You develop and implement novel test automation and continuous delivery solutions in different software production environments.</p>\r\n\r\n<p>Due to your versatile work assignments we appreciate extensive programming competence. When needed, you are able to solve problems, even if you aren't familiar with the programming language. This means you are someone who actively seeks answers to our customers' questions and decisively solves puzzles and challenges. In addition to that you get along with other people well.</p>\r\n\r\n<p><strong>WE EXPECT YOU TO HAVE:</strong></p>\r\n\r\n<p>- programming skills, preferably with several programming languages<br />\r\n- interest in agile methods in software development and test automation<br />\r\n- good English skills, Finnish is a plus<br />\r\n- education related to the position<br />\r\n- work experience from the field of IT consulting<br />\r\n- initiative and willingness to learn new<br />\r\n- ability to work in a team and create team spirit.</p>\r\n\r\n<p><strong>WE VALUE:</strong></p>\r\n\r\n<p>- knowledge of test automation tools (e.g. Robot Framework, Cucumber and Selenium)<br />\r\n- knowledge of CI tools (e.g. Jenkins)<br />\r\n- scripting skills and experience (e.g. Ruby, Bash, Python, Perl and Ant)<br />\r\n- deployment and environment automation tools experience (e.g. Ansible, Chef, Puppet)<br />\r\n- experience from cloud services (AWS, DigitalOcean, OpenStack etc)<br />\r\n- knowledge from virtualization tools (Vagrant, Docker, Kubernetes etc)</p>\r\n\r\n<p><strong>WE OFFER:</strong></p>\r\n\r\n<p>- interesting projects from a wide variety of application areas and clients<br />\r\n- lots of opportunities to develop your expertise together with our top notch devops teams<br />\r\n- great team spirit and the possibility to make a difference as a member of our agile and innovative organization<br />\r\n- freedom to choose your ways of working, tools etc.</p>\r\n\r\n<p>Send your application and CV already today! <a href=\"https://alumni.eitdigital.eu/users/cfiere\">Contact our member Clément</a> for <strong>recommendation</strong> before applying!</p>\r\n"
+    format: full_html
+    processed: "<p>We are looking for <strong>Devops Experts</strong> with a passion for software development and test automation. Positions are available in all Eficode's locations: Helsinki, Tampere, Stockholm, Gothenburg and Copenhagen.</p>\n\n<p>Your job is to advance our customers' software production processes and thus help them to improve their competitiveness. You develop and implement novel test automation and continuous delivery solutions in different software production environments.</p>\n\n<p>Due to your versatile work assignments we appreciate extensive programming competence. When needed, you are able to solve problems, even if you aren't familiar with the programming language. This means you are someone who actively seeks answers to our customers' questions and decisively solves puzzles and challenges. In addition to that you get along with other people well.</p>\n\n<p><strong>WE EXPECT YOU TO HAVE:</strong></p>\n\n<p>- programming skills, preferably with several programming languages<br />\n- interest in agile methods in software development and test automation<br />\n- good English skills, Finnish is a plus<br />\n- education related to the position<br />\n- work experience from the field of IT consulting<br />\n- initiative and willingness to learn new<br />\n- ability to work in a team and create team spirit.</p>\n\n<p><strong>WE VALUE:</strong></p>\n\n<p>- knowledge of test automation tools (e.g. Robot Framework, Cucumber and Selenium)<br />\n- knowledge of CI tools (e.g. Jenkins)<br />\n- scripting skills and experience (e.g. Ruby, Bash, Python, Perl and Ant)<br />\n- deployment and environment automation tools experience (e.g. Ansible, Chef, Puppet)<br />\n- experience from cloud services (AWS, DigitalOcean, OpenStack etc)<br />\n- knowledge from virtualization tools (Vagrant, Docker, Kubernetes etc)</p>\n\n<p><strong>WE OFFER:</strong></p>\n\n<p>- interesting projects from a wide variety of application areas and clients<br />\n- lots of opportunities to develop your expertise together with our top notch devops teams<br />\n- great team spirit and the possibility to make a difference as a member of our agile and innovative organization<br />\n- freedom to choose your ways of working, tools etc.</p>\n\n<p>Send your application and CV already today! <a href=\"https://alumni.eitdigital.eu/users/cfiere\">Contact our member Clément</a> for <strong>recommendation</strong> before applying!</p>\n"
+field_job_location:
+  -
+    value: 'Helsinki, Tampere, Stockholm, Gothenburg and Copenhagen'
+    format: full_html
+    processed: 'Helsinki, Tampere, Stockholm, Gothenburg and Copenhagen'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/cfiere'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

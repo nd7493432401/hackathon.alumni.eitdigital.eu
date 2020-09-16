@@ -1,0 +1,25 @@
+uuid: 768dadd9-c006-4a79-a8be-2dd72cb7d3d2
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.full
+    - core.entity_view_mode.media.media_library
+    - media.type.image
+  module:
+    - entity_embed
+    - media
+label: Media
+id: media
+type_id: entity
+type_settings:
+  entity_type: media
+  bundles:
+    - image
+  display_plugins:
+    - 'view_mode:media.full'
+    - 'view_mode:media.media_library'
+  entity_browser: ''
+  entity_browser_settings: {  }
+icon: null
+icon_uuid: null

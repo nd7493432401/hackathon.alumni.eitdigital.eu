@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 9225595f-3ae5-4c38-a2b4-e021b40bef61
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T08:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Alumni Meetup Berlin w/ Distribusion'
+created:
+  -
+    value: '2016-10-30T13:31:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T08:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/alumni-meetup-berlin-w-distribusion
+body: {  }
+field_event_:
+  -
+    value: 'TU Berlin Marchgebäude'
+    format: full_html
+    processed: 'TU Berlin Marchgebäude'
+field_event_date:
+  -
+    value: '2016-11-03T16:00:00+01:00'
+    end_value: '2016-11-03T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>Dear all,</p>\r\n\r\n<p>We would like to invite you to our Professional Networking event we are organizing in Berlin.</p>\r\n\r\n<p><strong>Agenda:</strong></p>\r\n\r\n<p>1. Overview of the Community, future events and info about the upcoming EIT Alumni meetup and EIT Alumni Startup Days<br />\r\n(Francesco &amp; Borce - EIT Digital Alumni Board)<br />\r\n18:00 → 18:15</p>\r\n\r\n<p>2. Introduction to the EIT Digital Alumni Local Representatives for Berlin<br />\r\n(Reaz &amp; Josip)<br />\r\n18:15 → 18:30</p>\r\n\r\n<p>3. Guest presentation by Distribusion, a scale-up supported by EIT Digital which raised 6M Euros. Introduction to their story and milestones + open discussion / Q&amp;A<br />\r\n(Pierre Becher, Head of Marketing)<br />\r\n18:30 → 19:00</p>\r\n\r\n<p>4. Networking &amp; drinks<br />\r\n19:00 → 20:00</p>\r\n\r\n<p>The event will be held at the MAR Building, Room 6.004, with refreshments provided :)</p>\r\n\r\n<p>RSVP<br />\r\nPlease confirm your attendance by Thursday 12:00 by filling <a href=\"https://goo.gl/forms/EqrqokhbYVruYH4K3\">this form</a>. Join <a href=\"https://www.facebook.com/events/328664727498071/\">our Facebook event here</a> and spread the word!</p>\r\n\r\n<p>P.S. You can view the <a href=\"http://bit.ly/2fBVWaa\">pictures of the event here</a>.<br />\r\n&nbsp;</p>\r\n\r\n<p>See you there!</p>\r\n\r\n<p>Kind regards,<br />\r\nThe EIT Digital Alumni Board</p>\r\n"
+    format: full_html
+    processed: "<p>Dear all,</p>\n\n<p>We would like to invite you to our Professional Networking event we are organizing in Berlin.</p>\n\n<p><strong>Agenda:</strong></p>\n\n<p>1. Overview of the Community, future events and info about the upcoming EIT Alumni meetup and EIT Alumni Startup Days<br />\n(Francesco &amp; Borce - EIT Digital Alumni Board)<br />\n18:00 → 18:15</p>\n\n<p>2. Introduction to the EIT Digital Alumni Local Representatives for Berlin<br />\n(Reaz &amp; Josip)<br />\n18:15 → 18:30</p>\n\n<p>3. Guest presentation by Distribusion, a scale-up supported by EIT Digital which raised 6M Euros. Introduction to their story and milestones + open discussion / Q&amp;A<br />\n(Pierre Becher, Head of Marketing)<br />\n18:30 → 19:00</p>\n\n<p>4. Networking &amp; drinks<br />\n19:00 → 20:00</p>\n\n<p>The event will be held at the MAR Building, Room 6.004, with refreshments provided :)</p>\n\n<p>RSVP<br />\nPlease confirm your attendance by Thursday 12:00 by filling <a href=\"https://goo.gl/forms/EqrqokhbYVruYH4K3\">this form</a>. Join <a href=\"https://www.facebook.com/events/328664727498071/\">our Facebook event here</a> and spread the word!</p>\n\n<p>P.S. You can view the <a href=\"http://bit.ly/2fBVWaa\">pictures of the event here</a>.<br />\n\_</p>\n\n<p>See you there!</p>\n\n<p>Kind regards,<br />\nThe EIT Digital Alumni Board</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 064bb68b-d269-4400-aaa7-3b21b7eee227
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 064bb68b-d269-4400-aaa7-3b21b7eee227
+field_event_introduction:
+  -
+    value: "<p>We would like to invite you to our Professional Networking event we are organizing in Berlin.</p>\r\n"
+    format: full_html
+    processed: "<p>We would like to invite you to our Professional Networking event we are organizing in Berlin.</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.064bb68b-d269-4400-aaa7-3b21b7eee227

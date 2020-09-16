@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1325209d-100b-48d2-ad0c-e8436ead852c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/346
+alias:
+  -
+    value: /job/qa-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

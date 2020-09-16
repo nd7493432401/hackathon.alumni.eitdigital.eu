@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: 1259cdf2-1354-4562-8f9c-a5fd3dab7dbf
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: tracks_master_school_
+    target_type: taxonomy_vocabulary
+    target_uuid: 3e7611c7-0cb6-42ca-9a5e-f504b74c7734
+revision_created:
+  -
+    value: '2020-03-24T10:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Human Computer Interaction and Design (HCID)'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /tracks-master-school/human-computer-interaction-and-design-hcid
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

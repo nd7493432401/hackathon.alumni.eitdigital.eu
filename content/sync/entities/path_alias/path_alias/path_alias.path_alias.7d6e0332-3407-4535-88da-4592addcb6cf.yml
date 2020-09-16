@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7d6e0332-3407-4535-88da-4592addcb6cf
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/384
+alias:
+  -
+    value: /job/data-scientist-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

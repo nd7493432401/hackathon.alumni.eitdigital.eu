@@ -1,0 +1,21 @@
+uuid: b37aee8c-3416-4f47-8fc4-9ac29b4e5c20
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_employee_role
+    - profile.type.eit_digital_employee
+  module:
+    - text
+id: profile.eit_digital_employee.field_employee_role
+field_name: field_employee_role
+entity_type: profile
+bundle: eit_digital_employee
+label: Role
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

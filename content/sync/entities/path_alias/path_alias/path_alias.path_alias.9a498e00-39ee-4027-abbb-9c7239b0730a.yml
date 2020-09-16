@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9a498e00-39ee-4027-abbb-9c7239b0730a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/112
+alias:
+  -
+    value: /article/how-make-most-out-tech-conferences-imagilabs-playbook
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

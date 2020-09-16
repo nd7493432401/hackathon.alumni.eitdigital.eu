@@ -1,0 +1,10 @@
+uuid: 4bcfb6f9-284f-4499-955f-9760ef129a23
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.friend
+label: 'Friend Register'
+targetEntityType: user
+cache: true

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 53922c4d-bcb5-4768-be7e-49dc34c460fd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/278
+alias:
+  -
+    value: /event/challenges-iot-and-blockchain-europe
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

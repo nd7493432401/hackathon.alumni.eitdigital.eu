@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 75fa15eb-ae1c-43ae-a76c-225976eaf7b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/435
+alias:
+  -
+    value: /job/ai-scientist-computer-vision
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

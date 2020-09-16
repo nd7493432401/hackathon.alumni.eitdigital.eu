@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d45eb38e-a51d-4a69-969e-09473bfa3dad
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/352
+alias:
+  -
+    value: /job/digital-data-governance-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

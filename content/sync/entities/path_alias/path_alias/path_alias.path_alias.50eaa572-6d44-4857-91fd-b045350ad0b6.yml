@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 50eaa572-6d44-4857-91fd-b045350ad0b6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/133
+alias:
+  -
+    value: /candidate/keira-nicole-soutar-aka-kiki
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

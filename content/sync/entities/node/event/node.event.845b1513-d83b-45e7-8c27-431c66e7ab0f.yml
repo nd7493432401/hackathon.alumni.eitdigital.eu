@@ -1,0 +1,106 @@
+uuid:
+  -
+    value: 845b1513-d83b-45e7-8c27-431c66e7ab0f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:46:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Blockchain security: trust redefined'
+created:
+  -
+    value: '2018-01-23T15:53:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:46:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/blockchain-security-trust-redefined
+body: {  }
+field_event_:
+  -
+    value: 'Váci út 99., Budapest'
+    format: full_html
+    processed: 'Váci út 99., Budapest'
+field_event_date:
+  -
+    value: '2018-02-27T16:00:00+01:00'
+    end_value: '2018-02-27T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>We are cooperating with&nbsp;<a href=\"http://blockchaincc.com/\">Blockchain Competence Center</a>&nbsp;to organize a series of meetups in Budapest on the topic of blockchain and cryptocurrencies.</p>\r\n\r\n<p><a href=\"http://bit.ly/block-meetup\">In this meetup</a> we will deep dive into Blockchain security. If you are a blockchain geek with a security mindset, interested in how blockchain-based technologies will redefine trust, then you should definitely join this meetup to learn about wallet and smart contract security, and much more.<br />\r\n<br />\r\n<strong>1st talk - Dániel József (20 mins)</strong>: You are your private keys! Are users aware of the importance of protecting their private keys? In this talk we will learn about how to store securely our private keys and what are the pitfalls of managing a (multisig) wallet. We will also cover backup and encrypted wallets.<br />\r\n<br />\r\n<strong>2nd talk - our Alumnus&nbsp;<a href=\"https://alumni.eitdigital.eu/users/seresistvanandras\">István András Seres</a> (20 mins)</strong>: Hacking Ethereum smart contracts. This presentation will give us a comprehensive survey of common vulnerabilites and how to exploit these. Furthermore we will demonstrate some great tools which help smart contract developers to debug their code (formal verification tools).<br />\r\n<br />\r\n<strong>3rd talk - György Balázsi (20 mins)</strong>: Can we do better than Solidity? Can we have a secure-by-default language for smart contracts? In our last talk we will introduce and demonstrate the potential of the Ivy smart contract language.<br />\r\n<br />\r\nAfter the talks we would like to hear your stories and experience about buggy contracts and lost coins! Looking forward to meeting you all!</p>\r\n\r\n<p><a href=\"http://bit.ly/block-meetup\">REGISTER HERE</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>We are cooperating with\_<a href=\"http://blockchaincc.com/\">Blockchain Competence Center</a>\_to organize a series of meetups in Budapest on the topic of blockchain and cryptocurrencies.</p>\n\n<p><a href=\"http://bit.ly/block-meetup\">In this meetup</a> we will deep dive into Blockchain security. If you are a blockchain geek with a security mindset, interested in how blockchain-based technologies will redefine trust, then you should definitely join this meetup to learn about wallet and smart contract security, and much more.<br />\n<br />\n<strong>1st talk - Dániel József (20 mins)</strong>: You are your private keys! Are users aware of the importance of protecting their private keys? In this talk we will learn about how to store securely our private keys and what are the pitfalls of managing a (multisig) wallet. We will also cover backup and encrypted wallets.<br />\n<br />\n<strong>2nd talk - our Alumnus\_<a href=\"https://alumni.eitdigital.eu/users/seresistvanandras\">István András Seres</a> (20 mins)</strong>: Hacking Ethereum smart contracts. This presentation will give us a comprehensive survey of common vulnerabilites and how to exploit these. Furthermore we will demonstrate some great tools which help smart contract developers to debug their code (formal verification tools).<br />\n<br />\n<strong>3rd talk - György Balázsi (20 mins)</strong>: Can we do better than Solidity? Can we have a secure-by-default language for smart contracts? In our last talk we will introduce and demonstrate the potential of the Ivy smart contract language.<br />\n<br />\nAfter the talks we would like to hear your stories and experience about buggy contracts and lost coins! Looking forward to meeting you all!</p>\n\n<p><a href=\"http://bit.ly/block-meetup\">REGISTER HERE</a>!</p>\n"
+field_event_duration:
+  -
+    value: '18:00 - 200'
+    format: basic_html
+    processed: '18:00 - 200'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: c9924263-08b5-4d97-8d29-ae063d224ed2
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: c9924263-08b5-4d97-8d29-ae063d224ed2
+field_event_introduction:
+  -
+    value: "<p>In this meetup we will deep dive into Blockchain security</p>\r\n"
+    format: full_html
+    processed: "<p>In this meetup we will deep dive into Blockchain security</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map:
+  -
+    lat: 47.5403409
+    lng: 19.0709868
+    data: {  }
+    value: '47.5403409, 19.0709868'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.c9924263-08b5-4d97-8d29-ae063d224ed2
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

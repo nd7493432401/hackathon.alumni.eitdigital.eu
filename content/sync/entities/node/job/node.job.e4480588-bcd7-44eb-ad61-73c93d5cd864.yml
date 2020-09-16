@@ -1,0 +1,80 @@
+uuid:
+  -
+    value: e4480588-bcd7-44eb-ad61-73c93d5cd864
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'INNOVATION BUSINESS DEVELOPMENT MANAGER INTERN'
+created:
+  -
+    value: '2019-09-30T16:28:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:05:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/innovation-business-development-manager-intern
+body: {  }
+field_apply_link: {  }
+field_company:
+  -
+    value: Ingenico
+    format: full_html
+    processed: Ingenico
+field_expiration_date:
+  -
+    value: '2020-01-01T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><u><strong>Company : Ingenico Group, Global Leader in Seamless Payment</strong></u></p>\r\n\r\n<p>Ingenico Group has led the payment industry for more than 30 years to become the global leader in seamless payment. We provide smart, trusted and secure solutions to empower commerce across all channels: in-store, online and on mobile. Today, with our products and services, merchants can accept any means of payment, from credit cards to alternative payment methods, be it in store, on line or on mobile and allow consumers to have a seamless payment experience. Payment is the universal and decisive element that connects merchants and consumers in the act of making a purchase. Today, consumers want a fast, simple and secure purchasing experience whether they are in store, at home or on the street, whatever the device or technology. We are the trusted partner for merchants eager to make payments that fulfill these criteria to the highest standards. All in all, we reduce the complexity of payments for merchants across all channels, and we provide more payment alternatives that drive new sales opportunities whilst enhancing consumer experience. <a href=\"http://www.ingenico.com\">http://www.ingenico.com</a></p>\r\n\r\n<p><u><strong>Requester</strong></u></p>\r\n\r\n<p>Entity:</p>\r\n\r\n<p>Ingenico Labs, Innovation cell of the Ingenico Group</p>\r\n\r\n<p>Expected Started Date:</p>\r\n\r\n<p>01/01/2020</p>\r\n\r\n<p>Duration:</p>\r\n\r\n<p>6 months minimum</p>\r\n\r\n<p>Position Description</p>\r\n\r\n<p>Title</p>\r\n\r\n<p>Voice Commerce - Innovation Business Development Manager - Intern</p>\r\n\r\n<p>Description</p>\r\n\r\n<p>THE PROJECT</p>\r\n\r\n<p>Voice is gaining end-users’ interest with 20% of Google mobile search queries made by voice and 50% estimated in 2020. It pushes merchants to invest: 47% of ecommerce decision makers already invested in voice technology. Therefore Ingenico plans to launch a Voice Commerce solution for merchants. Ingenico’s solution will allow a user to interact with brands on a smart speaker and directly pay using his voice. For a merchant it is a new sales channel that reinforces customer relationship. Voice commerce addresses some social challenges:</p>\r\n\r\n<p>- Immediacy, people want to order the good product anytime via omni channel experience.</p>\r\n\r\n<p>- Conversational commerce, users interact better with their brands.</p>\r\n\r\n<p>- Personalization, users are willing to share personal information to receive adapted services Ingenico Labs also explores other channels for Voice Commerce: Smart Display, TV, In car, …</p>\r\n\r\n<p>THE TEAM</p>\r\n\r\n<p>The position is opened in the , the innovation department of the Ingenico Group. The Ingenico Labs is meant to find innovative payment solutions to answer problems that merchants and retailers are facing or will face in the next 3-5 years.</p>\r\n\r\n<p>THE JOB</p>\r\n\r\n<p>We are looking for an energetic and driven business professional to:</p>\r\n\r\n<p>• Participate in ideation phase, design of the solution, user experimentation, value proposition and Go-To-Market definition</p>\r\n\r\n<p>• Find appropriate partners to launch new solutions (open innovation)</p>\r\n\r\n<p>• Negotiate pilot and commercial agreements</p>\r\n\r\n<p>• Define business models for new solutions</p>\r\n\r\n<p>• Identify and sign customers to launch pilots</p>\r\n\r\n<p>• Participate in Market and Ecosystem Watch</p>\r\n\r\n<p>• Pitch and demo products, solutions and concepts</p>\r\n\r\n<p>We need someone who can achieve the exceptional by working collaboratively, who have the courage to think out of the box, to question the norm, to risk new ways of working and the ability to see the world the way merchants and consumers do. The successful candidate will work with international / global partners and clients and should be available for travelling (5-10%).</p>\r\n\r\n<p>THE IDEAL CANDIDATE</p>\r\n\r\n<p>● Business School or Engineering School background</p>\r\n\r\n<p>● Familiar with Innovation Techniques</p>\r\n\r\n<p>● Previous experience in Marketing or Business Development</p>\r\n\r\n<p>● Great relationship capabilities</p>\r\n\r\n<p>● Great collaboration skills</p>\r\n\r\n<p>● Driven and determined</p>\r\n\r\n<p>● Positive and inspiring</p>\r\n\r\n<p>● Fascinated by new technologies</p>\r\n\r\n<p><u><strong>Criteria</strong></u></p>\r\n\r\n<p>Degree</p>\r\n\r\n<p>2 - Bac+5 University, Business School, Engineering School</p>\r\n\r\n<p>Languages</p>\r\n\r\n<p>English (Fluent)</p>\r\n\r\n<p>French is a plus</p>\r\n\r\n<p>Any additional language is a plus</p>\r\n"
+    format: full_html
+    processed: "<p><u><strong>Company : Ingenico Group, Global Leader in Seamless Payment</strong></u></p>\n\n<p>Ingenico Group has led the payment industry for more than 30 years to become the global leader in seamless payment. We provide smart, trusted and secure solutions to empower commerce across all channels: in-store, online and on mobile. Today, with our products and services, merchants can accept any means of payment, from credit cards to alternative payment methods, be it in store, on line or on mobile and allow consumers to have a seamless payment experience. Payment is the universal and decisive element that connects merchants and consumers in the act of making a purchase. Today, consumers want a fast, simple and secure purchasing experience whether they are in store, at home or on the street, whatever the device or technology. We are the trusted partner for merchants eager to make payments that fulfill these criteria to the highest standards. All in all, we reduce the complexity of payments for merchants across all channels, and we provide more payment alternatives that drive new sales opportunities whilst enhancing consumer experience. <a href=\"http://www.ingenico.com\">http://www.ingenico.com</a></p>\n\n<p><u><strong>Requester</strong></u></p>\n\n<p>Entity:</p>\n\n<p>Ingenico Labs, Innovation cell of the Ingenico Group</p>\n\n<p>Expected Started Date:</p>\n\n<p>01/01/2020</p>\n\n<p>Duration:</p>\n\n<p>6 months minimum</p>\n\n<p>Position Description</p>\n\n<p>Title</p>\n\n<p>Voice Commerce - Innovation Business Development Manager - Intern</p>\n\n<p>Description</p>\n\n<p>THE PROJECT</p>\n\n<p>Voice is gaining end-users’ interest with 20% of Google mobile search queries made by voice and 50% estimated in 2020. It pushes merchants to invest: 47% of ecommerce decision makers already invested in voice technology. Therefore Ingenico plans to launch a Voice Commerce solution for merchants. Ingenico’s solution will allow a user to interact with brands on a smart speaker and directly pay using his voice. For a merchant it is a new sales channel that reinforces customer relationship. Voice commerce addresses some social challenges:</p>\n\n<p>- Immediacy, people want to order the good product anytime via omni channel experience.</p>\n\n<p>- Conversational commerce, users interact better with their brands.</p>\n\n<p>- Personalization, users are willing to share personal information to receive adapted services Ingenico Labs also explores other channels for Voice Commerce: Smart Display, TV, In car, …</p>\n\n<p>THE TEAM</p>\n\n<p>The position is opened in the , the innovation department of the Ingenico Group. The Ingenico Labs is meant to find innovative payment solutions to answer problems that merchants and retailers are facing or will face in the next 3-5 years.</p>\n\n<p>THE JOB</p>\n\n<p>We are looking for an energetic and driven business professional to:</p>\n\n<p>• Participate in ideation phase, design of the solution, user experimentation, value proposition and Go-To-Market definition</p>\n\n<p>• Find appropriate partners to launch new solutions (open innovation)</p>\n\n<p>• Negotiate pilot and commercial agreements</p>\n\n<p>• Define business models for new solutions</p>\n\n<p>• Identify and sign customers to launch pilots</p>\n\n<p>• Participate in Market and Ecosystem Watch</p>\n\n<p>• Pitch and demo products, solutions and concepts</p>\n\n<p>We need someone who can achieve the exceptional by working collaboratively, who have the courage to think out of the box, to question the norm, to risk new ways of working and the ability to see the world the way merchants and consumers do. The successful candidate will work with international / global partners and clients and should be available for travelling (5-10%).</p>\n\n<p>THE IDEAL CANDIDATE</p>\n\n<p>● Business School or Engineering School background</p>\n\n<p>● Familiar with Innovation Techniques</p>\n\n<p>● Previous experience in Marketing or Business Development</p>\n\n<p>● Great relationship capabilities</p>\n\n<p>● Great collaboration skills</p>\n\n<p>● Driven and determined</p>\n\n<p>● Positive and inspiring</p>\n\n<p>● Fascinated by new technologies</p>\n\n<p><u><strong>Criteria</strong></u></p>\n\n<p>Degree</p>\n\n<p>2 - Bac+5 University, Business School, Engineering School</p>\n\n<p>Languages</p>\n\n<p>English (Fluent)</p>\n\n<p>French is a plus</p>\n\n<p>Any additional language is a plus</p>\n"
+field_job_location:
+  -
+    value: Paris
+    format: full_html
+    processed: Paris
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

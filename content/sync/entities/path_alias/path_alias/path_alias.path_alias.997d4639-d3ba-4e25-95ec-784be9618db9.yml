@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 997d4639-d3ba-4e25-95ec-784be9618db9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/49
+alias:
+  -
+    value: /candidate-type/outreach-partnerships-officer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

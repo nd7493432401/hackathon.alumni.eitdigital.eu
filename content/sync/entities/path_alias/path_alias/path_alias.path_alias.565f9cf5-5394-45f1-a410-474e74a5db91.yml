@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 565f9cf5-5394-45f1-a410-474e74a5db91
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/322
+alias:
+  -
+    value: /job/post-master-positions-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

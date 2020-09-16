@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d056686a-1d10-4aa0-8d00-ad6a0aef33f3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/446
+alias:
+  -
+    value: /job/b2b-business-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

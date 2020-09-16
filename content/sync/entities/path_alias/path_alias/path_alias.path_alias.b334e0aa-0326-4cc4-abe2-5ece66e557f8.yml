@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b334e0aa-0326-4cc4-abe2-5ece66e557f8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/338
+alias:
+  -
+    value: /job/phd-student
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

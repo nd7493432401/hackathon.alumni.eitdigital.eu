@@ -1,0 +1,29 @@
+uuid: 7dd1d118-9cbc-41ed-856f-1a51df41e147
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_entry_year
+    - profile.type.eit_digital_doctoral_school
+    - taxonomy.vocabulary.entry_y
+id: profile.eit_digital_doctoral_school.field_entry_year
+field_name: field_entry_year
+entity_type: profile
+bundle: eit_digital_doctoral_school
+label: 'Entry Year'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      entry_y: entry_y
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,21 @@
+disabled: false
+field_template: false
+ft-default: default
+ft-show-colon: false
+classes:
+  region:
+    - 'col-xs-12 teaser-wrapper'
+    - 'col-xs-12 col-sm-8'
+    - 'col-xs-12 col-sm-4'
+    - 'col-xs-12 col-sm-9'
+    - 'col-xs-12 col-sm-3'
+    - 'col-xs-6 col-sm-4'
+    - 'col-xs-12 col-sm-6 col-md-4'
+    - 'col-xs-12 col-sm-6'
+    - col-xs-12
+    - 'col-xs-12 col-xs-offset-0 col-md-8 col-md-offset-2'
+    - 'col-sm-12 job-call-to-action'
+  field: {  }
+use_field_names: true
+_core:
+  default_config_hash: xfB0qOeoAomOThclNNokdKTrVwXLcXz13SU3-4a5-FY

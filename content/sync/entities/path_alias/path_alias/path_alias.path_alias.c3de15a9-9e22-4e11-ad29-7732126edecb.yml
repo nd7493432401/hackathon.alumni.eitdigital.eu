@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c3de15a9-9e22-4e11-ad29-7732126edecb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/10
+alias:
+  -
+    value: /event-type/talkdiscussion-forum
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

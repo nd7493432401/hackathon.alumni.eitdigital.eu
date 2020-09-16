@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 04cafabc-fce0-4c74-b82d-8b0673595b3e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/631
+alias:
+  -
+    value: /legal-notice
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

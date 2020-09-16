@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 618299aa-0ef3-44c4-9569-d6d4e5345b9d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/433
+alias:
+  -
+    value: /job/python-developerdata-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

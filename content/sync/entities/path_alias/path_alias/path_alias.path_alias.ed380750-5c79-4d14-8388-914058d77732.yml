@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ed380750-5c79-4d14-8388-914058d77732
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/368
+alias:
+  -
+    value: /job/senior-managerdirector-penetration-testing-vulnerability-management
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

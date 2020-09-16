@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d8b31673-0d7a-4b5a-8b8f-7f28c99b3657
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/369
+alias:
+  -
+    value: /job/ux-design-research-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

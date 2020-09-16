@@ -1,0 +1,21 @@
+uuid: 42bccc61-58b4-475e-86b8-5dde95c106ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_professional_school_course
+    - profile.type.eit_digital_professional_school
+  module:
+    - text
+id: profile.eit_digital_professional_school.field_professional_school_course
+field_name: field_professional_school_course
+entity_type: profile
+bundle: eit_digital_professional_school
+label: 'Professional School Course Attended'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

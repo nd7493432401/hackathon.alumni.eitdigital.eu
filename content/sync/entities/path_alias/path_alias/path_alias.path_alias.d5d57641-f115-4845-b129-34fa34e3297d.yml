@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d5d57641-f115-4845-b129-34fa34e3297d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/109
+alias:
+  -
+    value: /article/startup-contest-2019-results-are
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

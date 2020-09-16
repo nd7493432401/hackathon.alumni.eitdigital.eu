@@ -1,0 +1,45 @@
+uuid:
+  -
+    value: 77f2312b-e8ed-48c8-80c2-e14d6ebc1bd3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: projects
+    target_type: paragraphs_type
+    target_uuid: 2d336322-fcf5-498a-a55e-7f9edf35436b
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-06-25T14:20:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '56'
+parent_type:
+  -
+    value: user
+parent_field_name:
+  -
+    value: field_projects
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+field_project_description:
+  -
+    value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum interdum aliquet. Quisque vehicula tortor vitae arcu pellentesque, in laoreet lorem ultrices. Phasellus dapibus finibus purus quis efficitur. Pellentesque nibh orci, mollis et urna id, feugiat hendrerit nunc. Integer porttitor dapibus ante, ut condimentum ante sagittis eleifend. Integer hendrerit at dolor vel commodo.'
+field_project_title:
+  -
+    value: Project
+_content_sync:
+  entity_type: paragraph
+  entity_dependencies: {  }

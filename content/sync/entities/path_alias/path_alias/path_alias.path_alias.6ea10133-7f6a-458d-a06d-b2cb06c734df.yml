@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6ea10133-7f6a-458d-a06d-b2cb06c734df
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/600
+alias:
+  -
+    value: /job/sziget-project
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

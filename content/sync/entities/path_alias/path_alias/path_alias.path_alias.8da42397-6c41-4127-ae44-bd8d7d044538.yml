@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8da42397-6c41-4127-ae44-bd8d7d044538
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/347
+alias:
+  -
+    value: /job/senior-consultant-penetration-testing-vulnerability-management
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

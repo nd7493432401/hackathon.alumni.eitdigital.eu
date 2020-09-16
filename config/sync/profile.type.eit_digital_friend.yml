@@ -1,0 +1,13 @@
+uuid: 2de13dd4-d439-4254-b10d-f5f3ac5483dc
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_friend
+label: 'EIT Digital Friend'
+display_label: 'EIT Digital Friend'
+multiple: false
+registration: true
+roles:
+  friend_member: friend_member
+allow_revisions: false
+new_revision: false

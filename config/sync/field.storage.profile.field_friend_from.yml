@@ -1,0 +1,20 @@
+uuid: e6287b18-cf20-4e4d-a89e-8b2e6958c2e0
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - taxonomy
+id: profile.field_friend_from
+field_name: field_friend_from
+entity_type: profile
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

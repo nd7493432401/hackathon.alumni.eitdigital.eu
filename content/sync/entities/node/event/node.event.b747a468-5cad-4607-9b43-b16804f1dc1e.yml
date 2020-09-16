@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: b747a468-5cad-4607-9b43-b16804f1dc1e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:56:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Extraordinary Board Elections - December 2019'
+created:
+  -
+    value: '2019-11-19T21:37:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:56:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/extraordinary-board-elections-december-2019
+body: {  }
+field_event_:
+  -
+    value: Online
+    format: full_html
+    processed: Online
+field_event_date:
+  -
+    value: '2019-12-01T23:30:00+01:00'
+    end_value: '2019-12-08T23:30:00+01:00'
+field_event_description:
+  -
+    value: "<p>Cast a vote for <a href=\"https://alumni.eitdigital.eu/candidates\" target=\"_blank\">your favorite candidate</a>&nbsp;to each of the following <a href=\"https://alumni.eitdigital.eu/article/extraordinary-board-elections-december-2019\" target=\"_blank\">open positions</a> on the EIT Digital Alumni Board 2019-2021:</p>\r\n\r\n<ul>\r\n\t<li>Outreach &amp; Partnerships Officer</li>\r\n\t<li>Technology Officer</li>\r\n\t<li>Treasurer</li>\r\n</ul>\r\n\r\n<p>In order to vote, you need to be registered as a Full&nbsp;Alumni member in our website.<br />\r\n&nbsp;</p>\r\n\r\n<p><strong><a href=\"https://alumni.eitdigital.eu/article/extraordinary-board-elections-december-2019\" target=\"_blank\">DESCRIPTION OF THE OPEN POSITIONS</a></strong><br />\r\n<a href=\"https://alumni.eitdigital.eu/candidates\" target=\"_blank\"><strong>LIST OF CANDIDATES</strong></a></p>\r\n\r\n<p><strong>(Voting has ended)</strong></p>\r\n"
+    format: full_html
+    processed: "<p>Cast a vote for <a href=\"https://alumni.eitdigital.eu/candidates\" target=\"_blank\">your favorite candidate</a>\_to each of the following <a href=\"https://alumni.eitdigital.eu/article/extraordinary-board-elections-december-2019\" target=\"_blank\">open positions</a> on the EIT Digital Alumni Board 2019-2021:</p>\n\n<ul>\n\t<li>Outreach &amp; Partnerships Officer</li>\n\t<li>Technology Officer</li>\n\t<li>Treasurer</li>\n</ul>\n\n<p>In order to vote, you need to be registered as a Full\_Alumni member in our website.<br />\n\_</p>\n\n<p><strong><a href=\"https://alumni.eitdigital.eu/article/extraordinary-board-elections-december-2019\" target=\"_blank\">DESCRIPTION OF THE OPEN POSITIONS</a></strong><br />\n<a href=\"https://alumni.eitdigital.eu/candidates\" target=\"_blank\"><strong>LIST OF CANDIDATES</strong></a></p>\n\n<p><strong>(Voting has ended)</strong></p>\n"
+field_event_duration:
+  -
+    value: 'All week'
+    format: full_html
+    processed: 'All week'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 456b4352-9ed7-40a6-8f20-ce60d9b91e65
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 456b4352-9ed7-40a6-8f20-ce60d9b91e65
+field_event_introduction:
+  -
+    value: "<p>Online voting for 2019-2021 Alumni Board members</p>\r\n"
+    format: full_html
+    processed: "<p>Online voting for 2019-2021 Alumni Board members</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 59a7e930-3bce-4f72-8fc3-60ed2afcf7cb
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.456b4352-9ed7-40a6-8f20-ce60d9b91e65
+    taxonomy_term:
+      - taxonomy_term.event_type.59a7e930-3bce-4f72-8fc3-60ed2afcf7cb

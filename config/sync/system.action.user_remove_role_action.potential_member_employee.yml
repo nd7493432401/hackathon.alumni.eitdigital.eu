@@ -1,0 +1,14 @@
+uuid: e3768c4a-fb8a-4d7b-b716-adb95220bee4
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_employee
+  module:
+    - user
+id: user_remove_role_action.potential_member_employee
+label: 'Remove the Potential Member (Employee) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: potential_member_employee

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 6b2c0348-79f9-4619-8a15-57bcd851e137
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Database Engineer'
+created:
+  -
+    value: '2019-04-16T11:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:46:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/database-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://landing.jobs/jobs/database-engineer/apply'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: N26
+    format: full_html
+    processed: N26
+field_expiration_date:
+  -
+    value: '2019-05-31T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<section>\r\n<p><strong>N26</strong>&nbsp;is Europe’s first Mobile Bank with a full European banking license. We have 2.3 million customers across 24 markets. Our team of over 700 employees in 3 locations is concentrated on reinventing the banking experience for the digital generation. Valentin Stalf and Maximilian Tayenthal founded N26 in 2013 and launched the initial product in early 2015. Since January 2015, N26 has been available for Android, iOS, and desktop. N26 has raised more than $500 million from investors including Insight Venture Partners, GIC, Tencent, Allianz X, Peter Thiel’s Valar Ventures, Li Ka-Shing’s Horizons Ventures, Earlybird Venture Capital, Greyhound Capital, Battery Ventures, in addition to members of the Zalando management board, and Redalpine Ventures.</p>\r\n\r\n<h2><strong>Your Role</strong></h2>\r\n\r\n<ul>\r\n\t<li>Assisting Back-end teams with everything related to relational (and also NoSQL) databases: design, maintenance, migrations, administration, configuration, etc.</li>\r\n\t<li>Taking part in efforts to scale and improve the N26 Data Warehouse.</li>\r\n\t<li>Educating developers and engineers about best practices in clean database design.</li>\r\n\t<li>Performing audits of existing databases, figuring out possible improvements and ways to implement them efficiently.</li>\r\n</ul>\r\n</section>\r\n\r\n<section>\r\n<h2>Main requirements</h2>\r\n\r\n<ul>\r\n\t<li>Exceptional knowledge of PostgreSQL and its administration (experience with MySQL is a plus).</li>\r\n\t<li>Fluency in at least one scripting language (preferably Python).</li>\r\n\t<li>Knowledge of NoSQL databases (DynamoDB, Couchbase, Cassandra, MongoDB, etc.) is a plus.</li>\r\n\t<li>Detective-level attention to detail and self-discipline that others would admire.</li>\r\n\t<li>Language skills: English full professional proficiency</li>\r\n\t<li>Excited to work with cutting-edge technology, take chances, experiment and discover new and more efficient ways to get things done</li>\r\n</ul>\r\n</section>\r\n\r\n<section>\r\n<h2>Perks</h2>\r\n\r\n<ul>\r\n\t<li>High degree of autonomy</li>\r\n\t<li>Crucial role in a highly motivated, talented team</li>\r\n\t<li>Individual Professional Development Budget</li>\r\n\t<li>Your choice of a new Mac or Windows laptop</li>\r\n\t<li>Flat hierarchy and open communication</li>\r\n\t<li>Newly designed office in Berlin-Mitte</li>\r\n\t<li>A stack of the most modern technologies</li>\r\n\t<li>Probably the best cup of coffee in the neighborhood</li>\r\n</ul>\r\n</section>\r\n"
+    format: full_html
+    processed: "<section>\n<p><strong>N26</strong>\_is Europe’s first Mobile Bank with a full European banking license. We have 2.3 million customers across 24 markets. Our team of over 700 employees in 3 locations is concentrated on reinventing the banking experience for the digital generation. Valentin Stalf and Maximilian Tayenthal founded N26 in 2013 and launched the initial product in early 2015. Since January 2015, N26 has been available for Android, iOS, and desktop. N26 has raised more than $500 million from investors including Insight Venture Partners, GIC, Tencent, Allianz X, Peter Thiel’s Valar Ventures, Li Ka-Shing’s Horizons Ventures, Earlybird Venture Capital, Greyhound Capital, Battery Ventures, in addition to members of the Zalando management board, and Redalpine Ventures.</p>\n\n<h2><strong>Your Role</strong></h2>\n\n<ul>\n\t<li>Assisting Back-end teams with everything related to relational (and also NoSQL) databases: design, maintenance, migrations, administration, configuration, etc.</li>\n\t<li>Taking part in efforts to scale and improve the N26 Data Warehouse.</li>\n\t<li>Educating developers and engineers about best practices in clean database design.</li>\n\t<li>Performing audits of existing databases, figuring out possible improvements and ways to implement them efficiently.</li>\n</ul>\n</section>\n\n<section>\n<h2>Main requirements</h2>\n\n<ul>\n\t<li>Exceptional knowledge of PostgreSQL and its administration (experience with MySQL is a plus).</li>\n\t<li>Fluency in at least one scripting language (preferably Python).</li>\n\t<li>Knowledge of NoSQL databases (DynamoDB, Couchbase, Cassandra, MongoDB, etc.) is a plus.</li>\n\t<li>Detective-level attention to detail and self-discipline that others would admire.</li>\n\t<li>Language skills: English full professional proficiency</li>\n\t<li>Excited to work with cutting-edge technology, take chances, experiment and discover new and more efficient ways to get things done</li>\n</ul>\n</section>\n\n<section>\n<h2>Perks</h2>\n\n<ul>\n\t<li>High degree of autonomy</li>\n\t<li>Crucial role in a highly motivated, talented team</li>\n\t<li>Individual Professional Development Budget</li>\n\t<li>Your choice of a new Mac or Windows laptop</li>\n\t<li>Flat hierarchy and open communication</li>\n\t<li>Newly designed office in Berlin-Mitte</li>\n\t<li>A stack of the most modern technologies</li>\n\t<li>Probably the best cup of coffee in the neighborhood</li>\n</ul>\n</section>\n"
+field_job_location:
+  -
+    value: 'Berlin, Germany'
+    format: full_html
+    processed: 'Berlin, Germany'
+field_more_details_link:
+  -
+    uri: 'https://landing.jobs/at/n26/database-engineer'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

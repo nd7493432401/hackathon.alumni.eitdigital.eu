@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6857515b-9d38-43dc-825e-723bffa2f412
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/101
+alias:
+  -
+    value: /article/ashleigh-our-new-community-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

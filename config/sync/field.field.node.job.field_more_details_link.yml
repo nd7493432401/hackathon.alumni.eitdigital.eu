@@ -1,0 +1,23 @@
+uuid: 93b489a0-dd0c-450a-a0ca-3143dfe0e4ed
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_more_details_link
+    - node.type.job
+  module:
+    - link
+id: node.job.field_more_details_link
+field_name: field_more_details_link
+entity_type: node
+bundle: job
+label: 'More Details Link'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 2
+field_type: link

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0fa1c990-8aad-4350-bfdb-a9cbd9e0e1ba
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/266
+alias:
+  -
+    value: /event/eit-digital-conference-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

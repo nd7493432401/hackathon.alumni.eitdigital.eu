@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 339a85b0-418e-485d-b726-cf11b3dce7dd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/397
+alias:
+  -
+    value: /job/ux-researcher-or-ux-designer-freelance
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

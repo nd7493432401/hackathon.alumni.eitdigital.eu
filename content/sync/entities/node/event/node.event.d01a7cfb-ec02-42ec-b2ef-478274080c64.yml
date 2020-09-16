@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: d01a7cfb-ec02-42ec-b2ef-478274080c64
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Digital Conference 2018'
+created:
+  -
+    value: '2018-06-16T09:13:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:00:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-digital-conference-2018
+body: {  }
+field_event_:
+  -
+    value: 'Brussels, Belgium'
+    format: full_html
+    processed: 'Brussels, Belgium'
+field_event_date:
+  -
+    value: '2018-09-11T08:00:00+02:00'
+    end_value: '2018-09-11T15:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>On 11th&nbsp;September 2018,&nbsp;<a href=\"https://www.eitdigital.eu/\">EIT Digital</a> will host its <a href=\"https://www.eitdigital.eu/conference\">third annual Conference</a> showcasing <a href=\"https://www.eitdigital.eu/\">i</a>ts vision and achievements about shaping digitalization in Europe.&nbsp; &nbsp;</p>\r\n\r\n<p><meta charset=\"utf-8\"></p>\r\n\r\n<p><strong>LISTEN -&nbsp;</strong>Leading government and industry experts as well as entrepreneurs will bring their experience with disruptive digital innovation.<br />\r\n<br />\r\n<strong>EXPERIENCE -&nbsp;</strong>Showcasing of disruptive digital innovations that EIT Digital brings to live in the EIT Digital market place.<br />\r\n<br />\r\n<strong>NETWORK -&nbsp;</strong>The EIT Digital Conference will provide an opportunity to network with attendees from a diverse range of organisations working in the digital ecosystem, representing large corporates, SMEs, leading technical universities and research institutes, as well as policy and decision makers from the European Parliament, the European Commission and public authorities.</p>\r\n\r\n<p>Registration is now <a href=\"https://www.eiseverywhere.com/ereg/index.php?eventid=324438&amp;\">open</a>.&nbsp;<a href=\"https://www.eitdigital.eu/conference/programme/\">Check out the agenda</a>&nbsp;to find sessions you'd like to attend.<br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"ltr\">&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>On 11th\_September 2018,\_<a href=\"https://www.eitdigital.eu/\">EIT Digital</a> will host its <a href=\"https://www.eitdigital.eu/conference\">third annual Conference</a> showcasing <a href=\"https://www.eitdigital.eu/\">i</a>ts vision and achievements about shaping digitalization in Europe.\_ \_</p>\n\n<p><meta charset=\"utf-8\" /></p>\n\n<p><strong>LISTEN -\_</strong>Leading government and industry experts as well as entrepreneurs will bring their experience with disruptive digital innovation.<br />\n<br />\n<strong>EXPERIENCE -\_</strong>Showcasing of disruptive digital innovations that EIT Digital brings to live in the EIT Digital market place.<br />\n<br />\n<strong>NETWORK -\_</strong>The EIT Digital Conference will provide an opportunity to network with attendees from a diverse range of organisations working in the digital ecosystem, representing large corporates, SMEs, leading technical universities and research institutes, as well as policy and decision makers from the European Parliament, the European Commission and public authorities.</p>\n\n<p>Registration is now <a href=\"https://www.eiseverywhere.com/ereg/index.php?eventid=324438&amp;\">open</a>.\_<a href=\"https://www.eitdigital.eu/conference/programme/\">Check out the agenda</a>\_to find sessions you'd like to attend.<br />\n\_</p>\n\n<p dir=\"ltr\">\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: d716f93b-51d6-4efd-abcc-06355b49a5fb
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: d716f93b-51d6-4efd-abcc-06355b49a5fb
+field_event_introduction:
+  -
+    value: "<p>Digitalization achievements in Europe</p>\r\n"
+    format: full_html
+    processed: "<p>Digitalization achievements in Europe</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: a0404581-92a5-4218-ab02-9a7bcf59180d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.d716f93b-51d6-4efd-abcc-06355b49a5fb
+    taxonomy_term:
+      - taxonomy_term.event_type.a0404581-92a5-4218-ab02-9a7bcf59180d

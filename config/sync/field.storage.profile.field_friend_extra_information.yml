@@ -1,0 +1,19 @@
+uuid: 6d1f9bb6-cdbd-4b58-978e-db2b947ec22b
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - text
+id: profile.field_friend_extra_information
+field_name: field_friend_extra_information
+entity_type: profile
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,10 @@
+uuid: 32191b28-4aa3-42bc-a555-fb3c82772dc0
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.summer_school_edit
+label: 'Summer School Edit'
+targetEntityType: user
+cache: true

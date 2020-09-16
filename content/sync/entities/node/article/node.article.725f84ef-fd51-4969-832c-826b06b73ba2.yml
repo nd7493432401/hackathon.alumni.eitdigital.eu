@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 725f84ef-fd51-4969-832c-826b06b73ba2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:50:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: '3 EIT Alumni teams selected to take part in HEInnovate 2018!'
+created:
+  -
+    value: '2018-07-04T15:26:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:50:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/3-eit-alumni-teams-selected-take-part-heinnovate-2018
+body:
+  -
+    value: "<p><em>A key&nbsp;goal of the EIT Alumni in 2018 is&nbsp;to improve its visibility through increased external representation.&nbsp; One aspect of this is&nbsp;to&nbsp;offer alumni the chance to take part in interesting and&nbsp;inspiring&nbsp;events across Europe.&nbsp;</em><em>EIT Alumni Ambassadors will have the chance to further develop their entrepreneurial skills, while also supporting the growth of the EIT Alumni Community.</em></p>\r\n\r\n<p>This June, three EIT Alumni teams were selected to take part in&nbsp;<a href=\"https://heinnovate2018-bulgaria.eu/\">HEInnovate</a>&nbsp;in Ruse, Bulgaria.<br />\r\nThe two-day event, designed to support institutional change in higher education in Europe, was organised by the European Commission, in&nbsp;partnership with the Bulgarian Ministry of Education and Science and Ruse University.</p>\r\n\r\n<p>A key part of the agenda was the <em>Innovative Youth Expo</em>, which featured&nbsp;entrepreneurial and innovative projects of students from Bulgaria and across the European Union. Following an internal selection procedure, the EIT Alumni was able to send three fantastic teams to showcase their ideas and represent our Community at the event.</p>\r\n\r\n<p>Of the three teams who attended, two were made up of&nbsp;<a href=\"https://www.eithealth.eu/alumni\">EIT Health Alumni</a>, and one of<a href=\"https://alumni.eitdigital.eu/\">&nbsp;EIT Digital Alumni.</a></p>\r\n\r\n<p><strong>Representing EIT Health Alumni:</strong><strong>&nbsp;BLAir and Nevrotech.</strong></p>\r\n\r\n<p><strong>Team 1: BLAir</strong><br />\r\nBLAir, consisting of two students from Romania; Maria and Nicholas, have created a life-support drone that&nbsp;offers a very fast response to cardiac arrest patients, therefore increasing their chances of survival from 6% to over 75% by decreasing emergency response time. They see a future where these drones can be strategically located across cities, and activated immediately to provide basic life support to those in cardiac arrest, keeping them alive until paramedics arrive.</p>\r\n\r\n<p><img alt=\"BLAir\" data-entity-type=\"file\" data-entity-uuid=\"99251d52-b025-4146-b48b-ccac7d96ff21\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Youth-Innovative-Expo-12.jpg\" /></p>\r\n\r\n<p><strong>Team 2: NevroTech</strong><br />\r\nNevrotech, based in Portugal, used the opportunity at HEInnovate to showcase their innovative method to treat phobias by connecting virtual reality and neurosciences.</p>\r\n\r\n<p><img alt=\"nevrotech\" data-entity-type=\"file\" data-entity-uuid=\"28e101cd-9311-46d8-b305-6d5b273f6762\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/nevrotech.jpg\" /></p>\r\n\r\n<p><strong>Team 3: Trenvio</strong><br />\r\nThe idea for Trenvio was developed during the&nbsp;<a href=\"https://masterschool.eitdigital.eu/\">EIT Digital Master's School</a>&nbsp;by six students who were studying in Sorbonne University in Paris. Trenvio, a combination of the words&nbsp;<em>Travel</em>&nbsp;and&nbsp;<em>Envio</em>&nbsp;(shipping in Spanish), is a crowd shipping company by which travelers work on commission to bring products to customers. The idea is to allow customers to purchase products which are either locally unavailable or of low quality. the Trenvio platform offers a safe and reliable alternative.</p>\r\n\r\n<p><img alt=\"Trenvio\" data-entity-type=\"file\" data-entity-uuid=\"8b949ff7-b2ea-4eea-9829-186e675d5f1f\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Youth-Innovative-Expo-44.jpg\" /></p>\r\n\r\n<p>Each team was given a specific stand during the expo and the chance to pitch their idea on stage to all participants. They were also invited to attend the rest of HEInnovate and make the most of the inspirational talks and informative workshops.</p>\r\n\r\n<p>Following the event, the teams got in touch with the EIT Alumni to express their pleasure at being selected to attend HEInnovate on behalf of our community.</p>\r\n\r\n<p><em>\"Regarding the recent event hosted by the university of Ruse, I was pleased to find such talented students at a relatively unknown university but with a strong back in technology. By going around the Expo hall I was intrigued by the diversity of projects ranging from drones to tourism and from remotely controlled vehicles to sports cars and autonomous agricultural measuring instruments. During the two days of our visit we learned new and interesting details of future developments that are needed in the educational system and also the promoters of a good education. We participated at the Expo after winning an EIT Health Alumni competition to be selected on behalf of the EIT Alumni Association. As a conclusion I would say that this event was definitely a well rounded event as it included all major stakeholder of education from pupils to national and international figures.”&nbsp;<strong>Nicholas Kormos, BLAir.</strong></em></p>\r\n\r\n<p><strong>It is great to see the EIT Alumni taking an active role in activities such as this.</strong><br />\r\n<strong>Keep up to date with our social media channels for updates on other ways which you can put your entrepreneurial talents to use, attend exciting events and support the EIT Alumni Community.</strong></p>\r\n\r\n<p>[originally posted on the&nbsp;<a href=\"https://eitalumni.eu/blog/2018/07/03/3-eit-alumni-teams-selected-to-take-part-in-heinnovate-2018/\">EIT Alumni&nbsp;website</a>]</p>\r\n"
+    format: full_html
+    processed: "<p><em>A key\_goal of the EIT Alumni in 2018 is\_to improve its visibility through increased external representation.\_ One aspect of this is\_to\_offer alumni the chance to take part in interesting and\_inspiring\_events across Europe.\_</em><em>EIT Alumni Ambassadors will have the chance to further develop their entrepreneurial skills, while also supporting the growth of the EIT Alumni Community.</em></p>\n\n<p>This June, three EIT Alumni teams were selected to take part in\_<a href=\"https://heinnovate2018-bulgaria.eu/\">HEInnovate</a>\_in Ruse, Bulgaria.<br />\nThe two-day event, designed to support institutional change in higher education in Europe, was organised by the European Commission, in\_partnership with the Bulgarian Ministry of Education and Science and Ruse University.</p>\n\n<p>A key part of the agenda was the <em>Innovative Youth Expo</em>, which featured\_entrepreneurial and innovative projects of students from Bulgaria and across the European Union. Following an internal selection procedure, the EIT Alumni was able to send three fantastic teams to showcase their ideas and represent our Community at the event.</p>\n\n<p>Of the three teams who attended, two were made up of\_<a href=\"https://www.eithealth.eu/alumni\">EIT Health Alumni</a>, and one of<a href=\"https://alumni.eitdigital.eu/\">\_EIT Digital Alumni.</a></p>\n\n<p><strong>Representing EIT Health Alumni:</strong><strong>\_BLAir and Nevrotech.</strong></p>\n\n<p><strong>Team 1: BLAir</strong><br />\nBLAir, consisting of two students from Romania; Maria and Nicholas, have created a life-support drone that\_offers a very fast response to cardiac arrest patients, therefore increasing their chances of survival from 6% to over 75% by decreasing emergency response time. They see a future where these drones can be strategically located across cities, and activated immediately to provide basic life support to those in cardiac arrest, keeping them alive until paramedics arrive.</p>\n\n<p><img alt=\"BLAir\" data-entity-type=\"file\" data-entity-uuid=\"99251d52-b025-4146-b48b-ccac7d96ff21\" src=\"/sites/default/files/inline-images/Youth-Innovative-Expo-12.jpg\" /></p>\n\n<p><strong>Team 2: NevroTech</strong><br />\nNevrotech, based in Portugal, used the opportunity at HEInnovate to showcase their innovative method to treat phobias by connecting virtual reality and neurosciences.</p>\n\n<p><img alt=\"nevrotech\" data-entity-type=\"file\" data-entity-uuid=\"28e101cd-9311-46d8-b305-6d5b273f6762\" src=\"/sites/default/files/inline-images/nevrotech.jpg\" /></p>\n\n<p><strong>Team 3: Trenvio</strong><br />\nThe idea for Trenvio was developed during the\_<a href=\"https://masterschool.eitdigital.eu/\">EIT Digital Master's School</a>\_by six students who were studying in Sorbonne University in Paris. Trenvio, a combination of the words\_<em>Travel</em>\_and\_<em>Envio</em>\_(shipping in Spanish), is a crowd shipping company by which travelers work on commission to bring products to customers. The idea is to allow customers to purchase products which are either locally unavailable or of low quality. the Trenvio platform offers a safe and reliable alternative.</p>\n\n<p><img alt=\"Trenvio\" data-entity-type=\"file\" data-entity-uuid=\"8b949ff7-b2ea-4eea-9829-186e675d5f1f\" src=\"/sites/default/files/inline-images/Youth-Innovative-Expo-44.jpg\" /></p>\n\n<p>Each team was given a specific stand during the expo and the chance to pitch their idea on stage to all participants. They were also invited to attend the rest of HEInnovate and make the most of the inspirational talks and informative workshops.</p>\n\n<p>Following the event, the teams got in touch with the EIT Alumni to express their pleasure at being selected to attend HEInnovate on behalf of our community.</p>\n\n<p><em>\"Regarding the recent event hosted by the university of Ruse, I was pleased to find such talented students at a relatively unknown university but with a strong back in technology. By going around the Expo hall I was intrigued by the diversity of projects ranging from drones to tourism and from remotely controlled vehicles to sports cars and autonomous agricultural measuring instruments. During the two days of our visit we learned new and interesting details of future developments that are needed in the educational system and also the promoters of a good education. We participated at the Expo after winning an EIT Health Alumni competition to be selected on behalf of the EIT Alumni Association. As a conclusion I would say that this event was definitely a well rounded event as it included all major stakeholder of education from pupils to national and international figures.”\_<strong>Nicholas Kormos, BLAir.</strong></em></p>\n\n<p><strong>It is great to see the EIT Alumni taking an active role in activities such as this.</strong><br />\n<strong>Keep up to date with our social media channels for updates on other ways which you can put your entrepreneurial talents to use, attend exciting events and support the EIT Alumni Community.</strong></p>\n\n<p>[originally posted on the\_<a href=\"https://eitalumni.eu/blog/2018/07/03/3-eit-alumni-teams-selected-to-take-part-in-heinnovate-2018/\">EIT Alumni\_website</a>]</p>\n"
+    summary: 'A key&nbsp;goal of the EIT Alumni in 2018 is&nbsp;to improve its visibility through increased extern'
+    summary_processed: "A key\_goal of the EIT Alumni in 2018 is\_to improve its visibility through increased extern"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: "EIT Digital Alumni taking an active role in\_HEInnovate."
+field_image:
+  -
+    target_type: media
+    target_uuid: 0139a749-3d70-44b6-86da-9010d2c9105c
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.0139a749-3d70-44b6-86da-9010d2c9105c

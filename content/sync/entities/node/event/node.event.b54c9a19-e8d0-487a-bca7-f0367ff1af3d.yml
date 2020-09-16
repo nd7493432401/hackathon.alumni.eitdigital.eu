@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: b54c9a19-e8d0-487a-bca7-f0367ff1af3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:34:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Landing Festival Berlin 2019'
+created:
+  -
+    value: '2019-02-07T22:51:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:34:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/landing-festival-berlin-2019
+body: {  }
+field_event_:
+  -
+    value: 'Telekom Hauptstadtrepräsentanz'
+    format: full_html
+    processed: 'Telekom Hauptstadtrepräsentanz'
+field_event_date:
+  -
+    value: '2019-04-03T09:00:00+02:00'
+    end_value: '2019-04-04T18:00:00+02:00'
+field_event_description:
+  -
+    value: "<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><em><strong><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:italic\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Learn from the best, boost your career, land opportunities.</span></span></span></span></span></span></span></span></span></strong></em><br />\r\n<br />\r\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\"><a href=\"https://landingfestival.com\">Landing Festival</a> is a 2-day event which provides tech professionals with curated talks and workshops on the latest trends, career advice, and networking opportunities within the tech community. Here, you will see the intersection of different dimensions:</span></span></span></span></span></span></span></p>\r\n\r\n<ul dir=\"ltr\">\r\n\t<li style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">One focused on <strong>developing your skills, knowledge, and perspective</strong>;</span></span></span></span></span></span></span></li>\r\n\t<li style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">The other, <strong>exposing you to opportunities</strong> to apply this knowledge, by putting you in contact with leading companies, experts, and fellow professionals</span></span></span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Our goal is to empower tech professionals like you, to better manage their career.</span></span></span></span></span></span></span></p>\r\n\r\n<p><br />\r\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">How to join:</span></span></span></span></span></span></span></span></p>\r\n\r\n<ul style=\"margin-top:0pt; margin-bottom:0pt\">\r\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\r\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">If you’re in Berlin: get your tickets directly at </span></span></span></span></span><a href=\"https://landingfestival.com/\" style=\"text-decoration-line:none\"><span style=\"font-size:11pt\"><span style=\"color:#1155cc\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"text-decoration-line:underline\"><span style=\"text-decoration-skip-ink:none\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">https://landingfestival.com</span></span></span></span></span></span></span></span></a></span>. We have secured a <strong>75% discount code</strong> for all our members on the Landing Festival tickets by simply using the code \"<em>EITDigitalAlumni</em>\".</p>\r\n\t</li>\r\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\r\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">If you’re coming from around Europe, until the <strong>28th of February</strong> you can apply for the Top Talent Grant to get free flights to Berlin. Information on how to join </span></span></span></span></span><span style=\"text-decoration-line: none; font-size: 11pt;\"><span style=\"color:#1155cc\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"text-decoration-line:underline\"><span style=\"text-decoration-skip-ink:none\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\"><a href=\"https://landingfestival.com/top_talent_grant/\" style=\"text-decoration-line:none\">can be found here</a></span></span></span></span></span></span></span></span></span></p>\r\n\t</li>\r\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\r\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size: 11pt;\">Your profile will be evaluated by Landing.jobs based on its fit with the event’s main categories (Development, Data Science, Product and Design), motivation, and skills;</span></p>\r\n\t</li>\r\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\r\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">The event’s team will get in touch as the results are out to discuss the flight details with the winners!</p>\r\n\t</li>\r\n</ul>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><strong>Remember</strong> to mention you are from the EIT Digital Alumni community in the form!</p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">Good luck! ;)</p>\r\n"
+    format: full_html
+    processed: "<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><em><strong><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-style:italic\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Learn from the best, boost your career, land opportunities.</span></span></span></span></span></span></span></span></span></strong></em><br />\n<br />\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\"><a href=\"https://landingfestival.com\">Landing Festival</a> is a 2-day event which provides tech professionals with curated talks and workshops on the latest trends, career advice, and networking opportunities within the tech community. Here, you will see the intersection of different dimensions:</span></span></span></span></span></span></span></p>\n\n<ul dir=\"ltr\">\n\t<li style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">One focused on <strong>developing your skills, knowledge, and perspective</strong>;</span></span></span></span></span></span></span></li>\n\t<li style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">The other, <strong>exposing you to opportunities</strong> to apply this knowledge, by putting you in contact with leading companies, experts, and fellow professionals</span></span></span></span></span></span></span></li>\n</ul>\n\n<p style=\"margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Our goal is to empower tech professionals like you, to better manage their career.</span></span></span></span></span></span></span></p>\n\n<p><br />\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-weight:700\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">How to join:</span></span></span></span></span></span></span></span></p>\n\n<ul style=\"margin-top:0pt; margin-bottom:0pt\">\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">If you’re in Berlin: get your tickets directly at </span></span></span></span></span><a href=\"https://landingfestival.com/\" style=\"text-decoration-line:none\"><span style=\"font-size:11pt\"><span style=\"color:#1155cc\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"text-decoration-line:underline\"><span style=\"text-decoration-skip-ink:none\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">https://landingfestival.com</span></span></span></span></span></span></span></span></a></span>. We have secured a <strong>75% discount code</strong> for all our members on the Landing Festival tickets by simply using the code \"<em>EITDigitalAlumni</em>\".</p>\n\t</li>\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">If you’re coming from around Europe, until the <strong>28th of February</strong> you can apply for the Top Talent Grant to get free flights to Berlin. Information on how to join </span></span></span></span></span><span style=\"text-decoration-line: none; font-size: 11pt;\"><span style=\"color:#1155cc\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"text-decoration-line:underline\"><span style=\"text-decoration-skip-ink:none\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\"><a href=\"https://landingfestival.com/top_talent_grant/\" style=\"text-decoration-line:none\">can be found here</a></span></span></span></span></span></span></span></span></span></p>\n\t</li>\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"font-size: 11pt;\">Your profile will be evaluated by Landing.jobs based on its fit with the event’s main categories (Development, Data Science, Product and Design), motivation, and skills;</span></p>\n\t</li>\n\t<li dir=\"ltr\" style=\"list-style-type:disc; font-size:11pt; font-family:Arial; font-variant-numeric:normal; font-variant-east-asian:normal; vertical-align:baseline; white-space:pre\">\n\t<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">The event’s team will get in touch as the results are out to discuss the flight details with the winners!</p>\n\t</li>\n</ul>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><strong>Remember</strong> to mention you are from the EIT Digital Alumni community in the form!</p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">Good luck! ;)</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: b31a26ce-200a-41b2-a299-7a5530f3b6dd
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: b31a26ce-200a-41b2-a299-7a5530f3b6dd
+field_event_introduction:
+  -
+    value: "<p>Yet another exclusive opportunity for our EIT Digital Alumni to land a job!</p>\r\n"
+    format: full_html
+    processed: "<p>Yet another exclusive opportunity for our EIT Digital Alumni to land a job!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0af02f24-6e63-4c5c-8292-02a31edef234
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.b31a26ce-200a-41b2-a299-7a5530f3b6dd
+    taxonomy_term:
+      - taxonomy_term.event_type.0af02f24-6e63-4c5c-8292-02a31edef234

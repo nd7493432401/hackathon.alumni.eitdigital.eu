@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: b916517b-5403-44d3-8787-be8457394f23
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Web Developer'
+created:
+  -
+    value: '2018-02-11T20:32:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/web-developer-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:alumni@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital Alumni Foundation'
+    format: full_html
+    processed: 'EIT Digital Alumni Foundation'
+field_expiration_date:
+  -
+    value: '2018-03-02T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>The EIT Digital Alumni Board is looking for a <strong>Web Developer</strong>!</p>\r\n\r\n<p>This <u><strong>paid</strong></u> position perfectly fits someone with a creative and flexible mindset, strong passion about technology and web-development.</p>\r\n\r\n<p>The ideal candidate is someone who will develop the next “killer features” on our website, as well as lead the whole open-source development and bug-fixing of our platform. This person will coordinate and closely work with our Web Administrator.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Tasks include</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Build new features for the website</li>\r\n\t<li>Ability to fix bugs in the source code</li>\r\n\t<li>Take care of the code-review</li>\r\n\t<li>Refactor and optimise the code</li>\r\n\t<li>Document the code so other developers can contribute to it</li>\r\n\t<li>Test the website on different platforms</li>\r\n\t<li>Apply security updates to the website</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Position specification skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>At least 2 years experience developing web solutions in Drupal 7 and PHP implementations in a LAMP environment</li>\r\n\t<li>Ability to architect Drupal solutions including data, display, information architecture</li>\r\n\t<li>Advanced site-building experience including deep familiarity with Drupal modules such as CTools, Views, and Panels</li>\r\n\t<li>Experience building responsive websites using Drupal CMS, HTML/HTML5, CSS/CSS3, and JavaScript/jQuery</li>\r\n\t<li>Experience with Git</li>\r\n\t<li>Ability to clearly and comprehensively document the produced code</li>\r\n\t<li>Ability to work independently and good organizational skills</li>\r\n\t<li>Passion for development; adaptable, flexible and creative</li>\r\n\t<li>Availability of 5-10h per week on permanent basis for the following 12 months<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<p><strong>Benefits:</strong></p>\r\n\r\n<ul>\r\n\t<li>Salary discussed in advance according to the development plans (up to 5K€)</li>\r\n\t<li>A contractor agreement on permanent basis for the following 12 months</li>\r\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni Foundation</li>\r\n\t<li>Flexible working hours</li>\r\n</ul>\r\n\r\n<p><br />\r\nIf you are interested, please send a short profile and paragraph explaining why you should be our next <strong>Web Developer</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\r\n\r\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\r\n"
+    format: full_html
+    processed: "<p>The EIT Digital Alumni Board is looking for a <strong>Web Developer</strong>!</p>\n\n<p>This <u><strong>paid</strong></u> position perfectly fits someone with a creative and flexible mindset, strong passion about technology and web-development.</p>\n\n<p>The ideal candidate is someone who will develop the next “killer features” on our website, as well as lead the whole open-source development and bug-fixing of our platform. This person will coordinate and closely work with our Web Administrator.</p>\n\n<p>\_</p>\n\n<p><strong>Tasks include</strong>:</p>\n\n<ul>\n\t<li>Build new features for the website</li>\n\t<li>Ability to fix bugs in the source code</li>\n\t<li>Take care of the code-review</li>\n\t<li>Refactor and optimise the code</li>\n\t<li>Document the code so other developers can contribute to it</li>\n\t<li>Test the website on different platforms</li>\n\t<li>Apply security updates to the website</li>\n</ul>\n\n<p>\_</p>\n\n<p><strong>Position specification skills:</strong></p>\n\n<ul>\n\t<li>At least 2 years experience developing web solutions in Drupal 7 and PHP implementations in a LAMP environment</li>\n\t<li>Ability to architect Drupal solutions including data, display, information architecture</li>\n\t<li>Advanced site-building experience including deep familiarity with Drupal modules such as CTools, Views, and Panels</li>\n\t<li>Experience building responsive websites using Drupal CMS, HTML/HTML5, CSS/CSS3, and JavaScript/jQuery</li>\n\t<li>Experience with Git</li>\n\t<li>Ability to clearly and comprehensively document the produced code</li>\n\t<li>Ability to work independently and good organizational skills</li>\n\t<li>Passion for development; adaptable, flexible and creative</li>\n\t<li>Availability of 5-10h per week on permanent basis for the following 12 months<br />\n\t\_</li>\n</ul>\n\n<p><strong>Benefits:</strong></p>\n\n<ul>\n\t<li>Salary discussed in advance according to the development plans (up to 5K€)</li>\n\t<li>A contractor agreement on permanent basis for the following 12 months</li>\n\t<li>Possibility to guide and take part in the initiatives organized by the Alumni Foundation</li>\n\t<li>Flexible working hours</li>\n</ul>\n\n<p><br />\nIf you are interested, please send a short profile and paragraph explaining why you should be our next <strong>Web Developer</strong> to: <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a></p>\n\n<p><em>Deadline: <strong>2 March, 23.59 CET</strong>. The Alumni Board reserves the right to extend this deadline.</em></p>\n"
+field_job_location:
+  -
+    value: Europe
+    format: full_html
+    processed: Europe
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cfb81a15-1ead-4b12-b322-5e7f77cc6ede
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/182
+alias:
+  -
+    value: /event/meetup-south-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

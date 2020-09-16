@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ff4ae6f3-62ba-4b81-80de-31024be34f1f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/14
+alias:
+  -
+    value: /event-type/talk
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

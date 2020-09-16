@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 26f9107a-2759-4d45-9909-7a216c9e35fc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/273
+alias:
+  -
+    value: /event/after-connect-ideation-lunch
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

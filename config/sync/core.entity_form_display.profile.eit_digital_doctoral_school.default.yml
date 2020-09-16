@@ -1,0 +1,57 @@
+uuid: aa2a0d8b-b5d8-41f0-8da7-b2b949028282
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_doctoral_school.field_doctoral_training_centre
+    - field.field.profile.eit_digital_doctoral_school.field_entry_year
+    - field.field.profile.eit_digital_doctoral_school.field_graduation_year
+    - field.field.profile.eit_digital_doctoral_school.field_summer_school_attended
+    - profile.type.eit_digital_doctoral_school
+id: profile.eit_digital_doctoral_school.default
+targetEntityType: profile
+bundle: eit_digital_doctoral_school
+mode: default
+content:
+  field_doctoral_training_centre:
+    weight: 26
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_entry_year:
+    weight: 27
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_graduation_year:
+    weight: 28
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_summer_school_attended:
+    weight: 29
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+hidden:
+  is_default: true

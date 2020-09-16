@@ -1,0 +1,22 @@
+uuid: 73e86a15-181a-419e-9d16-e3906291d389
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: candidate_label
+label: 'Candidate Pattern'
+type: 'canonical_entities:node'
+pattern: 'candidate/[node:title]'
+selection_criteria:
+  7c77c1c1-41e8-41f1-aac3-afd71d888a8f:
+    id: node_type
+    bundles:
+      candidate: candidate
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 7c77c1c1-41e8-41f1-aac3-afd71d888a8f
+selection_logic: and
+weight: -5
+relationships: {  }

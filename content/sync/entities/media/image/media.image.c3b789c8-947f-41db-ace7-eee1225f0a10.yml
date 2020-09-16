@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: c3b789c8-947f-41db-ace7-eee1225f0a10
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: DSC_8828.jpg
+thumbnail:
+  -
+    alt: 'Women @ EIT'
+    title: null
+    width: 3008
+    height: 2000
+    target_type: file
+    target_uuid: ced6ad01-cd0e-4ea2-b4cf-6b206498d8df
+created:
+  -
+    value: '2020-05-02T09:09:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-02T09:09:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Women @ EIT'
+    title: ''
+    width: 3008
+    height: 2000
+    target_type: file
+    target_uuid: ced6ad01-cd0e-4ea2-b4cf-6b206498d8df
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.ced6ad01-cd0e-4ea2-b4cf-6b206498d8df

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c025cf9f-e7a7-464c-bd4c-144c35c202d5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/193
+alias:
+  -
+    value: /event/blockchain-hackathon-environmental-action
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2b15bbd4-62e5-4d23-a690-e3d3202f6006
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/145
+alias:
+  -
+    value: /summer-schools/2016-helsinki-smart-spaces
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

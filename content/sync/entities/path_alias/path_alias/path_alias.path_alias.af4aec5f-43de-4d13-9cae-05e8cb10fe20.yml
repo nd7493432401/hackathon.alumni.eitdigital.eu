@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: af4aec5f-43de-4d13-9cae-05e8cb10fe20
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/256
+alias:
+  -
+    value: /event/island-talks
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

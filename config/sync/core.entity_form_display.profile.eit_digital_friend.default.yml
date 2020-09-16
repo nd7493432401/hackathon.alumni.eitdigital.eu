@@ -1,0 +1,56 @@
+uuid: c664df7f-94b9-408d-ac3e-362f7095f216
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.profile.eit_digital_friend.field_friend_extra_information
+    - field.field.profile.eit_digital_friend.field_friend_from
+    - field.field.profile.eit_digital_friend.field_friend_role
+    - field.field.profile.eit_digital_friend.field_friend_to
+    - field.field.profile.eit_digital_friend.field_relationship
+    - profile.type.eit_digital_friend
+  module:
+    - text
+id: profile.eit_digital_friend.default
+targetEntityType: profile
+bundle: eit_digital_friend
+mode: default
+content:
+  field_friend_extra_information:
+    weight: 4
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textarea
+    region: content
+  field_friend_from:
+    weight: 1
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_friend_role:
+    weight: 3
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textfield
+    region: content
+  field_friend_to:
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_relationship:
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textfield
+    region: content
+hidden:
+  is_default: true

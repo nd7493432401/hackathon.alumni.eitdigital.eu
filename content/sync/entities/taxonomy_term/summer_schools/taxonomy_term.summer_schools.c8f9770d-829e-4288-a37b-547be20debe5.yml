@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: c8f9770d-829e-4288-a37b-547be20debe5
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: summer_schools
+    target_type: taxonomy_vocabulary
+    target_uuid: c23d0838-0417-48e1-994f-7f67fa7b0f13
+revision_created:
+  -
+    value: '2020-03-24T10:50:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: '2016 - Stockholm, Future Networking Solutions'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2020-03-24T10:50:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: /summer-schools/2016-stockholm-future-networking-solutions
+depth_level:
+  -
+    value: 1
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

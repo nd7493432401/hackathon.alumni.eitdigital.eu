@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e48b7ee7-4566-41fc-bf9b-5392d6ceea6f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/437
+alias:
+  -
+    value: /job/sap-ewm-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

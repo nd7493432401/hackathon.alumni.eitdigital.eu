@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e6dca430-13ec-489c-8f8b-4a1a33fcd79e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/432
+alias:
+  -
+    value: /job/post-master-professional-self-no-checkout-store
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

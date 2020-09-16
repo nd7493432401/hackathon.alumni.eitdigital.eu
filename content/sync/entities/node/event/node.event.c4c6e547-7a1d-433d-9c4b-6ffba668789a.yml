@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: c4c6e547-7a1d-433d-9c4b-6ffba668789a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:15:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: ' EIT Alumni Meetup in Leuven'
+created:
+  -
+    value: '2016-11-03T22:09:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:15:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-alumni-meetup-leuven
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2016-11-22T19:00:00+01:00'
+    end_value: '2016-11-22T21:30:00+01:00'
+field_event_description:
+  -
+    value: "<p>Thanks to an initiative from the EIT Digital Alumnus&nbsp;Francesco, the InnoEnergy CommUnity Belgium is happy to invite all the EIT Alumni who are based in Leuven for an after-work casual meeting at the Irish Pub in the historic center of our lovely Leuven. If you're in Leuven at this time, you are more than welcome to join us for nice story sharings and more fun! Looking forward to meeting you!<br />\r\n<br />\r\nJoin <a href=\"https://www.facebook.com/events/1661951700763630/\">our Facebook event to keep in touch</a>!</p>\r\n"
+    format: full_html
+    processed: "<p>Thanks to an initiative from the EIT Digital Alumnus\_Francesco, the InnoEnergy CommUnity Belgium is happy to invite all the EIT Alumni who are based in Leuven for an after-work casual meeting at the Irish Pub in the historic center of our lovely Leuven. If you're in Leuven at this time, you are more than welcome to join us for nice story sharings and more fun! Looking forward to meeting you!<br />\n<br />\nJoin <a href=\"https://www.facebook.com/events/1661951700763630/\">our Facebook event to keep in touch</a>!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 95758fca-6715-43b3-86fe-8eddda3a3da6
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 95758fca-6715-43b3-86fe-8eddda3a3da6
+field_event_introduction:
+  -
+    value: "<p>An after-work casual meeting at the Irish Pub in the historic center of Leuven</p>\r\n"
+    format: full_html
+    processed: "<p>An after-work casual meeting at the Irish Pub in the historic center of Leuven</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1eab680d-1577-4fc5-a18a-f199dca9fe41
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.95758fca-6715-43b3-86fe-8eddda3a3da6
+    taxonomy_term:
+      - taxonomy_term.event_type.1eab680d-1577-4fc5-a18a-f199dca9fe41

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4664354e-2308-49e7-904b-00a97bf67d1e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/281
+alias:
+  -
+    value: /event/1st-graduation-ceremony-2014
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

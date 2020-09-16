@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 34de3b11-1379-44a3-8ab3-32bb91c6d50f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/77
+alias:
+  -
+    value: /article/digital-fight-against-food-waste
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

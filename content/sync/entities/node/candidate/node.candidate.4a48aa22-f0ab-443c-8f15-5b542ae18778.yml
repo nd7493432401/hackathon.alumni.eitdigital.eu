@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 4a48aa22-f0ab-443c-8f15-5b542ae18778
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Mahmoud Khodier'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/mahmoud-khodier
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>My main motivation to apply for this role is the feeling of belonging with EIT Digital and the Alumni Community. I really appreciate everything EIT Digital offered to me during/after my masters’ study such as the entrepreneurial experience, technical experience, full scholarship package, mobility, networking, conferences/events, and the summer school. During and after my masters with EIT Digital, I made many connections with the EIT Digital’s students and staff in different nodes. I would like to keep participating and contributing in the events and the activities of the EIT Digital Alumni community.</p>'
+    format: full_html
+    processed: '<p>My main motivation to apply for this role is the feeling of belonging with EIT Digital and the Alumni Community. I really appreciate everything EIT Digital offered to me during/after my masters’ study such as the entrepreneurial experience, technical experience, full scholarship package, mobility, networking, conferences/events, and the summer school. During and after my masters with EIT Digital, I made many connections with the EIT Digital’s students and staff in different nodes. I would like to keep participating and contributing in the events and the activities of the EIT Digital Alumni community.</p>'
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Mahmoud Khodier'
+    format: full_html
+    processed: 'Mahmoud Khodier'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>My vision for the community will be influenced with my passion. I am very passionate about Entrepreneurship and Innovation. I want to support, encourage, and facilitiate the process for all the alumni members to work on new innovative ideas and succeed with developing great companies.</p>'
+    format: full_html
+    processed: '<p>My vision for the community will be influenced with my passion. I am very passionate about Entrepreneurship and Innovation. I want to support, encourage, and facilitiate the process for all the alumni members to work on new innovative ideas and succeed with developing great companies.</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>Over the past years, I lived, studied, and worked in Egypt, Germany, Finland, and The Netherlands. This allowed me to get great experienc by working and studying in multi-cultural environments. Last year, I was nominated with my startup project, Slangsh, to the EIT Change Awards 2018. I just finished my Professional Docotorate in Data Science and currently I am working as Entrepeneur In Residence at Antler in Amsterdam trying to build a new company with other great founders.</p><p>I always try to be an active alumni member and I am very familiar with the alumni community and its different acitivites. In the past, I used to participate in different events that have been either arranged by EIT Digital Master School, or by the Alumni Community. In <strong>October 2015</strong>, I was a coach for two days in the Master School Kick Off event that took place in Eindhoven. In <strong>April 2016</strong>, I participated as a second year student in the EIT Alumni Connect event in Budapest. In <strong>December 2016</strong>, I participated in the EIT Alumni Startup Days as a founder of one of the projects. In <strong>March 2017</strong>, I joined as an alumni and speaker at the Annual Alumni Meeting and EIT Digital Annual Conference in Brussels. In <strong>October 2017</strong> <strong>&amp; 2018</strong>, I participated in and co-organized the EIT Alumni Connect in Budapest, particiapted as a nominee in the EIT Change Awards, and coached EIT Digital students in their Kick Off in Finland.</p>'
+    format: full_html
+    processed: '<p>Over the past years, I lived, studied, and worked in Egypt, Germany, Finland, and The Netherlands. This allowed me to get great experienc by working and studying in multi-cultural environments. Last year, I was nominated with my startup project, Slangsh, to the EIT Change Awards 2018. I just finished my Professional Docotorate in Data Science and currently I am working as Entrepeneur In Residence at Antler in Amsterdam trying to build a new company with other great founders.</p><p>I always try to be an active alumni member and I am very familiar with the alumni community and its different acitivites. In the past, I used to participate in different events that have been either arranged by EIT Digital Master School, or by the Alumni Community. In <strong>October 2015</strong>, I was a coach for two days in the Master School Kick Off event that took place in Eindhoven. In <strong>April 2016</strong>, I participated as a second year student in the EIT Alumni Connect event in Budapest. In <strong>December 2016</strong>, I participated in the EIT Alumni Startup Days as a founder of one of the projects. In <strong>March 2017</strong>, I joined as an alumni and speaker at the Annual Alumni Meeting and EIT Digital Annual Conference in Brussels. In <strong>October 2017</strong> <strong>&amp; 2018</strong>, I participated in and co-organized the EIT Alumni Connect in Budapest, particiapted as a nominee in the EIT Change Awards, and coached EIT Digital students in their Kick Off in Finland.</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

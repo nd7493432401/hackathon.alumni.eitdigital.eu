@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8862369c-8f89-481d-ab5b-b486bcd38458
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/34
+alias:
+  -
+    value: /article/spotlight-drivetrust
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

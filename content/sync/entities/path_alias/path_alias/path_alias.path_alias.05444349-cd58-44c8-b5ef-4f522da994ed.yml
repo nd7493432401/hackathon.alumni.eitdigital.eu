@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 05444349-cd58-44c8-b5ef-4f522da994ed
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/248
+alias:
+  -
+    value: /event/eit-alumni-connect-innoveit-2017
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

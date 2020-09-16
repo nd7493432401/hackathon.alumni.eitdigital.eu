@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 33e1a3dc-b766-4482-a1a0-f08452f10ea1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/204
+alias:
+  -
+    value: /tracks-master-school/human-computer-interaction-and-design-hcid
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

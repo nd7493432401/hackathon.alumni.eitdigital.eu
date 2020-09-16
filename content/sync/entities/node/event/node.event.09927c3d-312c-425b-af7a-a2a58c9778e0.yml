@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: 09927c3d-312c-425b-af7a-a2a58c9778e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-06-08T19:24:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Tuesday Afterwork: Silly games night'
+created:
+  -
+    value: '2020-05-18T19:17:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-08T19:24:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/tuesday-afterwork-silly-games-night
+body: {  }
+field_event_:
+  -
+    value: 'Google Hangouts/Meet (online)'
+    format: basic_html
+    processed: 'Google Hangouts/Meet (online)'
+field_event_date:
+  -
+    value: '2020-05-26T19:00:00+02:00'
+    end_value: '2020-05-26T20:00:00+02:00'
+field_event_description:
+  -
+    value: "<p><strong>Note: This event requires registration. In order to join,&nbsp;please sign-up before Sunday&nbsp;24th of May 23:59 CEST here:&nbsp;<a href=\"https://bit.ly/sillygames-signup\" target=\"_blank\">https://bit.ly/sillygames-signup</a></strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>In all the seriousness of our Tuesday Afterworks, we have not forgotten&nbsp;about the most important thing in our community:&nbsp;The networking!</p>\r\n\r\n<p>Join us for a night full of friends, good laughs and silly games! BYOB</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Online meeting link</strong>:&nbsp;</p>\r\n\r\n<p>We will send you the meeting room link directly to the email address you provide on <a href=\"https://bit.ly/sillygames-signup\" target=\"_blank\">the registration form</a>.</p>\r\n\r\n<p><em>* Please note this event will be <u>NOT</u>&nbsp;be recorded and uploaded to the EIT Digital Alumni YouTube channel</em></p>\r\n"
+    format: basic_html
+    processed: "<p><strong>Note: This event requires registration. In order to join,\_please sign-up before Sunday\_24th of May 23:59 CEST here:\_<a href=\"https://bit.ly/sillygames-signup\" target=\"_blank\">https://bit.ly/sillygames-signup</a></strong></p>\n\n<p>\_</p>\n\n<p>In all the seriousness of our Tuesday Afterworks, we have not forgotten\_about the most important thing in our community:\_The networking!</p>\n\n<p>Join us for a night full of friends, good laughs and silly games! BYOB</p>\n\n<p>\_</p>\n\n<p><strong>Online meeting link</strong>:\_</p>\n\n<p>We will send you the meeting room link directly to the email address you provide on <a href=\"https://bit.ly/sillygames-signup\" target=\"_blank\">the registration form</a>.</p>\n\n<p><em>* Please note this event will be <u>NOT</u>\_be recorded and uploaded to the EIT Digital Alumni YouTube channel</em></p>\n"
+field_event_duration:
+  -
+    value: '19:00 - 20:00'
+    format: basic_html
+    processed: '19:00 - 20:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 89bd947c-96b2-4c7b-bab8-a9a3ef34e10e
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: f40e26e8-aa94-41f9-99ee-b63bdaece6ec
+field_event_introduction:
+  -
+    value: "<p>Join us for a fun evening of games and networking!</p>\r\n"
+    format: basic_html
+    processed: "<p>Join us for a fun evening of games and networking!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 71a629a6-d6db-4567-9ead-934af26da43a
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.89bd947c-96b2-4c7b-bab8-a9a3ef34e10e
+      - media.image.f40e26e8-aa94-41f9-99ee-b63bdaece6ec
+    taxonomy_term:
+      - taxonomy_term.event_type.71a629a6-d6db-4567-9ead-934af26da43a

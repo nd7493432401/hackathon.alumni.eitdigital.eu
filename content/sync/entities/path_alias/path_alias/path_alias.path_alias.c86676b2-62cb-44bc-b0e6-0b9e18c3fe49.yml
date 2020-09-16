@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c86676b2-62cb-44bc-b0e6-0b9e18c3fe49
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/68
+alias:
+  -
+    value: /article/getting-slushed
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

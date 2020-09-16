@@ -1,0 +1,8 @@
+uuid: 31889667-c67e-4813-8285-062a3e4b1944
+langcode: en
+status: true
+dependencies: {  }
+id: user-actions
+label: 'User actions'
+description: ''
+locked: false

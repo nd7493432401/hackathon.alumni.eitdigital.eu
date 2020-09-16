@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e12f2e83-6c51-43af-b4e8-4e66cae9d6ab
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/372
+alias:
+  -
+    value: /job/digitalmix-developer-netsuite
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

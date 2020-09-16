@@ -1,0 +1,10 @@
+uuid: 651bcad7-16d0-427e-a71c-7d590e06a87e
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.doctoral_school_edit
+label: 'Doctoral School Edit'
+targetEntityType: user
+cache: true

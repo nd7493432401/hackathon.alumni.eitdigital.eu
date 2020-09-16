@@ -1,0 +1,10 @@
+uuid: 5af9f246-5d0e-415d-b533-b33f5b49e8d5
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: node.group_page
+label: 'Groups Page'
+targetEntityType: node
+cache: true

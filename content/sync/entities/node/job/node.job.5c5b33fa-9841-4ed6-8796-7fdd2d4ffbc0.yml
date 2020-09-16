@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 5c5b33fa-9841-4ed6-8796-7fdd2d4ffbc0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Senior UX Architect'
+created:
+  -
+    value: '2019-07-29T09:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T10:10:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/senior-ux-architect
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://market-logic-software.workable.com/jobs/1068414'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Market Logic Software'
+    format: full_html
+    processed: 'Market Logic Software'
+field_expiration_date:
+  -
+    value: '2019-12-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><strong>About Market Logic:</strong></p>\r\n\r\n<p>Market Logic helps the world’s best brands to make fast, winning decisions that accelerate growth. We do this with marketing insight platforms that automate innovation, marketing and research workflows, with the right insights at the right time. Market Logic supports brands in 190 countries across CPG/FMCG, retail, finance and media sectors, including Unilever, American Express, News Corp, P&amp;G, Johnson &amp; Johnson, Coca-Cola and Tesco. We employ 300+ software developers, data scientists, business consultants and marketing professionals at regional headquarters in Berlin, Chicago, and Singapore. For more information see&nbsp;<a href=\"http://www.marketlogicsoftware.com\">www.marketlogicsoftware.com</a>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>About the job:</strong></p>\r\n\r\n<p>As an integral part of our Design Studio, you will be responsible for defining and improving the over-arching user experience, interactions, and interface design.</p>\r\n\r\n<p>You will contribute to our design system, and be pivotal in defining UX and consistency of design across a large-scale enterprise platform together with our VP of Design, other Product Designers, and UX Researchers and other Architects.</p>\r\n\r\n<p>You should be on top of the UX game, constantly learning about new interaction patterns and being able to evaluate what is applicable and what isn’t.</p>\r\n\r\n<p>You will be expected to work closely with our UX Research team and drive UX best practices in the organization such as Design Thinking, Lean UX, Design Sprints, and Human Centered Design.</p>\r\n\r\n<p>A good communication and networking skill are a necessity, as you’ll be a leader within the design organization and working with product managers and engineering leads.</p>\r\n\r\n<p>On the design teams, we are passionate about great design. Our mantra is, “Clean, simple, elegant, intuitive.” We are designing for executive leaders and thousands of users within major worldwide companies, so we care deeply about the details and we provide them a world-class user experience.</p>\r\n\r\n<p>Bring with you an awesome portfolio, a sense of humor, and an insatiable appetite for design greatness.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Responsibilities include:</strong></p>\r\n\r\n<p>-&nbsp;Working with the VP of design and other design delivery leads streamlining processes, workflows, and templates in support of lean and agile methodologies</p>\r\n\r\n<p>-&nbsp;Contributes thought leadership and evangelizes the value of UX to the broader business through workshops and other activities</p>\r\n\r\n<p>-&nbsp;Encourage innovative approaches to user experience</p>\r\n\r\n<p>-&nbsp;Experiment early and often</p>\r\n\r\n<p>-&nbsp;Lead user experience exercises (e.g. workshops and design sprints)</p>\r\n\r\n<p>-&nbsp;Understand the technology available on various platforms and how we can harness it in simple but innovative ways</p>\r\n\r\n<p>-&nbsp;Collaborate with our research team to identify qualitative and quantitative research practices</p>\r\n\r\n<p>-&nbsp;Stay ahead of emerging technologies and trends</p>\r\n\r\n<p>-&nbsp;Incorporate the best new creative and technical trends into product design</p>\r\n\r\n<p>-&nbsp;Advocate for Human Centered Design and at times be an educator of those practices</p>\r\n\r\n<p>-&nbsp;Mentor, multiply and grow skills in more junior UX roles</p>\r\n\r\n<p><strong>REQUIREMENTS</strong></p>\r\n\r\n<p>-&nbsp;Five or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments</p>\r\n\r\n<p>-&nbsp;Training in Human Centered Design, Design Thinking, Human Factors, or related field. A Bachelor or Masters in Human-Computer Interaction (HCI), Information Systems, or a related UX discipline is preferred</p>\r\n\r\n<p>-&nbsp;Expertise in standard UX software such as Sketch and InVision is a must. Basic HTML5, CSS3, and JavaScript skills are a plus</p>\r\n\r\n<p>-&nbsp;Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision</p>\r\n\r\n<p>-&nbsp;Extensive experience in using UX design best practices to design solutions, and a deep understanding of responsive design</p>\r\n\r\n<p>-&nbsp;Ability to iterate designs and solutions efficiently and intelligently</p>\r\n\r\n<p>-&nbsp;Ability to clearly and effectively communicate design processes, ideas, and solutions to teams and stakeholders</p>\r\n\r\n<p>-&nbsp;A clear understanding of the importance of user-centered design and design thinking</p>\r\n\r\n<p>-&nbsp;Ability to work effectively in a team setting including synthesizing abstract ideas into concrete design implications</p>\r\n\r\n<p>-&nbsp;Be passionate about resolving user pain points through great design</p>\r\n\r\n<p>-&nbsp;A desire for on-going career and personal growth with an openness to feedback and constructive criticism</p>\r\n\r\n<p><strong>BENEFITS</strong></p>\r\n\r\n<p>-&nbsp;Senior company management that unanimously believes in the value of design and the importance of strong design teams and talented designers that lead the way for the entire platform</p>\r\n\r\n<p>-&nbsp;Exciting work with one of the leading market research software products</p>\r\n\r\n<p>-&nbsp;An agile environment where design is an integral part of the process</p>\r\n\r\n<p>-&nbsp;The opportunity to solve difficult design challenges and enjoy the success of delivering the solutions</p>\r\n\r\n<p>-&nbsp;A long-term and well-planned career path with good opportunities for growth and advancement</p>\r\n\r\n<p>-&nbsp;Flexible working hours, German classes, regular team lunches, bike leasing, and fresh fruit in the office</p>\r\n"
+    format: full_html
+    processed: "<p><strong>About Market Logic:</strong></p>\n\n<p>Market Logic helps the world’s best brands to make fast, winning decisions that accelerate growth. We do this with marketing insight platforms that automate innovation, marketing and research workflows, with the right insights at the right time. Market Logic supports brands in 190 countries across CPG/FMCG, retail, finance and media sectors, including Unilever, American Express, News Corp, P&amp;G, Johnson &amp; Johnson, Coca-Cola and Tesco. We employ 300+ software developers, data scientists, business consultants and marketing professionals at regional headquarters in Berlin, Chicago, and Singapore. For more information see\_<a href=\"http://www.marketlogicsoftware.com\">www.marketlogicsoftware.com</a>.</p>\n\n<p>\_</p>\n\n<p><strong>About the job:</strong></p>\n\n<p>As an integral part of our Design Studio, you will be responsible for defining and improving the over-arching user experience, interactions, and interface design.</p>\n\n<p>You will contribute to our design system, and be pivotal in defining UX and consistency of design across a large-scale enterprise platform together with our VP of Design, other Product Designers, and UX Researchers and other Architects.</p>\n\n<p>You should be on top of the UX game, constantly learning about new interaction patterns and being able to evaluate what is applicable and what isn’t.</p>\n\n<p>You will be expected to work closely with our UX Research team and drive UX best practices in the organization such as Design Thinking, Lean UX, Design Sprints, and Human Centered Design.</p>\n\n<p>A good communication and networking skill are a necessity, as you’ll be a leader within the design organization and working with product managers and engineering leads.</p>\n\n<p>On the design teams, we are passionate about great design. Our mantra is, “Clean, simple, elegant, intuitive.” We are designing for executive leaders and thousands of users within major worldwide companies, so we care deeply about the details and we provide them a world-class user experience.</p>\n\n<p>Bring with you an awesome portfolio, a sense of humor, and an insatiable appetite for design greatness.</p>\n\n<p>\_</p>\n\n<p><strong>Responsibilities include:</strong></p>\n\n<p>-\_Working with the VP of design and other design delivery leads streamlining processes, workflows, and templates in support of lean and agile methodologies</p>\n\n<p>-\_Contributes thought leadership and evangelizes the value of UX to the broader business through workshops and other activities</p>\n\n<p>-\_Encourage innovative approaches to user experience</p>\n\n<p>-\_Experiment early and often</p>\n\n<p>-\_Lead user experience exercises (e.g. workshops and design sprints)</p>\n\n<p>-\_Understand the technology available on various platforms and how we can harness it in simple but innovative ways</p>\n\n<p>-\_Collaborate with our research team to identify qualitative and quantitative research practices</p>\n\n<p>-\_Stay ahead of emerging technologies and trends</p>\n\n<p>-\_Incorporate the best new creative and technical trends into product design</p>\n\n<p>-\_Advocate for Human Centered Design and at times be an educator of those practices</p>\n\n<p>-\_Mentor, multiply and grow skills in more junior UX roles</p>\n\n<p><strong>REQUIREMENTS</strong></p>\n\n<p>-\_Five or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments</p>\n\n<p>-\_Training in Human Centered Design, Design Thinking, Human Factors, or related field. A Bachelor or Masters in Human-Computer Interaction (HCI), Information Systems, or a related UX discipline is preferred</p>\n\n<p>-\_Expertise in standard UX software such as Sketch and InVision is a must. Basic HTML5, CSS3, and JavaScript skills are a plus</p>\n\n<p>-\_Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision</p>\n\n<p>-\_Extensive experience in using UX design best practices to design solutions, and a deep understanding of responsive design</p>\n\n<p>-\_Ability to iterate designs and solutions efficiently and intelligently</p>\n\n<p>-\_Ability to clearly and effectively communicate design processes, ideas, and solutions to teams and stakeholders</p>\n\n<p>-\_A clear understanding of the importance of user-centered design and design thinking</p>\n\n<p>-\_Ability to work effectively in a team setting including synthesizing abstract ideas into concrete design implications</p>\n\n<p>-\_Be passionate about resolving user pain points through great design</p>\n\n<p>-\_A desire for on-going career and personal growth with an openness to feedback and constructive criticism</p>\n\n<p><strong>BENEFITS</strong></p>\n\n<p>-\_Senior company management that unanimously believes in the value of design and the importance of strong design teams and talented designers that lead the way for the entire platform</p>\n\n<p>-\_Exciting work with one of the leading market research software products</p>\n\n<p>-\_An agile environment where design is an integral part of the process</p>\n\n<p>-\_The opportunity to solve difficult design challenges and enjoy the success of delivering the solutions</p>\n\n<p>-\_A long-term and well-planned career path with good opportunities for growth and advancement</p>\n\n<p>-\_Flexible working hours, German classes, regular team lunches, bike leasing, and fresh fruit in the office</p>\n"
+field_job_location:
+  -
+    value: Berlin
+    format: full_html
+    processed: Berlin
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

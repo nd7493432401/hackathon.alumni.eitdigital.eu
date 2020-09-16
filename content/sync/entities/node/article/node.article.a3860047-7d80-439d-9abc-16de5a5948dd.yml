@@ -1,0 +1,91 @@
+uuid:
+  -
+    value: a3860047-7d80-439d-9abc-16de5a5948dd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-06-29T16:23:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: '#LEDLife - Refugee empowerment'
+created:
+  -
+    value: '2016-07-14T09:03:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-29T16:23:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/ledlife-refugee-empowerment
+body:
+  -
+    value: "<p>As EIT Alumni, let's light up the future of a refugee <a href=\"https://www.thunderclap.it/projects/44285-ledlife-refugee-empowerment\">by supporting this Thunderclap campaign</a>!</p>\r\n\r\n<p>In recent times we have seen the rise of two key challenges for Europe:&nbsp;the refugee crisis and climate change.<br />\r\n<br />\r\nEurope has taken lead in making the lives of our future generation greener and safer, as expressed in COP21. Different measures have been taken to support the arrival of an inflow of lives unprecedented since World War II.<br />\r\n<br />\r\n#LEDLife project aims to give children and youth in refugee camps the possibility to access green energy and get educated in solar energy by creating themselves a personalised SOLAR LAMP.&nbsp;</p>\r\n\r\n<p>We organise workshops inside refugee camps to teach them how to make a solar lamp using recycled materials while also introducing them to sustainability and design. This will give them access to clean light. In case of any damage, they will also be able to repair these lamp themselves, hence creating capacity building within their camps.</p>\r\n\r\n<p>This is not &nbsp;just a lamp, it is a mean to learn about sustainable technology and express their creativity. You can support this project by donating a lamp kit, buying a lamp made by refugees or becoming a trainer and organise your own training.&nbsp;</p>\r\n\r\n<p>The tiny and bright LED powered by clean and sustainable energy tells the story behind its creator. This is LEDLife.&nbsp;</p>\r\n\r\n<p>Let’s make our Europe greener and involve our future citizens into this movement.</p>\r\n"
+    format: full_html
+    processed: "<p>As EIT Alumni, let's light up the future of a refugee <a href=\"https://www.thunderclap.it/projects/44285-ledlife-refugee-empowerment\">by supporting this Thunderclap campaign</a>!</p>\n\n<p>In recent times we have seen the rise of two key challenges for Europe:\_the refugee crisis and climate change.<br />\n<br />\nEurope has taken lead in making the lives of our future generation greener and safer, as expressed in COP21. Different measures have been taken to support the arrival of an inflow of lives unprecedented since World War II.<br />\n<br />\n#LEDLife project aims to give children and youth in refugee camps the possibility to access green energy and get educated in solar energy by creating themselves a personalised SOLAR LAMP.\_</p>\n\n<p>We organise workshops inside refugee camps to teach them how to make a solar lamp using recycled materials while also introducing them to sustainability and design. This will give them access to clean light. In case of any damage, they will also be able to repair these lamp themselves, hence creating capacity building within their camps.</p>\n\n<p>This is not \_just a lamp, it is a mean to learn about sustainable technology and express their creativity. You can support this project by donating a lamp kit, buying a lamp made by refugees or becoming a trainer and organise your own training.\_</p>\n\n<p>The tiny and bright LED powered by clean and sustainable energy tells the story behind its creator. This is LEDLife.\_</p>\n\n<p>Let’s make our Europe greener and involve our future citizens into this movement.</p>\n"
+    summary: 'As EIT Alumni, let''s light up the future of a refugee by supporting this Thunderclap campaign!In rec'
+    summary_processed: 'As EIT Alumni, let''s light up the future of a refugee by supporting this Thunderclap campaign!In rec'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Let''s light up the future of a refugee!'
+field_image:
+  -
+    target_type: media
+    target_uuid: cd95af3f-acb6-4e25-bad8-26e422377232
+field_introduction_image:
+  -
+    target_type: media
+    target_uuid: cd95af3f-acb6-4e25-bad8-26e422377232
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.cd95af3f-acb6-4e25-bad8-26e422377232

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: eac2bc79-c297-4f2f-975e-1b73985e5157
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/259
+alias:
+  -
+    value: /event/paris-xeitd-tech-meetup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

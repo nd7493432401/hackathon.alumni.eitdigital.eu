@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 280ace0e-5871-45db-a103-af0ec50e3d45
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/489
+alias:
+  -
+    value: /job/senior-backend-engineerarchitect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

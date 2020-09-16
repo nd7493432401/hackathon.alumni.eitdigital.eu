@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: af299408-ba62-4ce9-8833-20c281432e03
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Research Scientist @ Nokia Bell Labs Cambridge'
+created:
+  -
+    value: '2019-12-04T15:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:47:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/research-scientist-nokia-bell-labs-cambridge
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://lnkd.in/gcRe9Dv'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'Nokia Bell Labs'
+    format: full_html
+    processed: 'Nokia Bell Labs'
+field_expiration_date:
+  -
+    value: '2020-01-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>Dr. Fahim Kawsar, lead of the Nokia Bell Labs Cambridge Pervasim Systems team,&nbsp;is hiring multiple research scientists. Those who want to work on Edge AI, with IoT, and earables for some transformative UX, are invited to apply.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>Notice that a Ph.D. in Computer Science is required.</strong></p>\r\n\r\n<p>Contact <a href=\"/users/andreaferlini\">Andrea</a> for more info</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Dr. Fahim Kawsar, lead of the Nokia Bell Labs Cambridge Pervasim Systems team,\_is hiring multiple research scientists. Those who want to work on Edge AI, with IoT, and earables for some transformative UX, are invited to apply.\_</p>\n\n<p>\_</p>\n\n<p><strong>Notice that a Ph.D. in Computer Science is required.</strong></p>\n\n<p>Contact <a href=\"/users/andreaferlini\">Andrea</a> for more info</p>\n\n<p>\_</p>\n"
+field_job_location:
+  -
+    value: 'Cambridge (UK)'
+    format: full_html
+    processed: 'Cambridge (UK)'
+field_more_details_link:
+  -
+    uri: 'https://www.linkedin.com/feed/update/urn:li:activity:6605058663042428928/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

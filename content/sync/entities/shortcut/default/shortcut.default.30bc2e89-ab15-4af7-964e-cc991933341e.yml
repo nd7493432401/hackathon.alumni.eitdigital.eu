@@ -1,0 +1,28 @@
+uuid:
+  -
+    value: 30bc2e89-ab15-4af7-964e-cc991933341e
+langcode:
+  -
+    value: en
+shortcut_set:
+  -
+    target_id: default
+    target_type: shortcut_set
+    target_uuid: 6a50d85e-54c5-4c45-807d-5d69fe77f19f
+title:
+  -
+    value: 'All content'
+weight:
+  -
+    value: -19
+link:
+  -
+    uri: 'internal:/admin/content'
+    title: null
+    options: {  }
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: shortcut
+  entity_dependencies: {  }

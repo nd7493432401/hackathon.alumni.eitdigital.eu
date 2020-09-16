@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0bdb0722-6e61-4c38-b4b1-17c4344b1b29
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/143
+alias:
+  -
+    value: /question-tags/event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

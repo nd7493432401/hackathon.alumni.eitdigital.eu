@@ -1,0 +1,29 @@
+uuid: 481ab8d7-ddd8-4494-823f-13b426b29642
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_track
+    - profile.type.eit_digital_master_school
+    - taxonomy.vocabulary.tracks_master_school_
+id: profile.eit_digital_master_school.field_track
+field_name: field_track
+entity_type: profile
+bundle: eit_digital_master_school
+label: Track
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      tracks_master_school_: tracks_master_school_
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

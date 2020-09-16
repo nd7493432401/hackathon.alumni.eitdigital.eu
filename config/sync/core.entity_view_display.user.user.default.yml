@@ -1,0 +1,228 @@
+uuid: d41e9ace-875c-4d1f-b52b-9ada82f2183e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.user.user.field_about_me
+    - field.field.user.user.field_address
+    - field.field.user.user.field_current_job
+    - field.field.user.user.field_current_professional_statu
+    - field.field.user.user.field_education
+    - field.field.user.user.field_expertise
+    - field.field.user.user.field_facebook
+    - field.field.user.user.field_first_name
+    - field.field.user.user.field_geolocation
+    - field.field.user.user.field_introduction
+    - field.field.user.user.field_languages
+    - field.field.user.user.field_last_name
+    - field.field.user.user.field_linkedin
+    - field.field.user.user.field_local_representative
+    - field.field.user.user.field_mentorship_status
+    - field.field.user.user.field_projects
+    - field.field.user.user.field_twitter
+    - field.field.user.user.field_user_picture
+    - field.field.user.user.field_website
+  module:
+    - address
+    - ds
+    - entity_reference_revisions
+    - fences
+    - languagefield
+    - user
+third_party_settings:
+  ds:
+    layout:
+      id: bs_2col_stacked
+      library: null
+      disable_css: false
+      entity_classes: all_classes
+      settings:
+        label: ''
+        layout:
+          wrapper: div
+          classes:
+            row: row
+          add_layout_class: 1
+          attributes: ''
+        regions:
+          top:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+          left:
+            wrapper: div
+            classes:
+              col-sm-8: col-sm-8
+            add_region_classes: 1
+            attributes: ''
+          right:
+            wrapper: div
+            classes:
+              col-xs-4: col-xs-4
+            add_region_classes: 1
+            attributes: ''
+          bottom:
+            wrapper: div
+            classes:
+              col-sm-12: col-sm-12
+            add_region_classes: 1
+            attributes: ''
+    regions:
+      left:
+        - field_about_me
+        - field_education
+        - field_projects
+        - eit_digital_master_school_profiles
+        - eit_digital_doctoral_school_profiles
+        - eit_digital_friend_profiles
+        - eit_digital_professional_school_profiles
+        - eit_digital_summer_school_profiles
+        - eit_digital_employee_profiles
+      right:
+        - field_expertise
+        - field_local_representative
+        - field_languages
+        - field_address
+_core:
+  default_config_hash: V51QPCKkgNREKtSmB9Iu2wmAMEpktVpnzklWaZV8UYo
+id: user.user.default
+targetEntityType: user
+bundle: user
+mode: default
+content:
+  eit_digital_doctoral_school_profiles:
+    type: entity_reference_entity_view
+    weight: 4
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  eit_digital_employee_profiles:
+    type: entity_reference_entity_view
+    weight: 8
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  eit_digital_friend_profiles:
+    type: entity_reference_entity_view
+    weight: 5
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  eit_digital_master_school_profiles:
+    type: entity_reference_entity_view
+    weight: 3
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  eit_digital_professional_school_profiles:
+    type: entity_reference_entity_view
+    weight: 6
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  eit_digital_summer_school_profiles:
+    type: entity_reference_entity_view
+    weight: 7
+    region: left
+    label: above
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  field_about_me:
+    weight: 0
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: left
+  field_address:
+    weight: 12
+    label: visually_hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: address_default
+    region: right
+  field_education:
+    type: entity_reference_revisions_entity_view
+    weight: 1
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: left
+  field_expertise:
+    weight: 9
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: right
+  field_languages:
+    type: languagefield_default
+    weight: 11
+    region: right
+    label: above
+    settings:
+      link_to_entity: false
+      format:
+        name: name
+    third_party_settings: {  }
+  field_local_representative:
+    weight: 10
+    label: above
+    settings:
+      link: false
+    third_party_settings:
+      fences:
+        fences_field_tag: div
+        fences_field_classes: ''
+        fences_field_item_tag: div
+        fences_field_item_classes: ''
+        fences_label_tag: div
+        fences_label_classes: ''
+    type: entity_reference_label
+    region: right
+  field_projects:
+    type: entity_reference_revisions_entity_view
+    weight: 2
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: left
+hidden:
+  field_current_job: true
+  field_current_professional_statu: true
+  field_facebook: true
+  field_first_name: true
+  field_geolocation: true
+  field_introduction: true
+  field_last_name: true
+  field_linkedin: true
+  field_mentorship_status: true
+  field_twitter: true
+  field_user_picture: true
+  field_website: true
+  langcode: true
+  member_for: true

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 004c8f66-4bb3-483c-992f-f323795166a6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/103
+alias:
+  -
+    value: /article/updates-annual-meeting-2020-regarding-covid-19
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

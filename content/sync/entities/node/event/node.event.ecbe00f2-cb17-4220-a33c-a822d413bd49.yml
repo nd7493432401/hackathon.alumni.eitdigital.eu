@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: ecbe00f2-cb17-4220-a33c-a822d413bd49
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:51:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni Think Tanks'
+created:
+  -
+    value: '2019-09-14T09:37:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:51:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-alumni-think-tanks
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC London, 15-17 Leeke Street'
+    format: full_html
+    processed: 'EIT Digital CLC London, 15-17 Leeke Street'
+field_event_date:
+  -
+    value: '2019-09-26T18:30:00+02:00'
+    end_value: '2019-09-26T21:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>On Wednesday&nbsp;Sep. 26th, the alumni from various EIT KICs and who are based in<strong>&nbsp;London</strong>&nbsp;will host a <strong>think tank</strong> to discuss business opportunities, network and participate in group challenge workshops aimed at encouraging cross-KIC collaborative thinking!&nbsp;&nbsp;</p>\r\n\r\n<p><strong>Free food and drinks</strong> will be provided during the event. All members of the <strong>EIT community </strong>in London and the Greater London area, across any KIC, are welcome to join!<br />\r\n<br />\r\nSchedule:<br />\r\n18.30-19:00:&nbsp;Doors Open<br />\r\n19:00-19.15: Introductions<br />\r\n19:15-19.30: Group divisions &amp; challenge introductions<br />\r\n19:30-20.15: Team workshops - tackle challenges<br />\r\n20.15-20.30: Present results<br />\r\n20.30-21.00: Networking<br />\r\n<br />\r\n*<strong>Travel bursaries</strong> are available to subsidise cost if you are travelling from outside the greater London area. Contact our local event organizer <a href=\"https://alumni.eitdigital.eu/users/mary\" target=\"_blank\">Mary Chan</a> to request more information!<br />\r\n<br />\r\n<a href=\"https://www.eventbrite.co.uk/e/eit-think-tank-tickets-72178143771\" target=\"_blank\">Register <strong>HERE</strong></a></p>\r\n"
+    format: full_html
+    processed: "<p>On Wednesday\_Sep. 26th, the alumni from various EIT KICs and who are based in<strong>\_London</strong>\_will host a <strong>think tank</strong> to discuss business opportunities, network and participate in group challenge workshops aimed at encouraging cross-KIC collaborative thinking!\_\_</p>\n\n<p><strong>Free food and drinks</strong> will be provided during the event. All members of the <strong>EIT community </strong>in London and the Greater London area, across any KIC, are welcome to join!<br />\n<br />\nSchedule:<br />\n18.30-19:00:\_Doors Open<br />\n19:00-19.15: Introductions<br />\n19:15-19.30: Group divisions &amp; challenge introductions<br />\n19:30-20.15: Team workshops - tackle challenges<br />\n20.15-20.30: Present results<br />\n20.30-21.00: Networking<br />\n<br />\n*<strong>Travel bursaries</strong> are available to subsidise cost if you are travelling from outside the greater London area. Contact our local event organizer <a href=\"https://alumni.eitdigital.eu/users/mary\" target=\"_blank\">Mary Chan</a> to request more information!<br />\n<br />\n<a href=\"https://www.eventbrite.co.uk/e/eit-think-tank-tickets-72178143771\" target=\"_blank\">Register <strong>HERE</strong></a></p>\n"
+field_event_duration:
+  -
+    value: '18:30 - 21:00'
+    format: full_html
+    processed: '18:30 - 21:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 39a8d97e-f416-4962-8aa7-ab64af3d6c26
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 39a8d97e-f416-4962-8aa7-ab64af3d6c26
+field_event_introduction:
+  -
+    value: "<p>Solve challenges together with other EIT Alumni</p>\r\n"
+    format: full_html
+    processed: "<p>Solve challenges together with other EIT Alumni</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b63221f6-a610-4b97-915c-c8b087f730ad
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.39a8d97e-f416-4962-8aa7-ab64af3d6c26
+    taxonomy_term:
+      - taxonomy_term.event_type.b63221f6-a610-4b97-915c-c8b087f730ad

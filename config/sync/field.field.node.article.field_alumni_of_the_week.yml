@@ -1,0 +1,23 @@
+uuid: 03a92978-f2c1-44e4-81ea-244aaeed83ae
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_alumni_of_the_week
+    - node.type.article
+id: node.article.field_alumni_of_the_week
+field_name: field_alumni_of_the_week
+entity_type: node
+bundle: article
+label: 'Alumni of the week'
+description: 'Click to enter alumni of the week information.'
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

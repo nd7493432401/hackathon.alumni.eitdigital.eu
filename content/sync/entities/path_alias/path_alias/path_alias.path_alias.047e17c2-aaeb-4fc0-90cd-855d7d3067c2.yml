@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 047e17c2-aaeb-4fc0-90cd-855d7d3067c2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/226
+alias:
+  -
+    value: /event/alumni-night-budapest
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

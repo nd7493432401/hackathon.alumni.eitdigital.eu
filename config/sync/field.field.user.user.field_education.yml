@@ -1,0 +1,31 @@
+uuid: ed62883a-507f-4bf3-9444-7315dea9a096
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_education
+    - paragraphs.paragraphs_type.education
+  module:
+    - entity_reference_revisions
+    - user
+id: user.user.field_education
+field_name: field_education
+entity_type: user
+bundle: user
+label: Education
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    negate: 0
+    target_bundles:
+      education: education
+    target_bundles_drag_drop:
+      education:
+        enabled: true
+        weight: 2
+field_type: entity_reference_revisions

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 7f6377c7-9db1-451b-b469-3f13ce145d87
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Embedded software engineer'
+created:
+  -
+    value: '2018-04-13T17:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:25:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/embedded-software-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://emp.jobylon.com/applications/jobs/19462/create/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'MIND Music Labs'
+    format: full_html
+    processed: 'MIND Music Labs'
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p><a href=\"https://www.mindmusiclabs.com/\">MIND Music Labs</a>&nbsp;are a music tech startup working on new technologies for musical instruments. Our products are&nbsp;<a href=\"https://www.mindmusiclabs.com/sensus/\">SENSUS</a>, a connected smart guitar, and&nbsp;<a href=\"https://elkmusicos.com\">E<wbr />LK</a>, a game-changing operating system for hardware musical instruments.</p>\r\n\r\n<p>Our&nbsp;<a href=\"http://www.mindmusiclabs.com/team/\">team</a>&nbsp;is composed of motivated music enthusiasts with experience in various fields. We are well funded and we have a large office space inside&nbsp;<a href=\"https://www.sthlmmusic.se/\">STHLM Music House</a>, next to the ABBA Museum in Djurgården - one of Stockholm's nicest areas.</p>\r\n\r\n<p style=\"text-align: center;\"><strong>&nbsp;Embedded software engineer</strong></p>\r\n\r\n<p>We are looking for getting a new intern in&nbsp;<strong>embedded software development</strong>. This is a great opportunity to start working on&nbsp;<strong>advanced real-time Linux solutions</strong>, being followed closely by people in our team of embedded experts.</p>\r\n\r\n<p><strong>You will</strong>:</p>\r\n\r\n<ul>\r\n\t<li><strong>Work on independent projects</strong>&nbsp;where you will have the chance to port our&nbsp;<strong>ELK</strong>&nbsp;system to new architectures</li>\r\n\t<li>Write&nbsp;<strong>Linux</strong>&nbsp;and&nbsp;<strong>specialized drivers</strong>&nbsp;for audio devices</li>\r\n\t<li>Customize&nbsp;<strong>BSPs</strong>&nbsp;for our boards using the&nbsp;<strong>Yocto&nbsp;</strong><strong>/ OpenEmbedded</strong>&nbsp;tools</li>\r\n\t<li>Work closely with our&nbsp;<strong>embedded team</strong>&nbsp;that will follow you in your project</li>\r\n</ul>\r\n\r\n<p><strong>We can offer you</strong>:</p>\r\n\r\n<ul>\r\n\t<li>Assisted training and formation</li>\r\n\t<li>Flexible working hours</li>\r\n\t<li>Expenses refund</li>\r\n\t<li>A friendly and stimulating working environment in our office at&nbsp;<a href=\"https://www.sthlmmusic.se\">STHLM Music City</a>. Next to ABBA museum, Friday afterworks with drinks, and plenty of musical instruments available - Jam sessions happen every day :)</li>\r\n\t<li>An active role in an engaging project where you will have the chance to develop a great musical product that's going to change the musical instrument world</li>\r\n</ul>\r\n\r\n<p><strong>Required Skills:</strong></p>\r\n\r\n<ul>\r\n\t<li>Passionate about&nbsp;<strong>music</strong>&nbsp;and familiar with&nbsp;<strong>music production tools</strong></li>\r\n\t<li><strong>B.S.</strong>&nbsp;or similar in Electrical Engineering, Computer Science or similar fields</li>\r\n\t<li>Experience with&nbsp;<strong>Linux systems</strong>, at least in user-space</li>\r\n\t<li>Experience in writing&nbsp;<strong>low-level C code</strong>&nbsp;for e.g. microcontrolle</li>\r\n</ul>\r\n\r\n<p><strong>Pluses:</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Linux Kernel</strong>&nbsp;development experience (drivers in particular)</li>\r\n\t<li><strong>Real-Time</strong>&nbsp;programming experience</li>\r\n\t<li>Knowledge of&nbsp;<strong>audio codecs</strong></li>\r\n\t<li>Familiarity with&nbsp;<strong>XMOS</strong>&nbsp;microcontrollers</li>\r\n\t<li>Hardware skills, e.g. being able to read schematics, using an oscilloscope, etc.</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://www.mindmusiclabs.com/\">MIND Music Labs</a>\_are a music tech startup working on new technologies for musical instruments. Our products are\_<a href=\"https://www.mindmusiclabs.com/sensus/\">SENSUS</a>, a connected smart guitar, and\_<a href=\"https://elkmusicos.com\">E<wbr></wbr>LK</a>, a game-changing operating system for hardware musical instruments.</p>\n\n<p>Our\_<a href=\"http://www.mindmusiclabs.com/team/\">team</a>\_is composed of motivated music enthusiasts with experience in various fields. We are well funded and we have a large office space inside\_<a href=\"https://www.sthlmmusic.se/\">STHLM Music House</a>, next to the ABBA Museum in Djurgården - one of Stockholm's nicest areas.</p>\n\n<p style=\"text-align: center;\"><strong>\_Embedded software engineer</strong></p>\n\n<p>We are looking for getting a new intern in\_<strong>embedded software development</strong>. This is a great opportunity to start working on\_<strong>advanced real-time Linux solutions</strong>, being followed closely by people in our team of embedded experts.</p>\n\n<p><strong>You will</strong>:</p>\n\n<ul>\n\t<li><strong>Work on independent projects</strong>\_where you will have the chance to port our\_<strong>ELK</strong>\_system to new architectures</li>\n\t<li>Write\_<strong>Linux</strong>\_and\_<strong>specialized drivers</strong>\_for audio devices</li>\n\t<li>Customize\_<strong>BSPs</strong>\_for our boards using the\_<strong>Yocto\_</strong><strong>/ OpenEmbedded</strong>\_tools</li>\n\t<li>Work closely with our\_<strong>embedded team</strong>\_that will follow you in your project</li>\n</ul>\n\n<p><strong>We can offer you</strong>:</p>\n\n<ul>\n\t<li>Assisted training and formation</li>\n\t<li>Flexible working hours</li>\n\t<li>Expenses refund</li>\n\t<li>A friendly and stimulating working environment in our office at\_<a href=\"https://www.sthlmmusic.se\">STHLM Music City</a>. Next to ABBA museum, Friday afterworks with drinks, and plenty of musical instruments available - Jam sessions happen every day :)</li>\n\t<li>An active role in an engaging project where you will have the chance to develop a great musical product that's going to change the musical instrument world</li>\n</ul>\n\n<p><strong>Required Skills:</strong></p>\n\n<ul>\n\t<li>Passionate about\_<strong>music</strong>\_and familiar with\_<strong>music production tools</strong></li>\n\t<li><strong>B.S.</strong>\_or similar in Electrical Engineering, Computer Science or similar fields</li>\n\t<li>Experience with\_<strong>Linux systems</strong>, at least in user-space</li>\n\t<li>Experience in writing\_<strong>low-level C code</strong>\_for e.g. microcontrolle</li>\n</ul>\n\n<p><strong>Pluses:</strong></p>\n\n<ul>\n\t<li><strong>Linux Kernel</strong>\_development experience (drivers in particular)</li>\n\t<li><strong>Real-Time</strong>\_programming experience</li>\n\t<li>Knowledge of\_<strong>audio codecs</strong></li>\n\t<li>Familiarity with\_<strong>XMOS</strong>\_microcontrollers</li>\n\t<li>Hardware skills, e.g. being able to read schematics, using an oscilloscope, etc.</li>\n</ul>\n\n<p>\_</p>\n"
+field_job_location:
+  -
+    value: 'Stockholm, Sweden'
+    format: full_html
+    processed: 'Stockholm, Sweden'
+field_more_details_link:
+  -
+    uri: 'https://emp.jobylon.com/jobs/19462-mind-music-labs-embedded-software-developer-internship/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

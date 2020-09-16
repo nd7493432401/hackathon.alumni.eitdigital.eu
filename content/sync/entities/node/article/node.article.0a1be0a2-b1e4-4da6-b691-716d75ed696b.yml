@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 0a1be0a2-b1e4-4da6-b691-716d75ed696b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:54:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Cybersecurity Alumni Talks'
+created:
+  -
+    value: '2018-12-23T14:26:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:54:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/cybersecurity-alumni-talks
+body:
+  -
+    value: "<p>We have just concluded a <a href=\"https://alumni.eitdigital.eu/event/first-cybersecurity-meetup-hungary\">series of talks</a> and I thought to share my experience. We had <strong>9 talks</strong> between end of September and beginning of December, and on each talk an EIT Digital Academy alumna/alumnus shared their experience on the <strong>cybersecurity job market</strong> in Budapest, Hungary and Europe and generally what was their journey since they finished their education. The purpose of the talks was to share some first-hand experience with the current cybersecurity students, and to <strong>get the alumni community together</strong>. The talks were organized at the Budapest CLC on Wednesday evenings between 18:00-20:00, and the Alumni Foundation was kind enough to <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">provide pizza for the events</a>.</p>\r\n\r\n<p>Overall the events went really well: we had <strong>over 40 people</strong> who attended at least one event. We had alumni and students from <strong>7 different cohorts</strong> and people from more than <strong>10 nations</strong>. Current EIT Digital cybersecurity students were there on all talks and engaged in an active conversation. Generally people who graduated in the same class tend&nbsp;to keep in touch, but there is much less contact between alumni from different years. As we had people from different cohorts on these events, they were a great place to foster <strong>cross-cohort conversation</strong> and maybe future cooperation.</p>\r\n\r\n<p><img alt=\"Budapest CS\" data-entity-type=\"file\" data-entity-uuid=\"e77f5523-786d-4928-bdb8-fa2d65701c27\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Bud.jpg\" /></p>\r\n\r\n<p><br />\r\nThere are also a few things where these events could be improved:</p>\r\n\r\n<ul>\r\n\t<li>I usually only shared the name of the next presenter a week before the event, and then it was another couple of days until the event was live on <a href=\"https://www.facebook.com/digitalumni/\">Facebook</a>. Next time it would be better to announce the topic and presenter earlier (at least 10 days), so that more people can be reached and they have more time to decide to come.<br />\r\n\t&nbsp;</li>\r\n\t<li>Also having&nbsp;<a href=\"https://www.facebook.com/digitalumni/groups\">local EIT Digital Alumni Facebook groups</a>&nbsp;and sharing&nbsp;the events there helps: during discussion with other Alumni members it turned out, that most of us don’t often check the <a href=\"http://alumni.eitdigital.eu/slack\">Alumni Slack</a>, so (also) posting the events to a Facebook group would help us not to miss it. Charles just created a <a href=\"https://www.facebook.com/groups/322834371871314/\">group for the Budapest Alumni</a>.<br />\r\n\t&nbsp;</li>\r\n\t<li>Have wider topics covering other areas as well: in the middle of the semester we had a few similar talks. Having more diverse topics, or having the similar topics not after each other could help with this. If anyone would like to <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\"><strong>give a talk</strong> or help organize a meetup</a> in Budapest, please <a href=\"https://alumni.eitdigital.eu/users/mark\">get back to me</a> :)</li>\r\n</ul>\r\n\r\n<p>Overall I believe this was a successful series of events with a useful outcome for all participants (presenters and guests alike). I am very thankful for all the help the Alumni has provided, with their constant support, their advice, Bobo's and Tiziano’s work with the <a href=\"https://www.facebook.com/digitalumni/events\">Facebook events</a> and, last but not least, the food.</p>\r\n\r\n<p><br />\r\n<a href=\"http://alumni.eitdigital.eu/users/mark\">Mark</a>,&nbsp;Software Engineer&nbsp;working on <a href=\"https://www.lastpass.com/\">LastPass</a></p>\r\n"
+    format: full_html
+    processed: "<p>We have just concluded a <a href=\"https://alumni.eitdigital.eu/event/first-cybersecurity-meetup-hungary\">series of talks</a> and I thought to share my experience. We had <strong>9 talks</strong> between end of September and beginning of December, and on each talk an EIT Digital Academy alumna/alumnus shared their experience on the <strong>cybersecurity job market</strong> in Budapest, Hungary and Europe and generally what was their journey since they finished their education. The purpose of the talks was to share some first-hand experience with the current cybersecurity students, and to <strong>get the alumni community together</strong>. The talks were organized at the Budapest CLC on Wednesday evenings between 18:00-20:00, and the Alumni Foundation was kind enough to <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\">provide pizza for the events</a>.</p>\n\n<p>Overall the events went really well: we had <strong>over 40 people</strong> who attended at least one event. We had alumni and students from <strong>7 different cohorts</strong> and people from more than <strong>10 nations</strong>. Current EIT Digital cybersecurity students were there on all talks and engaged in an active conversation. Generally people who graduated in the same class tend\_to keep in touch, but there is much less contact between alumni from different years. As we had people from different cohorts on these events, they were a great place to foster <strong>cross-cohort conversation</strong> and maybe future cooperation.</p>\n\n<p><img alt=\"Budapest CS\" data-entity-type=\"file\" data-entity-uuid=\"e77f5523-786d-4928-bdb8-fa2d65701c27\" src=\"/sites/default/files/inline-images/Bud.jpg\" /></p>\n\n<p><br />\nThere are also a few things where these events could be improved:</p>\n\n<ul>\n\t<li>I usually only shared the name of the next presenter a week before the event, and then it was another couple of days until the event was live on <a href=\"https://www.facebook.com/digitalumni/\">Facebook</a>. Next time it would be better to announce the topic and presenter earlier (at least 10 days), so that more people can be reached and they have more time to decide to come.<br />\n\t\_</li>\n\t<li>Also having\_<a href=\"https://www.facebook.com/digitalumni/groups\">local EIT Digital Alumni Facebook groups</a>\_and sharing\_the events there helps: during discussion with other Alumni members it turned out, that most of us don’t often check the <a href=\"http://alumni.eitdigital.eu/slack\">Alumni Slack</a>, so (also) posting the events to a Facebook group would help us not to miss it. Charles just created a <a href=\"https://www.facebook.com/groups/322834371871314/\">group for the Budapest Alumni</a>.<br />\n\t\_</li>\n\t<li>Have wider topics covering other areas as well: in the middle of the semester we had a few similar talks. Having more diverse topics, or having the similar topics not after each other could help with this. If anyone would like to <a href=\"https://alumni.eitdigital.eu/organize-event-alumni-name\"><strong>give a talk</strong> or help organize a meetup</a> in Budapest, please <a href=\"https://alumni.eitdigital.eu/users/mark\">get back to me</a> :)</li>\n</ul>\n\n<p>Overall I believe this was a successful series of events with a useful outcome for all participants (presenters and guests alike). I am very thankful for all the help the Alumni has provided, with their constant support, their advice, Bobo's and Tiziano’s work with the <a href=\"https://www.facebook.com/digitalumni/events\">Facebook events</a> and, last but not least, the food.</p>\n\n<p><br />\n<a href=\"http://alumni.eitdigital.eu/users/mark\">Mark</a>,\_Software Engineer\_working on <a href=\"https://www.lastpass.com/\">LastPass</a></p>\n"
+    summary: 'We have just concluded a series of talks and I thought to share my experience. We had 9 talks betwee'
+    summary_processed: 'We have just concluded a series of talks and I thought to share my experience. We had 9 talks betwee'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'Mark was the organizer of a series of talks in Budapest, and thought to share his experience'
+field_image:
+  -
+    target_type: media
+    target_uuid: 976580a7-8ad4-4ac7-aa75-d7bd03d7afd0
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.976580a7-8ad4-4ac7-aa75-d7bd03d7afd0

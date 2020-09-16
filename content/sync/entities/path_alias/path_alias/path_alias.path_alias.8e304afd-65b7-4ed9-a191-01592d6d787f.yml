@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8e304afd-65b7-4ed9-a191-01592d6d787f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/320
+alias:
+  -
+    value: /job/penetration-tester
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

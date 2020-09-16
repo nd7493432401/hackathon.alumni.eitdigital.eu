@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4819bbd0-42cc-46c0-a3a2-0bd7825108c3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/130
+alias:
+  -
+    value: /candidate/kevin-jacob
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

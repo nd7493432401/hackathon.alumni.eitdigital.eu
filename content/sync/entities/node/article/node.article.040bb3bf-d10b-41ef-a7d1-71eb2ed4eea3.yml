@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 040bb3bf-d10b-41ef-a7d1-71eb2ed4eea3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:12:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Present your startup at SLUSH!'
+created:
+  -
+    value: '2016-09-17T14:01:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:12:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/present-your-startup-slush
+body:
+  -
+    value: "<p>EIT Digital Alumni is supporting your entrepreneurial endeavors:<br />\r\nPresent your early-stage startup at SLUSH!</p>\r\n\r\n<p>Slush, held in Helsinki from 30 November - 1 December 2016, is one of Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. Last year, over 1500 startups and 800 VC’s met in Helsinki!</p>\r\n\r\n<p>In addition to attending the event and listening to speeches held by today's innovative personalities and tech trend-setters, there is also the chance to enter and win the Slush 100 pitching, or the SeedCamp pitching competitions, as well as a recruitment area for finding new talents. Check out www.slush.org for more details!</p>\r\n\r\n<p>EIT Digital alumni looking to start or advance an entrepreneurial venture are invited to participate in this opportunity. We are sponsoring the participation of one early-stage startup at Slush 2016.</p>\r\n\r\n<p>Eligibility requirements:</p>\r\n\r\n<p>- You are a registered alumni member of the EIT Digital Alumni Foundation*</p>\r\n\r\n<p>- You are the founder or co-founder of the startup you want to present at Slush</p>\r\n\r\n<p>Please send details about your startup (web page, media coverage, presentation, etc.) and a motivational paragraph stating your interest in presenting your startup and being our ambassador at this year's Slush event to&nbsp;alumni@eitdigital.eu&nbsp;no later thanSeptember 20th, 18:00 CET.</p>\r\n\r\n<p>Applications will be evaluated directly by the EIT Digital Alumni Board. If you have general questions about this opportunity please get in touch at&nbsp;alumni@eitdigital.eu&nbsp;or our social media channels.</p>\r\n\r\n<p>Celebrate entrepreneurship and get involved as an EIT Digital Alumni Ambassador at SLUSH!</p>\r\n\r\n<p>---</p>\r\n\r\n<p><em>*In accordance with the EIT Digital Alumni Foundation’s Statutes, an alumnus is each individual who has graduated from the EIT Digital Master or Doctoral School, or each individual who had a formal function at EIT Digital. You need to be a registered member at alumni.eitdigital.eu</em></p>\r\n"
+    format: full_html
+    processed: "<p>EIT Digital Alumni is supporting your entrepreneurial endeavors:<br />\nPresent your early-stage startup at SLUSH!</p>\n\n<p>Slush, held in Helsinki from 30 November - 1 December 2016, is one of Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. Last year, over 1500 startups and 800 VC’s met in Helsinki!</p>\n\n<p>In addition to attending the event and listening to speeches held by today's innovative personalities and tech trend-setters, there is also the chance to enter and win the Slush 100 pitching, or the SeedCamp pitching competitions, as well as a recruitment area for finding new talents. Check out www.slush.org for more details!</p>\n\n<p>EIT Digital alumni looking to start or advance an entrepreneurial venture are invited to participate in this opportunity. We are sponsoring the participation of one early-stage startup at Slush 2016.</p>\n\n<p>Eligibility requirements:</p>\n\n<p>- You are a registered alumni member of the EIT Digital Alumni Foundation*</p>\n\n<p>- You are the founder or co-founder of the startup you want to present at Slush</p>\n\n<p>Please send details about your startup (web page, media coverage, presentation, etc.) and a motivational paragraph stating your interest in presenting your startup and being our ambassador at this year's Slush event to\_alumni@eitdigital.eu\_no later thanSeptember 20th, 18:00 CET.</p>\n\n<p>Applications will be evaluated directly by the EIT Digital Alumni Board. If you have general questions about this opportunity please get in touch at\_alumni@eitdigital.eu\_or our social media channels.</p>\n\n<p>Celebrate entrepreneurship and get involved as an EIT Digital Alumni Ambassador at SLUSH!</p>\n\n<p>---</p>\n\n<p><em>*In accordance with the EIT Digital Alumni Foundation’s Statutes, an alumnus is each individual who has graduated from the EIT Digital Master or Doctoral School, or each individual who had a formal function at EIT Digital. You need to be a registered member at alumni.eitdigital.eu</em></p>\n"
+    summary: 'EIT Digital Alumni is supporting your entrepreneurial endeavors:Present your early-stage startup at '
+    summary_processed: 'EIT Digital Alumni is supporting your entrepreneurial endeavors:Present your early-stage startup at '
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'EIT Digital Alumni is supporting your entrepreneurial endeavors'
+field_image:
+  -
+    target_type: media
+    target_uuid: 3bced8cc-bb5c-4a49-80b9-872ead73fe6c
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.3bced8cc-bb5c-4a49-80b9-872ead73fe6c

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: fb035ad7-9f22-49b3-8d98-e90b1985519a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:52:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Spotlight on: Julia Wache'
+created:
+  -
+    value: '2018-09-13T10:21:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:52:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/spotlight-julia-wache
+body:
+  -
+    value: "<p>Our Alumna&nbsp;<a href=\"https://alumni.eitdigital.eu/users/juliawache\">Julia Wache</a>, a 2017 graduate of the EIT Digital Doctoral School, has co-founded <a href=\"https://www.feelspace.de/?lang=en\">feelSpace</a>, a company that produces a vibrotactile compass belt that functions as a sixth sense. It helps visually impaired people to orientate themselves and find their way. You can read all her story&nbsp;<a href=\"http://bit.ly/JuliaWache\">in this article by EIT Digital</a>.</p>\r\n\r\n<p>In July 2018, Julia got closer to <strong>EIT Health</strong> and joined their&nbsp;annual <a href=\"https://www.eithealth.eu/-/cruising-and-pitching-for-better-health\">\"Ship for Health Innovation Pitches\"</a>, hosted in Heidelberg on the&nbsp;“Königin Silvia”.&nbsp;In total, about 100 participants from the healthcare, entrepreneurship and private equity fields joined this&nbsp;event. Julia and her team won one of the&nbsp;six <strong>Headstart Awards</strong>, valued €50000 each!</p>\r\n\r\n<p>Julia decided to write a few lines for our Blog: \"In spring we launched our first full series. We are currently <strong>looking for a new investment</strong> to help us grow our sales network and our production. At the same time through the <a href=\"https://eit.europa.eu/\">EIT network</a> we got aware of the Headstart fund and decided to apply. Compared to other funding opportunities, the EIT Health Headstart Award is optimal for us because it is meant for&nbsp;exactly what we need for the next big step on the way to success. In our case, this is for example the <strong>next production</strong>. With the money we can start production earlier, and produce more units while we still have time to carefully select our next investor.</p>\r\n\r\n<p>The final pitches for the Headstart fund took place<strong> on a ship in Heidelberg</strong>. It was a great atmosphere with a lot of impressive startups that presented great work. In the end,&nbsp;the race was quite tight. We got to know many startups that work on great approaches to <strong>improve life for many people</strong>. Overall, it was great experience and we are very grateful for this opportunity.\"</p>\r\n"
+    format: full_html
+    processed: "<p>Our Alumna\_<a href=\"https://alumni.eitdigital.eu/users/juliawache\">Julia Wache</a>, a 2017 graduate of the EIT Digital Doctoral School, has co-founded <a href=\"https://www.feelspace.de/?lang=en\">feelSpace</a>, a company that produces a vibrotactile compass belt that functions as a sixth sense. It helps visually impaired people to orientate themselves and find their way. You can read all her story\_<a href=\"http://bit.ly/JuliaWache\">in this article by EIT Digital</a>.</p>\n\n<p>In July 2018, Julia got closer to <strong>EIT Health</strong> and joined their\_annual <a href=\"https://www.eithealth.eu/-/cruising-and-pitching-for-better-health\">\"Ship for Health Innovation Pitches\"</a>, hosted in Heidelberg on the\_“Königin Silvia”.\_In total, about 100 participants from the healthcare, entrepreneurship and private equity fields joined this\_event. Julia and her team won one of the\_six <strong>Headstart Awards</strong>, valued €50000 each!</p>\n\n<p>Julia decided to write a few lines for our Blog: \"In spring we launched our first full series. We are currently <strong>looking for a new investment</strong> to help us grow our sales network and our production. At the same time through the <a href=\"https://eit.europa.eu/\">EIT network</a> we got aware of the Headstart fund and decided to apply. Compared to other funding opportunities, the EIT Health Headstart Award is optimal for us because it is meant for\_exactly what we need for the next big step on the way to success. In our case, this is for example the <strong>next production</strong>. With the money we can start production earlier, and produce more units while we still have time to carefully select our next investor.</p>\n\n<p>The final pitches for the Headstart fund took place<strong> on a ship in Heidelberg</strong>. It was a great atmosphere with a lot of impressive startups that presented great work. In the end,\_the race was quite tight. We got to know many startups that work on great approaches to <strong>improve life for many people</strong>. Overall, it was great experience and we are very grateful for this opportunity.\"</p>\n"
+    summary: 'Our Alumna&nbsp;Julia Wache, a 2017 graduate of the EIT Digital Doctoral School, has co-founded feel'
+    summary_processed: "Our Alumna\_Julia Wache, a 2017 graduate of the EIT Digital Doctoral School, has co-founded feel"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 034bd80d-abe2-4174-a34e-635367169c76
+field_article_introduction:
+  -
+    value: 'Julia has co-founded feelSpace, a company producing a vibrotactile compass belt for visually impaired people'
+field_image:
+  -
+    target_type: media
+    target_uuid: 94a5940b-a003-4796-9e3c-574f36ca4ad4
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.034bd80d-abe2-4174-a34e-635367169c76
+    media:
+      - media.image.94a5940b-a003-4796-9e3c-574f36ca4ad4

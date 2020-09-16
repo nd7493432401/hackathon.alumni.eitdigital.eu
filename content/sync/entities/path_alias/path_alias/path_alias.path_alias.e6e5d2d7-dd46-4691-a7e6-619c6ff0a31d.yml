@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e6e5d2d7-dd46-4691-a7e6-619c6ff0a31d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/365
+alias:
+  -
+    value: /job/senior-full-stack-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

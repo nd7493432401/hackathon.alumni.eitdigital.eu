@@ -1,0 +1,13 @@
+uuid: 77e17b7a-4c69-4496-8d95-ffdb1d28ca62
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_professional_school
+label: 'EIT Digital Professional School'
+display_label: 'EIT Digital Professional School'
+multiple: false
+registration: true
+roles:
+  associate_member_professional_school: associate_member_professional_school
+allow_revisions: false
+new_revision: false

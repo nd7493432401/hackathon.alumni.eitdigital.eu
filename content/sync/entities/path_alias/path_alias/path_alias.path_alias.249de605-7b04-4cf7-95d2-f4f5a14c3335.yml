@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 249de605-7b04-4cf7-95d2-f4f5a14c3335
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/440
+alias:
+  -
+    value: /job/research-and-development-specialist-ux-design-mf
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

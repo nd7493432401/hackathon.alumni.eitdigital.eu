@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3f742fad-4fdd-4c1c-ba21-461ece23c45c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/457
+alias:
+  -
+    value: /job/react-frontend-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

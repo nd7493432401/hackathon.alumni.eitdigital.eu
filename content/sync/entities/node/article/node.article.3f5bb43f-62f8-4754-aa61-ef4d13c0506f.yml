@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 3f5bb43f-62f8-4754-aa61-ef4d13c0506f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:24:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Calls for EIT Alumni Connect & Startup Days'
+created:
+  -
+    value: '2017-05-22T10:17:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:24:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/calls-eit-alumni-connect-startup-days
+body:
+  -
+    value: "<p>Some great opportunities within&nbsp;our broader&nbsp;<a href=\"http://eitalumni.eu\">EIT Alumni Community</a> are ahead!</p>\r\n\r\n<p>This refers specifically to the organization of the upcoming&nbsp;EIT Alumni Connect (next October in Budapest during <a href=\"https://eit.europa.eu/innoveit\">Innoveit 2017</a>) and&nbsp;<a href=\"http://startupdays.eitalumni.eu/\">EIT Alumni Startup Days</a>!<br />\r\nWe would like you to be as involved as possible in the organisation of these events, so check the calls below and apply!&nbsp;</p>\r\n\r\n<p>1. <a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/55e3cff2-528a-4351-b559-0d1726bbbbd0/CONNECT_Facilitator.pdf\">EIT Alumni CONNECT 2017: Moderator</a></p>\r\n\r\n<p>2.&nbsp;<a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/87a8f673-ba92-467f-8159-3b6187eedefa/working_groups_CONNECT.pdf\">EIT Alumni CONNECT 2017: Working Group</a></p>\r\n\r\n<p>3.&nbsp;<a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/685351bd-39a3-4f4a-a9ed-2f51e10d0d80/Startup_days_working_group.pdf\">EIT Alumni Startup Days '17: Working Group</a></p>\r\n"
+    format: full_html
+    processed: "<p>Some great opportunities within\_our broader\_<a href=\"http://eitalumni.eu\">EIT Alumni Community</a> are ahead!</p>\n\n<p>This refers specifically to the organization of the upcoming\_EIT Alumni Connect (next October in Budapest during <a href=\"https://eit.europa.eu/innoveit\">Innoveit 2017</a>) and\_<a href=\"http://startupdays.eitalumni.eu/\">EIT Alumni Startup Days</a>!<br />\nWe would like you to be as involved as possible in the organisation of these events, so check the calls below and apply!\_</p>\n\n<p>1. <a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/55e3cff2-528a-4351-b559-0d1726bbbbd0/CONNECT_Facilitator.pdf\">EIT Alumni CONNECT 2017: Moderator</a></p>\n\n<p>2.\_<a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/87a8f673-ba92-467f-8159-3b6187eedefa/working_groups_CONNECT.pdf\">EIT Alumni CONNECT 2017: Working Group</a></p>\n\n<p>3.\_<a href=\"https://gallery.mailchimp.com/28c22029eb37ab739c0f12fc6/files/685351bd-39a3-4f4a-a9ed-2f51e10d0d80/Startup_days_working_group.pdf\">EIT Alumni Startup Days '17: Working Group</a></p>\n"
+    summary: 'Some great opportunities within&nbsp;our broader&nbsp;EIT Alumni Community are ahead!This refers spe'
+    summary_processed: "Some great opportunities within\_our broader\_EIT Alumni Community are ahead!This refers spe"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: "Help with the organization of the EIT Alumni Connect 2017 and\_EIT Alumni Startup Days!"
+field_image:
+  -
+    target_type: media
+    target_uuid: b22886bb-837d-4da7-bdf2-78033c78781f
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.b22886bb-837d-4da7-bdf2-78033c78781f

@@ -1,0 +1,22 @@
+uuid: b58d13e1-c170-48e1-9a73-21fb0d7d4a97
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: discussion_labe
+label: 'Discussion Pattern'
+type: 'canonical_entities:node'
+pattern: 'discussion/[node:field_question]'
+selection_criteria:
+  5421497c-7367-4d09-9604-fa85b304d1bc:
+    id: node_type
+    bundles:
+      discussion: discussion
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 5421497c-7367-4d09-9604-fa85b304d1bc
+selection_logic: and
+weight: -5
+relationships: {  }

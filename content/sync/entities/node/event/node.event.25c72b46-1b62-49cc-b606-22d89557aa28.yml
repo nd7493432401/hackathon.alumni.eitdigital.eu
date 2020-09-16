@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 25c72b46-1b62-49cc-b606-22d89557aa28
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:32:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Panel on Advanced AI User Interfaces'
+created:
+  -
+    value: '2017-08-20T20:36:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:32:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/panel-advanced-ai-user-interfaces
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital Co-Location Center, Isafjordsgatan 26, Hiss C, Plan 3'
+    format: full_html
+    processed: 'EIT Digital Co-Location Center, Isafjordsgatan 26, Hiss C, Plan 3'
+field_event_date:
+  -
+    value: '2017-09-14T11:00:00+02:00'
+    end_value: '2017-09-14T12:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>Dear all,</p>\r\n\r\n<p>On behalf of EIT Digital <strong>Stockholm Node</strong> and KTH Kista, we are pleased to invite you to an exciting panel on <u><strong>Advanced AI User Interfaces</strong></u>.</p>\r\n\r\n<p>Representatives from the industrial sector (<strong>Daniel Gillblad</strong> -&nbsp;Rise Sics, and&nbsp;<strong>Kai Hubner</strong> -&nbsp;Gleechi AB)&nbsp;and the academia (<strong>Anne Håkansson</strong> -&nbsp;KTH), moderated by an international keynote speaker and technical journalist expert in AI (<strong>Mats Lewan</strong>) will discuss results and challenges in the relationship between the fields of Human-computer Interaction and Artificial Intelligence.</p>\r\n\r\n<p>You are very welcome to join us and we look forward to hear about your interests and opinions!</p>\r\n\r\n<p><strong><a href=\"https://simpleeventsignup.com/event/99625\">REGISTER HERE</a>!</strong></p>\r\n\r\n<p><img alt=\"Panel AI User Interfaces\" data-entity-type=\"file\" data-entity-uuid=\"863ce278-2f3a-42ad-984e-70ba43b6a792\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/lol.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Dear all,</p>\n\n<p>On behalf of EIT Digital <strong>Stockholm Node</strong> and KTH Kista, we are pleased to invite you to an exciting panel on <u><strong>Advanced AI User Interfaces</strong></u>.</p>\n\n<p>Representatives from the industrial sector (<strong>Daniel Gillblad</strong> -\_Rise Sics, and\_<strong>Kai Hubner</strong> -\_Gleechi AB)\_and the academia (<strong>Anne Håkansson</strong> -\_KTH), moderated by an international keynote speaker and technical journalist expert in AI (<strong>Mats Lewan</strong>) will discuss results and challenges in the relationship between the fields of Human-computer Interaction and Artificial Intelligence.</p>\n\n<p>You are very welcome to join us and we look forward to hear about your interests and opinions!</p>\n\n<p><strong><a href=\"https://simpleeventsignup.com/event/99625\">REGISTER HERE</a>!</strong></p>\n\n<p><img alt=\"Panel AI User Interfaces\" data-entity-type=\"file\" data-entity-uuid=\"863ce278-2f3a-42ad-984e-70ba43b6a792\" src=\"/sites/default/files/inline-images/lol.png\" /></p>\n\n<p>\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: cc84e467-0c18-479f-afb3-6c0db416c739
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: cc84e467-0c18-479f-afb3-6c0db416c739
+field_event_introduction:
+  -
+    value: "<p>An exciting panel on Advanced AI User Interfaces in Stockholm!</p>\r\n"
+    format: full_html
+    processed: "<p>An exciting panel on Advanced AI User Interfaces in Stockholm!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7cce919f-aa3e-4abd-942f-0d934cb615a3
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.cc84e467-0c18-479f-afb3-6c0db416c739
+    taxonomy_term:
+      - taxonomy_term.event_type.7cce919f-aa3e-4abd-942f-0d934cb615a3

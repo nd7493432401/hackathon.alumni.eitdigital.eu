@@ -1,0 +1,10 @@
+uuid: 9251e67a-d010-4581-9910-e6d201e3e1b3
+langcode: en
+status: true
+dependencies:
+  module:
+    - user
+id: user.summer
+label: 'Summer School Register'
+targetEntityType: user
+cache: true

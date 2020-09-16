@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 0868b0b5-5444-4bac-9198-c60860deb371
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Teo Patras'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/teo-patras
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>Let''s face it: nobody likes reading huge blocks of text. We''re all grateful for every tl;dr summary we find out there. That''s why I will spare you the ordeal of having to go through my figures of speech and instead I''ll cut to the chase:</p><p>&nbsp;</p><p>The time spent as an EIT Digital student in Berlin and Helsinki was amazing! I loved the positive vibes, the people and networking with them during EIT events all over Europe! I made some meaningful connections with some really interesting people! However, since last year when I left Berlin, I have sadly lost touch with the community. I would like to be again part of it and this time also give something back! What else to give back if not the thing I''m best at?&nbsp;</p>'
+    format: full_html
+    processed: "<p>Let's face it: nobody likes reading huge blocks of text. We're all grateful for every tl;dr summary we find out there. That's why I will spare you the ordeal of having to go through my figures of speech and instead I'll cut to the chase:</p><p>\_</p><p>The time spent as an EIT Digital student in Berlin and Helsinki was amazing! I loved the positive vibes, the people and networking with them during EIT events all over Europe! I made some meaningful connections with some really interesting people! However, since last year when I left Berlin, I have sadly lost touch with the community. I would like to be again part of it and this time also give something back! What else to give back if not the thing I'm best at?\_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Teo Patras'
+    format: full_html
+    processed: 'Teo Patras'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>I envision a larger, more vibrant and better-connected community. How to get there? Good question, I''ll have to see what''s there to be done once I''m behind the (C)TO wheel.</p>'
+    format: full_html
+    processed: '<p>I envision a larger, more vibrant and better-connected community. How to get there? Good question, I''ll have to see what''s there to be done once I''m behind the (C)TO wheel.</p>'
+field_why_people_should_vote_for:
+  -
+    value: '<p>- 8&nbsp;years of software engineering experience (full-stack &amp; mobile apps development)</p><p>- 3 years of assuming leading positions (team lead/ tech lead/ product owner)</p><p>- experience managing external remote developers (coordinating with outsourcing agencies/freelancers)</p><p>- experience working in cross-functional and international teams</p><p>- strong communication skills and a positive vibe</p>'
+    format: full_html
+    processed: "<p>- 8\_years of software engineering experience (full-stack &amp; mobile apps development)</p><p>- 3 years of assuming leading positions (team lead/ tech lead/ product owner)</p><p>- experience managing external remote developers (coordinating with outsourcing agencies/freelancers)</p><p>- experience working in cross-functional and international teams</p><p>- strong communication skills and a positive vibe</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

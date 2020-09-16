@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 1a3ad4d4-2d3c-4188-b235-5da69b37c190
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:28:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Meetup xEITD Alumni Stockholm'
+created:
+  -
+    value: '2018-11-11T12:50:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:28:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/meetup-xeitd-alumni-stockholm
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2018-12-07T16:00:00+01:00'
+    end_value: '2018-12-07T18:00:00+01:00'
+field_event_description:
+  -
+    value: "<p>It is always nice to meet up with fellow Alumni and for us in Stockholm, we have decided to meet before the year runs out. The Agenda is as follows:&nbsp;</p>\r\n\r\n<p>18:00 Meet and greet with drinks and bites&nbsp;<br />\r\n18:45 A few lightning talks by our alumni<br />\r\n19:15 Mingling&nbsp;<br />\r\n20:00+ (potentially) Continue the Friday night in a bar in town?</p>\r\n\r\n<p>For the lightning talks, there will be a few lightning talks (5 - 10 minutes each) to be given by our alumni. Topics can range from everyday work to any particular projects or learnings you find interesting or inspiring to share. If you are interested in giving a talk, please contact either of us: Gigi, Yammie or Mohan.&nbsp;</p>\r\n\r\n<p>Also, join the <a href=\"https://www.facebook.com/events/1908956082474742/?active_tab=discussion\">FB event</a> to help us decide on a preferred location by answering the poll provided and for further information.&nbsp;</p>\r\n\r\n<p>Your Organisers:<br />\r\n<a href=\"https://alumni.eitdigital.eu/users/gigiho\">Gigi</a>, <a href=\"https://alumni.eitdigital.eu/users/yammieseto\">Yammie</a> and <a href=\"https://alumni.eitdigital.eu/users/gkmohankr\">Mohan</a><br />\r\n&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>It is always nice to meet up with fellow Alumni and for us in Stockholm, we have decided to meet before the year runs out. The Agenda is as follows:\_</p>\n\n<p>18:00 Meet and greet with drinks and bites\_<br />\n18:45 A few lightning talks by our alumni<br />\n19:15 Mingling\_<br />\n20:00+ (potentially) Continue the Friday night in a bar in town?</p>\n\n<p>For the lightning talks, there will be a few lightning talks (5 - 10 minutes each) to be given by our alumni. Topics can range from everyday work to any particular projects or learnings you find interesting or inspiring to share. If you are interested in giving a talk, please contact either of us: Gigi, Yammie or Mohan.\_</p>\n\n<p>Also, join the <a href=\"https://www.facebook.com/events/1908956082474742/?active_tab=discussion\">FB event</a> to help us decide on a preferred location by answering the poll provided and for further information.\_</p>\n\n<p>Your Organisers:<br />\n<a href=\"https://alumni.eitdigital.eu/users/gigiho\">Gigi</a>, <a href=\"https://alumni.eitdigital.eu/users/yammieseto\">Yammie</a> and <a href=\"https://alumni.eitdigital.eu/users/gkmohankr\">Mohan</a><br />\n\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+field_event_introduction:
+  -
+    value: "<p>Meet-up before the Christmas Holidays</p>\r\n"
+    format: full_html
+    processed: "<p>Meet-up before the Christmas Holidays</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: b1a58e6d-7ec5-43e8-808f-b93136f21960
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+    taxonomy_term:
+      - taxonomy_term.event_type.b1a58e6d-7ec5-43e8-808f-b93136f21960

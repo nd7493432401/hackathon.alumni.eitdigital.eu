@@ -1,0 +1,23 @@
+uuid: b42faafa-2610-4f5e-86ee-ca3643fc72bd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_alumni_week_link
+    - node.type.article
+  module:
+    - link
+id: node.article.field_alumni_week_link
+field_name: field_alumni_week_link
+entity_type: node
+bundle: article
+label: 'Button Link'
+description: 'Enter the destination of the homepage button'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 1
+field_type: link

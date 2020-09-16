@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f4eb05f7-dcde-47ed-beba-70cfa0940a62
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/201
+alias:
+  -
+    value: /event/mission-accomplished-or-not
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

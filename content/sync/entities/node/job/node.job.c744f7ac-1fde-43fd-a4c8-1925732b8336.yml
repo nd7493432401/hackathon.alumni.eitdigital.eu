@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: c744f7ac-1fde-43fd-a4c8-1925732b8336
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:32:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'R&D Engineer'
+created:
+  -
+    value: '2019-02-23T11:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:07:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/rd-engineer
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:contact@thermovault.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'ThermoVault '
+    format: full_html
+    processed: 'ThermoVault '
+field_expiration_date:
+  -
+    value: '2019-03-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>To strengthen and complement our team, <a href=\"http://www.thermovault.com/\" target=\"_blank\">ThermoVault </a>seeks a highly skilled and motivated R&amp;D engineer who will take a leading role in the further development of our control and optimisation algorithms for energy-savings and grid-balancing on a household, community and nationwide level. ThermoVault, affiliated with KU Leuven and UC Berkeley, has developed an all-in retrofit solution for residential electric boilers and space heaters (resistance and heat-pump based). ThermoVault is currently managing more than 1MW of residential flexibility in Belgium. As well as a certified Ecodesign saving of 12–28%, this portfolio is able to be used on the most high-performance balance markets.</p>\r\n\r\n<p><strong>Your tasks &amp; responsibilities</strong></p>\r\n\r\n<p>The successful candidate will be designing and implementing novel optimisation and control algorithms. You will also apply data analysis and visualization techniques to gain insight into data. You coordinate state-of-the-art Belgian and European research projects. You will work in close collaboration with our energy market and software architecture specialists.</p>\r\n\r\n<p><strong>Your profile</strong></p>\r\n\r\n<p>Master or PhD in electrical engineering, software engineering, mathematical engineering, data science.</p>\r\n\r\n<p><strong>Experience and technical competences:</strong></p>\r\n\r\n<ul>\r\n\t<li>You can translate real-world problems into automated real-time solutions</li>\r\n\t<li>Top achiever during studies and/or experience in a leading technology company</li>\r\n\t<li>Experienced in modelling &amp; optimization techniques with focus on linear, integer and stochastic optimization techniques, preferably in the energy field</li>\r\n\t<li>Bonus: knowledge of machine learning and Amazon AWS</li>\r\n</ul>\r\n\r\n<p><strong>Competences:</strong></p>\r\n\r\n<ul>\r\n\t<li>You are deliverable-focussed with a pragmatic attitude.</li>\r\n\t<li>You are a team player, yet able to work independently.</li>\r\n\t<li>You thrive in a high-energy, rewarding startup atmosphere</li>\r\n\t<li>You are eager to look for creative solutions using state-of-the-art techniques.</li>\r\n\t<li>Passionate about innovation and building a sustainable future</li>\r\n</ul>\r\n\r\n<p><strong>Our Offer</strong></p>\r\n\r\n<p><strong>An opportunity to:</strong></p>\r\n\r\n<ul>\r\n\t<li>Become part of a high potential early stage deep-tech company, bringing value to all stakeholders involved (end-user savings, grid stability, renewable uptake)</li>\r\n\t<li>Collaborate with experienced and motivated developers and researchers, strongly impacted by your inputs</li>\r\n\t<li>Work on recently accepted state-of-the-art Belgian VLAIO and European H2020 innovation projects, as well as commercial projects with industry leaders. All projects are strongly focused on real-life deployment and customer validation</li>\r\n\t<li>Grow and build your future career from our offices in Belgium (Leuven and Genk, main offices) and California (UC Berkeley campus)</li>\r\n\t<li>Work flexible hours at flexible locations</li>\r\n\t<li>The candidate will be offered a competitive remuneration package and benefits Company profile and vision</li>\r\n</ul>\r\n\r\n<p>Our mission is to operate the largest decentralized storage system in the world. Our Virtual Power Plant, that scales at extremely-low per-device cost, can be used to offer valuable services to utilities and system operators, transforming end-users into green, active and profitable stakeholders of the energy transition.</p>\r\n\r\n<p>ThermoVault is headquartered in Belgium (Genk and Leuven), with access to laboratory and office space on the UC Berkeley campus. We are supported by professors from KU Leuven and UC Berkeley, UC’s startup accelerator ‘The Foundry’, Start It @KBC and Netwerk Ondernemen.</p>\r\n\r\n<p>Get in touch!</p>\r\n\r\n<p>Send your resume to contact@thermovault.com,after the pre-selection process we will be in touch to schedule an online interview</p>\r\n"
+    format: full_html
+    processed: "<p>To strengthen and complement our team, <a href=\"http://www.thermovault.com/\" target=\"_blank\">ThermoVault </a>seeks a highly skilled and motivated R&amp;D engineer who will take a leading role in the further development of our control and optimisation algorithms for energy-savings and grid-balancing on a household, community and nationwide level. ThermoVault, affiliated with KU Leuven and UC Berkeley, has developed an all-in retrofit solution for residential electric boilers and space heaters (resistance and heat-pump based). ThermoVault is currently managing more than 1MW of residential flexibility in Belgium. As well as a certified Ecodesign saving of 12–28%, this portfolio is able to be used on the most high-performance balance markets.</p>\n\n<p><strong>Your tasks &amp; responsibilities</strong></p>\n\n<p>The successful candidate will be designing and implementing novel optimisation and control algorithms. You will also apply data analysis and visualization techniques to gain insight into data. You coordinate state-of-the-art Belgian and European research projects. You will work in close collaboration with our energy market and software architecture specialists.</p>\n\n<p><strong>Your profile</strong></p>\n\n<p>Master or PhD in electrical engineering, software engineering, mathematical engineering, data science.</p>\n\n<p><strong>Experience and technical competences:</strong></p>\n\n<ul>\n\t<li>You can translate real-world problems into automated real-time solutions</li>\n\t<li>Top achiever during studies and/or experience in a leading technology company</li>\n\t<li>Experienced in modelling &amp; optimization techniques with focus on linear, integer and stochastic optimization techniques, preferably in the energy field</li>\n\t<li>Bonus: knowledge of machine learning and Amazon AWS</li>\n</ul>\n\n<p><strong>Competences:</strong></p>\n\n<ul>\n\t<li>You are deliverable-focussed with a pragmatic attitude.</li>\n\t<li>You are a team player, yet able to work independently.</li>\n\t<li>You thrive in a high-energy, rewarding startup atmosphere</li>\n\t<li>You are eager to look for creative solutions using state-of-the-art techniques.</li>\n\t<li>Passionate about innovation and building a sustainable future</li>\n</ul>\n\n<p><strong>Our Offer</strong></p>\n\n<p><strong>An opportunity to:</strong></p>\n\n<ul>\n\t<li>Become part of a high potential early stage deep-tech company, bringing value to all stakeholders involved (end-user savings, grid stability, renewable uptake)</li>\n\t<li>Collaborate with experienced and motivated developers and researchers, strongly impacted by your inputs</li>\n\t<li>Work on recently accepted state-of-the-art Belgian VLAIO and European H2020 innovation projects, as well as commercial projects with industry leaders. All projects are strongly focused on real-life deployment and customer validation</li>\n\t<li>Grow and build your future career from our offices in Belgium (Leuven and Genk, main offices) and California (UC Berkeley campus)</li>\n\t<li>Work flexible hours at flexible locations</li>\n\t<li>The candidate will be offered a competitive remuneration package and benefits Company profile and vision</li>\n</ul>\n\n<p>Our mission is to operate the largest decentralized storage system in the world. Our Virtual Power Plant, that scales at extremely-low per-device cost, can be used to offer valuable services to utilities and system operators, transforming end-users into green, active and profitable stakeholders of the energy transition.</p>\n\n<p>ThermoVault is headquartered in Belgium (Genk and Leuven), with access to laboratory and office space on the UC Berkeley campus. We are supported by professors from KU Leuven and UC Berkeley, UC’s startup accelerator ‘The Foundry’, Start It @KBC and Netwerk Ondernemen.</p>\n\n<p>Get in touch!</p>\n\n<p>Send your resume to contact@thermovault.com,after the pre-selection process we will be in touch to schedule an online interview</p>\n"
+field_job_location:
+  -
+    value: 'Leuven / Genk, Belgium'
+    format: full_html
+    processed: 'Leuven / Genk, Belgium'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

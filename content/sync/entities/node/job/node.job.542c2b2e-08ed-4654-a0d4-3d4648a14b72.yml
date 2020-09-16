@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 542c2b2e-08ed-4654-a0d4-3d4648a14b72
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Software Architect'
+created:
+  -
+    value: '2017-07-05T12:16:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:42:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/software-architect
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/aicha'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Altran
+    format: full_html
+    processed: Altran
+field_expiration_date:
+  -
+    value: '2017-07-05T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>Position Summary &amp; Responsibilities: <strong>Experienced Software Architect</strong><br />\r\n<br />\r\nAltran International Expertise Center based in Sophia-Antipolis is seeking an experienced Software Architect for our next generation of innovative Intelligent Systems in a global and multicultural environment. The requirement is to collaborate with clients to plan and architect overall architecture and solutions, and to interact with the delivery organisations.<br />\r\nThe candidate will address Software architecture, Design and Technical Supervision of key topics associated with the development of embedded software middleware and associated applications for the Automotive, Medical and Aerospace/Defence markets.<br />\r\nThe candidate will be capable of starting from requirements, the target market context and constraints, and then propose architecture solutions that can be coded and delivered by an engineering team. The target market includes real-time, safety and security aspects that should be addressed directly by any design.</p>\r\n\r\n<p>Responsibilities include: defining key components of the embedded software, work closely with clients and architects as well as application developers, help analyse, debug, troubleshoot new products, analyse key performance and architectural trade-offs. The position will be located in the Altran technical unit in Sophia-Antipolis (Southern France).</p>\r\n\r\n<p><strong>Skills</strong><br />\r\n- Fluent English speaker/writer. Spoken French is a plus but not essential.<br />\r\n- Travel: Must be willing to be based at, and travel to client sites throughout Europe, Mobility: up to&nbsp;100% flexibility. Capability to act in a client facing role.<br />\r\n- Embedded system development skills including HW/SW integration.<br />\r\n- Expert level in UML/SysML/ Enterprise Architect / Rhapsody.<br />\r\n- Software development expertise in C/C++, Java or C#.<br />\r\n- Hands-on development of various subsystems such wired and wireless communication - USB, Ethernet, Bluetooth, WiFi; CAN or deployment tests, release management and configuration management. Experience of RTOS &amp; Linux development.<br />\r\n- Experience of modern Software Development methodologies, especially continuous integration and automated testing, Unified process and Agile, CMMI.<br />\r\n-&nbsp;Hands-on experience in prototyping, bring-up, debugging, verification and manufacturing support for embedded systems.<br />\r\n- Must have created and/or influenced system architectural specifications. Must have documented project references at architecture level.<br />\r\n- Work cross-functionally with business team, hardware engineering and application developers<br />\r\n- Estimation and schedule development for technical tasks</p>\r\n\r\n<p><strong>Work Skill</strong><br />\r\nDemonstrated Technical leadership, good communicator. Passionate about innovation and new technologies, creative, curious and rigorous. Understanding of the embedded market and associated economics.</p>\r\n"
+    format: full_html
+    processed: "<p>Position Summary &amp; Responsibilities: <strong>Experienced Software Architect</strong><br />\n<br />\nAltran International Expertise Center based in Sophia-Antipolis is seeking an experienced Software Architect for our next generation of innovative Intelligent Systems in a global and multicultural environment. The requirement is to collaborate with clients to plan and architect overall architecture and solutions, and to interact with the delivery organisations.<br />\nThe candidate will address Software architecture, Design and Technical Supervision of key topics associated with the development of embedded software middleware and associated applications for the Automotive, Medical and Aerospace/Defence markets.<br />\nThe candidate will be capable of starting from requirements, the target market context and constraints, and then propose architecture solutions that can be coded and delivered by an engineering team. The target market includes real-time, safety and security aspects that should be addressed directly by any design.</p>\n\n<p>Responsibilities include: defining key components of the embedded software, work closely with clients and architects as well as application developers, help analyse, debug, troubleshoot new products, analyse key performance and architectural trade-offs. The position will be located in the Altran technical unit in Sophia-Antipolis (Southern France).</p>\n\n<p><strong>Skills</strong><br />\n- Fluent English speaker/writer. Spoken French is a plus but not essential.<br />\n- Travel: Must be willing to be based at, and travel to client sites throughout Europe, Mobility: up to\_100% flexibility. Capability to act in a client facing role.<br />\n- Embedded system development skills including HW/SW integration.<br />\n- Expert level in UML/SysML/ Enterprise Architect / Rhapsody.<br />\n- Software development expertise in C/C++, Java or C#.<br />\n- Hands-on development of various subsystems such wired and wireless communication - USB, Ethernet, Bluetooth, WiFi; CAN or deployment tests, release management and configuration management. Experience of RTOS &amp; Linux development.<br />\n- Experience of modern Software Development methodologies, especially continuous integration and automated testing, Unified process and Agile, CMMI.<br />\n-\_Hands-on experience in prototyping, bring-up, debugging, verification and manufacturing support for embedded systems.<br />\n- Must have created and/or influenced system architectural specifications. Must have documented project references at architecture level.<br />\n- Work cross-functionally with business team, hardware engineering and application developers<br />\n- Estimation and schedule development for technical tasks</p>\n\n<p><strong>Work Skill</strong><br />\nDemonstrated Technical leadership, good communicator. Passionate about innovation and new technologies, creative, curious and rigorous. Understanding of the embedded market and associated economics.</p>\n"
+field_job_location:
+  -
+    value: Sophia-Antipolis
+    format: full_html
+    processed: Sophia-Antipolis
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

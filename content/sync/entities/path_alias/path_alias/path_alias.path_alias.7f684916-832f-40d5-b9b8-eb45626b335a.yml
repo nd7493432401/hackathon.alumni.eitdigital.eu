@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7f684916-832f-40d5-b9b8-eb45626b335a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/129
+alias:
+  -
+    value: /local-representative/helsinki-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

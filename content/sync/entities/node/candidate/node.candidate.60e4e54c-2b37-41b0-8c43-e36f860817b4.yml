@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: 60e4e54c-2b37-41b0-8c43-e36f860817b4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Kevin Jacob'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/kevin-jacob
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>&nbsp;"<strong>Coming together is the beginning, staying together is progress and working together is </strong><strong>success</strong><strong>.</strong>"</p><p>My mission by applying for EIT Digital Alumni board election is to spread this message of togetherness among our EIT Digital alumni community and to keep all of us connected for professional and personal growth of members in our community.</p><p>If elected to the Treasurer position, I will be a proud ambassador of our EIT Digital alumni community and will be adding value to the members of the community by representing EIT digital community to companies, partners, universities and other EIT KICs. More importantly I''ll be making sure our money is safe and used for the right purpose very transparently.&nbsp;</p>'
+    format: full_html
+    processed: "<p>\_\"<strong>Coming together is the beginning, staying together is progress and working together is </strong><strong>success</strong><strong>.</strong>\"</p><p>My mission by applying for EIT Digital Alumni board election is to spread this message of togetherness among our EIT Digital alumni community and to keep all of us connected for professional and personal growth of members in our community.</p><p>If elected to the Treasurer position, I will be a proud ambassador of our EIT Digital alumni community and will be adding value to the members of the community by representing EIT digital community to companies, partners, universities and other EIT KICs. More importantly I'll be making sure our money is safe and used for the right purpose very transparently.\_</p>"
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Kevin Jacob'
+    format: full_html
+    processed: 'Kevin Jacob'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>"The stronger we make EIT Digital alumni network, the more valuable our EIT Digital degree becomes.",&nbsp; a fellow EIT Digital alumni and a close friend - Ville, once shared during an EIT networking event. &nbsp;</p><p>It''s right on spot, isn''t it? Best universities in the world provide a platform for the professional and personal network of quality students along with good education. Unlike, other universities EIT Digital provides an opportunity to network across universities, companies and other EIT KICs in Europe.</p><p>My vision is to help each member of our community get the best out of our strong network. We, EIT Digital alumni community are growing at a very fast pace as we are nearing 2000 in our network. I''m looking forward to taking toward the plans of the current board and to design new strategies to&nbsp;strengthen our Alumni network.</p><p>&nbsp;</p>'
+    format: full_html
+    processed: "<p>\"The stronger we make EIT Digital alumni network, the more valuable our EIT Digital degree becomes.\",\_ a fellow EIT Digital alumni and a close friend - Ville, once shared during an EIT networking event. \_</p><p>It's right on spot, isn't it? Best universities in the world provide a platform for the professional and personal network of quality students along with good education. Unlike, other universities EIT Digital provides an opportunity to network across universities, companies and other EIT KICs in Europe.</p><p>My vision is to help each member of our community get the best out of our strong network. We, EIT Digital alumni community are growing at a very fast pace as we are nearing 2000 in our network. I'm looking forward to taking toward the plans of the current board and to design new strategies to\_strengthen our Alumni network.</p><p>\_</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>Ever since I joined the EIT Digital in 2017 I was an active member in all EIT activities. I have been keen on learning how our community works from the previous and current alumni board. I have also networked among other EIT alumni nodes during cross-KIC events.</p><p>Additionally, my prior volunteer experience includes Slush 2018 and 2019, Junction 2019, Dash 2018,&nbsp; FallUp 2018. I''m an EIT mentor for Aalto university and used to be a mentor for international students at TU-Berlin.</p><p>Finally, I''m confident that I can be the ambassador for our alumni community and will be able to add value to the members of the community by representing EIT digital community to&nbsp;companies, partners, universities across the globe. I''m looking forward to your support. If you have more questions please feel to reach out to me at kevinjacob.mec@gmail.com .</p>'
+    format: full_html
+    processed: "<p>Ever since I joined the EIT Digital in 2017 I was an active member in all EIT activities. I have been keen on learning how our community works from the previous and current alumni board. I have also networked among other EIT alumni nodes during cross-KIC events.</p><p>Additionally, my prior volunteer experience includes Slush 2018 and 2019, Junction 2019, Dash 2018,\_ FallUp 2018. I'm an EIT mentor for Aalto university and used to be a mentor for international students at TU-Berlin.</p><p>Finally, I'm confident that I can be the ambassador for our alumni community and will be able to add value to the members of the community by representing EIT digital community to\_companies, partners, universities across the globe. I'm looking forward to your support. If you have more questions please feel to reach out to me at kevinjacob.mec@gmail.com .</p>"
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

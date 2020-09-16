@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f807fcb3-fe9a-462b-a5cb-3ae0169ce917
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/461
+alias:
+  -
+    value: /job/eit-alumni-representative
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

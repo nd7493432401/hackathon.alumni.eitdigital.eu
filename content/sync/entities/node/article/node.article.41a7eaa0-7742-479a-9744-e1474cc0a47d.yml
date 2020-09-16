@@ -1,0 +1,91 @@
+uuid:
+  -
+    value: 41a7eaa0-7742-479a-9744-e1474cc0a47d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-06-29T16:10:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT ICT Labs is now EIT Digital'
+created:
+  -
+    value: '2015-08-02T09:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-06-29T16:10:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/eit-ict-labs-now-eit-digital
+body:
+  -
+    value: "<p>EIT ICT Labs is now re-branding itself as EIT Digital with a brand new logo. Willem Jonker, CEO of EIT Digital says that 'EIT Digital' is more in line with the organization's identity, strategy and mission. We agree with him that the new name is easier to pronounce and will enable us to build a stronger brand, for the Alumni Foundation too.</p>\r\n\r\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/J-ml5mfrTWo\" width=\"560\"></iframe></p>\r\n\r\n<p><strong>\"Updated your Linkedin profile yet?\"</strong></p>\r\n\r\n<p>How does this re-branding affect the alumni community? For starters, have you updated your Linkedin profile yet to reflect this change?</p>\r\n\r\n<p>One question that the Alumni Board has got from many alumni is whether EIT Digital will do anything re-brand the certificates received for the Master school and other education programs. In due time when 'EIT ICT Labs' will only be found in EIT Digital's Wikipedia page, having a Masters degree with an outdated organization isn't so meaningful. The Alumni Board does share this concern and will contact the Master School to see what can be done about this.</p>\r\n"
+    format: full_html
+    processed: "<p>EIT ICT Labs is now re-branding itself as EIT Digital with a brand new logo. Willem Jonker, CEO of EIT Digital says that 'EIT Digital' is more in line with the organization's identity, strategy and mission. We agree with him that the new name is easier to pronounce and will enable us to build a stronger brand, for the Alumni Foundation too.</p>\n\n<p><iframe allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/J-ml5mfrTWo\" width=\"560\"></iframe></p>\n\n<p><strong>\"Updated your Linkedin profile yet?\"</strong></p>\n\n<p>How does this re-branding affect the alumni community? For starters, have you updated your Linkedin profile yet to reflect this change?</p>\n\n<p>One question that the Alumni Board has got from many alumni is whether EIT Digital will do anything re-brand the certificates received for the Master school and other education programs. In due time when 'EIT ICT Labs' will only be found in EIT Digital's Wikipedia page, having a Masters degree with an outdated organization isn't so meaningful. The Alumni Board does share this concern and will contact the Master School to see what can be done about this.</p>\n"
+    summary: 'EIT ICT Labs is now re-branding itself as EIT Digital with a brand new logo. Willem Jonker, CEO of E'
+    summary_processed: 'EIT ICT Labs is now re-branding itself as EIT Digital with a brand new logo. Willem Jonker, CEO of E'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Willem Jonker, CEO of EIT Digital says that ''EIT Digital'' is more in line with the organization''s identity, strategy and mission.'
+field_image:
+  -
+    target_type: media
+    target_uuid: 5e6ec9fc-b90d-42f8-ab34-583191ff9e19
+field_introduction_image:
+  -
+    target_type: media
+    target_uuid: 5e6ec9fc-b90d-42f8-ab34-583191ff9e19
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.5e6ec9fc-b90d-42f8-ab34-583191ff9e19

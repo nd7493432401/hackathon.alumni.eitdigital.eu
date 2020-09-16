@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1e19259-a2e4-4be8-a899-29b1e252b4d6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/456
+alias:
+  -
+    value: /job/finance-strategy-digital-transformation-sap-bpcepm-senior-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

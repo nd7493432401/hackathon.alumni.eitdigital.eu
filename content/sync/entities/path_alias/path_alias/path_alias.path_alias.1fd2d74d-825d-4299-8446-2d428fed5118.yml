@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1fd2d74d-825d-4299-8446-2d428fed5118
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/134
+alias:
+  -
+    value: /local-representative/eit-kicouchsurfing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 33bd42c7-e7a5-4407-8b4e-0cb26acec986
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:06:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Results of the 2019 Elections!'
+created:
+  -
+    value: '2019-05-19T23:00:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:06:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/results-2019-elections
+body:
+  -
+    value: "<p>After a long Election period, started already at the end of January with the opening of the online applications, and concluded with this exciting&nbsp;<a href=\"https://alumni.eitdigital.eu/board-elections\">Election Week</a>&nbsp;and the campaign by the <a href=\"https://alumni.eitdigital.eu/candidates\">12 amazing candidates</a>, the&nbsp;representatives for the new Alumni Board have been elected and we all wish them good luck in pursuing the <strong>goals of our Foundation</strong> for the next&nbsp;two years.</p>\r\n\r\n<p><img alt=\"Candidates\" data-entity-type=\"file\" data-entity-uuid=\"dc1a1f0a-e1ca-4fcb-b722-23c1922c88fc\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/elections%20%281%29.jpg\" /></p>\r\n\r\n<p><br />\r\nBelow are the results of the <strong>Elections 2019</strong>, with the new Board consisting of <strong>these 5 members</strong>:<br />\r\n- <a href=\"https://alumni.eitdigital.eu/candidate/jeroen-van-lent\">Jeroen Van Lent (President)</a><br />\r\n- <a href=\"https://alumni.eitdigital.eu/candidate/craig-kershaw\">Craig Kershaw (Secretary)</a><br />\r\n- <a href=\"https://alumni.eitdigital.eu/candidate/blanca-martinez-de-aragon\">Blanca Martinez de Aragon (Treasurer)</a><br />\r\n- <a href=\"https://alumni.eitdigital.eu/candidate/jos%C3%A9-carlos-camposano\">José Carlos Camposano (Events Officer)</a><br />\r\n- <a href=\"https://alumni.eitdigital.eu/candidate/jiayao-yu\">Jiayao Yu (Marketing &amp; Communications Officer)</a>.</p>\r\n\r\n<p>A transition period&nbsp;of <strong>up to 3 months</strong> will now commence&nbsp;for the new Board to assume their new responsibilities. Both the current and the upcoming Boards will meet on the first weekend of June in Brussels for the&nbsp;Board Handover meeting. The new Board will be&nbsp;officially <strong>appointed on July 4, 2019</strong>.</p>\r\n\r\n<p><img alt=\"Jeroen Van Lent\" data-entity-type=\"file\" data-entity-uuid=\"fb12aae9-24fc-44de-a880-6db3b57a5e34\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Jeroen%20Van%20Lent.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"Craig Kershaw\" data-entity-type=\"file\" data-entity-uuid=\"ba833332-1b90-44a1-8e47-53ac9a4e330d\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Craig%20Kershaw.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"Blanca Martinez de Aragon\" data-entity-type=\"file\" data-entity-uuid=\"8c09b610-d58a-488d-a57d-882d88fe3855\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Blanca%20Martinez%20de%20Aragon.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"José Carlos Camposano\" data-entity-type=\"file\" data-entity-uuid=\"c94596e0-4c05-4674-94ae-63c1ed87c38c\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Jose%CC%81%20Carlos%20Camposano.png\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img alt=\"Jiayao Yu\" data-entity-type=\"file\" data-entity-uuid=\"cbe2330e-07cd-4d71-8873-bdcab6b85e81\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Jiayao%20Yu_0.png\" /></p>\r\n\r\n<p><br />\r\nThe current Board would really like to&nbsp;thank <a href=\"https://alumni.eitdigital.eu/candidates\">each and every one of the candidates</a>&nbsp;for taking the time, the commitment and the motivation to apply for the Alumni Board. 12 strong candidates is an enormous <strong>satisfaction</strong> and a great result for our Community, and we are sure the Foundation is <strong>in good hands</strong>.</p>\r\n\r\n<p>However, as we have said multiple times, <strong>we are all building and shaping this&nbsp;community</strong>. We can&nbsp;all be ambassadors, role-models, contributors. This community can only scale if&nbsp;these 5 Board members are supported by <strong>a broader network</strong> of supporters, local representatives, working group leaders, etc., believing in what we are creating, giving concrete feedback, aiding the local communities, running programs and workshops, etc.</p>\r\n\r\n<p>We expect to see so many of you <a href=\"https://alumni.eitdigital.eu/propose\">helping the next Board with its activities and plans</a>. We need the help and the support of all of you to <strong>keep</strong>&nbsp;<strong>making&nbsp;this real</strong>.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Kind regards,</p>\r\n\r\n<p>The Alumni Board 2017-2019</p>\r\n"
+    format: full_html
+    processed: "<p>After a long Election period, started already at the end of January with the opening of the online applications, and concluded with this exciting\_<a href=\"https://alumni.eitdigital.eu/board-elections\">Election Week</a>\_and the campaign by the <a href=\"https://alumni.eitdigital.eu/candidates\">12 amazing candidates</a>, the\_representatives for the new Alumni Board have been elected and we all wish them good luck in pursuing the <strong>goals of our Foundation</strong> for the next\_two years.</p>\n\n<p><img alt=\"Candidates\" data-entity-type=\"file\" data-entity-uuid=\"dc1a1f0a-e1ca-4fcb-b722-23c1922c88fc\" src=\"/sites/default/files/inline-images/elections%20%281%29.jpg\" /></p>\n\n<p><br />\nBelow are the results of the <strong>Elections 2019</strong>, with the new Board consisting of <strong>these 5 members</strong>:<br />\n- <a href=\"https://alumni.eitdigital.eu/candidate/jeroen-van-lent\">Jeroen Van Lent (President)</a><br />\n- <a href=\"https://alumni.eitdigital.eu/candidate/craig-kershaw\">Craig Kershaw (Secretary)</a><br />\n- <a href=\"https://alumni.eitdigital.eu/candidate/blanca-martinez-de-aragon\">Blanca Martinez de Aragon (Treasurer)</a><br />\n- <a href=\"https://alumni.eitdigital.eu/candidate/jos%C3%A9-carlos-camposano\">José Carlos Camposano (Events Officer)</a><br />\n- <a href=\"https://alumni.eitdigital.eu/candidate/jiayao-yu\">Jiayao Yu (Marketing &amp; Communications Officer)</a>.</p>\n\n<p>A transition period\_of <strong>up to 3 months</strong> will now commence\_for the new Board to assume their new responsibilities. Both the current and the upcoming Boards will meet on the first weekend of June in Brussels for the\_Board Handover meeting. The new Board will be\_officially <strong>appointed on July 4, 2019</strong>.</p>\n\n<p><img alt=\"Jeroen Van Lent\" data-entity-type=\"file\" data-entity-uuid=\"fb12aae9-24fc-44de-a880-6db3b57a5e34\" src=\"/sites/default/files/inline-images/Jeroen%20Van%20Lent.png\" /></p>\n\n<p>\_</p>\n\n<p><img alt=\"Craig Kershaw\" data-entity-type=\"file\" data-entity-uuid=\"ba833332-1b90-44a1-8e47-53ac9a4e330d\" src=\"/sites/default/files/inline-images/Craig%20Kershaw.png\" /></p>\n\n<p>\_</p>\n\n<p><img alt=\"Blanca Martinez de Aragon\" data-entity-type=\"file\" data-entity-uuid=\"8c09b610-d58a-488d-a57d-882d88fe3855\" src=\"/sites/default/files/inline-images/Blanca%20Martinez%20de%20Aragon.png\" /></p>\n\n<p>\_</p>\n\n<p><img alt=\"José Carlos Camposano\" data-entity-type=\"file\" data-entity-uuid=\"c94596e0-4c05-4674-94ae-63c1ed87c38c\" src=\"/sites/default/files/inline-images/Jose%CC%81%20Carlos%20Camposano.png\" /></p>\n\n<p>\_</p>\n\n<p><img alt=\"Jiayao Yu\" data-entity-type=\"file\" data-entity-uuid=\"cbe2330e-07cd-4d71-8873-bdcab6b85e81\" src=\"/sites/default/files/inline-images/Jiayao%20Yu_0.png\" /></p>\n\n<p><br />\nThe current Board would really like to\_thank <a href=\"https://alumni.eitdigital.eu/candidates\">each and every one of the candidates</a>\_for taking the time, the commitment and the motivation to apply for the Alumni Board. 12 strong candidates is an enormous <strong>satisfaction</strong> and a great result for our Community, and we are sure the Foundation is <strong>in good hands</strong>.</p>\n\n<p>However, as we have said multiple times, <strong>we are all building and shaping this\_community</strong>. We can\_all be ambassadors, role-models, contributors. This community can only scale if\_these 5 Board members are supported by <strong>a broader network</strong> of supporters, local representatives, working group leaders, etc., believing in what we are creating, giving concrete feedback, aiding the local communities, running programs and workshops, etc.</p>\n\n<p>We expect to see so many of you <a href=\"https://alumni.eitdigital.eu/propose\">helping the next Board with its activities and plans</a>. We need the help and the support of all of you to <strong>keep</strong>\_<strong>making\_this real</strong>.</p>\n\n<p>\_</p>\n\n<p>Kind regards,</p>\n\n<p>The Alumni Board 2017-2019</p>\n"
+    summary: 'After a long Election period, started already at the end of January with the opening of the online a'
+    summary_processed: 'After a long Election period, started already at the end of January with the opening of the online a'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: "After a long Election period, the representatives for the new Alumni Board have been elected for the next\_two years!"
+field_image:
+  -
+    target_type: media
+    target_uuid: d9311d88-2175-4211-9f49-c2fea4e040d9
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.d9311d88-2175-4211-9f49-c2fea4e040d9

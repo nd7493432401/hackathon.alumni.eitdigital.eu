@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 5f17a08a-8099-4a45-8b58-96e99945da6a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Inhouse Consultant (m/w/d) Service Processes'
+created:
+  -
+    value: '2019-05-19T10:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:59:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/inhouse-consultant-mwd-service-processes
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://recruitingapp-609.umantis.com/Vacancies/11437/Application/New/2'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Sartorius
+    format: full_html
+    processed: Sartorius
+field_expiration_date:
+  -
+    value: '2019-06-30T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><b>Sartorius</b>&nbsp;For the improvement of our global business service processes from incoming orders to services and invoicing, we are looking for an Inhouse Consultant Service Processes. In this role you will be leading key improvement projects for our two divisions globally and position them internally. This is an exciting opportunity to enhance the Sartorius Customer Experience, to shape future process digitalization and to integrate service in our global Order to Cash structures.<br />\r\n<br />\r\n<b>Your tasks</b></p>\r\n\r\n<ul>\r\n\t<li>Lead international end-to-end improvement initiatives independently</li>\r\n\t<li>Consult process owners in the service area for our two divisions LPS and BPS</li>\r\n\t<li>Focus on the improvement of customer experience, process efficiency and the preparation of process digitalization</li>\r\n\t<li>Proactively indentify optimization potentials</li>\r\n\t<li>Translate business requirements in organizations, processes, data and systems</li>\r\n\t<li>Refine our global growth platform with focus on Service processes</li>\r\n</ul>\r\n\r\n<p><b>Your profile</b></p>\r\n\r\n<ul>\r\n\t<li>Degree in general management, industrial or business engineering or related studies</li>\r\n\t<li>Demonstrable experience in the area of service, lateral entry or related areas such as operations, marketing, Commercial operations possible</li>\r\n\t<li>Process expertise in service operations, including proceeding and subsequent&nbsp; areas (offer- and order management, spare part handling &amp; -logistics, master data, end-to-end optimization)</li>\r\n\t<li>Successful application of project management- and process improvement methods (e.g. Six Sigma, Scrum, Change Management, ...)</li>\r\n\t<li>Strong analytical skills, solution- and customer-oriented mindset, persuasive power and assertiveness, distinctive intercultural competence</li>\r\n\t<li>Excellent written and verbal communication skills in English and German&nbsp;</li>\r\n\t<li>Willingness to travel (up to 30 %)</li>\r\n\t<li>Strong identification with our core values: sustainability, openness, enjoyment</li>\r\n</ul>\r\n\r\n<p><b>Benefits</b></p>\r\n\r\n<ul>\r\n\t<li>Opportunity to work crossfunctionally within an international environment</li>\r\n\t<li>Flexible working hours and attractive remuneration</li>\r\n</ul>\r\n\r\n<p><b>Interested?</b>&nbsp;Driving our future growth requires talented people. Sartorius is a dynamic organisation suited to people who want to showcase skills, be recognised for expertise and thrive in a vibrant and innovative environment.<br />\r\n<br />\r\nTo find out more about Sartorius as an employer visit us on https://www.sartorius.com/sartorius/en/EUR/company/careers?setCountry=WW-en<br />\r\n<br />\r\nBecome part of our global team. Apply directly via our&nbsp;<a href=\"https://recruitingapp-609.umantis.com/Vacancies/5187/Application/New/2\">online job portal</a>.&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p><b>Sartorius</b>\_For the improvement of our global business service processes from incoming orders to services and invoicing, we are looking for an Inhouse Consultant Service Processes. In this role you will be leading key improvement projects for our two divisions globally and position them internally. This is an exciting opportunity to enhance the Sartorius Customer Experience, to shape future process digitalization and to integrate service in our global Order to Cash structures.<br />\n<br />\n<b>Your tasks</b></p>\n\n<ul>\n\t<li>Lead international end-to-end improvement initiatives independently</li>\n\t<li>Consult process owners in the service area for our two divisions LPS and BPS</li>\n\t<li>Focus on the improvement of customer experience, process efficiency and the preparation of process digitalization</li>\n\t<li>Proactively indentify optimization potentials</li>\n\t<li>Translate business requirements in organizations, processes, data and systems</li>\n\t<li>Refine our global growth platform with focus on Service processes</li>\n</ul>\n\n<p><b>Your profile</b></p>\n\n<ul>\n\t<li>Degree in general management, industrial or business engineering or related studies</li>\n\t<li>Demonstrable experience in the area of service, lateral entry or related areas such as operations, marketing, Commercial operations possible</li>\n\t<li>Process expertise in service operations, including proceeding and subsequent\_ areas (offer- and order management, spare part handling &amp; -logistics, master data, end-to-end optimization)</li>\n\t<li>Successful application of project management- and process improvement methods (e.g. Six Sigma, Scrum, Change Management, ...)</li>\n\t<li>Strong analytical skills, solution- and customer-oriented mindset, persuasive power and assertiveness, distinctive intercultural competence</li>\n\t<li>Excellent written and verbal communication skills in English and German\_</li>\n\t<li>Willingness to travel (up to 30 %)</li>\n\t<li>Strong identification with our core values: sustainability, openness, enjoyment</li>\n</ul>\n\n<p><b>Benefits</b></p>\n\n<ul>\n\t<li>Opportunity to work crossfunctionally within an international environment</li>\n\t<li>Flexible working hours and attractive remuneration</li>\n</ul>\n\n<p><b>Interested?</b>\_Driving our future growth requires talented people. Sartorius is a dynamic organisation suited to people who want to showcase skills, be recognised for expertise and thrive in a vibrant and innovative environment.<br />\n<br />\nTo find out more about Sartorius as an employer visit us on https://www.sartorius.com/sartorius/en/EUR/company/careers?setCountry=WW-en<br />\n<br />\nBecome part of our global team. Apply directly via our\_<a href=\"https://recruitingapp-609.umantis.com/Vacancies/5187/Application/New/2\">online job portal</a>.\_</p>\n"
+field_job_location:
+  -
+    value: 'Goettingen, Germany'
+    format: full_html
+    processed: 'Goettingen, Germany'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/tamdibi'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

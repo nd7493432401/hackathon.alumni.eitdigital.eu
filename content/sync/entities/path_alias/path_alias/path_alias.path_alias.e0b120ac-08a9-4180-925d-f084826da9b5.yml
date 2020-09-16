@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e0b120ac-08a9-4180-925d-f084826da9b5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/197
+alias:
+  -
+    value: /event/eit-alumni-go-sziget-vojo
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

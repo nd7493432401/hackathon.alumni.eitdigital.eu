@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: 91a381d6-2f18-4ea5-b2f4-41f9eca5ae92
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-03-26T10:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Events
+description: {  }
+menu_name:
+  -
+    value: hamburger-menu
+link:
+  -
+    uri: 'internal:#'
+    title: ''
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: 0
+expanded:
+  -
+    value: true
+parent: {  }
+changed:
+  -
+    value: '2020-03-26T10:35:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

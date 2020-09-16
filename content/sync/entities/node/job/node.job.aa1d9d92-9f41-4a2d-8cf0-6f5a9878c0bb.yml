@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: aa1d9d92-9f41-4a2d-8cf0-6f5a9878c0bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Enterprise Solutions Consultant'
+created:
+  -
+    value: '2018-04-17T17:57:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:27:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/enterprise-solutions-consultant
+body: {  }
+field_apply_link:
+  -
+    uri: 'http://www.dedagroup.it/chi-siamo/persone/lavora-con-noi'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Dedagroup
+    format: full_html
+    processed: Dedagroup
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p><a href=\"http://www.dedagroup.it/\">Dedagroup</a>, sector: Fashion</p>\r\n\r\n<p><strong>What to expect from this position </strong></p>\r\n\r\n<p>You will be involved in our Fashion area, which has been helping fashion companies grow and expand for over 30 years. Referring to the processes that typically compose the supply chain of a manufacturing company that produces and distributes clothing items, you will give support to an activity of:</p>\r\n\r\n<ul>\r\n\t<li>development and implementation of IT solutions</li>\r\n\t<li>design of custom solutions for the main modules of Stealth3000, ERP owner, leader of the Fashion Industry</li>\r\n\t<li>adjustment of stealth3000 to the needs of a specific company, interfacing with the customer's business</li>\r\n</ul>\r\n\r\n<p><strong>Qualifications and skills required </strong></p>\r\n\r\n<ul>\r\n\t<li>Knowledge of the typical processes of a clothing company.</li>\r\n\t<li>Fluent knowledge of English</li>\r\n\t<li>Degree in Economics, Business Management or Computer Engineering</li>\r\n</ul>\r\n\r\n<p><strong>Soft skills considered important </strong></p>\r\n\r\n<p>We are looking for a person with relational and analytical skills, and with a good ability to work in team.</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"http://www.dedagroup.it/\">Dedagroup</a>, sector: Fashion</p>\n\n<p><strong>What to expect from this position </strong></p>\n\n<p>You will be involved in our Fashion area, which has been helping fashion companies grow and expand for over 30 years. Referring to the processes that typically compose the supply chain of a manufacturing company that produces and distributes clothing items, you will give support to an activity of:</p>\n\n<ul>\n\t<li>development and implementation of IT solutions</li>\n\t<li>design of custom solutions for the main modules of Stealth3000, ERP owner, leader of the Fashion Industry</li>\n\t<li>adjustment of stealth3000 to the needs of a specific company, interfacing with the customer's business</li>\n</ul>\n\n<p><strong>Qualifications and skills required </strong></p>\n\n<ul>\n\t<li>Knowledge of the typical processes of a clothing company.</li>\n\t<li>Fluent knowledge of English</li>\n\t<li>Degree in Economics, Business Management or Computer Engineering</li>\n</ul>\n\n<p><strong>Soft skills considered important </strong></p>\n\n<p>We are looking for a person with relational and analytical skills, and with a good ability to work in team.</p>\n"
+field_job_location:
+  -
+    value: ' Padova, Italy'
+    format: full_html
+    processed: ' Padova, Italy'
+field_more_details_link:
+  -
+    uri: 'http://www.dedagroup.it/chi-siamo/persone/lavora-con-noi'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

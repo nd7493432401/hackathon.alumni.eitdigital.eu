@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 97d1171d-b3cf-42a4-ae39-78c6ab5c2c70
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/37
+alias:
+  -
+    value: /article/results-2019-elections
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

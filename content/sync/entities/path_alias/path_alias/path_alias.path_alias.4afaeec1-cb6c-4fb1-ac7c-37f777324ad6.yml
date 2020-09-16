@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4afaeec1-cb6c-4fb1-ac7c-37f777324ad6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/225
+alias:
+  -
+    value: /event/womeneit-2-3d-printing-modeling-workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

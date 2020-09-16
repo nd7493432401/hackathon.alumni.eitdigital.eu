@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 48fc57f6-75c8-4bb9-ae80-0a6a1a62edb6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/133
+alias:
+  -
+    value: /local-representative/womeneit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

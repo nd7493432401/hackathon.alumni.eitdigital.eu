@@ -1,0 +1,21 @@
+uuid: a92e417f-d9de-42a6-8dec-65fc92ee8e76
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_vision_for_the_community
+    - node.type.candidate
+  module:
+    - text
+id: node.candidate.field_vision_for_the_community
+field_name: field_vision_for_the_community
+entity_type: node
+bundle: candidate
+label: 'Vision for the community'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

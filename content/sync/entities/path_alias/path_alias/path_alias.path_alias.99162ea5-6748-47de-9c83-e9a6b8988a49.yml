@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 99162ea5-6748-47de-9c83-e9a6b8988a49
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/219
+alias:
+  -
+    value: /event/master-school-graduation-ceremony-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

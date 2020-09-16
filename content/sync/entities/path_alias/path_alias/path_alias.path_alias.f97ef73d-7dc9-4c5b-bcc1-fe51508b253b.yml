@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f97ef73d-7dc9-4c5b-bcc1-fe51508b253b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/341
+alias:
+  -
+    value: /job/phd-persuasive-computing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

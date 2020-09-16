@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2fb069f1-4a0e-41a9-9f95-15d5cf29857c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/254
+alias:
+  -
+    value: /event/extraordinary-board-elections-december-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

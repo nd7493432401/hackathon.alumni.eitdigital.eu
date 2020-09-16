@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: fd7f84d8-b16c-4938-90e5-bc18235c4d9f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'User Interface Design Intern'
+created:
+  -
+    value: '2017-11-30T16:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T15:58:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/user-interface-design-intern-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:work@spectral.energy'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Spectral
+    format: full_html
+    processed: Spectral
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p>Do you have experience with user interface design and want to help drive the energy transition? Spectral, a renewable energy and technology start-up in Amsterdam, is looking for an intern to strengthen the development team. If you can bring enthusiasm, we can offer the opportunity to be a part of a game-changing team working on several front end developments, supporting materials for our marketing and communications, and and much, much more.</p>\r\n\r\n<p>ABOUT SPECTRAL</p>\r\n\r\n<p><strong>Spectral</strong> develops technological solutions that unlock the value of energy storage, demand flexibility, and locally produced renewable energy, propelling the evolution of smart energy networks. Our mission is to accelerate the global transition towards 100% renewable, clean energy supply. We believe that one of the most urgent issues is to solve the challenges for providing for our energy needs in a sustainable way. Not only is access to energy essential for high quality of life, but virtually everything is reliant on an input of energy. Our long-term vision is to develop scalable solutions that will revolutionize the way we provide for all of our core resources, focusing on the key areas needed for leading a healthy and fruitful life: energy, water, sanitation, food, shelter, and resource recovery.</p>\r\n\r\n<p>YOUR ROLE AND PROFILE</p>\r\n\r\n<p>We are looking for a multi-talented UI Design intern, who is excited to join our mission-oriented, crazy start-up environment. You should basically be a hybrid of UI, UX, and Front-End Development, and eager to take on real-life projects that involve collaborating with a broader design team, and have the ability to make something valuable out of complex multi-stakeholder requirements. Some of the projects you will be working on are the development of an interactive, smart community platform and an online knowledge platform. Both projects are aimed to accelerate the transition towards bottom-up, relient smart neighborhoods and cities.</p>\r\n\r\n<p>REQUIRED SKILLS / EXPERIENCE</p>\r\n\r\n<p>- HTML, CSS, Javascript<br />\r\n-&nbsp;Detail-oriented is your second name<br />\r\n- Comfortable with creating different styles and techniques<br />\r\n-&nbsp;Great and fun team player, yet able to take your responsibility and work independently<br />\r\n-&nbsp;Comfortable with deadline pressures<br />\r\n- Fluent in English<br />\r\n-&nbsp;Passionate about making this world a better place</p>\r\n\r\n<p>EXPERIENCE</p>\r\n\r\n<p>- Experience with Adobe Illustrator and Adobe Photoshop<br />\r\n-&nbsp;Experience with Python, PHP or SASS<br />\r\n-&nbsp;ES6 / ES2015<br />\r\n-&nbsp;Gulp / similar build pipelines<br />\r\n- GIT (gitlab)<br />\r\n-&nbsp;Fluent in Dutch</p>\r\n\r\n<p>Are you up for that?</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>OUR OFFER</p>\r\n\r\n<p>An awesome multicultural and very ambitious entrepreneurial team and the chance to change the world for the better! And of course, you’ll be getting a stipend. The internship lasts <strong>5-6 months</strong> and should be a 4-5 days / week commitment. The start date is flexible but could begin as of December 2017.</p>\r\n"
+    format: full_html
+    processed: "<p>Do you have experience with user interface design and want to help drive the energy transition? Spectral, a renewable energy and technology start-up in Amsterdam, is looking for an intern to strengthen the development team. If you can bring enthusiasm, we can offer the opportunity to be a part of a game-changing team working on several front end developments, supporting materials for our marketing and communications, and and much, much more.</p>\n\n<p>ABOUT SPECTRAL</p>\n\n<p><strong>Spectral</strong> develops technological solutions that unlock the value of energy storage, demand flexibility, and locally produced renewable energy, propelling the evolution of smart energy networks. Our mission is to accelerate the global transition towards 100% renewable, clean energy supply. We believe that one of the most urgent issues is to solve the challenges for providing for our energy needs in a sustainable way. Not only is access to energy essential for high quality of life, but virtually everything is reliant on an input of energy. Our long-term vision is to develop scalable solutions that will revolutionize the way we provide for all of our core resources, focusing on the key areas needed for leading a healthy and fruitful life: energy, water, sanitation, food, shelter, and resource recovery.</p>\n\n<p>YOUR ROLE AND PROFILE</p>\n\n<p>We are looking for a multi-talented UI Design intern, who is excited to join our mission-oriented, crazy start-up environment. You should basically be a hybrid of UI, UX, and Front-End Development, and eager to take on real-life projects that involve collaborating with a broader design team, and have the ability to make something valuable out of complex multi-stakeholder requirements. Some of the projects you will be working on are the development of an interactive, smart community platform and an online knowledge platform. Both projects are aimed to accelerate the transition towards bottom-up, relient smart neighborhoods and cities.</p>\n\n<p>REQUIRED SKILLS / EXPERIENCE</p>\n\n<p>- HTML, CSS, Javascript<br />\n-\_Detail-oriented is your second name<br />\n- Comfortable with creating different styles and techniques<br />\n-\_Great and fun team player, yet able to take your responsibility and work independently<br />\n-\_Comfortable with deadline pressures<br />\n- Fluent in English<br />\n-\_Passionate about making this world a better place</p>\n\n<p>EXPERIENCE</p>\n\n<p>- Experience with Adobe Illustrator and Adobe Photoshop<br />\n-\_Experience with Python, PHP or SASS<br />\n-\_ES6 / ES2015<br />\n-\_Gulp / similar build pipelines<br />\n- GIT (gitlab)<br />\n-\_Fluent in Dutch</p>\n\n<p>Are you up for that?</p>\n\n<p>\_</p>\n\n<p>OUR OFFER</p>\n\n<p>An awesome multicultural and very ambitious entrepreneurial team and the chance to change the world for the better! And of course, you’ll be getting a stipend. The internship lasts <strong>5-6 months</strong> and should be a 4-5 days / week commitment. The start date is flexible but could begin as of December 2017.</p>\n"
+field_job_location:
+  -
+    value: Amsterdam
+    format: full_html
+    processed: Amsterdam
+field_more_details_link:
+  -
+    uri: 'https://spectral.energy/workwithus/ui-intern/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c6d568b5-f67d-43a3-844a-b3ca16b53034
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/164
+alias:
+  -
+    value: /event/digital-identity-21st-century
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

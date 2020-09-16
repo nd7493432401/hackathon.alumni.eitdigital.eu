@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c4a76d9d-056e-418b-8c9a-77544fd17e25
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/451
+alias:
+  -
+    value: /job/medior-back-end-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

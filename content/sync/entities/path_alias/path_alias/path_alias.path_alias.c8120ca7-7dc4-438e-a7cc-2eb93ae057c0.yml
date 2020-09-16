@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c8120ca7-7dc4-438e-a7cc-2eb93ae057c0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/239
+alias:
+  -
+    value: /event/womeneit-5-spotify-visit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

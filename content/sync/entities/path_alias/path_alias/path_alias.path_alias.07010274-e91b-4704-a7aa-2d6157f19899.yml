@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 07010274-e91b-4704-a7aa-2d6157f19899
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/584
+alias:
+  -
+    value: /job/ios-flutter-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

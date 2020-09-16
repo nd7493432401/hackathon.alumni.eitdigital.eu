@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e4a4bbc2-c7f7-4d15-8689-efc8222406c8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/290
+alias:
+  -
+    value: /event/eit-talent-match
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

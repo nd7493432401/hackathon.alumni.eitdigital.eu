@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d617f90b-18f2-43d9-b8c4-0487c3f6cff9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/348
+alias:
+  -
+    value: /job/quality-manager
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

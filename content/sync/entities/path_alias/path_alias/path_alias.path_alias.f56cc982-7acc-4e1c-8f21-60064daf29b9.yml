@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f56cc982-7acc-4e1c-8f21-60064daf29b9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/128
+alias:
+  -
+    value: /local-representative/madrid-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

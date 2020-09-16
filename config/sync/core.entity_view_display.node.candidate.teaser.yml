@@ -1,0 +1,43 @@
+uuid: e492cd03-47b8-4510-924f-db147185f2fc
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.candidate.body
+    - field.field.node.candidate.field_candidate_motivation
+    - field.field.node.candidate.field_candidate_photo
+    - field.field.node.candidate.field_full_name
+    - field.field.node.candidate.field_position
+    - field.field.node.candidate.field_vision_for_the_community
+    - field.field.node.candidate.field_why_people_should_vote_for
+    - node.type.candidate
+  module:
+    - text
+    - user
+id: node.candidate.teaser
+targetEntityType: node
+bundle: candidate
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_candidate_motivation: true
+  field_candidate_photo: true
+  field_full_name: true
+  field_position: true
+  field_vision_for_the_community: true
+  field_why_people_should_vote_for: true
+  langcode: true

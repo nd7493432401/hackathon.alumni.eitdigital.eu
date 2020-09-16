@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c1a2edca-969c-41d8-b8e3-19053f667a1d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/118
+alias:
+  -
+    value: /article/spotlight-julia-wache
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

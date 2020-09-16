@@ -1,0 +1,21 @@
+uuid: fa80e67f-9e2d-4f0d-9a77-7d1e03accbe2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.user.field_mentorship_status
+  module:
+    - options
+    - user
+id: user.user.field_mentorship_status
+field_name: field_mentorship_status
+entity_type: user
+bundle: user
+label: 'Mentorship Status'
+description: 'More details can be found <a href="https://alumni.eitdigital.eu/mentorship-programme">here</a>'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

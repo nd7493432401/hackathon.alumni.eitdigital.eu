@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 483b63d2-395f-4994-a0b4-4b8e19cbbd50
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/203
+alias:
+  -
+    value: /event/5th-graduation-ceremony-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

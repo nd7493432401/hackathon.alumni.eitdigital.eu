@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 808074f3-be37-459b-b40b-8a8ee8e7b8bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Get to know ustwo: we''re hiring!'
+created:
+  -
+    value: '2017-09-21T18:34:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:41:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/get-know-ustwo-were-hiring
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://ustwo.com/join-us/'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: ustwo
+    format: full_html
+    processed: ustwo
+field_expiration_date:
+  -
+    value: '2017-10-22T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p>ustwo was founded by best friends Mills and Sinx back in 2004. The mission was to build a studio where open-minded, passionate people could work under one roof, share ideas and bring them to life.</p>\r\n\r\n<p>Over the last 13 years we’ve grown, and there are now four unique ustwo studios around the world across&nbsp;London, New York, Malmö and Sydney, in addition to&nbsp;ustwo Games:&nbsp;our brilliant games studio, and ustwo Adventures:&nbsp;our startup fund/incubator.</p>\r\n\r\n<p>Whether we’re doing innovative work for clients, bringing our own ideas to award-winning life, or launching disruptive new businesses, ustwo has never done normal.</p>\r\n\r\n<p>We believe diverse teams help us make better products, so we actively hire for cultural growth, welcoming people of all ages, stories and backgrounds.</p>\r\n\r\n<p>If you want to know more, check out&nbsp;<a href=\"http://us2.co/ManifestoV2\">our Manifesto here</a>&nbsp;and some of the roles we’re hiring for across the globe <a href=\"https://ustwo.com/join-us/\">here</a>. Welcome to the Fampany.</p>\r\n"
+    format: full_html
+    processed: "<p>ustwo was founded by best friends Mills and Sinx back in 2004. The mission was to build a studio where open-minded, passionate people could work under one roof, share ideas and bring them to life.</p>\n\n<p>Over the last 13 years we’ve grown, and there are now four unique ustwo studios around the world across\_London, New York, Malmö and Sydney, in addition to\_ustwo Games:\_our brilliant games studio, and ustwo Adventures:\_our startup fund/incubator.</p>\n\n<p>Whether we’re doing innovative work for clients, bringing our own ideas to award-winning life, or launching disruptive new businesses, ustwo has never done normal.</p>\n\n<p>We believe diverse teams help us make better products, so we actively hire for cultural growth, welcoming people of all ages, stories and backgrounds.</p>\n\n<p>If you want to know more, check out\_<a href=\"http://us2.co/ManifestoV2\">our Manifesto here</a>\_and some of the roles we’re hiring for across the globe <a href=\"https://ustwo.com/join-us/\">here</a>. Welcome to the Fampany.</p>\n"
+field_job_location:
+  -
+    value: 'London | Malmo | New York | Sydney'
+    format: full_html
+    processed: 'London | Malmo | New York | Sydney'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

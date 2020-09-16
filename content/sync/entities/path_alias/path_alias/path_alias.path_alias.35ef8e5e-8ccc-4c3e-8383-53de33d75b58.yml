@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 35ef8e5e-8ccc-4c3e-8383-53de33d75b58
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/318
+alias:
+  -
+    value: /job/strategic-industrial-design-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: d159e663-f8c9-464b-a4c4-d3882184c4d8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'PhD Researcher in Informatics / Human Computer Interaction'
+created:
+  -
+    value: '2017-12-18T14:25:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:00:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/phd-researcher-informatics-human-computer-interaction
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:e.zoschke@uni-bremen.de'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'University of Bremen'
+    format: full_html
+    processed: 'University of Bremen'
+field_expiration_date:
+  -
+    value: '2018-01-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>The Collaborative Research Center 1342 <strong>“Global Dynamics of Social Policy”</strong> at the University of Bremen invites applications for the following academic position:<br />\r\n&nbsp;</p>\r\n\r\n<p>PhD Researcher in Informatics / Human Computer Interaction<br />\r\nSalary Scale TV-L 13 (100%) starting April 1, 2018<br />\r\nThe position is a fixed term position until December 31, 2021.<br />\r\n&nbsp;</p>\r\n\r\n<p>The position is part of the Collaborative Research Center “Global Dynamics of Social Policy” (Globale Entwicklungsdynamiken von Sozialpolitik) funded by the German Research Foundation and will be located within the project:</p>\r\n\r\n<p><strong>A01. Measuring the global dynamics of social policy and cross-national interdependencies—CoCreating the Global Welfare State Information System (WeSIS)</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>All the job responsibilities, requirements and more details can be found <a href=\"https://seth.informatik.uni-bremen.de/SFB1342/Job_Doc.pdf\">at the following PDF</a>.</p>\r\n"
+    format: full_html
+    processed: "<p>The Collaborative Research Center 1342 <strong>“Global Dynamics of Social Policy”</strong> at the University of Bremen invites applications for the following academic position:<br />\n\_</p>\n\n<p>PhD Researcher in Informatics / Human Computer Interaction<br />\nSalary Scale TV-L 13 (100%) starting April 1, 2018<br />\nThe position is a fixed term position until December 31, 2021.<br />\n\_</p>\n\n<p>The position is part of the Collaborative Research Center “Global Dynamics of Social Policy” (Globale Entwicklungsdynamiken von Sozialpolitik) funded by the German Research Foundation and will be located within the project:</p>\n\n<p><strong>A01. Measuring the global dynamics of social policy and cross-national interdependencies—CoCreating the Global Welfare State Information System (WeSIS)</strong></p>\n\n<p>\_</p>\n\n<p>All the job responsibilities, requirements and more details can be found <a href=\"https://seth.informatik.uni-bremen.de/SFB1342/Job_Doc.pdf\">at the following PDF</a>.</p>\n"
+field_job_location:
+  -
+    value: 'Bremen, Germany'
+    format: full_html
+    processed: 'Bremen, Germany'
+field_more_details_link:
+  -
+    uri: 'https://seth.informatik.uni-bremen.de/SFB1342/Job_Doc.pdf'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

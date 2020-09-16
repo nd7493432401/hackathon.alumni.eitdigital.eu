@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ff7f5390-91e7-40ec-aa26-fffbd16da785
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/255
+alias:
+  -
+    value: /event/business-development-workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

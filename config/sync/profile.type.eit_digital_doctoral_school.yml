@@ -1,0 +1,14 @@
+uuid: 7dce9230-a390-4b2a-956c-d9d79269bb4f
+langcode: en
+status: true
+dependencies: {  }
+id: eit_digital_doctoral_school
+label: 'EIT Digital Doctoral School'
+display_label: 'EIT Digital Doctoral School'
+multiple: false
+registration: true
+roles:
+  potential_member_phd: potential_member_phd
+  alumni_member_phd: alumni_member_phd
+allow_revisions: false
+new_revision: false

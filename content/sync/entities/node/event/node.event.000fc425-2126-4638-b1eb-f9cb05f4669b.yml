@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 000fc425-2126-4638-b1eb-f9cb05f4669b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T09:49:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'First Cybersecurity meetup in Hungary'
+created:
+  -
+    value: '2018-09-13T20:05:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T09:49:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/first-cybersecurity-meetup-hungary
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC Hungary '
+    format: full_html
+    processed: 'EIT Digital CLC Hungary '
+field_event_date:
+  -
+    value: '2018-09-19T15:00:00+02:00'
+    end_value: '2018-09-19T18:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly basis and will also have some EIT Digital Doctoral School students coming around to talk about the program, the application process and their experiences. This is an opportunity to learn from others, be inspired and be prepared for the challenges ahead to develop on your cyber-security career.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><em>First Speaker</em>: Bertalan Borsos from EY</p>\r\n\r\n<p><em>Organised</em> by <a href=\"https://alumni.eitdigital.eu/users/mark\">Mark Szabo-Simon</a> (Alumnus in Budapest)</p>\r\n\r\n<p><em>Location</em>: Budapest CLC</p>\r\n"
+    format: full_html
+    processed: "<p>A series of Talks by Alumni sharing their experiences with the internship, thesis, their current working situation and how they see the cybersecurity market in Hungary and Europe at large. These series of talks will be on a weekly basis and will also have some EIT Digital Doctoral School students coming around to talk about the program, the application process and their experiences. This is an opportunity to learn from others, be inspired and be prepared for the challenges ahead to develop on your cyber-security career.</p>\n\n<p>\_</p>\n\n<p><em>First Speaker</em>: Bertalan Borsos from EY</p>\n\n<p><em>Organised</em> by <a href=\"https://alumni.eitdigital.eu/users/mark\">Mark Szabo-Simon</a> (Alumnus in Budapest)</p>\n\n<p><em>Location</em>: Budapest CLC</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 275487f4-2083-4d8c-ba0e-c0fe315b1d29
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 275487f4-2083-4d8c-ba0e-c0fe315b1d29
+field_event_introduction:
+  -
+    value: "<p>A series of Talks by Alumni sharing some of their experiences</p>\r\n"
+    format: full_html
+    processed: "<p>A series of Talks by Alumni sharing some of their experiences</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.275487f4-2083-4d8c-ba0e-c0fe315b1d29

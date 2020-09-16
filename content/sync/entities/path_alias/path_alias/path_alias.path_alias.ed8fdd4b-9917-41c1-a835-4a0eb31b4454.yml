@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ed8fdd4b-9917-41c1-a835-4a0eb31b4454
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/20
+alias:
+  -
+    value: /event-type/social-gathering
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

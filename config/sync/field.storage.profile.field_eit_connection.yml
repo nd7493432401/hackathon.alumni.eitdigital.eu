@@ -1,0 +1,27 @@
+uuid: e2cfb6ce-ab3f-4511-bf7a-63e465fcfb59
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - profile
+id: profile.field_eit_connection
+field_name: field_eit_connection
+entity_type: profile
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Current Employee'
+      label: 'Current Employee'
+    -
+      value: 'Former Employee'
+      label: 'Former Employee'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

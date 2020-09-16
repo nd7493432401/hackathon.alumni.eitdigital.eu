@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0dbe00be-b85a-4750-aba0-4b94a2e73f0d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/24
+alias:
+  -
+    value: /article/short-summary-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

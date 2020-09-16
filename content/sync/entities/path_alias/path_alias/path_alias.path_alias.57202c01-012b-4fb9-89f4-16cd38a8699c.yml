@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 57202c01-012b-4fb9-89f4-16cd38a8699c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/156
+alias:
+  -
+    value: /event/working-groups-meeting-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

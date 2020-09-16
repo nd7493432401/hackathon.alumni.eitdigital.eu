@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5070f01e-a97b-489c-87cf-fb920fcaaf29
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/332
+alias:
+  -
+    value: /job/phd-computer-science-information-security-privacy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

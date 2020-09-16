@@ -1,0 +1,21 @@
+uuid: 06957cb2-0b68-4e00-863d-9253b527a9dc
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_friend_role
+    - profile.type.eit_digital_friend
+  module:
+    - text
+id: profile.eit_digital_friend.field_friend_role
+field_name: field_friend_role
+entity_type: profile
+bundle: eit_digital_friend
+label: Role
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

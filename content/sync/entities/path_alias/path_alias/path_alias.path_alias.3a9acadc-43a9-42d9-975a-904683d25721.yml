@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3a9acadc-43a9-42d9-975a-904683d25721
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/578
+alias:
+  -
+    value: /job/process-automation-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

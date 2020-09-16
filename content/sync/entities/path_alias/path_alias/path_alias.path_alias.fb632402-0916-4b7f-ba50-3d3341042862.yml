@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fb632402-0916-4b7f-ba50-3d3341042862
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/12
+alias:
+  -
+    value: /event-type/kickoff
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

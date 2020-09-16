@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ea797bdd-4429-41b3-9762-971ce54a0b5f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/70
+alias:
+  -
+    value: /entry-universities/kth-royal-institute-technology-stockholm-sweden
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,21 @@
+uuid: 056dbbd9-108b-4421-843c-009fb3b686fb
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_why_people_should_vote_for
+    - node.type.candidate
+  module:
+    - text
+id: node.candidate.field_why_people_should_vote_for
+field_name: field_why_people_should_vote_for
+entity_type: node
+bundle: candidate
+label: 'Why people should vote for me'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

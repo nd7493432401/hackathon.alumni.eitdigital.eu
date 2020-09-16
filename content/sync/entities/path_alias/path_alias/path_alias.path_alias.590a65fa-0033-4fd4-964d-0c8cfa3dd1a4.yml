@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 590a65fa-0033-4fd4-964d-0c8cfa3dd1a4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/60
+alias:
+  -
+    value: /entry-universities/universite-pierre-et-marie-curie-paris-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

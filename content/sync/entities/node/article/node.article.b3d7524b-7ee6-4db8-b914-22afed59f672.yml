@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: b3d7524b-7ee6-4db8-b914-22afed59f672
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:04:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Reviving the community in Berlin'
+created:
+  -
+    value: '2019-03-09T19:33:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:04:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/reviving-community-berlin
+body:
+  -
+    value: "<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">On the 21st of February <a href=\"https://alumni.eitdigital.eu/event/2019-alumni-berlin-comeback\">an Alumni meetup</a> was hosted in Berlin. Both the Alumni and the current EIT Digital students met each other and discussed their interests. Many Alumni said it was too long that <a href=\"https://alumni.eitdigital.eu/group/germany-local-group\"><strong>the Berlin community</strong></a> did not reunite, which tells us one important thing: just organizing a meetup with almost 40 participants can be considered a success! :)</span></span></span></span></span></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">For us organisers it was very cool to run this event: we were <strong>eager to meet again</strong> - one and a half years after finishing the Master School - and we noticed that in Berlin not many EIT Digital Alumni meetups were organised. So we all sat together and decided to <a href=\"https://alumni.eitdigital.eu/propose\">make a social activity</a>, so that both the students and the alumni living in Berlin become better connected. </span></span></span></span></span></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><img alt=\"Oliver\" data-entity-type=\"file\" data-entity-uuid=\"b687a56c-ddb3-4a22-8a6d-c3916a225a6a\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Oliver.jpg\" /></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><br />\r\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">First we started off with a brief refresh of the contacts of people who already knew each other, and then everyone made some potential new alumni / student friends. </span></span></span></span></span></span></span><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">After the first contacts were made, the <strong>CLC Manager</strong> Oliver Heerde welcomed us to the place were many of us had (and have) lived joyful experiences.</span></span></span></span></span></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">The activity itself was led by Josip, our local representative, Marc and Leonardo. The goal was to memorize the names of other people a little better, and to get to know their hobbies, their skills, and the skills they would like to learn from other EIT Digital members. This proved to be very valuable, since soon people started to exchange ideas, as well as exchanging emails and phone numbers to stay in touch - as the perception was that, after a <strong>long break with pizza and beers</strong>, the event passed quite quickly.</span></span></span></span></span></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><img alt=\"Participants\" data-entity-type=\"file\" data-entity-uuid=\"839bcece-9e83-437d-b6d2-6e6055dc7100\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Participants.png\" /></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><br />\r\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Not to end just here, we invite everyone in Berlin to share their feedback, as - in the future - we would like to keep organising such successful events. We would like to thank the Alumni Foundation <a href=\"http://alumni.eitdigital.eu/propose\">for the food and the support</a>, and the commitment to make the world of IT a better place. If you would like to <a href=\"http://alumni.eitdigital.eu/group/germany-local-group\">help organise new events in Berlin</a>, don’t forget to contact the local representatives: we would be happy to support you and create new possibilities to exchange knowledge.</span></span></span></span></span></span></span></p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">&nbsp;</p>\r\n\r\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><a href=\"https://alumni.eitdigital.eu/users/josip\">Josip</a> and the Berlin Team</p>\r\n"
+    format: full_html
+    processed: "<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">On the 21st of February <a href=\"https://alumni.eitdigital.eu/event/2019-alumni-berlin-comeback\">an Alumni meetup</a> was hosted in Berlin. Both the Alumni and the current EIT Digital students met each other and discussed their interests. Many Alumni said it was too long that <a href=\"https://alumni.eitdigital.eu/group/germany-local-group\"><strong>the Berlin community</strong></a> did not reunite, which tells us one important thing: just organizing a meetup with almost 40 participants can be considered a success! :)</span></span></span></span></span></span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">For us organisers it was very cool to run this event: we were <strong>eager to meet again</strong> - one and a half years after finishing the Master School - and we noticed that in Berlin not many EIT Digital Alumni meetups were organised. So we all sat together and decided to <a href=\"https://alumni.eitdigital.eu/propose\">make a social activity</a>, so that both the students and the alumni living in Berlin become better connected. </span></span></span></span></span></span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><img alt=\"Oliver\" data-entity-type=\"file\" data-entity-uuid=\"b687a56c-ddb3-4a22-8a6d-c3916a225a6a\" src=\"/sites/default/files/inline-images/Oliver.jpg\" /></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><br />\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">First we started off with a brief refresh of the contacts of people who already knew each other, and then everyone made some potential new alumni / student friends. </span></span></span></span></span></span></span><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">After the first contacts were made, the <strong>CLC Manager</strong> Oliver Heerde welcomed us to the place were many of us had (and have) lived joyful experiences.</span></span></span></span></span></span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">The activity itself was led by Josip, our local representative, Marc and Leonardo. The goal was to memorize the names of other people a little better, and to get to know their hobbies, their skills, and the skills they would like to learn from other EIT Digital members. This proved to be very valuable, since soon people started to exchange ideas, as well as exchanging emails and phone numbers to stay in touch - as the perception was that, after a <strong>long break with pizza and beers</strong>, the event passed quite quickly.</span></span></span></span></span></span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><img alt=\"Participants\" data-entity-type=\"file\" data-entity-uuid=\"839bcece-9e83-437d-b6d2-6e6055dc7100\" src=\"/sites/default/files/inline-images/Participants.png\" /></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><br />\n<span style=\"line-height:1.38\"><span style=\"font-size:11pt\"><span style=\"font-family:Arial\"><span style=\"font-variant-numeric:normal\"><span style=\"font-variant-east-asian:normal\"><span style=\"vertical-align:baseline\"><span style=\"white-space:pre-wrap\">Not to end just here, we invite everyone in Berlin to share their feedback, as - in the future - we would like to keep organising such successful events. We would like to thank the Alumni Foundation <a href=\"http://alumni.eitdigital.eu/propose\">for the food and the support</a>, and the commitment to make the world of IT a better place. If you would like to <a href=\"http://alumni.eitdigital.eu/group/germany-local-group\">help organise new events in Berlin</a>, don’t forget to contact the local representatives: we would be happy to support you and create new possibilities to exchange knowledge.</span></span></span></span></span></span></span></p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\">\_</p>\n\n<p dir=\"ltr\" style=\"margin-top:0pt; margin-bottom:0pt\"><a href=\"https://alumni.eitdigital.eu/users/josip\">Josip</a> and the Berlin Team</p>\n"
+    summary: 'On the 21st of February an Alumni meetup was hosted in Berlin. Both the Alumni and the current EIT D'
+    summary_processed: 'On the 21st of February an Alumni meetup was hosted in Berlin. Both the Alumni and the current EIT D'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'We have hosted a local meetup in Berlin after quite some time: here is what we have learnt in the process'
+field_image:
+  -
+    target_type: media
+    target_uuid: 411daf8d-a446-4ab3-9649-cbedc683ee04
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.411daf8d-a446-4ab3-9649-cbedc683ee04

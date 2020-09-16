@@ -1,0 +1,28 @@
+uuid: e704b326-c40a-4b82-bae8-f54dd5a53e30
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_introduction_image
+    - media.type.image
+    - node.type.article
+id: node.article.field_introduction_image
+field_name: field_introduction_image
+entity_type: node
+bundle: article
+label: 'Introduction Image'
+description: 'Image will be automatically resized to 360x240'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:media'
+  handler_settings:
+    target_bundles:
+      image: image
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

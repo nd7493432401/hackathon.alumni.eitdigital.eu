@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 39d9f5f2-3542-438b-8f2a-4fc24a20be32
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/125
+alias:
+  -
+    value: /candidate/giancarlo-pastor-figueroa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

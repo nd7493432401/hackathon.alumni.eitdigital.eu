@@ -1,0 +1,25 @@
+uuid: f3fd13e0-163f-4696-9510-efa876a5f993
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:9a519169-85dc-4407-b2e1-cf69d1c528dc'
+  module:
+    - block_content
+  theme:
+    - eitalumni
+id: footercopyright2
+theme: eitalumni
+region: footer_bottom
+weight: 0
+provider: null
+plugin: 'block_content:9a519169-85dc-4407-b2e1-cf69d1c528dc'
+settings:
+  id: 'block_content:9a519169-85dc-4407-b2e1-cf69d1c528dc'
+  label: 'Footer Copyright 2'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

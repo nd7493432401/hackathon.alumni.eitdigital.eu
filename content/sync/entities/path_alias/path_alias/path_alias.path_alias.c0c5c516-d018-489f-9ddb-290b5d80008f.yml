@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c0c5c516-d018-489f-9ddb-290b5d80008f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/147
+alias:
+  -
+    value: /candidate/jeroen-van-lent
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

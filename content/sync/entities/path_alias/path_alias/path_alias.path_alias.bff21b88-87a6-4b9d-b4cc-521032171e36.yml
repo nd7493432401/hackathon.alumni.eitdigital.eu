@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bff21b88-87a6-4b9d-b4cc-521032171e36
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/342
+alias:
+  -
+    value: /job/backend-developer-team-intelligence
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

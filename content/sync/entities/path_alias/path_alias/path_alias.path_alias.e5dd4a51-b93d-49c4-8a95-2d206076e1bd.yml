@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e5dd4a51-b93d-49c4-8a95-2d206076e1bd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/28
+alias:
+  -
+    value: /event-type/elections
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

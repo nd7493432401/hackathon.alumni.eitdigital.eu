@@ -1,0 +1,96 @@
+uuid:
+  -
+    value: b4b785fa-2a41-4b8f-abe9-a96764cf8070
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:51:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EU-Startups Summit 2018'
+created:
+  -
+    value: '2018-01-25T13:40:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:51:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eu-startups-summit-2018
+body: {  }
+field_event_:
+  -
+    value: 'Auditori AXA, Barcelona, Spain'
+    format: full_html
+    processed: 'Auditori AXA, Barcelona, Spain'
+field_event_date:
+  -
+    value: '2018-04-24T07:00:00+02:00'
+    end_value: '2018-04-24T15:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>The <a href=\"http://www.eu-startups.com/eu-startups-summit-2018/\">EU-Startups Summit</a> will take place this year in Barcelona where 750 founders, investors, corporates and media people from all over Europe will participate to network and learn from some of the most successful European entrepreneurs of our time. In addition to interesting fireside chats and networking sessions, there will be a big pitch competition with 15 promising seed-stage startup teams from all across Europe, in front of a jury of well-known investors. The prize package for the winner will be worth at least €20,000.</p>\r\n\r\n<p>Moreover, there will be talks from lots of great speakers, including Riccardo Zacconi - CEO and Co-founder of King! The European unicorn (over €1 billion valuation) created blockbuster games like Candy Crush (and many more), and today is one of the world’s leading games companies.</p>\r\n\r\n<p>If you know for sure that you would like to be part of this event, we have got a <strong>discount of 20% off</strong> from the EU-Startups organisation exclusively for the members of our community!<br />\r\nPlease <a href=\"mailto:alumni@eitdigital.eu\">send us an email</a> to indicate your interest. Afterwards, a promo code will be provided to you. Access the <a href=\"https://www.xing-events.com/KFDHPVG.html\">Registration</a> page of the event and select your preferred category.</p>\r\n\r\n<p>The deadline to have access to the discount is <em>February 15</em>. We also encourage our members around Spain especially to take advantage of this nice opportunity.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>For any question or further information, please do not hesitate to <a href=\"mailto:alumni@eitdigital.eu\">contact us</a>.</p>\r\n\r\n<p>P.S. We are open to discuss about supporting other similar initiatives, building collaborations or sponsoring participation at events and conferences. Feel free to get in touch with us at any time.</p>\r\n"
+    format: full_html
+    processed: "<p>The <a href=\"http://www.eu-startups.com/eu-startups-summit-2018/\">EU-Startups Summit</a> will take place this year in Barcelona where 750 founders, investors, corporates and media people from all over Europe will participate to network and learn from some of the most successful European entrepreneurs of our time. In addition to interesting fireside chats and networking sessions, there will be a big pitch competition with 15 promising seed-stage startup teams from all across Europe, in front of a jury of well-known investors. The prize package for the winner will be worth at least €20,000.</p>\n\n<p>Moreover, there will be talks from lots of great speakers, including Riccardo Zacconi - CEO and Co-founder of King! The European unicorn (over €1 billion valuation) created blockbuster games like Candy Crush (and many more), and today is one of the world’s leading games companies.</p>\n\n<p>If you know for sure that you would like to be part of this event, we have got a <strong>discount of 20% off</strong> from the EU-Startups organisation exclusively for the members of our community!<br />\nPlease <a href=\"mailto:alumni@eitdigital.eu\">send us an email</a> to indicate your interest. Afterwards, a promo code will be provided to you. Access the <a href=\"https://www.xing-events.com/KFDHPVG.html\">Registration</a> page of the event and select your preferred category.</p>\n\n<p>The deadline to have access to the discount is <em>February 15</em>. We also encourage our members around Spain especially to take advantage of this nice opportunity.</p>\n\n<p>\_</p>\n\n<p>For any question or further information, please do not hesitate to <a href=\"mailto:alumni@eitdigital.eu\">contact us</a>.</p>\n\n<p>P.S. We are open to discuss about supporting other similar initiatives, building collaborations or sponsoring participation at events and conferences. Feel free to get in touch with us at any time.</p>\n"
+field_event_duration:
+  -
+    value: '10:00 - 18:00'
+    format: basic_html
+    processed: '10:00 - 18:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: ff2656c3-71c2-46eb-92bf-2c7fd50d20bf
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: ff2656c3-71c2-46eb-92bf-2c7fd50d20bf
+field_event_introduction:
+  -
+    value: "<p>The EU-Startups Summit will take place this year in Barcelona where 750 founders, investors, corporates and media people from all over Europe will participate to network and learn from some of the most successful European entrepreneurs of our time.</p>\r\n"
+    format: full_html
+    processed: "<p>The EU-Startups Summit will take place this year in Barcelona where 750 founders, investors, corporates and media people from all over Europe will participate to network and learn from some of the most successful European entrepreneurs of our time.</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.ff2656c3-71c2-46eb-92bf-2c7fd50d20bf

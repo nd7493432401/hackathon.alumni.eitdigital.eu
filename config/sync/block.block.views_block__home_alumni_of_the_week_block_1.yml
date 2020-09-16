@@ -1,0 +1,24 @@
+uuid: f9c9ba09-04c3-4792-9ed7-2c33f18017cd
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.home_alumni_of_the_week
+  module:
+    - views
+  theme:
+    - eitalumni
+id: views_block__home_alumni_of_the_week_block_1
+theme: eitalumni
+region: home3
+weight: 0
+provider: null
+plugin: 'views_block:home_alumni_of_the_week-block_1'
+settings:
+  id: 'views_block:home_alumni_of_the_week-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility: {  }

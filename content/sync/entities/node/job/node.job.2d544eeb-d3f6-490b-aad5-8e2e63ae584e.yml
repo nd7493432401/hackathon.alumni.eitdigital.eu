@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 2d544eeb-d3f6-490b-aad5-8e2e63ae584e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Community Manager'
+created:
+  -
+    value: '2018-07-21T23:42:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T08:22:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/community-manager
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:community_manager@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital'
+    format: full_html
+    processed: 'EIT Digital'
+field_expiration_date:
+  -
+    value: '2018-08-22T02:00:00+02:00'
+field_job_description:
+  -
+    value: "<p><strong>EIT Digital Alumni Foundation</strong><br />\r\nThe EIT Digital Alumni Foundation creates a vibrant, active and successful alumni network for EIT Digital. Our mission is to keep strong connections among fellow alumni and the EIT Digital ecosystem. We organise meet-ups, maintain an engaged community and discussion forum, keep track of alumni careers and support students and alumni to get in contact with companies, public institutions and academia. Our alumni are graduates of the EIT Digital Education programmes, as well as individuals who had a formal function in EIT Digital. The community also welcomes associate members and friends of EIT Digital.<br />\r\n<br />\r\n<strong>The Role</strong><br />\r\nFor the operational support related to the EIT Digital Alumni Foundation, EIT Digital is looking for a highly motivated team player able to work effectively in dynamic environments. The primary purpose of this position is to foster and enhance the expansion of the Alumni Community by supporting the Board in the delivery of their strategy. You will become one of the points of contact of the Foundation with the EIT Digital ecosystem and support the Alumni Board in driving the development of our community.</p>\r\n\r\n<p><strong>Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li>Drive the onboarding of:</li>\r\n</ul>\r\n\r\n<p>&nbsp; &nbsp; - start-ups and companies from the Accelerator<br />\r\n&nbsp; &nbsp; - senior members and former employees<br />\r\n&nbsp; &nbsp; - online learners and EIT Digital’s partners</p>\r\n\r\n<ul>\r\n\t<li>Maximize the percentage of onboarding of Master / Doctoral / Summer Schools graduates</li>\r\n</ul>\r\n\r\n<p>&nbsp; &nbsp;- scout and trace back previous graduates</p>\r\n\r\n<ul>\r\n\t<li>Verify and approve new members registrations on the Alumni website</li>\r\n\t<li>Analyse data, keep track of metrics and provide suitable presentations</li>\r\n\t<li>Review best enrollment and tracking practices of other successful Alumni associations</li>\r\n</ul>\r\n\r\n<p><strong>Qualifications and experience</strong></p>\r\n\r\n<ul>\r\n\t<li>BSc or MSc degree in relevant field</li>\r\n\t<li>Proven experience managing social media platforms or communities</li>\r\n\t<li>Good project management skills and experience with operational tasks and processes</li>\r\n\t<li>Ability to work with remote interactions (e.g. video conference, phone, email)</li>\r\n\t<li>Ability to work in a multicultural and fast-paced environment</li>\r\n\t<li>Proactive attitude and personal commitment to duties, timelines and deadlines</li>\r\n\t<li>Experience with large-scale Community Management</li>\r\n\t<li>Knowledge of CMS, such as Drupal</li>\r\n\t<li>Familiarity with the EIT Digital ecosystem is a plus</li>\r\n</ul>\r\n\r\n<p><strong>KPIs</strong></p>\r\n\r\n<ul>\r\n\t<li>Number of onboarding of Master / Doctoral / Summer Schools graduates</li>\r\n\t<li>Number of onboarding of current and former employees of EIT Digital</li>\r\n\t<li>Number of onboarding of Accelerator / ARISE Alumni</li>\r\n\t<li>Growth variation of the community by the number of registered members</li>\r\n</ul>\r\n\r\n<p><br />\r\n<strong>Languages</strong></p>\r\n\r\n<ul>\r\n\t<li>Fluent in English with excellent verbal, written and presentation skills</li>\r\n</ul>\r\n\r\n<p><strong>Reporting to</strong> EIT Digital Alumni Board and assigned Node Director<br />\r\n<br />\r\n<strong>Additional information</strong></p>\r\n\r\n<ul>\r\n\t<li>Part-time assignment with flexible working hours.</li>\r\n\t<li>The employment relationship will be held with EIT Digital.</li>\r\n\t<li>Work location preferably at EIT Digital Headquarters in Brussels, although location at one of the EIT Digital Co-location may be considered.</li>\r\n</ul>\r\n\r\n<p><br />\r\n<strong>To Apply</strong><br />\r\nPlease mail a resume and motivation letter to community_manager@eitdigital.eu, outlining how your skills and experience meet the qualifications of the position.<br />\r\nApplications without a motivation letter will not be considered.<br />\r\n<br />\r\nApplications should be submitted until <strong>5pm</strong> <strong>Tuesday August 21</strong>, <strong>2018</strong>.</p>\r\n"
+    format: full_html
+    processed: "<p><strong>EIT Digital Alumni Foundation</strong><br />\nThe EIT Digital Alumni Foundation creates a vibrant, active and successful alumni network for EIT Digital. Our mission is to keep strong connections among fellow alumni and the EIT Digital ecosystem. We organise meet-ups, maintain an engaged community and discussion forum, keep track of alumni careers and support students and alumni to get in contact with companies, public institutions and academia. Our alumni are graduates of the EIT Digital Education programmes, as well as individuals who had a formal function in EIT Digital. The community also welcomes associate members and friends of EIT Digital.<br />\n<br />\n<strong>The Role</strong><br />\nFor the operational support related to the EIT Digital Alumni Foundation, EIT Digital is looking for a highly motivated team player able to work effectively in dynamic environments. The primary purpose of this position is to foster and enhance the expansion of the Alumni Community by supporting the Board in the delivery of their strategy. You will become one of the points of contact of the Foundation with the EIT Digital ecosystem and support the Alumni Board in driving the development of our community.</p>\n\n<p><strong>Responsibilities</strong></p>\n\n<ul>\n\t<li>Drive the onboarding of:</li>\n</ul>\n\n<p>\_ \_ - start-ups and companies from the Accelerator<br />\n\_ \_ - senior members and former employees<br />\n\_ \_ - online learners and EIT Digital’s partners</p>\n\n<ul>\n\t<li>Maximize the percentage of onboarding of Master / Doctoral / Summer Schools graduates</li>\n</ul>\n\n<p>\_ \_- scout and trace back previous graduates</p>\n\n<ul>\n\t<li>Verify and approve new members registrations on the Alumni website</li>\n\t<li>Analyse data, keep track of metrics and provide suitable presentations</li>\n\t<li>Review best enrollment and tracking practices of other successful Alumni associations</li>\n</ul>\n\n<p><strong>Qualifications and experience</strong></p>\n\n<ul>\n\t<li>BSc or MSc degree in relevant field</li>\n\t<li>Proven experience managing social media platforms or communities</li>\n\t<li>Good project management skills and experience with operational tasks and processes</li>\n\t<li>Ability to work with remote interactions (e.g. video conference, phone, email)</li>\n\t<li>Ability to work in a multicultural and fast-paced environment</li>\n\t<li>Proactive attitude and personal commitment to duties, timelines and deadlines</li>\n\t<li>Experience with large-scale Community Management</li>\n\t<li>Knowledge of CMS, such as Drupal</li>\n\t<li>Familiarity with the EIT Digital ecosystem is a plus</li>\n</ul>\n\n<p><strong>KPIs</strong></p>\n\n<ul>\n\t<li>Number of onboarding of Master / Doctoral / Summer Schools graduates</li>\n\t<li>Number of onboarding of current and former employees of EIT Digital</li>\n\t<li>Number of onboarding of Accelerator / ARISE Alumni</li>\n\t<li>Growth variation of the community by the number of registered members</li>\n</ul>\n\n<p><br />\n<strong>Languages</strong></p>\n\n<ul>\n\t<li>Fluent in English with excellent verbal, written and presentation skills</li>\n</ul>\n\n<p><strong>Reporting to</strong> EIT Digital Alumni Board and assigned Node Director<br />\n<br />\n<strong>Additional information</strong></p>\n\n<ul>\n\t<li>Part-time assignment with flexible working hours.</li>\n\t<li>The employment relationship will be held with EIT Digital.</li>\n\t<li>Work location preferably at EIT Digital Headquarters in Brussels, although location at one of the EIT Digital Co-location may be considered.</li>\n</ul>\n\n<p><br />\n<strong>To Apply</strong><br />\nPlease mail a resume and motivation letter to community_manager@eitdigital.eu, outlining how your skills and experience meet the qualifications of the position.<br />\nApplications without a motivation letter will not be considered.<br />\n<br />\nApplications should be submitted until <strong>5pm</strong> <strong>Tuesday August 21</strong>, <strong>2018</strong>.</p>\n"
+field_job_location:
+  -
+    value: 'EIT Digital Co-location Centres'
+    format: full_html
+    processed: 'EIT Digital Co-location Centres'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

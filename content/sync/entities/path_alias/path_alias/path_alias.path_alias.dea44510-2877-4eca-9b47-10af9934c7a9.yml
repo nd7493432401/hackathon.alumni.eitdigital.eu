@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dea44510-2877-4eca-9b47-10af9934c7a9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/196
+alias:
+  -
+    value: /event/educate-yourself-about-security-series-xeitd-alumni-talks-budapest
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

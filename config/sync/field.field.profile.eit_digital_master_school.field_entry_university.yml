@@ -1,0 +1,29 @@
+uuid: a810ede8-0326-4cb3-b7e0-be9d04a550c3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.profile.field_entry_university
+    - profile.type.eit_digital_master_school
+    - taxonomy.vocabulary.entry_universities
+id: profile.eit_digital_master_school.field_entry_university
+field_name: field_entry_university
+entity_type: profile
+bundle: eit_digital_master_school
+label: 'Entry University'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      entry_universities: entry_universities
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

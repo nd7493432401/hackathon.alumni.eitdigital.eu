@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 96ba2dfc-09c8-4694-8409-ec132feed2f3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/108
+alias:
+  -
+    value: /article/eit-alumni-secret-santa
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

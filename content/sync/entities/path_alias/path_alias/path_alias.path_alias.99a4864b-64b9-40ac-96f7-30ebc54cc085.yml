@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 99a4864b-64b9-40ac-96f7-30ebc54cc085
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/3
+alias:
+  -
+    value: /eit-ecosystem
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

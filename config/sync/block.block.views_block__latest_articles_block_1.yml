@@ -1,0 +1,32 @@
+uuid: c1f26a71-7309-4594-aaff-dcac794838bb
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.latest_articles
+  module:
+    - ctools
+    - views
+  theme:
+    - eitalumni
+id: views_block__latest_articles_block_1
+theme: eitalumni
+region: sidebar_second
+weight: -5
+provider: null
+plugin: 'views_block:latest_articles-block_1'
+settings:
+  id: 'views_block:latest_articles-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      article: article
+    negate: false
+    context_mapping:
+      node: '@node.node_route_context:node'

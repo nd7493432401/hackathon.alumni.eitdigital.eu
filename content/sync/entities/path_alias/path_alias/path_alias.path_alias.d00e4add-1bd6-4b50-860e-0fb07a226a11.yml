@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d00e4add-1bd6-4b50-860e-0fb07a226a11
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/20
+alias:
+  -
+    value: /article/quick-recap-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

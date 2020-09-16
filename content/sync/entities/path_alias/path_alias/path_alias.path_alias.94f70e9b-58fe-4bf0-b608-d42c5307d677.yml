@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 94f70e9b-58fe-4bf0-b608-d42c5307d677
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/484
+alias:
+  -
+    value: /job/phd-computational-privacy-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

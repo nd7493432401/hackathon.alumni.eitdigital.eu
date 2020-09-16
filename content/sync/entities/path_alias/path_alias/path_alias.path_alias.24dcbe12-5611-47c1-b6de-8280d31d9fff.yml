@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 24dcbe12-5611-47c1-b6de-8280d31d9fff
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/71
+alias:
+  -
+    value: /entry-universities/university-rennes-1-rennes-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

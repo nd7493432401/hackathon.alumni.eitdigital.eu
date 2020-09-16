@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 7b3b594f-7e31-4566-96f5-dfaf08b8cc51
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Our Mentorship Program turns 1!'
+created:
+  -
+    value: '2019-03-31T19:42:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/our-mentorship-program-turns-1
+body:
+  -
+    value: "<p>We - at EIT Digital Alumni - have recently celebrated the first anniversary of <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">our mentorship programme</a>: this was <a href=\"https://alumni.eitdigital.eu/article/mentorship-programme\">launched&nbsp;at the end of 2017</a> and has turned 1 now receiving an overwhelmingly <strong>positive response</strong>.<br />\r\n<br />\r\nI, <a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>,&nbsp;hail from India and&nbsp;graduated from the EIT Digital Master School in <strong>2016</strong> in the Distributed Systems track. I am now working as a Project Lead. EIT Digital has had a tremendous influence on me from the moment I signed up for the programme in the <strong>summer of 2014</strong>. The support for me from EIT Digital, my entry university and the then enrolled students was overwhelming. I had never travelled outside of my country before this, let alone live abroad. And I don’t think it would have been possible to survive in Europe without this support. And hence when I graduated, I felt a strong <a href=\"https://alumni.eitdigital.eu/how-can-i-contribute\">urge both to give back</a><strong> </strong>to the EIT Digital community and <strong>help out students</strong> in similar situation as I was:&nbsp;the answer to this need&nbsp;was a <strong>Mentor-Mentee programme</strong>.<br />\r\n&nbsp;<br />\r\nI immediately got in contact with the Alumni Board, who couldn’t have been more assuring and supportive. Since a Mentorship programme was one of the points on their agenda, they&nbsp;fully backed the idea of having a bottom-up initiative where <strong>alumni come together to guide and mentor younger members</strong>. And so we launched the programme in the last months of 2017.&nbsp;</p>\r\n\r\n<p>The programme has proven to be a stepping stone for current students: our mentors have helped mentees become ace public speakers,<strong> land cool internships and jobs</strong> and&nbsp;have acted as a close friend in times of tricky personal challenges. One of the mentees struck gold and got an opportunity to work at <strong>Ericsson</strong> with the help of their mentor. Another landed an internship with a large corporation last summer, and they will now start their thesis there. Thus exemplifying the saying, <em>‘Success is where preparation and opportunity meet’</em>.&nbsp;<br />\r\nAnd not only the mentee, but the mentor benefits a lot from the program as well:&nbsp;as one of our mentor puts it, <em>''Knowing students that need help and guidance helps&nbsp;envision new ways of addressing different challenges'</em>'.</p>\r\n\r\n<p>We have now in our network&nbsp;<strong>more than 50 esteemed alumni</strong> working in big companies, running their own startups, doing cutting edge research or PhDs in top universities. If you are also motivated to make a difference in someone's professional life, then <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">start your amazing journey as a mentor right now</a>.&nbsp;</p>\r\n\r\n<p>Or if you are looking for an experienced guide to help you out on topics like relocation, deep tech topics, finding an internship or a job, university-related processes or just want a friend who has been in your shoes,&nbsp;then sign up for <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">our mentoring programme</a> as a mentee and you will be matched with an alumni mentor. &nbsp;But keep in mind that this is a <strong>volunteer initiative</strong> and depends completely on the willingness and proactiveness of both mentor and mentees.&nbsp;</p>\r\n\r\n<p>And for all of those already part of our mentoring programme:&nbsp;this is the final call to submit your improvements and raise your concerns <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScsW_jvo0sc49uQfxcZ1goRQnzOAX9AG4nfhMLR3z-fyiVIoA/viewform\">through the Feedback survey here</a>.</p>\r\n\r\n<p><br />\r\n<a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a></p>\r\n"
+    format: full_html
+    processed: "<p>We - at EIT Digital Alumni - have recently celebrated the first anniversary of <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">our mentorship programme</a>: this was <a href=\"https://alumni.eitdigital.eu/article/mentorship-programme\">launched\_at the end of 2017</a> and has turned 1 now receiving an overwhelmingly <strong>positive response</strong>.<br />\n<br />\nI, <a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a>,\_hail from India and\_graduated from the EIT Digital Master School in <strong>2016</strong> in the Distributed Systems track. I am now working as a Project Lead. EIT Digital has had a tremendous influence on me from the moment I signed up for the programme in the <strong>summer of 2014</strong>. The support for me from EIT Digital, my entry university and the then enrolled students was overwhelming. I had never travelled outside of my country before this, let alone live abroad. And I don’t think it would have been possible to survive in Europe without this support. And hence when I graduated, I felt a strong <a href=\"https://alumni.eitdigital.eu/how-can-i-contribute\">urge both to give back</a><strong> </strong>to the EIT Digital community and <strong>help out students</strong> in similar situation as I was:\_the answer to this need\_was a <strong>Mentor-Mentee programme</strong>.<br />\n\_<br />\nI immediately got in contact with the Alumni Board, who couldn’t have been more assuring and supportive. Since a Mentorship programme was one of the points on their agenda, they\_fully backed the idea of having a bottom-up initiative where <strong>alumni come together to guide and mentor younger members</strong>. And so we launched the programme in the last months of 2017.\_</p>\n\n<p>The programme has proven to be a stepping stone for current students: our mentors have helped mentees become ace public speakers,<strong> land cool internships and jobs</strong> and\_have acted as a close friend in times of tricky personal challenges. One of the mentees struck gold and got an opportunity to work at <strong>Ericsson</strong> with the help of their mentor. Another landed an internship with a large corporation last summer, and they will now start their thesis there. Thus exemplifying the saying, <em>‘Success is where preparation and opportunity meet’</em>.\_<br />\nAnd not only the mentee, but the mentor benefits a lot from the program as well:\_as one of our mentor puts it, <em>''Knowing students that need help and guidance helps\_envision new ways of addressing different challenges'</em>'.</p>\n\n<p>We have now in our network\_<strong>more than 50 esteemed alumni</strong> working in big companies, running their own startups, doing cutting edge research or PhDs in top universities. If you are also motivated to make a difference in someone's professional life, then <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">start your amazing journey as a mentor right now</a>.\_</p>\n\n<p>Or if you are looking for an experienced guide to help you out on topics like relocation, deep tech topics, finding an internship or a job, university-related processes or just want a friend who has been in your shoes,\_then sign up for <a href=\"https://alumni.eitdigital.eu/mentorship-programme\">our mentoring programme</a> as a mentee and you will be matched with an alumni mentor. \_But keep in mind that this is a <strong>volunteer initiative</strong> and depends completely on the willingness and proactiveness of both mentor and mentees.\_</p>\n\n<p>And for all of those already part of our mentoring programme:\_this is the final call to submit your improvements and raise your concerns <a href=\"https://docs.google.com/forms/d/e/1FAIpQLScsW_jvo0sc49uQfxcZ1goRQnzOAX9AG4nfhMLR3z-fyiVIoA/viewform\">through the Feedback survey here</a>.</p>\n\n<p><br />\n<a href=\"https://alumni.eitdigital.eu/users/shikhar-singh\">Shikhar Singh</a></p>\n"
+    summary: 'We - at EIT Digital Alumni - have recently celebrated the first anniversary of our mentorship progra'
+    summary_processed: 'We - at EIT Digital Alumni - have recently celebrated the first anniversary of our mentorship progra'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 503d49c9-1121-4ec6-b15d-960d76249f24
+field_article_introduction:
+  -
+    value: 'We - at EIT Digital Alumni - have recently celebrated the first anniversary of our mentorship programme'
+field_image:
+  -
+    target_type: media
+    target_uuid: 58c42fdd-0043-47ae-bd92-3d3dda266d85
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.503d49c9-1121-4ec6-b15d-960d76249f24
+    media:
+      - media.image.58c42fdd-0043-47ae-bd92-3d3dda266d85

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 44133d03-85a6-4ee0-812b-4821b2356dd8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/419
+alias:
+  -
+    value: /job/cto-tech-lead
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

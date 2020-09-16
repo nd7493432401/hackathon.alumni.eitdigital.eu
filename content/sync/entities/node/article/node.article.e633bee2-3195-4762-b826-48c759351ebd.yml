@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: e633bee2-3195-4762-b826-48c759351ebd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T09:09:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Extraordinary Board Elections - December 2019'
+created:
+  -
+    value: '2019-11-14T20:58:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T09:09:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/extraordinary-board-elections-december-2019
+body:
+  -
+    value: "<p>Thanks to your engagement and support, the Alumni Foundation is able to create great <strong>value for our members</strong>. To continue implementing our joint vision for the community and adapt to our current growth needs, it is time to expand the Board with two interesting new positions.</p>\r\n\r\n<p>Discussions on this topic have started over a year ago, but this summer the <a href=\"https://alumni.eitdigital.eu/governance\" target=\"_blank\">Governing Board</a> approved the proposal to strengthen our operations in the fields of&nbsp;<strong>Technology, Outreach</strong> and <strong>External Partnerships</strong>. Therefore, we are excited to open a round of extraordinary elections and include the following roles in our&nbsp;team:</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h3>Outreach &amp; Partnerships Officer</h3>\r\n\r\n<p>The Outreach &amp; Partnerships Officer will actively pursue collaborations with external stakeholders like start-ups or conference organizers, negotiate new deals or discounts for the benefit of our community members and identify key partners to support our local events, particularly the annual Alumni Meeting. This position will involve travelling across Europe as member of the EIT Digital Alumni board.</p>\r\n\r\n<ul>\r\n\t<li><strong><a href=\"http://bit.ly/digitalumni_oupa_officer\" target=\"_blank\">Read the full description</a></strong></li>\r\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h3>Technology Officer</h3>\r\n\r\n<p dir=\"ltr\" id=\"docs-internal-guid-ce2fc392-7fff-d1ec-2a4f-11bd93692d98\">The Technology Officer will bring a strategic vision about the future enhancements for our alumni portal, identify technological solutions to improve the engagement of the community, offer new services to our members and work closely with the external web developer in the role of Product Owner. This position will involve travelling across Europe as member of the EIT Digital Alumni board.</p>\r\n\r\n<ul>\r\n\t<li><strong><a href=\"http://bit.ly/digitalumni_tech_officer\" target=\"_blank\">Read the full description</a></strong></li>\r\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Following the very unfortunate <a href=\"https://drive.google.com/open?id=1r0fqmolzPrtlY-SEVVBrJ_XpGmJ5vLK8\" target=\"_blank\">resignation</a> from our current Treasurer, Blanca, we are also opening this round of elections for the Treasurer position:</p>\r\n\r\n<h3>Treasurer</h3>\r\n\r\n<p>The Treasurer contributes with a clear strategic vision for the future of the Foundation, has a good understanding of financial management and can ensure a smooth implementation of the annual Financial Plan. This position will involve travelling across Europe as a member of the EIT Digital Alumni board.</p>\r\n\r\n<ul>\r\n\t<li><strong><a href=\"http://bit.ly/digitalumni_treasurer\" target=\"_blank\">Read the full description</a></strong></li>\r\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div style=\"display: block; width: 100%; margin: 0 auto;\">\r\n<p><img alt=\"Board Elections Dec 2019 timeline\" data-entity-type=\"file\" data-entity-uuid=\"ca2c11e4-c2ff-4736-8159-1113e0c747c3\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Board%20Election%20201912%202.png\" /></p>\r\n</div>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h4>Frequent questions</h4>\r\n\r\n<p><strong>What is the EIT Digital Alumni Board?</strong></p>\r\n\r\n<ul>\r\n\t<li>The EIT Digital Alumni Board carries out the operational tasks to accomplish&nbsp;the non-profit purpose and objectives described in Art. 3 and Art. 16 of the <a href=\"https://alumni.eitdigital.eu/foundation-statutes\" target=\"_blank\">Foundation Statutes</a>. It&nbsp;also advises on strategy, with a goal of increasing and enhancing engagement among its&nbsp;network of alumni</li>\r\n\t<li>The EIT Digital Alumni Board is accountable to the <a href=\"https://alumni.eitdigital.eu/governance\" target=\"_blank\">Governing Board</a></li>\r\n\t<li>The EIT Digital Alumni Board is different from the <a href=\"https://alumni.eitdigital.eu/eit-ecosystem\" target=\"_blank\">EIT Alumni Board</a>, which gathers&nbsp;the President&nbsp;or a representative of each individual EIT KIC</li>\r\n</ul>\r\n\r\n<p><strong>Who can apply?</strong></p>\r\n\r\n<ul>\r\n\t<li><u>Alumni members</u>: Graduates of the EIT Digital Master&nbsp;School, Doctoral School or former employees of EIT Digital</li>\r\n\t<li>Master&nbsp;School students who will receive their EIT Digital labelled certificate <a href=\"https://alumni.eitdigital.eu/event/master-school-graduation-ceremony-2019\" target=\"_blank\">on November 30th, 2019</a></li>\r\n</ul>\r\n\r\n<p><strong>Who can vote?</strong></p>\r\n\r\n<ul>\r\n\t<li>Full alumni members with a user account&nbsp;and <u>confirmed graduation status</u>&nbsp;in our&nbsp;portal</li>\r\n</ul>\r\n\r\n<p><strong>For what period are the new board members elected?</strong></p>\r\n\r\n<ul>\r\n\t<li>All positions are open for one term starting&nbsp;from<strong>&nbsp;</strong><u>January 2020 until July 2021</u>, thus aligning with the current Board members</li>\r\n</ul>\r\n\r\n<p><strong>I want to become a board member! Which position(s) can I apply to?</strong></p>\r\n\r\n<ul>\r\n\t<li>If you are eligible to run for elections, you can apply to any vacant board position. According to our <a href=\"https://alumni.eitdigital.eu/foundation-laws\" target=\"_blank\">Foundation rules</a>, you can be candidate for only&nbsp;<u>one position</u> at a time</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Becoming a member of the Alumni Board is a great opportunity to enhance your professional skills, network with key actors inside the EIT Digital ecosystem and take a leading role in the creation of&nbsp;new benefits for all our members.&nbsp;If you are&nbsp;a full alumnus/alumna, or will become one soon, <strong>apply to join us!</strong>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Thanks to your engagement and support, the Alumni Foundation is able to create great <strong>value for our members</strong>. To continue implementing our joint vision for the community and adapt to our current growth needs, it is time to expand the Board with two interesting new positions.</p>\n\n<p>Discussions on this topic have started over a year ago, but this summer the <a href=\"https://alumni.eitdigital.eu/governance\" target=\"_blank\">Governing Board</a> approved the proposal to strengthen our operations in the fields of\_<strong>Technology, Outreach</strong> and <strong>External Partnerships</strong>. Therefore, we are excited to open a round of extraordinary elections and include the following roles in our\_team:</p>\n\n<p>\_</p>\n\n<h3>Outreach &amp; Partnerships Officer</h3>\n\n<p>The Outreach &amp; Partnerships Officer will actively pursue collaborations with external stakeholders like start-ups or conference organizers, negotiate new deals or discounts for the benefit of our community members and identify key partners to support our local events, particularly the annual Alumni Meeting. This position will involve travelling across Europe as member of the EIT Digital Alumni board.</p>\n\n<ul>\n\t<li><strong><a href=\"http://bit.ly/digitalumni_oupa_officer\" target=\"_blank\">Read the full description</a></strong></li>\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\n</ul>\n\n<p>\_</p>\n\n<h3>Technology Officer</h3>\n\n<p dir=\"ltr\" id=\"docs-internal-guid-ce2fc392-7fff-d1ec-2a4f-11bd93692d98\">The Technology Officer will bring a strategic vision about the future enhancements for our alumni portal, identify technological solutions to improve the engagement of the community, offer new services to our members and work closely with the external web developer in the role of Product Owner. This position will involve travelling across Europe as member of the EIT Digital Alumni board.</p>\n\n<ul>\n\t<li><strong><a href=\"http://bit.ly/digitalumni_tech_officer\" target=\"_blank\">Read the full description</a></strong></li>\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\n</ul>\n\n<p>\_</p>\n\n<p>Following the very unfortunate <a href=\"https://drive.google.com/open?id=1r0fqmolzPrtlY-SEVVBrJ_XpGmJ5vLK8\" target=\"_blank\">resignation</a> from our current Treasurer, Blanca, we are also opening this round of elections for the Treasurer position:</p>\n\n<h3>Treasurer</h3>\n\n<p>The Treasurer contributes with a clear strategic vision for the future of the Foundation, has a good understanding of financial management and can ensure a smooth implementation of the annual Financial Plan. This position will involve travelling across Europe as a member of the EIT Digital Alumni board.</p>\n\n<ul>\n\t<li><strong><a href=\"http://bit.ly/digitalumni_treasurer\" target=\"_blank\">Read the full description</a></strong></li>\n\t<li>Applications ended on Nov 30th, 2019 23:59 CET</li>\n</ul>\n\n<p>\_</p>\n\n<ul>\n</ul>\n\n<p>\_</p>\n\n<div style=\"display: block; width: 100%; margin: 0 auto;\">\n<p><img alt=\"Board Elections Dec 2019 timeline\" data-entity-type=\"file\" data-entity-uuid=\"ca2c11e4-c2ff-4736-8159-1113e0c747c3\" src=\"/sites/default/files/inline-images/Board%20Election%20201912%202.png\" /></p>\n</div>\n\n<p>\_</p>\n\n<h4>Frequent questions</h4>\n\n<p><strong>What is the EIT Digital Alumni Board?</strong></p>\n\n<ul>\n\t<li>The EIT Digital Alumni Board carries out the operational tasks to accomplish\_the non-profit purpose and objectives described in Art. 3 and Art. 16 of the <a href=\"https://alumni.eitdigital.eu/foundation-statutes\" target=\"_blank\">Foundation Statutes</a>. It\_also advises on strategy, with a goal of increasing and enhancing engagement among its\_network of alumni</li>\n\t<li>The EIT Digital Alumni Board is accountable to the <a href=\"https://alumni.eitdigital.eu/governance\" target=\"_blank\">Governing Board</a></li>\n\t<li>The EIT Digital Alumni Board is different from the <a href=\"https://alumni.eitdigital.eu/eit-ecosystem\" target=\"_blank\">EIT Alumni Board</a>, which gathers\_the President\_or a representative of each individual EIT KIC</li>\n</ul>\n\n<p><strong>Who can apply?</strong></p>\n\n<ul>\n\t<li><u>Alumni members</u>: Graduates of the EIT Digital Master\_School, Doctoral School or former employees of EIT Digital</li>\n\t<li>Master\_School students who will receive their EIT Digital labelled certificate <a href=\"https://alumni.eitdigital.eu/event/master-school-graduation-ceremony-2019\" target=\"_blank\">on November 30th, 2019</a></li>\n</ul>\n\n<p><strong>Who can vote?</strong></p>\n\n<ul>\n\t<li>Full alumni members with a user account\_and <u>confirmed graduation status</u>\_in our\_portal</li>\n</ul>\n\n<p><strong>For what period are the new board members elected?</strong></p>\n\n<ul>\n\t<li>All positions are open for one term starting\_from<strong>\_</strong><u>January 2020 until July 2021</u>, thus aligning with the current Board members</li>\n</ul>\n\n<p><strong>I want to become a board member! Which position(s) can I apply to?</strong></p>\n\n<ul>\n\t<li>If you are eligible to run for elections, you can apply to any vacant board position. According to our <a href=\"https://alumni.eitdigital.eu/foundation-laws\" target=\"_blank\">Foundation rules</a>, you can be candidate for only\_<u>one position</u> at a time</li>\n</ul>\n\n<p>\_</p>\n\n<p>Becoming a member of the Alumni Board is a great opportunity to enhance your professional skills, network with key actors inside the EIT Digital ecosystem and take a leading role in the creation of\_new benefits for all our members.\_If you are\_a full alumnus/alumna, or will become one soon, <strong>apply to join us!</strong>\_</p>\n"
+    summary: 'Thanks to your engagement and support, the Alumni Foundation is able to create great value for our m'
+    summary_processed: 'Thanks to your engagement and support, the Alumni Foundation is able to create great value for our m'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Join the alumni board to strengthen our technological strategy and partnerships!'
+field_image:
+  -
+    target_type: media
+    target_uuid: e6c000cf-df9e-44e0-bf7f-455f8928c313
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.e6c000cf-df9e-44e0-bf7f-455f8928c313

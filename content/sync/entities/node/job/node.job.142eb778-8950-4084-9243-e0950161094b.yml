@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: 142eb778-8950-4084-9243-e0950161094b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'UX Designer'
+created:
+  -
+    value: '2018-12-10T10:11:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T16:02:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/ux-designer-0
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://job.lhsystems.hu/en/apply//0/internet'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Lufthansa
+    format: full_html
+    processed: Lufthansa
+field_expiration_date:
+  -
+    value: '2019-01-31T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>We are looking for an experienced UX Designer to join our team with a fixed-term contract (1 years).&nbsp;In Budapest we are reshaping a new user experience for our products. You will have the chance to design the company's product portfolio moreover start on green field development.<br />\r\n<br />\r\n<strong>Responsibilities</strong></p>\r\n\r\n<ul>\r\n\t<li>Continuously improve the look &amp; feel of airline business applications</li>\r\n\t<li>Further develop our Style guide</li>\r\n\t<li>Close collaboration with Business Analysts</li>\r\n\t<li>Implementation support and communication with the development team</li>\r\n\t<li>Planning with strong attention on user experience, feasibility and design-focused programming</li>\r\n\t<li>Balancing business goals and desired customer behaviors</li>\r\n</ul>\r\n\r\n<p><strong>We are looking for you, if You</strong></p>\r\n\r\n<ul>\r\n\t<li>are a master of Sketch and Adobe programs</li>\r\n\t<li>are experienced in mobile and web UI design</li>\r\n\t<li>have a passion for typography, colors and white space</li>\r\n\t<li>strongly believe that enterprise applications should look just as beautiful and should be easy to use as other applications</li>\r\n\t<li>have a constructive attitude and process feedback easily</li>\r\n\t<li>communicate design effectively</li>\r\n\t<li>have sound knowledge of UI animations, design kits, patterns and grids</li>\r\n\t<li>use English self-confidently as a working language</li>\r\n</ul>\r\n\r\n<p><strong>You are looking for us, if You</strong></p>\r\n\r\n<ul>\r\n\t<li>like working in an agile, fast-paced environment</li>\r\n\t<li>are committed to graphic design as a profession</li>\r\n\t<li>enjoy sharing your knowledge with others</li>\r\n\t<li>are keen on using your graphic skills in the Airline business</li>\r\n</ul>\r\n\r\n<p><strong>Advantages for this position, if You</strong></p>\r\n\r\n<ul>\r\n\t<li>have solid knowledge about current technology &amp; design trends</li>\r\n\t<li>knowledge about motion design</li>\r\n\t<li>airline domain know-how</li>\r\n\t<li>German language knowledge</li>\r\n</ul>\r\n\r\n<p><strong>Required for application</strong></p>\r\n\r\n<ul>\r\n\t<li>Certificate of good conduct (erkölcsi bizonyítvány)</li>\r\n\t<li>Besides your CV enclose a portfolio ( pdf / behance / Dribbble / website)</li>\r\n</ul>\r\n\r\n<p><b>What are the benefits of joining us as an employee?</b></p>\r\n\r\n<ul>\r\n\t<li>Even when you work hard, you will still have time for your personal life: our flexible working hours based on core time, the exact observance of the designated number of working hours, the occasional option of working from home, and the benefits that can be extended to cover your family you can also improve your non-working life!</li>\r\n\t<li>We have long-term plans for you! We have carefully designed career paths (and a career management system), we provide the appropriate training courses and projects to accomplish your aims.</li>\r\n\t<li>Our community is characterized by mutual respect and an attitude of helpfulness. This high professional quality level and the colourful personalities will help you spend your everyday life in a good mood, why you make the best of your skills and talents.</li>\r\n\t<li>We are happy when you are open and help you discover the world: after six months you will receive substantial discounts that you can use to visit any place in the world taking Lufthansa flights!</li>\r\n\t<li>In addition to an inclusive and helpful atmosphere, trust is also an important value for us. You can rely on us with anything right from your first day, and we also trust you to the utmost extent.</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<p>We are looking for an experienced UX Designer to join our team with a fixed-term contract (1 years).\_In Budapest we are reshaping a new user experience for our products. You will have the chance to design the company's product portfolio moreover start on green field development.<br />\n<br />\n<strong>Responsibilities</strong></p>\n\n<ul>\n\t<li>Continuously improve the look &amp; feel of airline business applications</li>\n\t<li>Further develop our Style guide</li>\n\t<li>Close collaboration with Business Analysts</li>\n\t<li>Implementation support and communication with the development team</li>\n\t<li>Planning with strong attention on user experience, feasibility and design-focused programming</li>\n\t<li>Balancing business goals and desired customer behaviors</li>\n</ul>\n\n<p><strong>We are looking for you, if You</strong></p>\n\n<ul>\n\t<li>are a master of Sketch and Adobe programs</li>\n\t<li>are experienced in mobile and web UI design</li>\n\t<li>have a passion for typography, colors and white space</li>\n\t<li>strongly believe that enterprise applications should look just as beautiful and should be easy to use as other applications</li>\n\t<li>have a constructive attitude and process feedback easily</li>\n\t<li>communicate design effectively</li>\n\t<li>have sound knowledge of UI animations, design kits, patterns and grids</li>\n\t<li>use English self-confidently as a working language</li>\n</ul>\n\n<p><strong>You are looking for us, if You</strong></p>\n\n<ul>\n\t<li>like working in an agile, fast-paced environment</li>\n\t<li>are committed to graphic design as a profession</li>\n\t<li>enjoy sharing your knowledge with others</li>\n\t<li>are keen on using your graphic skills in the Airline business</li>\n</ul>\n\n<p><strong>Advantages for this position, if You</strong></p>\n\n<ul>\n\t<li>have solid knowledge about current technology &amp; design trends</li>\n\t<li>knowledge about motion design</li>\n\t<li>airline domain know-how</li>\n\t<li>German language knowledge</li>\n</ul>\n\n<p><strong>Required for application</strong></p>\n\n<ul>\n\t<li>Certificate of good conduct (erkölcsi bizonyítvány)</li>\n\t<li>Besides your CV enclose a portfolio ( pdf / behance / Dribbble / website)</li>\n</ul>\n\n<p><b>What are the benefits of joining us as an employee?</b></p>\n\n<ul>\n\t<li>Even when you work hard, you will still have time for your personal life: our flexible working hours based on core time, the exact observance of the designated number of working hours, the occasional option of working from home, and the benefits that can be extended to cover your family you can also improve your non-working life!</li>\n\t<li>We have long-term plans for you! We have carefully designed career paths (and a career management system), we provide the appropriate training courses and projects to accomplish your aims.</li>\n\t<li>Our community is characterized by mutual respect and an attitude of helpfulness. This high professional quality level and the colourful personalities will help you spend your everyday life in a good mood, why you make the best of your skills and talents.</li>\n\t<li>We are happy when you are open and help you discover the world: after six months you will receive substantial discounts that you can use to visit any place in the world taking Lufthansa flights!</li>\n\t<li>In addition to an inclusive and helpful atmosphere, trust is also an important value for us. You can rely on us with anything right from your first day, and we also trust you to the utmost extent.</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Budapest, Hungary'
+    format: full_html
+    processed: 'Budapest, Hungary'
+field_more_details_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/judit'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 63a52310-ec91-4ee4-828a-50cfdb1940a1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/202
+alias:
+  -
+    value: /summer-schools/2019-tallinn-integrating-personalised-mobility-solutions
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: d1b2342a-de4f-4e83-8c7b-1be3c16eb940
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: e084dd6e-a694-41b6-ae1d-a5076f3a851f
+revision_timestamp:
+  -
+    value: '2020-03-27T10:30:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Summer Schools'
+created:
+  -
+    value: '2020-03-27T10:29:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-22T08:05:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /summer-schools
+body:
+  -
+    value: "<p>We are offering another great deal for our members - especially for our most seasoned Alumni! Do you still remember the old good days - when you were students at the EIT Digital Master School and attended one of the <a href=\"http://summerschool.eitdigital.eu\">Summer Schools</a> around Europe?</p>\r\n\r\n<p>Well, this year EIT Digital has&nbsp;a new and exciting programme with <strong>12 Summer Schools</strong> (yes, twelve!), which are also open for external participants and&nbsp;alumni. The application site for external participation is now open:&nbsp;http://summerschool.eitdigital.eu.<br />\r\n<br />\r\nWe warmly invite our&nbsp;members to benefit from the <strong>early-bird fee of 1000€ </strong>(down from 2450€) available <strong>until April 1</strong>, which also includes two weeks accommodation.&nbsp;</p>\r\n\r\n<p><strong>But this is not all: we have 2 more options to land you a seat - FOR FREE!</strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><strong>1. SUMMER SCHOOL MEMORIES</strong></p>\r\n\r\n<p>We are launching a <strong>competition</strong> for the <strong>most surprising&nbsp;statement or funniest memory</strong> of an <a href=\"http://summerschool.eitdigital.eu\">EIT Digital Summer School</a>!</p>\r\n\r\n<p>This&nbsp;should be <strong>20 to 150 words long</strong>, ideally with a picture (from your Summer School) attached. Please send everything to <a href=\"mailto:alumni@eitdigital.eu?subject=Summer%20Schools%202019\">alumni@eitdigital.eu</a> before <strong>April 15, 2019</strong>.<br />\r\n&nbsp;<br />\r\nA selected committee will choose the best one, and the winner will get one ‘Honored EIT Digital Alumnus/a&nbsp;seat to the Summer School 2019’, <strong>worth 2450€</strong>!&nbsp;</p>\r\n\r\n<p><br />\r\n<strong>2. STIPENDS FOR STUDENTS FROM ARISE COUNTRIES</strong></p>\r\n\r\n<p>Stipends (scholarships) are available for students enrolled at a university&nbsp;and&nbsp;who have a nationality in one of the following <strong>14 European countries</strong> (ARISE): Bulgaria, Croatia, Czech Republic, Cyprus, Estonia, Greece, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia, Slovenia. Scholarships&nbsp;for Summer School students from these countries <strong>include all costs</strong> (fee, travel, lodging and catering).&nbsp;</p>\r\n\r\n<p>Please note, if you apply for a stipend the <strong>last application date is&nbsp;April 1, 2019</strong>. You don't need to submit a separate application for the stipend.&nbsp;</p>\r\n\r\n<p>We also encourage&nbsp;everyone to invite your non-EIT Digital colleagues as well to participate in the Summer Schools 2019! For more info,&nbsp;please <a href=\"https://summerschool.eitdigital.eu/about-summer-school/contact-us/\">contact</a>&nbsp;summerschools@eitdigital.eu</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://summerschool.eitdigital.eu/about-summer-school/summer-school-locations/\">SUMMER SCHOOL LOCATIONS</a></p>\r\n\r\n<p><img alt=\"summer-schools\" data-entity-type=\"file\" data-entity-uuid=\"fa7cb830-a4db-441a-96fb-dca1bd1f804d\" src=\"/eit-digital-alumni-drupal8/sites/default/files/inline-images/Screenshot%202019-03-17%20at%2016.32.56.png\" /></p>\r\n\r\n<p>DIGITAL CITIES</p>\r\n\r\n<p>Rapid urbanisation is triggering important issues. Our Summer Schools respond to the challenge of maintaining attractive, inclusive and safe urban environments by using the new digital tools and their transformative power.</p>\r\n\r\n<ul>\r\n\t<li><strong>Rennes, France:&nbsp;</strong>June 30 - July 13, 2019&nbsp;- Unleashing the Power of Data for Better Cities</li>\r\n\t<li><strong>Tallin, Estonia: </strong>July 14 - July 27, 2019 - Integrating Personalised Mobility Solutions&nbsp;&nbsp; &nbsp;</li>\r\n\t<li><strong>Trento, Italy:</strong> July 14 - July 27, 2019 - Digital Cities as Infrastructures for Smart Mobility</li>\r\n\t<li><strong>Ljubljana, Slovenia:</strong> June 30 - July 13, 2019 - Digital Transformation for Resilient Cities<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<h2>DIGITAL INDUSTRY</h2>\r\n\r\n<p>New digital technology and the associated digital transformation change the way we manufacture. Earlier business models based on cheap labour and outsourcing is no longer valid. Our summer schools focus on digitised factories, blended retail, personalised products and data-driven processes.</p>\r\n\r\n<ul>\r\n\t<li><strong>Munich, Germany:</strong>&nbsp;July 28 - August 10, 2019 - IoT Platforms for Industry 4.0&nbsp;&nbsp; &nbsp;</li>\r\n\t<li><strong>Helsinki, Finland: </strong>August 4 - August 17, 2019 - Disrupting Retail - Digitalisation, Growth, and User Engagement&nbsp;&nbsp; &nbsp;</li>\r\n\t<li><strong>Bologna, Italy: </strong>July 21 - August 3, 2019 - Data Driven Manufacturing with Industry 4.0<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<h2>DIGITAL WELLBEING</h2>\r\n\r\n<p>Digital technologies enable solutions to prevent and early detect early stage mental and physical disorders. This can avoid larger health problems, lower healthcare costs and raise the quality of life at home and at work. Digital technologies can shape healthier lifestyles, allows for increased active longevity and for easy accessible care.&nbsp;and for long-term care.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li><strong>Eindhoven, Netherlands:</strong>&nbsp;August 4 - August 16, 2019 - Healthy Lifestyle and Behavioural Change&nbsp;&nbsp; &nbsp;</li>\r\n\t<li><strong>Lisbon, Portugal: </strong>June 30 - July 13, 2019 - Longer Independent Living<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<h2>DIGITAL TECH</h2>\r\n\r\n<p>Digital Tech is the generic enabler of digital transformation through providing secure, robust, responsive and intelligent communications, data handling and access to software applications. Our summer schools target the generic technologies that drive the digital economy.</p>\r\n\r\n<ul>\r\n\t<li><strong>Stockholm, Sweden: </strong>August 4 - August 17, 2019 - Big Data Analytics&nbsp;&nbsp; &nbsp;</li>\r\n\t<li><strong>Stockholm, Sweden: </strong>August 4 - August 17, 2019 - Internet of Things and Business Transformation<br />\r\n\t&nbsp;</li>\r\n</ul>\r\n\r\n<h2>DIGITAL FINANCE</h2>\r\n\r\n<p>Digital Finance delivers innovative financial products and services using digital technology. The objective is to make financial systems safer, simpler and increase customer value.</p>\r\n\r\n<ul>\r\n\t<li><strong>Budapest, Hungary: </strong>July 21 - August 3, 2019 - Machine Learning for Financial Data</li>\r\n</ul>\r\n"
+    format: basic_html
+    processed: "<p>We are offering another great deal for our members - especially for our most seasoned Alumni! Do you still remember the old good days - when you were students at the EIT Digital Master School and attended one of the <a href=\"http://summerschool.eitdigital.eu\">Summer Schools</a> around Europe?</p>\n\n<p>Well, this year EIT Digital has\_a new and exciting programme with <strong>12 Summer Schools</strong> (yes, twelve!), which are also open for external participants and\_alumni. The application site for external participation is now open:\_http://summerschool.eitdigital.eu.<br />\n<br />\nWe warmly invite our\_members to benefit from the <strong>early-bird fee of 1000€ </strong>(down from 2450€) available <strong>until April 1</strong>, which also includes two weeks accommodation.\_</p>\n\n<p><strong>But this is not all: we have 2 more options to land you a seat - FOR FREE!</strong></p>\n\n<p>\_</p>\n\n<p><strong>1. SUMMER SCHOOL MEMORIES</strong></p>\n\n<p>We are launching a <strong>competition</strong> for the <strong>most surprising\_statement or funniest memory</strong> of an <a href=\"http://summerschool.eitdigital.eu\">EIT Digital Summer School</a>!</p>\n\n<p>This\_should be <strong>20 to 150 words long</strong>, ideally with a picture (from your Summer School) attached. Please send everything to <a href=\"mailto:alumni@eitdigital.eu?subject=Summer%20Schools%202019\">alumni@eitdigital.eu</a> before <strong>April 15, 2019</strong>.<br />\n\_<br />\nA selected committee will choose the best one, and the winner will get one ‘Honored EIT Digital Alumnus/a\_seat to the Summer School 2019’, <strong>worth 2450€</strong>!\_</p>\n\n<p><br />\n<strong>2. STIPENDS FOR STUDENTS FROM ARISE COUNTRIES</strong></p>\n\n<p>Stipends (scholarships) are available for students enrolled at a university\_and\_who have a nationality in one of the following <strong>14 European countries</strong> (ARISE): Bulgaria, Croatia, Czech Republic, Cyprus, Estonia, Greece, Latvia, Lithuania, Malta, Poland, Portugal, Romania, Slovakia, Slovenia. Scholarships\_for Summer School students from these countries <strong>include all costs</strong> (fee, travel, lodging and catering).\_</p>\n\n<p>Please note, if you apply for a stipend the <strong>last application date is\_April 1, 2019</strong>. You don't need to submit a separate application for the stipend.\_</p>\n\n<p>We also encourage\_everyone to invite your non-EIT Digital colleagues as well to participate in the Summer Schools 2019! For more info,\_please <a href=\"https://summerschool.eitdigital.eu/about-summer-school/contact-us/\">contact</a>\_summerschools@eitdigital.eu</p>\n\n<p>\_</p>\n\n<p>\_</p>\n\n<p><a href=\"https://summerschool.eitdigital.eu/about-summer-school/summer-school-locations/\">SUMMER SCHOOL LOCATIONS</a></p>\n\n<p><img alt=\"Image removed.\" data-entity-type=\"file\" data-entity-uuid=\"fa7cb830-a4db-441a-96fb-dca1bd1f804d\" src=\"/sites/default/files/inline-images/Screenshot%202019-03-17%20at%2016.32.56.png\" title=\"This image has been removed. For security reasons, only images from the local domain are allowed.\" height=\"16\" width=\"16\" class=\"filter-image-invalid\" /></p>\n\n<p>DIGITAL CITIES</p>\n\n<p>Rapid urbanisation is triggering important issues. Our Summer Schools respond to the challenge of maintaining attractive, inclusive and safe urban environments by using the new digital tools and their transformative power.</p>\n\n<ul>\n\t<li><strong>Rennes, France:\_</strong>June 30 - July 13, 2019\_- Unleashing the Power of Data for Better Cities</li>\n\t<li><strong>Tallin, Estonia: </strong>July 14 - July 27, 2019 - Integrating Personalised Mobility Solutions\_\_ \_</li>\n\t<li><strong>Trento, Italy:</strong> July 14 - July 27, 2019 - Digital Cities as Infrastructures for Smart Mobility</li>\n\t<li><strong>Ljubljana, Slovenia:</strong> June 30 - July 13, 2019 - Digital Transformation for Resilient Cities<br />\n\t\_</li>\n</ul>\n\n<h2>DIGITAL INDUSTRY</h2>\n\n<p>New digital technology and the associated digital transformation change the way we manufacture. Earlier business models based on cheap labour and outsourcing is no longer valid. Our summer schools focus on digitised factories, blended retail, personalised products and data-driven processes.</p>\n\n<ul>\n\t<li><strong>Munich, Germany:</strong>\_July 28 - August 10, 2019 - IoT Platforms for Industry 4.0\_\_ \_</li>\n\t<li><strong>Helsinki, Finland: </strong>August 4 - August 17, 2019 - Disrupting Retail - Digitalisation, Growth, and User Engagement\_\_ \_</li>\n\t<li><strong>Bologna, Italy: </strong>July 21 - August 3, 2019 - Data Driven Manufacturing with Industry 4.0<br />\n\t\_</li>\n</ul>\n\n<h2>DIGITAL WELLBEING</h2>\n\n<p>Digital technologies enable solutions to prevent and early detect early stage mental and physical disorders. This can avoid larger health problems, lower healthcare costs and raise the quality of life at home and at work. Digital technologies can shape healthier lifestyles, allows for increased active longevity and for easy accessible care.\_and for long-term care.</p>\n\n<p>\_</p>\n\n<ul>\n\t<li><strong>Eindhoven, Netherlands:</strong>\_August 4 - August 16, 2019 - Healthy Lifestyle and Behavioural Change\_\_ \_</li>\n\t<li><strong>Lisbon, Portugal: </strong>June 30 - July 13, 2019 - Longer Independent Living<br />\n\t\_</li>\n</ul>\n\n<h2>DIGITAL TECH</h2>\n\n<p>Digital Tech is the generic enabler of digital transformation through providing secure, robust, responsive and intelligent communications, data handling and access to software applications. Our summer schools target the generic technologies that drive the digital economy.</p>\n\n<ul>\n\t<li><strong>Stockholm, Sweden: </strong>August 4 - August 17, 2019 - Big Data Analytics\_\_ \_</li>\n\t<li><strong>Stockholm, Sweden: </strong>August 4 - August 17, 2019 - Internet of Things and Business Transformation<br />\n\t\_</li>\n</ul>\n\n<h2>DIGITAL FINANCE</h2>\n\n<p>Digital Finance delivers innovative financial products and services using digital technology. The objective is to make financial systems safer, simpler and increase customer value.</p>\n\n<ul>\n\t<li><strong>Budapest, Hungary: </strong>July 21 - August 3, 2019 - Machine Learning for Financial Data</li>\n</ul>\n"
+    summary: ''
+    summary_processed: ''
+field_basic_page_image:
+  -
+    target_type: media
+    target_uuid: 82c72b3b-7945-416f-b7a5-974b92767ad5
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.82c72b3b-7945-416f-b7a5-974b92767ad5

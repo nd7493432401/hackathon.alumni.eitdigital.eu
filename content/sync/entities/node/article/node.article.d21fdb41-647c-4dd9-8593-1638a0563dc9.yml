@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: d21fdb41-647c-4dd9-8593-1638a0563dc9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:47:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Organize & moderate the EIT Alumni Connect'
+created:
+  -
+    value: '2018-05-27T11:34:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:47:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/organize-moderate-eit-alumni-connect
+body:
+  -
+    value: "<p>Our biggest annual event, bringing together&nbsp;<a href=\"https://alumni.eitdigital.eu/\">EIT Digital Alumni</a>, the&nbsp;<a href=\"https://community.innoenergy.com/\">CommUnity by InnoEnergy</a>,&nbsp;<a href=\"https://touch.facebook.com/EITHealthAlumni/?__tn__=HH-R\">EIT Health Alumni</a>,&nbsp;<a href=\"http://ckaa.eu/\">EIT Climate-KIC Alumni</a>, and&nbsp;<a href=\"https://eitrawmaterials.eu/\">EIT Raw Materials alumni</a>&nbsp;is&nbsp;fast approaching!<br />\r\nWe are looking for dedicated and enthusiastic alumni to help with the facilitation and organisation of EIT Alumni CONNECT 2018!<br />\r\nFurther details are outlined below.</p>\r\n\r\n<p><strong>EIT Alumni CONNECT</strong></p>\r\n\r\n<p>Taking place on the&nbsp;<strong>5th of October</strong>&nbsp;in Budapest&nbsp;more than 100 EIT alumni and students will come together to share their knowledge, enthusiasm and experiences with each other at&nbsp;EIT CONNECT.</p>\r\n\r\n<p><strong>Calls for applications 2018</strong></p>\r\n\r\n<p>This year&nbsp;we are holding our event independently from the EIT's INNOVEIT. This means we really have the opportunity to shape this event as we like, and create something truly memorable.<br />\r\nWe would like you, the alumni, to be as involved as possible in the organisation of this events and so offer the following ways for you to get involved.</p>\r\n\r\n<p>We are looking for:</p>\r\n\r\n<ol>\r\n\t<li><a href=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/05/Call-for-applications-Moderators.pdf\">Moderators&nbsp;for EIT Alumni CONNECT 2018</a></li>\r\n\t<li><a href=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/05/Call-for-applications-working-group.pdf\">A&nbsp;working group for the organisation of EIT Alumni CONNECT 2018</a></li>\r\n</ol>\r\n\r\n<p>Have a read of the calls, see where your skills may be applicable, and get involved!</p>\r\n\r\n<p>What's in it for you?</p>\r\n\r\n<ul>\r\n\t<li>the chance to meet and work with a motivated and enthusiastic cross-community working group</li>\r\n\t<li>the opportunity to shape the event and directly contribute to the future of the EIT Alumni community</li>\r\n\t<li>an exclusive invitation to attend INNOVEIT on October 4th</li>\r\n\t<li>free flights to and from Budapest for the event</li>\r\n</ul>\r\n\r\n<p>The deadline for applications is <strong>17 June 2018</strong></p>\r\n\r\n<p>We look forward to hearing from you!</p>\r\n\r\n<p>[originally posted on the&nbsp;<a href=\"https://eitalumni.eu/blog/2018/05/16/call-for-applications-eit-alumni-connect-2018/\">EIT Alumni&nbsp;website</a>]</p>\r\n"
+    format: full_html
+    processed: "<p>Our biggest annual event, bringing together\_<a href=\"https://alumni.eitdigital.eu/\">EIT Digital Alumni</a>, the\_<a href=\"https://community.innoenergy.com/\">CommUnity by InnoEnergy</a>,\_<a href=\"https://touch.facebook.com/EITHealthAlumni/?__tn__=HH-R\">EIT Health Alumni</a>,\_<a href=\"http://ckaa.eu/\">EIT Climate-KIC Alumni</a>, and\_<a href=\"https://eitrawmaterials.eu/\">EIT Raw Materials alumni</a>\_is\_fast approaching!<br />\nWe are looking for dedicated and enthusiastic alumni to help with the facilitation and organisation of EIT Alumni CONNECT 2018!<br />\nFurther details are outlined below.</p>\n\n<p><strong>EIT Alumni CONNECT</strong></p>\n\n<p>Taking place on the\_<strong>5th of October</strong>\_in Budapest\_more than 100 EIT alumni and students will come together to share their knowledge, enthusiasm and experiences with each other at\_EIT CONNECT.</p>\n\n<p><strong>Calls for applications 2018</strong></p>\n\n<p>This year\_we are holding our event independently from the EIT's INNOVEIT. This means we really have the opportunity to shape this event as we like, and create something truly memorable.<br />\nWe would like you, the alumni, to be as involved as possible in the organisation of this events and so offer the following ways for you to get involved.</p>\n\n<p>We are looking for:</p>\n\n<ol>\n\t<li><a href=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/05/Call-for-applications-Moderators.pdf\">Moderators\_for EIT Alumni CONNECT 2018</a></li>\n\t<li><a href=\"https://eitalumni.eu/wp-content/uploads/sites/4/2018/05/Call-for-applications-working-group.pdf\">A\_working group for the organisation of EIT Alumni CONNECT 2018</a></li>\n</ol>\n\n<p>Have a read of the calls, see where your skills may be applicable, and get involved!</p>\n\n<p>What's in it for you?</p>\n\n<ul>\n\t<li>the chance to meet and work with a motivated and enthusiastic cross-community working group</li>\n\t<li>the opportunity to shape the event and directly contribute to the future of the EIT Alumni community</li>\n\t<li>an exclusive invitation to attend INNOVEIT on October 4th</li>\n\t<li>free flights to and from Budapest for the event</li>\n</ul>\n\n<p>The deadline for applications is <strong>17 June 2018</strong></p>\n\n<p>We look forward to hearing from you!</p>\n\n<p>[originally posted on the\_<a href=\"https://eitalumni.eu/blog/2018/05/16/call-for-applications-eit-alumni-connect-2018/\">EIT Alumni\_website</a>]</p>\n"
+    summary: 'Our biggest annual event, bringing together&nbsp;EIT Digital Alumni, the&nbsp;CommUnity by InnoEnerg'
+    summary_processed: "Our biggest annual event, bringing together\_EIT Digital Alumni, the\_CommUnity by InnoEnerg"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Call for applications are open: help organize this event!'
+field_image:
+  -
+    target_type: media
+    target_uuid: d397d771-fe57-4c63-b2aa-c570ce2aa28d
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.d397d771-fe57-4c63-b2aa-c570ce2aa28d

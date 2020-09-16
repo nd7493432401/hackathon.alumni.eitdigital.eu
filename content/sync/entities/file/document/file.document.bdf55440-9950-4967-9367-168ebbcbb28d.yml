@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: bdf55440-9950-4967-9367-168ebbcbb28d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: document
+    target_type: file_type
+    target_uuid: ab508441-233e-48a9-8969-76242ad028ea
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: '20172610 Pointlab Workshop Brochure 29-30 november_0.pdf'
+uri:
+  -
+    value: 'public://2020-05/20172610 Pointlab Workshop Brochure 29-30 november_0.pdf'
+    url: /sites/default/files/2020-05/20172610%20Pointlab%20Workshop%20Brochure%2029-30%20november_0.pdf
+filemime:
+  -
+    value: application/pdf
+filesize:
+  -
+    value: 551590
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-05-05T14:39:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:39:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

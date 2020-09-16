@@ -1,0 +1,29 @@
+uuid: 17d9647d-3e72-445c-8ceb-0509180c10ac
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.projects.field_project_description
+    - field.field.paragraph.projects.field_project_title
+    - paragraphs.paragraphs_type.projects
+id: paragraph.projects.default
+targetEntityType: paragraph
+bundle: projects
+mode: default
+content:
+  field_project_description:
+    weight: 1
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_project_title:
+    weight: 0
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+hidden: {  }

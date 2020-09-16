@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 9e69cb76-c9a9-4056-a211-a3deee45fee1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:55:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Lisbon Investment Summit ''18'
+created:
+  -
+    value: '2018-04-11T10:57:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:55:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/lisbon-investment-summit-18
+body: {  }
+field_event_: {  }
+field_event_date:
+  -
+    value: '2018-06-06T07:00:00+02:00'
+    end_value: '2018-06-07T17:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>In the last few years, Lisbon has grown to be the coolest startup hub in Europe. It has seen the rise of companies such as <strong>Attentive</strong>, <strong>Unbabel</strong>, <strong>Feedzai</strong>,&nbsp;<strong>Zaask </strong>or <strong>Uniplaces</strong>. Featured on Wired&nbsp;as one of the&nbsp;hottest startup cities, Lisbon has attracted the attention of VCs from all over the world. <a href=\"http://www.lis-summit.com/\">LIS</a>, Lisbon Investment Summit, has largely contributed to it.</p>\r\n\r\n<p>At LIS they say: “We like to keep it casual and informal, so that we can create unique networking opportunities, unlike the bigger conferences, and real investment opportunities. LIS delivers thought-provoking keynotes, interactive panels and workshops on some of the hottest topics on startups, fundraising and growth.”</p>\r\n\r\n<p>In 2017 LIS&nbsp;hosted 750 startups, 200 investors, 400 corporates and more than a 100 speakers from over 50 countries, for two sunny days in Lisbon.<br />\r\nHowever, for 2018, they are raising the bar, and they are bringing to Lisbon speakers such as&nbsp;Bertier Luyt of <strong>Techstars</strong>, Valentina Milanova of <strong>Founders Factory</strong>, Marvin Liao of <strong>500 Startups</strong>, Zach Coelius of <strong>Coelius Capital</strong> and many more!</p>\r\n\r\n<p><strong>DISCOUNT FOR EIT DIGITAL ALUMNI</strong><br />\r\nWe have a surprise!&nbsp;If you would like to get 25% discount code for the Lisbon Investment Summit&nbsp; '18 contact us via <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>. You can check <a href=\"http://www.eventbrite.co.uk/e/lisbon-investment-summit-18-tickets-39197236991#map-target\">here</a> the different ticket options available and find more information about the event at&nbsp;<a href=\"http://www.lis-summit.com/\">LIS website</a>!<br />\r\n&nbsp;</p>\r\n\r\n<p>See you in sunny Lisbon!<br />\r\n&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>In the last few years, Lisbon has grown to be the coolest startup hub in Europe. It has seen the rise of companies such as <strong>Attentive</strong>, <strong>Unbabel</strong>, <strong>Feedzai</strong>,\_<strong>Zaask </strong>or <strong>Uniplaces</strong>. Featured on Wired\_as one of the\_hottest startup cities, Lisbon has attracted the attention of VCs from all over the world. <a href=\"http://www.lis-summit.com/\">LIS</a>, Lisbon Investment Summit, has largely contributed to it.</p>\n\n<p>At LIS they say: “We like to keep it casual and informal, so that we can create unique networking opportunities, unlike the bigger conferences, and real investment opportunities. LIS delivers thought-provoking keynotes, interactive panels and workshops on some of the hottest topics on startups, fundraising and growth.”</p>\n\n<p>In 2017 LIS\_hosted 750 startups, 200 investors, 400 corporates and more than a 100 speakers from over 50 countries, for two sunny days in Lisbon.<br />\nHowever, for 2018, they are raising the bar, and they are bringing to Lisbon speakers such as\_Bertier Luyt of <strong>Techstars</strong>, Valentina Milanova of <strong>Founders Factory</strong>, Marvin Liao of <strong>500 Startups</strong>, Zach Coelius of <strong>Coelius Capital</strong> and many more!</p>\n\n<p><strong>DISCOUNT FOR EIT DIGITAL ALUMNI</strong><br />\nWe have a surprise!\_If you would like to get 25% discount code for the Lisbon Investment Summit\_ '18 contact us via <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>. You can check <a href=\"http://www.eventbrite.co.uk/e/lisbon-investment-summit-18-tickets-39197236991#map-target\">here</a> the different ticket options available and find more information about the event at\_<a href=\"http://www.lis-summit.com/\">LIS website</a>!<br />\n\_</p>\n\n<p>See you in sunny Lisbon!<br />\n\_</p>\n"
+field_event_duration:
+  -
+    value: 'All Day'
+    format: basic_html
+    processed: 'All Day'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: a51b09e5-5908-40a4-9db6-10f7b843e903
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: a51b09e5-5908-40a4-9db6-10f7b843e903
+field_event_introduction:
+  -
+    value: "<p>Lisbon Investment Summit is Europe’s surprisingly informal and slightly unexpected startup conference. Their goal is to bring together top investors, entrepreneurs and executives from all over the world to Lisbon this June.</p>\r\n"
+    format: full_html
+    processed: "<p>Lisbon Investment Summit is Europe’s surprisingly informal and slightly unexpected startup conference. Their goal is to bring together top investors, entrepreneurs and executives from all over the world to Lisbon this June.</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.a51b09e5-5908-40a4-9db6-10f7b843e903

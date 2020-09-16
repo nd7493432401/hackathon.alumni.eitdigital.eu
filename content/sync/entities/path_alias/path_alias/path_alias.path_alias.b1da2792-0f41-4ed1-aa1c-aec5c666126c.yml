@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1da2792-0f41-4ed1-aa1c-aec5c666126c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/160
+alias:
+  -
+    value: /event/annual-meeting-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

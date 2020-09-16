@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: 5173b470-976c-4c5d-a747-622500a85430
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-07T08:21:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Post-Master Professional - KIWAME'
+created:
+  -
+    value: '2019-11-29T11:45:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:46:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/post-master-professional-kiwame
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:postmaster2020@eitdigital.eu'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: 'EIT Digital'
+    format: full_html
+    processed: 'EIT Digital'
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">The Post-Master positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas. The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</span></span></p>\r\n\r\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"color:#333333\">Activity: </span></b></span></p>\r\n\r\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\">Innovation area: Digital Wellbeing</span></span></p>\r\n\r\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\">Activity: KIWAME</span></span></p>\r\n\r\n<p class=\"MsoBodyText\" style=\"text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\">KIWAME addresses the patients with kidney diseases, at high risk of overhydration, by allowing continuous monitoring of body water volume, nutrition and biomeasure (with data analysis of different sensors and images captured with the mobile phone camera) providing a set of personalised services and devices to evaluate the impact of their activities and improve their quality of life.</span></span></p>\r\n\r\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\"><span style=\"line-height:110%\">Job Profile</span></span></b></span></p>\r\n\r\n<p class=\"Default\" style=\"text-align:justify\"><span lang=\"EN-GB\" style=\"font-size:10.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">We are looking for one Post-Master Professional that will perform the following tasks:</span></span></p>\r\n\r\n<ul>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Multidevice Application development</span></span></span></span></span></li>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Data analytics from heterogenous sources</span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. English is the working language in the activity. The Post-Master position in Madrid will also require working knowledge of English or Spanish.</span></span></span></span></span></p>\r\n\r\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\"><span style=\"line-height:110%\">Location</span></span></b></span></p>\r\n\r\n<p class=\"Default\" style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"color:#333333\">Place of Employment is the EIT Digital Co-location Centre in Madrid, Spain. Occasional European travel to be expected.</span></span></span></p>\r\n\r\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\"><span style=\"line-height:110%\">Offer</span></span></b></span></p>\r\n\r\n<ul>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">One-year full-time contract with possibility of renewal for another year* </span></span></span></span></span></li>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Guidance by Innovation Leader and Node Director </span></span></span></span></span></li>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Exposure to a multinational work environment</span></span></span></span></span></li>\r\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">The opportunity of working on a deep tech project</span></span></span></span></span></li>\r\n</ul>\r\n\r\n<p style=\"text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><i><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">*Contract duration and salary range may vary between different Nodes and Countries due to national legislation.</span></span></span></i></span></span></p>\r\n\r\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\"><span style=\"line-height:110%\">How to apply</span></span></b> </span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Please email your CV and a motivation letter to </span></span><a href=\"mailto:postmaster2020@eitdigital.eu\"><span lang=\"SV\" style=\"font-size:10.0pt\">postmaster2020@eitdigital.eu</span></a> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">outlining how your skills and</span></span> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">experience meet the qualifications of the position you apply for. In the subject of your e-mail please mention: “KIWAME_PM_Madrid”.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Applications without a motivation letter will not be considered.</span></span> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Please specify the Activity Name, position and location you are applying for.</span></span></p>\r\n"
+    format: full_html
+    processed: "<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">The Post-Master positions are open to all graduates of the EIT Digital Master School. The Post-Master Professional works on activities in the context of the EIT Digital Innovation activity portfolio within key innovation areas. The work includes all stages and parts of the innovation process as technology and business model development. The intention of the position is to contribute to the Post-Master’s personal entrepreneurship development.</span></span></p>\n\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"color:#333333\" xml:lang=\"EN-GB\">Activity: </span></b></span></p>\n\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\" xml:lang=\"EN-GB\">Innovation area: Digital Wellbeing</span></span></p>\n\n<p class=\"MsoBodyText\" style=\"margin-bottom:3.0pt; text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\" xml:lang=\"EN-GB\">Activity: KIWAME</span></span></p>\n\n<p class=\"MsoBodyText\" style=\"text-align:justify\"><span style=\"line-height:110%\"><span lang=\"EN-GB\" style=\"color:#333333\" xml:lang=\"EN-GB\">KIWAME addresses the patients with kidney diseases, at high risk of overhydration, by allowing continuous monitoring of body water volume, nutrition and biomeasure (with data analysis of different sensors and images captured with the mobile phone camera) providing a set of personalised services and devices to evaluate the impact of their activities and improve their quality of life.</span></span></p>\n\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Job Profile</span></span></b></span></p>\n\n<p class=\"Default\" style=\"text-align:justify\"><span lang=\"EN-GB\" style=\"font-size:10.0pt\" xml:lang=\"EN-GB\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">We are looking for one Post-Master Professional that will perform the following tasks:</span></span></p>\n\n<ul>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Multidevice Application development</span></span></span></span></span></li>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Data analytics from heterogenous sources</span></span></span></span></span></li>\n</ul>\n\n<p style=\"text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">The work will involve intense collaboration with EIT Digital partners, and other related technology providers that are actively participating the activity. English is the working language in the activity. The Post-Master position in Madrid will also require working knowledge of English or Spanish.</span></span></span></span></span></p>\n\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Location</span></span></b></span></p>\n\n<p class=\"Default\" style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\"><span style=\"color:#333333\">Place of Employment is the EIT Digital Co-location Centre in Madrid, Spain. Occasional European travel to be expected.</span></span></span></p>\n\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">Offer</span></span></b></span></p>\n\n<ul>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">One-year full-time contract with possibility of renewal for another year* </span></span></span></span></span></li>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Guidance by Innovation Leader and Node Director </span></span></span></span></span></li>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">Exposure to a multinational work environment</span></span></span></span></span></li>\n\t<li style=\"margin-top:0cm; margin-right:0cm; margin-bottom:.0001pt; text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">The opportunity of working on a deep tech project</span></span></span></span></span></li>\n</ul>\n\n<p style=\"text-align:justify\"><span style=\"line-height:110%\"><span style=\"tab-stops:16.3pt 16.4pt\"><i><span style=\"font-size:10.0pt\"><span style=\"line-height:110%\"><span style=\"color:#333333\">*Contract duration and salary range may vary between different Nodes and Countries due to national legislation.</span></span></span></i></span></span></p>\n\n<p style=\"margin-top:12.0pt; text-align:justify\"><span style=\"line-height:110%\"><b><span lang=\"EN-GB\" style=\"font-size:10.0pt\" xml:lang=\"EN-GB\"><span style=\"line-height:110%\">How to apply</span></span></b> </span></p>\n\n<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Please email your CV and a motivation letter to </span></span><a href=\"mailto:postmaster2020@eitdigital.eu\"><span lang=\"SV\" style=\"font-size:10.0pt\" xml:lang=\"SV\">postmaster2020@eitdigital.eu</span></a> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">outlining how your skills and</span></span> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">experience meet the qualifications of the position you apply for. In the subject of your e-mail please mention: “KIWAME_PM_Madrid”.</span></span></p>\n\n<p style=\"text-align:justify\"><span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Applications without a motivation letter will not be considered.</span></span> <span style=\"font-size:10.0pt\"><span style=\"color:#333333\">Please specify the Activity Name, position and location you are applying for.</span></span></p>\n"
+field_job_location:
+  -
+    value: 'Madrid, Spain'
+    format: full_html
+    processed: 'Madrid, Spain'
+field_more_details_link:
+  -
+    uri: 'https://masterschool.eitdigital.eu/post-master-positions/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

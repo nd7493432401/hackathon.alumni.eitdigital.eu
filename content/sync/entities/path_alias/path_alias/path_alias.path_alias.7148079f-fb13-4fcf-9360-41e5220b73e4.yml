@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7148079f-fb13-4fcf-9360-41e5220b73e4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/44
+alias:
+  -
+    value: /users/cubemoshe
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,21 @@
+uuid: 64d19f01-b3e1-4d20-b9fb-4442c6972265
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_full_name
+    - node.type.candidate
+  module:
+    - text
+id: node.candidate.field_full_name
+field_name: field_full_name
+entity_type: node
+bundle: candidate
+label: 'Full Name'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

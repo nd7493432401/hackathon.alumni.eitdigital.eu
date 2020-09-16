@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dc3dbf47-9867-4079-96c9-af5f8396571c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/331
+alias:
+  -
+    value: /job/data-analyst
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

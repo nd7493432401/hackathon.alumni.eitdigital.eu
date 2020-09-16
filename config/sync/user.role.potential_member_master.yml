@@ -1,0 +1,9 @@
+uuid: f8c02011-87b8-4041-be06-be35178bb30b
+langcode: en
+status: true
+dependencies: {  }
+id: potential_member_master
+label: 'Potential Member (Master)'
+weight: 3
+is_admin: null
+permissions: {  }

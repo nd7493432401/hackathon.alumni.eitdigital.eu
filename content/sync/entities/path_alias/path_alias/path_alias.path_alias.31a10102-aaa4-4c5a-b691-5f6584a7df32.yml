@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 31a10102-aaa4-4c5a-b691-5f6584a7df32
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/579
+alias:
+  -
+    value: /job/finance-and-operations-intern
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

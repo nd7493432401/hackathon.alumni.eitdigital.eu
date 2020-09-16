@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9626a897-4687-445a-a1cf-f8cfcdc8218a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/315
+alias:
+  -
+    value: /job/ux-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

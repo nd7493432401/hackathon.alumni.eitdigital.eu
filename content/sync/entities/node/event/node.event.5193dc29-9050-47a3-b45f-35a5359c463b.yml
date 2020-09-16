@@ -1,0 +1,92 @@
+uuid:
+  -
+    value: 5193dc29-9050-47a3-b45f-35a5359c463b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T09:33:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Deep Learning - TrueYou: Talk on Image Classification'
+created:
+  -
+    value: '2018-04-21T11:20:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T09:33:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/deep-learning-trueyou-talk-image-classification
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital - CEFRIEL'
+    format: full_html
+    processed: 'EIT Digital - CEFRIEL'
+field_event_date:
+  -
+    value: '2018-04-26T14:30:00+02:00'
+    end_value: '2018-04-26T16:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>PoliMi Data Scientists, in collaboration with <a href=\"https://www.eitdigital.eu/\">EIT Digital</a>&nbsp;and our community, official host of the event, is proud to announce the first of a series of meetups that will cover the most interesting and fascinating topics related to the Data Science world. Our aim is to share with a community of students, enthusiasts and professionals real applications and experiences of the sexiest subject of the 21st century.<br />\r\n<br />\r\nThis time our Alumnus&nbsp;<strong>Stefano Imoscopi</strong>, CTO @&nbsp;<a href=\"http://trueyou.it/\">TrueYou</a>, will discuss about Deep Learning focusing on how Image Classification can provide an innovative system for auto-smashing in dating apps, with PRACTICAL examples and explanations of the algorithms applied.<br />\r\n<br />\r\nThe Location will be the <a href=\"https://www.eitdigital.eu/about-us/locations/trento-node/milan-satellite/\">EIT Digital’s Milan satellite</a> by CEFRIEL. The agenda will consist in a one hour talk followed by a vibrant networking and APERO.<br />\r\n<br />\r\n<strong>TALK DETAILS</strong>: In this talk Stefano will present the TrueYou service and describe the AI and machine learning algorithms that make this service possible. We will focus on deep learning for image classification and regression in the context of attractiveness and beauty classification. We might also touch briefly on aspects of NLP and chatbot development, with a focus on question answering and language understanding using sequence-to-sequence deep neural networks.<br />\r\n<br />\r\n<strong>SPEAKER'S BIO</strong>: Stefano Imoscopi was born in Trento, Italy in 1992. He received his MSc from <a href=\"https://www.eitdigital.eu/eit-digital-academy/master-school/\">EIT Digital Master School</a>, majoring in Computer Science at KTH with a thesis on speech classification at Ericsson Research, Stockholm. He then moved back to TU Delft, Netherlands, to conduct doctoral research in computer vision for autonomous vehicles. After 9 months, he moved back to Italy and enrolled in Politecnico di Milano, where he is currently pursuing a master’s degree in Music and Acoustics Engineering at the research group of Prof. Augusto Sarti. He is cofounder and CTO of TrueYou, an Italian startup that is developing a dating app aggregator power by AI.</p>\r\n\r\n<p>Seats are limited. Please <a href=\"https://www.eventbrite.it/e/biglietti-deep-learning-trueyou-talk-on-image-classification-applied-to-dating-apps-45293909302\">register</a> for the event only if you are sure to join. The ticket is required.</p>\r\n"
+    format: full_html
+    processed: "<p>PoliMi Data Scientists, in collaboration with <a href=\"https://www.eitdigital.eu/\">EIT Digital</a>\_and our community, official host of the event, is proud to announce the first of a series of meetups that will cover the most interesting and fascinating topics related to the Data Science world. Our aim is to share with a community of students, enthusiasts and professionals real applications and experiences of the sexiest subject of the 21st century.<br />\n<br />\nThis time our Alumnus\_<strong>Stefano Imoscopi</strong>, CTO @\_<a href=\"http://trueyou.it/\">TrueYou</a>, will discuss about Deep Learning focusing on how Image Classification can provide an innovative system for auto-smashing in dating apps, with PRACTICAL examples and explanations of the algorithms applied.<br />\n<br />\nThe Location will be the <a href=\"https://www.eitdigital.eu/about-us/locations/trento-node/milan-satellite/\">EIT Digital’s Milan satellite</a> by CEFRIEL. The agenda will consist in a one hour talk followed by a vibrant networking and APERO.<br />\n<br />\n<strong>TALK DETAILS</strong>: In this talk Stefano will present the TrueYou service and describe the AI and machine learning algorithms that make this service possible. We will focus on deep learning for image classification and regression in the context of attractiveness and beauty classification. We might also touch briefly on aspects of NLP and chatbot development, with a focus on question answering and language understanding using sequence-to-sequence deep neural networks.<br />\n<br />\n<strong>SPEAKER'S BIO</strong>: Stefano Imoscopi was born in Trento, Italy in 1992. He received his MSc from <a href=\"https://www.eitdigital.eu/eit-digital-academy/master-school/\">EIT Digital Master School</a>, majoring in Computer Science at KTH with a thesis on speech classification at Ericsson Research, Stockholm. He then moved back to TU Delft, Netherlands, to conduct doctoral research in computer vision for autonomous vehicles. After 9 months, he moved back to Italy and enrolled in Politecnico di Milano, where he is currently pursuing a master’s degree in Music and Acoustics Engineering at the research group of Prof. Augusto Sarti. He is cofounder and CTO of TrueYou, an Italian startup that is developing a dating app aggregator power by AI.</p>\n\n<p>Seats are limited. Please <a href=\"https://www.eventbrite.it/e/biglietti-deep-learning-trueyou-talk-on-image-classification-applied-to-dating-apps-45293909302\">register</a> for the event only if you are sure to join. The ticket is required.</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: b690b564-2468-4067-90dd-d2a5538a4ffa
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: b690b564-2468-4067-90dd-d2a5538a4ffa
+field_event_introduction:
+  -
+    value: "<p>The first of a series of data-science meetups features our Alumnus Stefano as speaker</p>\r\n"
+    format: full_html
+    processed: "<p>The first of a series of data-science meetups features our Alumnus Stefano as speaker</p>\n"
+field_event_type: {  }
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.b690b564-2468-4067-90dd-d2a5538a4ffa

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8bbb397c-c0a8-478c-a5cf-ebfb83de2c38
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/611
+alias:
+  -
+    value: /job/socip-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: c5955bb9-2dd8-466b-bb97-207d8954ff3f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:23:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Internal website Hackathon King’s Style'
+created:
+  -
+    value: '2017-04-13T10:08:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:23:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/internal-website-hackathon-kings-style
+body:
+  -
+    value: "<p>Dear members of our Alumni community,<br />\r\n<br />\r\nWith the intention of making further progress on our website and intranet services, we are organizing a <strong>small internal Hackathon on 29-30 April in Amsterdam</strong>. Objectives:<br />\r\n<br />\r\n<strong>A) Enable crowd-sourcing</strong><br />\r\nWe want to empower everyone in our community to be able to contribute with their creativity, skills and passion to the design and development of our website and intranet services. Therefore, we want to incorporate crowd-sourcing in the development workflow, and a major goal of the hackathon is to enable version-controlling of our Drupal-based website.<br />\r\n<br />\r\nFor this task we are looking for <strong>2 interested candidates</strong> with relevant experience and skills such as <strong>Docker</strong>, <strong>git</strong>, or ideally, having already <strong>open-sourced Drupal-based websites</strong>.<br />\r\n<br />\r\n<strong>B) Testing, bug fixing and features development</strong><br />\r\nThere are several bugs and more testing on more devices is needed. We can test, report and fix the bugs. During the last part we can document how the bugs were fixed so the developers' documentation will be built at the same time. We have several features that should be added and allow us to do more with our current website. Some main features that we would like to add are: Linkedin integration; expose alumni data via API; discussion features (notification, advanced actions); elections/polls functionality...<br />\r\n<br />\r\nFor these tasks we are looking for <strong>3 interested candidates</strong> with relevant experience and skills such as <strong>Drupal development</strong>, <strong>PHP-based CMS</strong> or <strong>PHP </strong>in general, <strong>DevOps</strong>, <strong>Server administration</strong> etc.<br />\r\n<br />\r\n<strong>C) Documentation and Video creation</strong><br />\r\nOn the one hand we want to create Documentation for content creators, such as the creation of video tutorials on how to do common tasks. This will make possible to share the knowledge and more people can contribute. On the other hand, documentation for developers such as details on the implementation and how separate parts of the website have been built.<br />\r\n<br />\r\nFor this task we are looking for <strong>1 interested candidate</strong> with experience in documenting as well as <strong>video creation and editing</strong>.<br />\r\n<br />\r\n<strong>Have you experienced the power of giving?</strong><br />\r\nIf you are interested to be part of this exciting opportunity to put into <em>practice your skills and creativity</em> for the greater benefit of our <strong>whole community</strong>, please fill out <a href=\"https://goo.gl/forms/7TNIFopvLg92fFjH3\">the following form</a> before <strong>Sunday 16th, 23:59</strong>, and let us know of your experience and how you could contribute during the hackathon. Your travelling expenses to Amsterdam can be covered, however due to the limited number of available places for this first internal hackathon, we will select only those that best fit the criteria.</p>\r\n"
+    format: full_html
+    processed: "<p>Dear members of our Alumni community,<br />\n<br />\nWith the intention of making further progress on our website and intranet services, we are organizing a <strong>small internal Hackathon on 29-30 April in Amsterdam</strong>. Objectives:<br />\n<br />\n<strong>A) Enable crowd-sourcing</strong><br />\nWe want to empower everyone in our community to be able to contribute with their creativity, skills and passion to the design and development of our website and intranet services. Therefore, we want to incorporate crowd-sourcing in the development workflow, and a major goal of the hackathon is to enable version-controlling of our Drupal-based website.<br />\n<br />\nFor this task we are looking for <strong>2 interested candidates</strong> with relevant experience and skills such as <strong>Docker</strong>, <strong>git</strong>, or ideally, having already <strong>open-sourced Drupal-based websites</strong>.<br />\n<br />\n<strong>B) Testing, bug fixing and features development</strong><br />\nThere are several bugs and more testing on more devices is needed. We can test, report and fix the bugs. During the last part we can document how the bugs were fixed so the developers' documentation will be built at the same time. We have several features that should be added and allow us to do more with our current website. Some main features that we would like to add are: Linkedin integration; expose alumni data via API; discussion features (notification, advanced actions); elections/polls functionality...<br />\n<br />\nFor these tasks we are looking for <strong>3 interested candidates</strong> with relevant experience and skills such as <strong>Drupal development</strong>, <strong>PHP-based CMS</strong> or <strong>PHP </strong>in general, <strong>DevOps</strong>, <strong>Server administration</strong> etc.<br />\n<br />\n<strong>C) Documentation and Video creation</strong><br />\nOn the one hand we want to create Documentation for content creators, such as the creation of video tutorials on how to do common tasks. This will make possible to share the knowledge and more people can contribute. On the other hand, documentation for developers such as details on the implementation and how separate parts of the website have been built.<br />\n<br />\nFor this task we are looking for <strong>1 interested candidate</strong> with experience in documenting as well as <strong>video creation and editing</strong>.<br />\n<br />\n<strong>Have you experienced the power of giving?</strong><br />\nIf you are interested to be part of this exciting opportunity to put into <em>practice your skills and creativity</em> for the greater benefit of our <strong>whole community</strong>, please fill out <a href=\"https://goo.gl/forms/7TNIFopvLg92fFjH3\">the following form</a> before <strong>Sunday 16th, 23:59</strong>, and let us know of your experience and how you could contribute during the hackathon. Your travelling expenses to Amsterdam can be covered, however due to the limited number of available places for this first internal hackathon, we will select only those that best fit the criteria.</p>\n"
+    summary: 'Dear members of our Alumni community,With the intention of making further progress on our website an'
+    summary_processed: 'Dear members of our Alumni community,With the intention of making further progress on our website an'
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'We are organizing a small internal Hackathon on 29-30 April in Amsterdam!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 37f0d9f7-d96c-48dc-a219-4589970f1bb5
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.37f0d9f7-d96c-48dc-a219-4589970f1bb5

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4af6db09-967a-4d51-b90d-bfc1f7401cdf
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/265
+alias:
+  -
+    value: /event/icsss2019-international-cyber-security-summer-school-2019
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

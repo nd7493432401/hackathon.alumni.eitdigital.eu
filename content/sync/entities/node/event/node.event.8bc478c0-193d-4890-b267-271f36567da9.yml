@@ -1,0 +1,101 @@
+uuid:
+  -
+    value: 8bc478c0-193d-4890-b267-271f36567da9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:01:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Summer Hangout in Stockholm '
+created:
+  -
+    value: '2018-07-13T16:19:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:01:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/summer-hangout-stockholm
+body: {  }
+field_event_:
+  -
+    value: 'Mosebacke Terrassen, Stockholm Södermalm'
+    format: full_html
+    processed: 'Mosebacke Terrassen, Stockholm Södermalm'
+field_event_date:
+  -
+    value: '2018-07-20T15:00:00+02:00'
+    end_value: '2018-07-20T18:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>Hey people!</p>\r\n\r\n<p>The sun is shining so let's hang out! The idea is a casual AW at Mosebacke Terrassen, Stockholm Södermalm.<br />\r\nAs you might have already heard from <a href=\"https://alumni.eitdigital.eu/users/chirikov\">Roman</a>, there have been some discussions regarding recruiting <strong>new local reps &amp; volunteers</strong>, thus it would be a great opportunity to combine both initiatives (a constructive forum + a casual summer hangout) for us in the local community to meet up!&nbsp;</p>\r\n\r\n<p>Please show your interest in this hangout by <a href=\"https://www.facebook.com/groups/eit.digital.alumni.sweden\">joining our Facebook group for Stockholm</a> and <a href=\"https://www.facebook.com/events/273637279864649/\">RSVP-ing our event</a>!&nbsp;Let's celebrate the summer together!</p>\r\n\r\n<p><strong>** please help invite any alumni you know in Stockholm&nbsp;</strong></p>\r\n\r\n<p>/Gigi, Mohan and Thuy</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><a href=\"https://www.facebook.com/groups/eit.digital.alumni.sweden\">JOIN OUR STOCKHOLM FB GROUP!</a></p>\r\n"
+    format: full_html
+    processed: "<p>Hey people!</p>\n\n<p>The sun is shining so let's hang out! The idea is a casual AW at Mosebacke Terrassen, Stockholm Södermalm.<br />\nAs you might have already heard from <a href=\"https://alumni.eitdigital.eu/users/chirikov\">Roman</a>, there have been some discussions regarding recruiting <strong>new local reps &amp; volunteers</strong>, thus it would be a great opportunity to combine both initiatives (a constructive forum + a casual summer hangout) for us in the local community to meet up!\_</p>\n\n<p>Please show your interest in this hangout by <a href=\"https://www.facebook.com/groups/eit.digital.alumni.sweden\">joining our Facebook group for Stockholm</a> and <a href=\"https://www.facebook.com/events/273637279864649/\">RSVP-ing our event</a>!\_Let's celebrate the summer together!</p>\n\n<p><strong>** please help invite any alumni you know in Stockholm\_</strong></p>\n\n<p>/Gigi, Mohan and Thuy</p>\n\n<p>\_</p>\n\n<p><a href=\"https://www.facebook.com/groups/eit.digital.alumni.sweden\">JOIN OUR STOCKHOLM FB GROUP!</a></p>\n"
+field_event_duration:
+  -
+    value: '18:00 - 21:00'
+    format: basic_html
+    processed: '18:00 - 21:00'
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+field_event_introduction:
+  -
+    value: "<p>Summer Hangout xEITD Alumni - Stockholm</p>\r\n"
+    format: full_html
+    processed: "<p>Summer Hangout xEITD Alumni - Stockholm</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: dba83d58-455f-4874-a6d2-b87e842c8311
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.35c3ebdd-d250-4404-bc5c-ba1efd19e80b
+    taxonomy_term:
+      - taxonomy_term.event_type.dba83d58-455f-4874-a6d2-b87e842c8311

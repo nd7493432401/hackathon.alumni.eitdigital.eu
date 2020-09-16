@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 843edc65-ea98-41c5-a264-fc805cf268bd
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: 20180220_BCW_OFFENBLENDE_TK-00129.jpg
+thumbnail:
+  -
+    alt: 'Bosch Connected Experience'
+    title: null
+    width: 3000
+    height: 2000
+    target_type: file
+    target_uuid: a3646c8d-7c95-497b-b595-3c820daf5ac1
+created:
+  -
+    value: '2020-05-05T10:26:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T10:26:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: 'Bosch Connected Experience'
+    title: ''
+    width: 3000
+    height: 2000
+    target_type: file
+    target_uuid: a3646c8d-7c95-497b-b595-3c820daf5ac1
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.a3646c8d-7c95-497b-b595-3c820daf5ac1

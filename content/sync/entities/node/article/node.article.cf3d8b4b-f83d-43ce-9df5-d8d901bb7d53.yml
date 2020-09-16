@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: cf3d8b4b-f83d-43ce-9df5-d8d901bb7d53
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
+revision_timestamp:
+  -
+    value: '2020-05-15T08:52:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Showcase your startup at Slush 2018!'
+created:
+  -
+    value: '2018-10-10T21:59:29+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-15T08:52:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /article/showcase-your-startup-slush-2018
+body:
+  -
+    value: "<p>For the third time after <a href=\"https://alumni.eitdigital.eu/article/present-your-startup-slush\">2016</a> and <a href=\"https://alumni.eitdigital.eu/article/present-your-startup-slush-2017\">2017</a>, the Alumni Foundation&nbsp;supports&nbsp;the&nbsp;entrepreneurial journey of its members&nbsp;by sending the hottest<strong>&nbsp;startup</strong>&nbsp;within our community to&nbsp;<strong>SLUSH</strong>!&nbsp;</p>\r\n\r\n<p><a href=\"http://www.slush.org/\" target=\"_blank\">SLUSH</a>&nbsp;is one of Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, on&nbsp;<strong>December 4-5</strong>, 2018. During this unique&nbsp;event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\r\n\r\n<p>You will also have the chance to enter and win the&nbsp;<strong>Slush 100 pitching</strong>, or attend the&nbsp;<strong>Demo Booth&nbsp;</strong>- where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at&nbsp;<a href=\"http://www.slush.org/\" target=\"_blank\">slush.org</a>.<br />\r\n<br />\r\nOnly <strong>ONE</strong> startup will be attending on our behalf&nbsp;- and will&nbsp;receive financial&nbsp;support<strong>*</strong> to cover their participation expenses (startup pass, trip to Helsinki, accommodation).<br />\r\n<br />\r\nIn order to participate, we ask you to fill in&nbsp;<a href=\"http://bit.ly/slush18-da\" target=\"_blank\">the short&nbsp;form at this link</a>&nbsp;with all the <strong>details</strong> about your startup project (name, website or&nbsp;any other file you might find relevant for the competition) and a brief motivational paragraph stating your interest in showcasing your startup and being our ambassador at this year’s Slush.</p>\r\n\r\n<p>The&nbsp;<strong>deadline&nbsp;</strong>for submitting your application is&nbsp;<em>Wednesday 31st&nbsp;October</em>, 23.59 CET. After that, a&nbsp;<strong>selected jury</strong>&nbsp;of <a href=\"https://www.eitdigital.eu/accelerator/team/\">Business Developers of&nbsp;EIT Digital</a>&nbsp;will evaluate the applications and proclaim the final winner!</p>\r\n\r\n<p>Do not miss this awesome chance!&nbsp;<a href=\"http://bit.ly/slush18-da\" target=\"_blank\">SEND YOUR APPLICATION NOW</a>!</p>\r\n\r\n<p>---</p>\r\n\r\n<p><strong>*</strong> The applicant&nbsp;needs to be a registered member at&nbsp;<a href=\"http://alumni.eitdigital.eu/\">alumni.eitdigital.eu</a>&nbsp;and a (co-)founder of the startup. Depending on the size and membership status of the winning team, one or more representatives could be covered - up to a fixed amount agreed with the Alumni Board.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>If you have general inquiries about this opportunity, please get in touch with us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels</p>\r\n"
+    format: full_html
+    processed: "<p>For the third time after <a href=\"https://alumni.eitdigital.eu/article/present-your-startup-slush\">2016</a> and <a href=\"https://alumni.eitdigital.eu/article/present-your-startup-slush-2017\">2017</a>, the Alumni Foundation\_supports\_the\_entrepreneurial journey of its members\_by sending the hottest<strong>\_startup</strong>\_within our community to\_<strong>SLUSH</strong>!\_</p>\n\n<p><a href=\"http://www.slush.org/\" target=\"_blank\">SLUSH</a>\_is one of Europe’s leading startup events that gathers and facilitates the meeting of entrepreneurs and investors. The event will be held in Helsinki, on\_<strong>December 4-5</strong>, 2018. During this unique\_event, you will have the possibility to listen to speeches held by today’s innovative personalities and tech trendsetters. But this is not all!</p>\n\n<p>You will also have the chance to enter and win the\_<strong>Slush 100 pitching</strong>, or attend the\_<strong>Demo Booth\_</strong>- where you can attract potential clients, partners, media, founders, investors and media. For any further details, we invite you to check out the event’s website at\_<a href=\"http://www.slush.org/\" target=\"_blank\">slush.org</a>.<br />\n<br />\nOnly <strong>ONE</strong> startup will be attending on our behalf\_- and will\_receive financial\_support<strong>*</strong> to cover their participation expenses (startup pass, trip to Helsinki, accommodation).<br />\n<br />\nIn order to participate, we ask you to fill in\_<a href=\"http://bit.ly/slush18-da\" target=\"_blank\">the short\_form at this link</a>\_with all the <strong>details</strong> about your startup project (name, website or\_any other file you might find relevant for the competition) and a brief motivational paragraph stating your interest in showcasing your startup and being our ambassador at this year’s Slush.</p>\n\n<p>The\_<strong>deadline\_</strong>for submitting your application is\_<em>Wednesday 31st\_October</em>, 23.59 CET. After that, a\_<strong>selected jury</strong>\_of <a href=\"https://www.eitdigital.eu/accelerator/team/\">Business Developers of\_EIT Digital</a>\_will evaluate the applications and proclaim the final winner!</p>\n\n<p>Do not miss this awesome chance!\_<a href=\"http://bit.ly/slush18-da\" target=\"_blank\">SEND YOUR APPLICATION NOW</a>!</p>\n\n<p>---</p>\n\n<p><strong>*</strong> The applicant\_needs to be a registered member at\_<a href=\"http://alumni.eitdigital.eu/\">alumni.eitdigital.eu</a>\_and a (co-)founder of the startup. Depending on the size and membership status of the winning team, one or more representatives could be covered - up to a fixed amount agreed with the Alumni Board.</p>\n\n<p>\_</p>\n\n<p>If you have general inquiries about this opportunity, please get in touch with us at <a href=\"mailto:alumni@eitdigital.eu\">alumni@eitdigital.eu</a>, or contact us at one of our social media channels</p>\n"
+    summary: 'For the third time after 2016 and 2017, the Alumni Foundation&nbsp;supports&nbsp;the&nbsp;entreprene'
+    summary_processed: "For the third time after 2016 and 2017, the Alumni Foundation\_supports\_the\_entreprene"
+field_alumni_of_the_week:
+  -
+    value: false
+field_alumni_week_image: {  }
+field_alumni_week_link: {  }
+field_alumni_week_title: {  }
+field_article_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: fab27a7b-5060-4b5f-9349-29df150cc43a
+field_article_introduction:
+  -
+    value: 'Showcase your startup and be our Ambassador to the coolest startup event in Europe!'
+field_image:
+  -
+    target_type: media
+    target_uuid: 06094572-ef2f-42de-b673-4e3ff96887bb
+field_introduction_image: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    taxonomy_term:
+      - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
+    media:
+      - media.image.06094572-ef2f-42de-b673-4e3ff96887bb

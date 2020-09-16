@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 774fd541-cef6-451f-829f-35362dbb7db2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/95
+alias:
+  -
+    value: /exit-year/2016
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

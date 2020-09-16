@@ -1,0 +1,158 @@
+<?php
+
+/**
+ * @file
+ * Bootstrap sub-theme.
+ */
+
+function eitalumni_menu_tree__menu_hamburger_menu($variables) {
+  return '<div class="accordion">' . $variables['tree'] . '<div>';
+}
+
+function eitalumni_menu_link__menu_hamburger_menu(array $variables) {
+  $element = $variables['element'];
+  $sub_menu = '';
+	$output	= '';
+
+  if (!empty($element['#href'])) {
+  	// We check if we have submenu items
+  	if(!empty($element['#below']))
+  		{$output .= '<h4 class="accordion-toggle">' . $element['#title'] . '</h4>';
+  			$sub_menu = '';
+		      foreach ($element['#below'] as $key => $sub_link) {
+		        if (!empty($sub_link['#href'])) {
+		          
+		          $sub_menu .= '<li>'.l($sub_link['#title'], $sub_link['#href']);
+		          $sub_menu .=  '</li>';
+		          
+		        }
+		      }
+		      $output .= !empty($element['#below']) ? '<div class="accordion-content"><ul class="accordion-submenu">' . $sub_menu . '</ul></div>' : '';
+  		}
+  	// No submenu, just print the menu 
+  	else { $output .= '<h4 class="accordion-nosub">' . l($element['#title'], $element['#href']) . '</h4>'; } 
+    $output .=  '';
+  }
+	return $output; 
+}
+
+/**
+ * Add body class to Login, Registration, Forgot Password Page
+ */
+function eitalumni_preprocess_html(&$variables) {
+  $route_name = \Drupal::routeMatch()->getRouteName();
+
+  if (in_array($route_name, ['user.login'])) {
+    $variables['attributes']['class'][] = 'user-login';
+  }
+  if (in_array($route_name, ['user.register'])) {
+    $variables['attributes']['class'][] = 'user-register';
+  }
+  if (in_array($route_name, ['user.pass'])) {
+    $variables['attributes']['class'][] = 'user-password';
+  }
+  // if (in_array($route_name, ['system.403'])) {
+  //   $variables['attributes']['class'][] = 'restricted-page';
+  // }
+}
+
+function eitalumni_preprocess_page(&$variables) {
+  // Add information about the number of sidebars.
+  if (!empty($variables['page']['sidebar_first']) && !empty($variables['page']['sidebar_second'])) {
+    $variables['content_column_class'] = ' class="col-sm-4"';
+  }
+  elseif (!empty($variables['page']['sidebar_first']) || !empty($variables['page']['sidebar_second'])) {
+    $variables['content_column_class'] = ' class="col-sm-8"';
+  }
+  else {
+    $variables['content_column_class'] = ' class="col-sm-12"';
+  }
+}
+
+/**
+ * Implements hook_preprocess_node().
+ */
+function eitalumni_preprocess_node(array &$variables) {
+  $node = $variables['node'];
+  $content_type = strtolower(node_type_load($node->bundle())->label());
+
+  $variables['content_type'] = $content_type;
+
+  // if($content_type == 'article') {
+  //   $image_field = $node->get('field_image');
+  // } elseif ($content_type == 'basic-page') {
+  //   $image_field = $node->get('field_basic_page_image');
+  // } elseif ($content_type == 'event') {
+  //   $image_field = $node->get('field_event_image');
+  // } elseif ($content_type == 'group') {
+  //   $image_field = $node->get('field_group_image');
+  // }
+ 
+  // if (!$image_field->isEmpty()) {
+  //   $uri = $image_field->entity->get('field_media_image')->entity->uri->value;
+  //   $variables['field_image_url'] = file_create_url($uri);
+  // }
+}
+
+function eitalumni_preprocess_search_result(&$vars) {
+  //delete user
+  $vars['info'] = $vars['info_split']['date'];
+}
+
+function eitalumni_preprocess_links(&$variables) {
+  $variables['links']['node-readmore']['link']['#title'] = t('');
+}
+
+ /**
+ * Implements hook_theme_suggestions_HOOK_alter().
+ * Creates new template file for the user profile page
+ */
+function eitalumni_theme_suggestions_user_alter(array &$suggestions, array $variables) {
+  $request = \Drupal::routeMatch()->getRouteObject();
+  $path_args = explode('/', $request->getPath());
+  if (\Drupal::currentUser()->isAuthenticated() && in_array('user', $path_args)) {
+    $suggestions[] = 'user__profile';
+  }
+}
+
+/**
+ * Implements hook_theme_suggestions_HOOK_alter().
+ * Creates new template file for Page Not Found
+ */
+function eitalumni_theme_suggestions_page_alter(array &$suggestions, array $variables) {
+  // Get Request Object.
+  $request = \Drupal::request();
+
+  // If there is HTTP Exception..
+  if ($exception = $request->attributes->get('exception')) {
+    // Get the status code.
+    $status_code = $exception->getStatusCode();
+    if (in_array($status_code, array(401, 403, 404))) {
+      $suggestions[] = 'page--' . $status_code;
+    }
+  }
+}
+
+use Drupal\Core\Form\FormStateInterface;
+
+function eitalumni_form_alter(&$form, &$form_state, &$form_id) {
+  $form['field_company']['widget']['#after_build'][] = '_allowed_formats_remove_textarea_help';
+  $form['field_job_location']['widget']['#after_build'][] = '_allowed_formats_remove_textarea_help';
+  $form['field_event_duration']['widget']['#after_build'][] = '_allowed_formats_remove_textarea_help';
+  $form['field_event_']['widget']['#after_build'][] = '_allowed_formats_remove_textarea_help';
+  $form['field_alumni_week_title']['widget']['#after_build'][] = '_allowed_formats_remove_textarea_help';
+}
+
+function _allowed_formats_remove_textarea_help($form_element, FormStateInterface $form_state) {
+
+  if (isset($form_element[0]['format'])) {
+    // All this stuff is needed to hide the help text.
+    unset($form_element[0]['format']['guidelines']);
+    unset($form_element[0]['format']['help']);
+    unset($form_element[0]['format']['#type']);
+    unset($form_element[0]['format']['#theme_wrappers']);
+    $form_element[0]['format']['format']['#access'] = FALSE;
+  }
+
+  return $form_element;
+}

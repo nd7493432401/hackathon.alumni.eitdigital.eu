@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0156b616-1565-4e54-a82a-2c86a2b3d76d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/229
+alias:
+  -
+    value: /event/blockchain-security-trust-redefined
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

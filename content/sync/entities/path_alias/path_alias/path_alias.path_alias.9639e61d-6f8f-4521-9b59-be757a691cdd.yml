@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9639e61d-6f8f-4521-9b59-be757a691cdd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/149
+alias:
+  -
+    value: /candidate/blanca-martinez-de-aragon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: addecebb-eadd-4da2-8a2a-dfcf38d940a7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/32
+alias:
+  -
+    value: /article/eit-alumni-startup-days-2015
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

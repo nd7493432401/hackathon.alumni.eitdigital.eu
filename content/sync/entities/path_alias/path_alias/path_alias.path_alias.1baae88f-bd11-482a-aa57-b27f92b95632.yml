@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1baae88f-bd11-482a-aa57-b27f92b95632
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/91
+alias:
+  -
+    value: /article/reviving-community-berlin
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

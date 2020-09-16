@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 160e2e44-07a4-443a-9607-22fbc7a2ea3b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/56
+alias:
+  -
+    value: /doctoral-training-centre-dtc/dtc-sophia-antipolis
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

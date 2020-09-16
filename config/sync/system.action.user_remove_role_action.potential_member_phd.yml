@@ -1,0 +1,14 @@
+uuid: d8352537-720c-474c-89d5-0a328ecc71c9
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.potential_member_phd
+  module:
+    - user
+id: user_remove_role_action.potential_member_phd
+label: 'Remove the Potential Member (PHD) role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: potential_member_phd

@@ -1,0 +1,86 @@
+uuid:
+  -
+    value: ba89921d-3b7e-4c7d-bc9b-9ff52b32d8a7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:21:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Software Engineer - Frontend Developer'
+created:
+  -
+    value: '2019-04-23T14:17:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T09:47:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/software-engineer-frontend-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://alumni.eitdigital.eu/users/mpitt'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: SpazioDati
+    format: full_html
+    processed: SpazioDati
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<h3>About SpazioDati</h3>\r\n\r\n<p><a href=\"http://spaziodati.eu\">SpazioDati</a> works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more.<br />\r\nOur main product, <a href=\"https://atoka.io\">Atoka</a>, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon.</p>\r\n\r\n<h3>Our Frontend Team</h3>\r\n\r\n<p>Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software. We use the latest and greatest tools which fits our needs, such as Django, React, Typescript, Less css preprocessor, testing our code at various levels with pytest, mocha and protractor. We also follow the (quite fast paced) trends in this field by continuously experimenting with new tools, frameworks and languages fearlessly replacing and refactoring existing code when we see fit.</p>\r\n\r\n<h3>Your role as Frontend Developer</h3>\r\n\r\n<p>We are looking for software developers that are ready to \"get their hands dirty\" for building a better world (of data, at least), one where information is clean and easily accessible; to achieve such goals is not easy, one should be strict but pragmatic, open-minded but skilled on troubles that are common when dealing with data. We are a multicultural team that loves collaboration, we are \"agile enough\" and, hard to believe, we all love data. If you are an independent data hacker who wants to work in a young and positive environment we want to hear from you!</p>\r\n\r\n<h3>Responsibilities</h3>\r\n\r\n<ul>\r\n\t<li>Exploit your awesome development techniques using your JS/CSS/HTML knowledge;</li>\r\n\t<li>Build and manage user-facing and internal products to serve large amount of information;</li>\r\n\t<li>Create browser-friendly, mobile-friendly solutions;</li>\r\n\t<li>Collaborate closely with the team to ship new functionalities.</li>\r\n</ul>\r\n\r\n<h3>Requirements</h3>\r\n\r\n<ul>\r\n\t<li>you have a B.S. or M.S. Computer Science or related field, or equivalent experience;</li>\r\n\t<li>you are a quick-thinker, a problem-solver, who feels comfortable in writing code;</li>\r\n\t<li>you are self-organized and willing to work in a fast-paced environment;</li>\r\n\t<li>you take code quality seriously: continuous integration, testing, code review, linters.</li>\r\n\t<li>very good knowledge of HTML5/CSS3</li>\r\n\t<li>you know javascript (<em>btw: having used Jquery in a few projects !== knowing Javascript</em>)</li>\r\n\t<li>you're a great team player</li>\r\n</ul>\r\n\r\n<h3>Nice-to-have</h3>\r\n\r\n<ul>\r\n\t<li>you are familiar with Python and Django;</li>\r\n\t<li>you *really* know javascript;</li>\r\n\t<li>you've heard of react, redux, D3, bootstrap, gulp, webpack, mocha, protractor</li>\r\n\t<li>you're familiar with responsive design and mobile-friendly;</li>\r\n\t<li>you're aware of quirks of modern and less modern browsers (including that one!);</li>\r\n\t<li>you like to test your code;</li>\r\n\t<li>you like to ship features along with tests at various levels (unit, integration, e2e)</li>\r\n\t<li>you would like to to learn, challenge yourself, improve and broaden your skill set</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: "<h3>About SpazioDati</h3>\n\n<p><a href=\"http://spaziodati.eu\">SpazioDati</a> works on applying Semantic Text Analysis and Machine Learning models on massive amounts of corporate data to provide services - both B2B and B2C - of Sales Intelligence, Lead Generation, Data Cleansing, and more.<br />\nOur main product, <a href=\"https://atoka.io\">Atoka</a>, is currently used by thousands of small and big companies in Italy and abroad, and we plan on expanding to new horizons soon.</p>\n\n<h3>Our Frontend Team</h3>\n\n<p>Our Frontend Team is responsible for creating products on the web which will deliver such large amounts of data to our customers in an accessible way, customise their experience and build ad-hoc solutions for their needs, including integrating our tools in their existing software. We use the latest and greatest tools which fits our needs, such as Django, React, Typescript, Less css preprocessor, testing our code at various levels with pytest, mocha and protractor. We also follow the (quite fast paced) trends in this field by continuously experimenting with new tools, frameworks and languages fearlessly replacing and refactoring existing code when we see fit.</p>\n\n<h3>Your role as Frontend Developer</h3>\n\n<p>We are looking for software developers that are ready to \"get their hands dirty\" for building a better world (of data, at least), one where information is clean and easily accessible; to achieve such goals is not easy, one should be strict but pragmatic, open-minded but skilled on troubles that are common when dealing with data. We are a multicultural team that loves collaboration, we are \"agile enough\" and, hard to believe, we all love data. If you are an independent data hacker who wants to work in a young and positive environment we want to hear from you!</p>\n\n<h3>Responsibilities</h3>\n\n<ul>\n\t<li>Exploit your awesome development techniques using your JS/CSS/HTML knowledge;</li>\n\t<li>Build and manage user-facing and internal products to serve large amount of information;</li>\n\t<li>Create browser-friendly, mobile-friendly solutions;</li>\n\t<li>Collaborate closely with the team to ship new functionalities.</li>\n</ul>\n\n<h3>Requirements</h3>\n\n<ul>\n\t<li>you have a B.S. or M.S. Computer Science or related field, or equivalent experience;</li>\n\t<li>you are a quick-thinker, a problem-solver, who feels comfortable in writing code;</li>\n\t<li>you are self-organized and willing to work in a fast-paced environment;</li>\n\t<li>you take code quality seriously: continuous integration, testing, code review, linters.</li>\n\t<li>very good knowledge of HTML5/CSS3</li>\n\t<li>you know javascript (<em>btw: having used Jquery in a few projects !== knowing Javascript</em>)</li>\n\t<li>you're a great team player</li>\n</ul>\n\n<h3>Nice-to-have</h3>\n\n<ul>\n\t<li>you are familiar with Python and Django;</li>\n\t<li>you *really* know javascript;</li>\n\t<li>you've heard of react, redux, D3, bootstrap, gulp, webpack, mocha, protractor</li>\n\t<li>you're familiar with responsive design and mobile-friendly;</li>\n\t<li>you're aware of quirks of modern and less modern browsers (including that one!);</li>\n\t<li>you like to test your code;</li>\n\t<li>you like to ship features along with tests at various levels (unit, integration, e2e)</li>\n\t<li>you would like to to learn, challenge yourself, improve and broaden your skill set</li>\n</ul>\n"
+field_job_location:
+  -
+    value: 'Trento or Pisa, Italy'
+    format: full_html
+    processed: 'Trento or Pisa, Italy'
+field_more_details_link:
+  -
+    uri: 'https://spaziodati.eu/en/jobs/frontend-developer/'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

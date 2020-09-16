@@ -1,0 +1,27 @@
+uuid: 0107481d-7530-425b-986a-ab286b6af153
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - eitalumni
+_core:
+  default_config_hash: 1TQP4b3ZnlzvIH9bj6cpCz_SyUHdJjLQkZnHpikjjhw
+id: eitalumni_page_title
+theme: eitalumni
+region: content
+weight: -11
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title general'
+  provider: core
+  label_display: '0'
+visibility:
+  request_path:
+    id: request_path
+    pages: '/users/*'
+    negate: true
+    context_mapping: {  }

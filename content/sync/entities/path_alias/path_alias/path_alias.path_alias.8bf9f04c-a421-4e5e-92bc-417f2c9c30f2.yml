@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8bf9f04c-a421-4e5e-92bc-417f2c9c30f2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/618
+alias:
+  -
+    value: /job/test-automation-consultant
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

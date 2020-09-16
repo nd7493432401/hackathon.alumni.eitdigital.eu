@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f15dcb41-46e9-49c4-b58f-0f12d4889065
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/45
+alias:
+  -
+    value: /users/sloslipho
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

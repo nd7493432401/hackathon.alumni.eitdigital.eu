@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: 54e07e64-bfb8-4520-ba2d-4239fca0490b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T10:37:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Front End Developer'
+created:
+  -
+    value: '2019-11-01T10:56:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-28T12:25:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/front-end-developer
+body: {  }
+field_apply_link:
+  -
+    uri: 'https://careers.microsoft.com/professionals/us/en/job/714527/Front-End-Developer'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Microsoft
+    format: full_html
+    processed: Microsoft
+field_expiration_date:
+  -
+    value: '2019-11-30T01:00:00+01:00'
+field_job_description:
+  -
+    value: "<p>Are you excited by the prospect of creating intuitive experiences that delight users? Do you like building services that will be used by hundreds of millions of users across the world? Microsoft Developer Center Norway is growing, and&nbsp;we’re&nbsp;looking for developers with a strong passion for building smart experiences that will be used on a global scale. Come join our team!&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Who we&nbsp;are&nbsp;</p>\r\n\r\n<p>Microsoft Developer Center Norway (MDCN), with offices in Oslo, Trondheim and Tromsø, is part of the Experiences &amp; Devices group within Microsoft. We work on integrating and building intelligent experiences across Office 365. Office 365 is the locomotive that is driving Microsoft forward, and consists of cloud services like Outlook, OneDrive, SharePoint, Skype&nbsp;and Microsoft Teams. This isn’t just any large web service; the implementation ranks among the world’s largest and most&nbsp;cutting edge&nbsp;distributed systems spanning 100s of data centers around the world, 100,000’s of servers and exabytes of data. The products are used by the majority of&nbsp;the Fortune 500 enterprises, key government organizations, thousands of non-profits and 100s of millions of consumers across the world.  &nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>To&nbsp;deliver on&nbsp;our&nbsp;mission&nbsp;to&nbsp;empower people and organizations to achieve more,&nbsp;we need&nbsp;to create beautiful and intuitive user experiences and are&nbsp;seeking a skilled&nbsp;front-end&nbsp;developer. We can offer an agile development team in Tromsø with diverse skills&nbsp;in&nbsp;front end,&nbsp;big data, reactive analytics,&nbsp;data science, machine learning&nbsp;and search technology&nbsp;to mention a few.&nbsp;The position&nbsp;is full-time and based in our Tromsø office.&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Responsibilities</p>\r\n\r\n<p>Work closely with your Program Management, Design and Engineering colleagues&nbsp;to implement the best possible user experience for our customers&nbsp;</p>\r\n\r\n<p>Work on some of the biggest web apps in Office 365 using JavaScript, TypeScript, React, React&nbsp;Native, HTML5&nbsp;and&nbsp;CSS to create engaging and beautiful product experiences&nbsp;</p>\r\n\r\n<p>Drive improvements in usability and interactivity&nbsp;</p>\r\n\r\n<p>Learn,&nbsp;grow&nbsp;and share your technical skills&nbsp;with&nbsp;rich opportunities to attend conferences&nbsp;</p>\r\n\r\n<p>Leverage best web development practices and follow the fast pace of the&nbsp;open source&nbsp;community</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Qualifications</p>\r\n\r\n<p>BS or MS in Computer Science or Software Engineering&nbsp;</p>\r\n\r\n<p>HTML, JavaScript, TypeScript, React&nbsp;and CSS&nbsp;</p>\r\n\r\n<p>Experience with software engineering best practices (e.g. unit testing&nbsp;and&nbsp;code reviews)&nbsp;</p>\r\n\r\n<p>Strong attention to detail and solid communication skills&nbsp;</p>\r\n\r\n<p>Thrives in dynamic, fast-paced environments where passion for customer engagement and great experience are at the forefront of all design &amp; development&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Are you excited by the prospect of creating intuitive experiences that delight users? Do you like building services that will be used by hundreds of millions of users across the world? Microsoft Developer Center Norway is growing, and\_we’re\_looking for developers with a strong passion for building smart experiences that will be used on a global scale. Come join our team!\_</p>\n\n<p>\_</p>\n\n<p>Who we\_are\_</p>\n\n<p>Microsoft Developer Center Norway (MDCN), with offices in Oslo, Trondheim and Tromsø, is part of the Experiences &amp; Devices group within Microsoft. We work on integrating and building intelligent experiences across Office 365. Office 365 is the locomotive that is driving Microsoft forward, and consists of cloud services like Outlook, OneDrive, SharePoint, Skype\_and Microsoft Teams. This isn’t just any large web service; the implementation ranks among the world’s largest and most\_cutting edge\_distributed systems spanning 100s of data centers around the world, 100,000’s of servers and exabytes of data. The products are used by the majority of\_the Fortune 500 enterprises, key government organizations, thousands of non-profits and 100s of millions of consumers across the world.  \_</p>\n\n<p>\_</p>\n\n<p>To\_deliver on\_our\_mission\_to\_empower people and organizations to achieve more,\_we need\_to create beautiful and intuitive user experiences and are\_seeking a skilled\_front-end\_developer. We can offer an agile development team in Tromsø with diverse skills\_in\_front end,\_big data, reactive analytics,\_data science, machine learning\_and search technology\_to mention a few.\_The position\_is full-time and based in our Tromsø office.\_</p>\n\n<p>\_</p>\n\n<p>Responsibilities</p>\n\n<p>Work closely with your Program Management, Design and Engineering colleagues\_to implement the best possible user experience for our customers\_</p>\n\n<p>Work on some of the biggest web apps in Office 365 using JavaScript, TypeScript, React, React\_Native, HTML5\_and\_CSS to create engaging and beautiful product experiences\_</p>\n\n<p>Drive improvements in usability and interactivity\_</p>\n\n<p>Learn,\_grow\_and share your technical skills\_with\_rich opportunities to attend conferences\_</p>\n\n<p>Leverage best web development practices and follow the fast pace of the\_open source\_community</p>\n\n<p>\_</p>\n\n<p>Qualifications</p>\n\n<p>BS or MS in Computer Science or Software Engineering\_</p>\n\n<p>HTML, JavaScript, TypeScript, React\_and CSS\_</p>\n\n<p>Experience with software engineering best practices (e.g. unit testing\_and\_code reviews)\_</p>\n\n<p>Strong attention to detail and solid communication skills\_</p>\n\n<p>Thrives in dynamic, fast-paced environments where passion for customer engagement and great experience are at the forefront of all design &amp; development\_</p>\n"
+field_job_location:
+  -
+    value: 'Tromsø, Norway'
+    format: full_html
+    processed: 'Tromsø, Norway'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

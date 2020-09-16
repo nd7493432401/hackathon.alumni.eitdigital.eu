@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ea1c7352-38eb-470d-b821-fca497c42552
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/364
+alias:
+  -
+    value: /job/ai-machine-learning-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

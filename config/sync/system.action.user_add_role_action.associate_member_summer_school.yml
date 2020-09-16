@@ -1,0 +1,14 @@
+uuid: a2804586-a0f2-44b1-a293-562d2ed0ccf8
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_summer_school
+  module:
+    - user
+id: user_add_role_action.associate_member_summer_school
+label: 'Add the Associate Member (Summer School) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: associate_member_summer_school

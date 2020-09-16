@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c0d010a7-39ee-40c9-be5f-9764f1cc8a03
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/550
+alias:
+  -
+    value: /job/software-engineer-data-processing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

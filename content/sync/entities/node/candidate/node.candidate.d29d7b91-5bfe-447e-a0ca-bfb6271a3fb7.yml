@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: d29d7b91-5bfe-447e-a0ca-bfb6271a3fb7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: candidate
+    target_type: node_type
+    target_uuid: 27dcf426-fa1b-4407-a605-5269d82f4f34
+revision_timestamp:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Francesco Bonadiman'
+created:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-07T08:53:14+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /candidate/francesco-bonadiman
+body: {  }
+field_candidate_motivation:
+  -
+    value: '<p>I have decided to apply for the position of President of the EIT Digital Alumni, since I would like to continue the impressive development our community has gone through in the past 300+ days. After serving for a whole year as Marketing &amp; Communications Officer, I''d love to have a chance to take the lead of our young environment and drive it to a further step. My vision is that - in a few years - we will not only be a group of "graduates of the educational programmes of EIT Digital", but a network of young and senior professionals who - for different reasons and at different times - crossed their paths with EIT Digital, and still want to be involved in the ecosystem, because they believe in its goal, understand its potential and know they could benefit from being part of it in an active and positive way.</p>'
+    format: full_html
+    processed: '<p>I have decided to apply for the position of President of the EIT Digital Alumni, since I would like to continue the impressive development our community has gone through in the past 300+ days. After serving for a whole year as Marketing &amp; Communications Officer, I''d love to have a chance to take the lead of our young environment and drive it to a further step. My vision is that - in a few years - we will not only be a group of "graduates of the educational programmes of EIT Digital", but a network of young and senior professionals who - for different reasons and at different times - crossed their paths with EIT Digital, and still want to be involved in the ecosystem, because they believe in its goal, understand its potential and know they could benefit from being part of it in an active and positive way.</p>'
+field_candidate_photo: {  }
+field_full_name:
+  -
+    value: 'Francesco Bonadiman'
+    format: full_html
+    processed: 'Francesco Bonadiman'
+field_position: {  }
+field_vision_for_the_community:
+  -
+    value: '<p>More concretely, I would like to:<br>1. further increase the bonds with the EIT Digital ecosystem and its partners and "friends", mainly targeting job-hunting / -seeking, and event co-creation;&nbsp;<br>2. strongly encourage "bottom-up" contribution from everybody - so that members could utilize the power of our community as a playground to experiment and launch new interesting initiatives;<br>3. continue the development of the website and the intranet, allowing our members to build on top of what we have and expand it further;<br>4. actively promote diversity within our community and support gender-equality initiatives (such as Women @EIT);<br>5. develop a program of 1-1 mentorship, to help younger members take important decisions during their careers, and provide life-long career support.</p>'
+    format: full_html
+    processed: "<p>More concretely, I would like to:<br />1. further increase the bonds with the EIT Digital ecosystem and its partners and \"friends\", mainly targeting job-hunting / -seeking, and event co-creation;\_<br />2. strongly encourage \"bottom-up\" contribution from everybody - so that members could utilize the power of our community as a playground to experiment and launch new interesting initiatives;<br />3. continue the development of the website and the intranet, allowing our members to build on top of what we have and expand it further;<br />4. actively promote diversity within our community and support gender-equality initiatives (such as Women @EIT);<br />5. develop a program of 1-1 mentorship, to help younger members take important decisions during their careers, and provide life-long career support.</p>"
+field_why_people_should_vote_for:
+  -
+    value: '<p>I am currently serving as MarComm Officer of the Board, therefore I already have first-hand experience in the way the Board works, which will help to smoothly continue develop the work-plan for our Community. I have co-organized the cross-KIC EIT Alumni Startup Days initiative both in 2015 and 2016 and supported the Women @EIT initiative since the beginning. I have always been an active member within the EIT (Digital) community, and represented it in a number of occasions (InnovEIT, Parliament, Climate-KIC / InnoEnergy Alumni meetups...).</p><p>I am also the President of another young tech-community in Trento (speckand.tech), therefore I have been developing leadership and public-relation skills in parallel. Moreover, I am a very methodical and result-oriented person, used to work in teams, with a deep love for technology and how this can (positively) influence human relationships and address social challenges.</p>'
+    format: full_html
+    processed: '<p>I am currently serving as MarComm Officer of the Board, therefore I already have first-hand experience in the way the Board works, which will help to smoothly continue develop the work-plan for our Community. I have co-organized the cross-KIC EIT Alumni Startup Days initiative both in 2015 and 2016 and supported the Women @EIT initiative since the beginning. I have always been an active member within the EIT (Digital) community, and represented it in a number of occasions (InnovEIT, Parliament, Climate-KIC / InnoEnergy Alumni meetups...).</p><p>I am also the President of another young tech-community in Trento (speckand.tech), therefore I have been developing leadership and public-relation skills in parallel. Moreover, I am a very methodical and result-oriented person, used to work in teams, with a deep love for technology and how this can (positively) influence human relationships and address social challenges.</p>'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

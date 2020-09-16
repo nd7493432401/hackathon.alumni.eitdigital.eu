@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bf05a2ce-ad87-4c82-a14e-5faddd1bf755
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/22
+alias:
+  -
+    value: /article/new-events-officer-wanted
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

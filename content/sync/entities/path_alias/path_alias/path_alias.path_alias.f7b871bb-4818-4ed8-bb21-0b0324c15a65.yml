@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f7b871bb-4818-4ed8-bb21-0b0324c15a65
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/472
+alias:
+  -
+    value: /job/junior-solution-architect-mfd
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

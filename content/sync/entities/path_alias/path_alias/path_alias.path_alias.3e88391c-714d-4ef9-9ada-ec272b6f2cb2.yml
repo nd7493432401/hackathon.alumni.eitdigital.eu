@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3e88391c-714d-4ef9-9ada-ec272b6f2cb2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/79
+alias:
+  -
+    value: /article/which-sexiest-city-startups-europe
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

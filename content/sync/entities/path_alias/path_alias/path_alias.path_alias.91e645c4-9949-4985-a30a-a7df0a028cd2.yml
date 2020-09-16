@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 91e645c4-9949-4985-a30a-a7df0a028cd2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/145
+alias:
+  -
+    value: /candidate/francesco-bonadiman
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

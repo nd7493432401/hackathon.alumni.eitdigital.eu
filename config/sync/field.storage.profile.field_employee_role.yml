@@ -1,0 +1,20 @@
+uuid: b86c2ff8-a9be-489a-a193-949ee56a134a
+langcode: en
+status: true
+dependencies:
+  module:
+    - profile
+    - text
+id: profile.field_employee_role
+field_name: field_employee_role
+entity_type: profile
+type: text
+settings:
+  max_length: 255
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

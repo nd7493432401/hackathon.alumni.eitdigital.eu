@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9c03b951-3f2b-46fe-af65-d273f2af9e99
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/316
+alias:
+  -
+    value: /job/security-research-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

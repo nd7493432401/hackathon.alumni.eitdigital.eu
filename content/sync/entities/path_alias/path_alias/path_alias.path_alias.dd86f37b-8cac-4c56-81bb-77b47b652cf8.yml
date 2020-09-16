@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dd86f37b-8cac-4c56-81bb-77b47b652cf8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/150
+alias:
+  -
+    value: /candidate/sai-kamat
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

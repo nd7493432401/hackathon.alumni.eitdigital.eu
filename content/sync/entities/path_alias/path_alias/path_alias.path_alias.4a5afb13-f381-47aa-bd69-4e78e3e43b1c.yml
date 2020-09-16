@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4a5afb13-f381-47aa-bd69-4e78e3e43b1c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/38
+alias:
+  -
+    value: /event-type/treasure-hunt
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

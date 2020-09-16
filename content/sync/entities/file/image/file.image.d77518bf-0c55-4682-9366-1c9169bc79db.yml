@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: d77518bf-0c55-4682-9366-1c9169bc79db
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: image
+    target_type: file_type
+    target_uuid: 4e8a8543-27c0-4202-8ab5-5b05c3d23a2c
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+filename:
+  -
+    value: stockholm_0.jpg
+uri:
+  -
+    value: 'public://alumni-group/stockholm_0.jpg'
+    url: /sites/default/files/alumni-group/stockholm_0.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 2132715
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-03-26T14:36:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-03-26T14:36:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_image_alt_text: {  }
+field_image_title_text: {  }
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

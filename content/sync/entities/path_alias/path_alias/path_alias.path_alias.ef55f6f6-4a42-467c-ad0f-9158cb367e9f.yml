@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ef55f6f6-4a42-467c-ad0f-9158cb367e9f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/482
+alias:
+  -
+    value: /job/senior-uxui-designer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

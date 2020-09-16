@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 79ab41a7-6837-48f9-a5e5-025f625c3bdf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:02:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Alumni Night in Budapest'
+created:
+  -
+    value: '2018-07-20T15:54:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:02:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/alumni-night-budapest
+body: {  }
+field_event_:
+  -
+    value: 'Impostor (located at the Liberty square, on the iconic MTV Building)'
+    format: full_html
+    processed: 'Impostor (located at the Liberty square, on the iconic MTV Building)'
+field_event_date:
+  -
+    value: '2018-07-24T16:00:00+02:00'
+    end_value: '2018-07-24T19:00:00+02:00'
+field_event_description:
+  -
+    value: "<p>Let’s have a dinner with the <a href=\"/node/284\">Summer School</a> colleagues. The goal is to share experiences about the alumni community and the Budapest environment with them.</p>\r\n\r\n<p>We will meet at <strong>19:00 at Impostor</strong> (located at the Liberty square, on the iconic MTV Building) for a pleasant dinner with a short presentation of the alumni community, after that we spread ourselves around the summer school students and go with the flow.</p>\r\n\r\n<p>Let’s grab some beers together and the ones who feel like, can continue to the Pontoon bar (15 minutes easy walk from Impostor) to enjoy a bit of the Danube Bank landscape and atmosphere.</p>\r\n\r\n<p>Please tell a colleague to tell a colleague to tell a colleague :)</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>/Charles, Istvan, Mark&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>Let’s have a dinner with the <a href=\"/node/284\">Summer School</a> colleagues. The goal is to share experiences about the alumni community and the Budapest environment with them.</p>\n\n<p>We will meet at <strong>19:00 at Impostor</strong> (located at the Liberty square, on the iconic MTV Building) for a pleasant dinner with a short presentation of the alumni community, after that we spread ourselves around the summer school students and go with the flow.</p>\n\n<p>Let’s grab some beers together and the ones who feel like, can continue to the Pontoon bar (15 minutes easy walk from Impostor) to enjoy a bit of the Danube Bank landscape and atmosphere.</p>\n\n<p>Please tell a colleague to tell a colleague to tell a colleague :)</p>\n\n<p>\_</p>\n\n<p>/Charles, Istvan, Mark\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 5d2fb151-a94a-4cb0-bfcc-94cf77571df3
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 5d2fb151-a94a-4cb0-bfcc-94cf77571df3
+field_event_introduction:
+  -
+    value: "<p>Let’s have a dinner with the Summer School colleagues.</p>\r\n"
+    format: full_html
+    processed: "<p>Let’s have a dinner with the Summer School colleagues.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: dba83d58-455f-4874-a6d2-b87e842c8311
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.5d2fb151-a94a-4cb0-bfcc-94cf77571df3
+    taxonomy_term:
+      - taxonomy_term.event_type.dba83d58-455f-4874-a6d2-b87e842c8311

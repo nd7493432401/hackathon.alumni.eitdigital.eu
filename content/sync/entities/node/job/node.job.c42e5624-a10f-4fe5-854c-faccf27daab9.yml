@@ -1,0 +1,82 @@
+uuid:
+  -
+    value: c42e5624-a10f-4fe5-854c-faccf27daab9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:46:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Junior Project Manager'
+created:
+  -
+    value: '2018-04-17T14:21:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-27T10:26:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/junior-project-manager
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:job@noovle.com'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Noovle
+    format: full_html
+    processed: Noovle
+field_expiration_date: {  }
+field_job_description:
+  -
+    value: "<div><a href=\"http://www.noovle.it/\">Noovle</a>, leading company in ICT Development and Digital Innovation Services in Italy, Google Cloud Premier Partner, is hiring for its Milan main branch a <strong>Junior Project Manager</strong>.</div>\r\n\r\n<div>The candidate will be employed in a team of skilled professionals, with the purpose of supporting senior colleagues in the management of projects related to system integration and custom developments.<br />\r\n&nbsp;</div>\r\n\r\n<div><strong>Main Tasks and Responsibilities</strong><br />\r\n&nbsp;</div>\r\n\r\n<div>● supporting senior Project Managers in the management of activities related to specific projects</div>\r\n\r\n<div>● mananging relationships with clients, vendors, operations, and third parties</div>\r\n\r\n<div>● accounting for activities and producing the necessary documentation and project reports</div>\r\n\r\n<div>● supervising the activities of the DEV team employed on the project<br />\r\n&nbsp;</div>\r\n\r\n<div><strong>Requirements</strong><br />\r\n&nbsp;</div>\r\n\r\n<div>● Bachelor’s degree in IT-related fields</div>\r\n\r\n<div>● 6 to 12 months of prior experience</div>\r\n\r\n<div>● Fluent English</div>\r\n\r\n<div>● Teamwork and working by objectives</div>\r\n\r\n<div>● Outstanding relational skills with clients and colleagues<br />\r\n&nbsp;</div>\r\n\r\n<div><strong>How to apply</strong></div>\r\n\r\n<div>Candidates can submit their resumè to job@noovle.com</div>\r\n"
+    format: full_html
+    processed: "<div><a href=\"http://www.noovle.it/\">Noovle</a>, leading company in ICT Development and Digital Innovation Services in Italy, Google Cloud Premier Partner, is hiring for its Milan main branch a <strong>Junior Project Manager</strong>.</div>\n\n<div>The candidate will be employed in a team of skilled professionals, with the purpose of supporting senior colleagues in the management of projects related to system integration and custom developments.<br />\n\_</div>\n\n<div><strong>Main Tasks and Responsibilities</strong><br />\n\_</div>\n\n<div>● supporting senior Project Managers in the management of activities related to specific projects</div>\n\n<div>● mananging relationships with clients, vendors, operations, and third parties</div>\n\n<div>● accounting for activities and producing the necessary documentation and project reports</div>\n\n<div>● supervising the activities of the DEV team employed on the project<br />\n\_</div>\n\n<div><strong>Requirements</strong><br />\n\_</div>\n\n<div>● Bachelor’s degree in IT-related fields</div>\n\n<div>● 6 to 12 months of prior experience</div>\n\n<div>● Fluent English</div>\n\n<div>● Teamwork and working by objectives</div>\n\n<div>● Outstanding relational skills with clients and colleagues<br />\n\_</div>\n\n<div><strong>How to apply</strong></div>\n\n<div>Candidates can submit their resumè to job@noovle.com</div>\n"
+field_job_location:
+  -
+    value: 'Milan, Italy'
+    format: full_html
+    processed: 'Milan, Italy'
+field_more_details_link: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

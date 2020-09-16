@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: a9d93033-876a-4977-aee7-02096361c9ab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T15:52:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'EIT Alumni Startup Days X Women@EIT'
+created:
+  -
+    value: '2019-09-15T19:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T15:52:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/eit-alumni-startup-days-x-womeneit
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC Stockholm'
+    format: full_html
+    processed: 'EIT Digital CLC Stockholm'
+field_event_date:
+  -
+    value: '2019-09-28T09:00:00+02:00'
+    end_value: '2019-09-28T19:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>EIT Alumni Startup Days is a flagship event of the <a href=\"https://eitalumni.eu/\">EIT Alumni</a>.&nbsp;Originally created in 2015, the EASD is a hackathon that brings together graduates, young professionals, entrepreneurs, and start-up enthusiasts from different fields of expertise under one roof to solve challenges faced by European society and industry. An integral part of these 12-hour hackathons is the partnership with key players in the European industry, who are invited to propose the challenge for the event and judge the winning solution.&nbsp;</p>\r\n\r\n<p><a href=\"https://www.facebook.com/womenatEIT/\">Women@EIT</a> is a community led by Alumni of the EIT, aiming at promoting and supporting women in entrepreneurship and technology.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>This year we have two excellent partners posing challenges:</p>\r\n\r\n<p><strong>Gleechi AB</strong><br />\r\n<a href=\"https://www.gleechi.com/\">Gleechi&nbsp;AB</a>&nbsp;develops software solutions to enable natural interaction between humans, computers and robots. They&nbsp;apply this to create the next generation of industry training and certification.&nbsp;Gleechi AB was founded in 2014 and has been awarded as The Super Startup of the year by Veckans Affärer, and was a winner of EIT DIGITAL Idea Challenge.</p>\r\n\r\n<p><strong>Afound</strong><br />\r\n<a href=\"https://www.afound.com/sv-se/dam\">Afound</a>&nbsp;is a new form of outlet that is part of the H&amp;M group, whose business idea is&nbsp;giving great fashion new life.&nbsp;Afound is a marketplace – a style and deal-hunting paradise – selling discounted fashion and lifestyle products, with both external and the H&amp;M group’s own brands.&nbsp;</p>\r\n\r\n<p>Two committed partners,&nbsp;two unique challenges, which one will you compete for?&nbsp;<br />\r\n<br />\r\n<a href=\"https://eitwomen.typeform.com/to/xT9pg3\"><strong>Please SIGNUP&nbsp;here</strong></a></p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    format: full_html
+    processed: "<p>EIT Alumni Startup Days is a flagship event of the <a href=\"https://eitalumni.eu/\">EIT Alumni</a>.\_Originally created in 2015, the EASD is a hackathon that brings together graduates, young professionals, entrepreneurs, and start-up enthusiasts from different fields of expertise under one roof to solve challenges faced by European society and industry. An integral part of these 12-hour hackathons is the partnership with key players in the European industry, who are invited to propose the challenge for the event and judge the winning solution.\_</p>\n\n<p><a href=\"https://www.facebook.com/womenatEIT/\">Women@EIT</a> is a community led by Alumni of the EIT, aiming at promoting and supporting women in entrepreneurship and technology.</p>\n\n<p>\_</p>\n\n<p>This year we have two excellent partners posing challenges:</p>\n\n<p><strong>Gleechi AB</strong><br />\n<a href=\"https://www.gleechi.com/\">Gleechi\_AB</a>\_develops software solutions to enable natural interaction between humans, computers and robots. They\_apply this to create the next generation of industry training and certification.\_Gleechi AB was founded in 2014 and has been awarded as The Super Startup of the year by Veckans Affärer, and was a winner of EIT DIGITAL Idea Challenge.</p>\n\n<p><strong>Afound</strong><br />\n<a href=\"https://www.afound.com/sv-se/dam\">Afound</a>\_is a new form of outlet that is part of the H&amp;M group, whose business idea is\_giving great fashion new life.\_Afound is a marketplace – a style and deal-hunting paradise – selling discounted fashion and lifestyle products, with both external and the H&amp;M group’s own brands.\_</p>\n\n<p>Two committed partners,\_two unique challenges, which one will you compete for?\_<br />\n<br />\n<a href=\"https://eitwomen.typeform.com/to/xT9pg3\"><strong>Please SIGNUP\_here</strong></a></p>\n\n<p>\_</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: 7e5ed0f6-f381-4b5a-958d-d1cdc0a6fa43
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: 7e5ed0f6-f381-4b5a-958d-d1cdc0a6fa43
+field_event_introduction:
+  -
+    value: "<p>A hackathon gathering graduates, young professionals, and entrepreneurs to create solutions for industrial challenges.</p>\r\n"
+    format: full_html
+    processed: "<p>A hackathon gathering graduates, young professionals, and entrepreneurs to create solutions for industrial challenges.</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 450d4e5b-4ae0-4259-98f5-eb0d365ceab4
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.7e5ed0f6-f381-4b5a-958d-d1cdc0a6fa43
+    taxonomy_term:
+      - taxonomy_term.event_type.450d4e5b-4ae0-4259-98f5-eb0d365ceab4

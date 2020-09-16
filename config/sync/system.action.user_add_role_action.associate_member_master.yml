@@ -1,0 +1,14 @@
+uuid: 921ea8b5-2d12-4950-af08-7b3bdbadf534
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.associate_member_master
+  module:
+    - user
+id: user_add_role_action.associate_member_master
+label: 'Add the Associate Member (Master) role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: associate_member_master

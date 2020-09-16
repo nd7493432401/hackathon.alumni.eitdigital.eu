@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1d9fbc7c-0328-4c19-a048-e3cb9de149d0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/165
+alias:
+  -
+    value: /event/eit-community-stammtisch
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,9 @@
+uuid: e9fe7418-1e36-49fc-a00b-79b9c230fca0
+langcode: en
+status: true
+dependencies: {  }
+id: associate_member_phd
+label: 'Associate Member (PHD)'
+weight: 7
+is_admin: null
+permissions: {  }

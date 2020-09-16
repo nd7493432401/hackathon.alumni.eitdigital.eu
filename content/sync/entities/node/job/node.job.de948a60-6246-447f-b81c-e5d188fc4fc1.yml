@@ -1,0 +1,88 @@
+uuid:
+  -
+    value: de948a60-6246-447f-b81c-e5d188fc4fc1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: job
+    target_type: node_type
+    target_uuid: 9e98b293-cda1-4b94-a10e-2223c398f4dc
+revision_timestamp:
+  -
+    value: '2020-04-23T12:38:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: false
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Business Developer for a VR startup'
+created:
+  -
+    value: '2017-09-02T13:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-03T09:41:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /job/business-developer-vr-startup
+body: {  }
+field_apply_link:
+  -
+    uri: 'mailto:George.Drettakis@inria.fr'
+    title: Apply
+    options: {  }
+field_company:
+  -
+    value: Graphdeco
+    format: full_html
+    processed: Graphdeco
+field_expiration_date:
+  -
+    value: '2017-11-02T02:00:00+01:00'
+field_job_description:
+  -
+    value: "<p><a href=\"https://team.inria.fr/graphdeco/\">Graphdeco</a>, a pre-startup from INRIA in maturation stage, is looking for a Business Developer to join its innovative team. We are an ambitious pre-startup with lofty goals and big plans for 2017. The future startup has a unique knowledge in transforming simple pictures into a 3D environment, which can be browsed in Virtual Reality mode.<br />\r\nThis role is ideal for someone who has the right mix of leadership, passion, energy, business savvy, entrepreneurial spirit, innovative nature, and a preferably a gamer.<br />\r\nThe Business Developer will have primary responsibility for developing the compagny’s business model almost from scratch: key target customers, customer needs and validation, distribution channel, revenue model. The ideal candidate wants to take on the challenge of <strong>starting up a company</strong>.</p>\r\n\r\n<p><br />\r\nResponsibilities:</p>\r\n\r\n<p>- Customer segments identification and validation,<br />\r\n- Customer needs validation,<br />\r\n- Revenue model definition,<br />\r\n- Distribution channels definition,<br />\r\n- Negotiation of Partnership,<br />\r\n- Develop short/long term company and product roadmap.</p>\r\n\r\n<p>Qualifications 2 profiles are accepted a Junior and a Senior one:<br />\r\n- Excellent leadership, negotiation, management, problem solving, and interpersonal skills.<br />\r\n- Exceptional oral and written communication skills in English.<br />\r\n-&nbsp;Fluent in French.</p>\r\n\r\n<p>For the senior profile, in addendum:</p>\r\n\r\n<p>- 5 years of junior and/or senior level management experience.<br />\r\n- Prior experience in sales and/or leadership efforts at a startup company, or other organization.<br />\r\n- Prior CEO/COO experience desired.<br />\r\n- 2+ years of strategic sales and marketing experience, ideally dealing with medical imagery.<br />\r\n- Experienced entrepreneur who has taken at least one startup from seed round all the way to an investor’s exit strategy is desired.</p>\r\n\r\n<p>Contract type:<br />\r\nCDD of 6 months first and then 9 extra months, funded by Inria in order to help launch the startup, the salary will depend on the salary scale of French research public service.</p>\r\n"
+    format: full_html
+    processed: "<p><a href=\"https://team.inria.fr/graphdeco/\">Graphdeco</a>, a pre-startup from INRIA in maturation stage, is looking for a Business Developer to join its innovative team. We are an ambitious pre-startup with lofty goals and big plans for 2017. The future startup has a unique knowledge in transforming simple pictures into a 3D environment, which can be browsed in Virtual Reality mode.<br />\nThis role is ideal for someone who has the right mix of leadership, passion, energy, business savvy, entrepreneurial spirit, innovative nature, and a preferably a gamer.<br />\nThe Business Developer will have primary responsibility for developing the compagny’s business model almost from scratch: key target customers, customer needs and validation, distribution channel, revenue model. The ideal candidate wants to take on the challenge of <strong>starting up a company</strong>.</p>\n\n<p><br />\nResponsibilities:</p>\n\n<p>- Customer segments identification and validation,<br />\n- Customer needs validation,<br />\n- Revenue model definition,<br />\n- Distribution channels definition,<br />\n- Negotiation of Partnership,<br />\n- Develop short/long term company and product roadmap.</p>\n\n<p>Qualifications 2 profiles are accepted a Junior and a Senior one:<br />\n- Excellent leadership, negotiation, management, problem solving, and interpersonal skills.<br />\n- Exceptional oral and written communication skills in English.<br />\n-\_Fluent in French.</p>\n\n<p>For the senior profile, in addendum:</p>\n\n<p>- 5 years of junior and/or senior level management experience.<br />\n- Prior experience in sales and/or leadership efforts at a startup company, or other organization.<br />\n- Prior CEO/COO experience desired.<br />\n- 2+ years of strategic sales and marketing experience, ideally dealing with medical imagery.<br />\n- Experienced entrepreneur who has taken at least one startup from seed round all the way to an investor’s exit strategy is desired.</p>\n\n<p>Contract type:<br />\nCDD of 6 months first and then 9 extra months, funded by Inria in order to help launch the startup, the salary will depend on the salary scale of French research public service.</p>\n"
+field_job_location:
+  -
+    value: 'Sophia-Antipolis, Nice'
+    format: full_html
+    processed: 'Sophia-Antipolis, Nice'
+field_more_details_link:
+  -
+    uri: 'mailto:guillene.ribiere@inria.fr'
+    title: 'More Details'
+    options: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a

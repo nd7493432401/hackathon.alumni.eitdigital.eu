@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5a24ee32-ca99-45a5-b078-e639ecca9ffe
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/514
+alias:
+  -
+    value: /job/various-positions
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

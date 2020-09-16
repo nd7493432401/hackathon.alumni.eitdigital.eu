@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: 5ae2ef63-3cb7-4879-b309-d8bf7b2b9291
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: 696bd8d4-a64f-4356-ad91-11e40455dd6f
+revision_timestamp:
+  -
+    value: '2020-05-05T14:28:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+title:
+  -
+    value: 'Women@EIT #4 - Perfect your pitch!'
+created:
+  -
+    value: '2017-04-23T14:22:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T14:28:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+ds_switch: {  }
+path:
+  -
+    alias: /event/womeneit-4-perfect-your-pitch
+body: {  }
+field_event_:
+  -
+    value: 'EIT Digital CLC Stockholm'
+    format: full_html
+    processed: 'EIT Digital CLC Stockholm'
+field_event_date:
+  -
+    value: '2017-05-03T13:30:00+02:00'
+    end_value: '2017-05-03T15:30:00+02:00'
+field_event_description:
+  -
+    value: "<p>Hey everyone,<br />\r\n<br />\r\nAre you ready for our 4th event?? We thought some pitching training could be useful for all of us EIT students and Alumni, that are always working on exciting new business cases! :)<br />\r\nOur special guest Anjali Virmani Paul, business coach at KTH Innovation, will join our community and give us guidelines and tips for perfecting our pitch. Practice session included!<br />\r\nAfter the work, we will get some well-deserved snacks and drinks and some time to mingle.<br />\r\n<br />\r\nIf you plan to attend our event, please <a href=\"https://goo.gl/forms/gx9FtuGKZfEYZHXL2\">fill out this form</a>, this will help us in preparing! Here the <a href=\"https://www.facebook.com/events/1101939969951548/\">Facebook event</a>.<br />\r\n<br />\r\nOn a side note: <strong>male attendants</strong> are as usual cordially welcome.<br />\r\nHope to see you all there!</p>\r\n"
+    format: full_html
+    processed: "<p>Hey everyone,<br />\n<br />\nAre you ready for our 4th event?? We thought some pitching training could be useful for all of us EIT students and Alumni, that are always working on exciting new business cases! :)<br />\nOur special guest Anjali Virmani Paul, business coach at KTH Innovation, will join our community and give us guidelines and tips for perfecting our pitch. Practice session included!<br />\nAfter the work, we will get some well-deserved snacks and drinks and some time to mingle.<br />\n<br />\nIf you plan to attend our event, please <a href=\"https://goo.gl/forms/gx9FtuGKZfEYZHXL2\">fill out this form</a>, this will help us in preparing! Here the <a href=\"https://www.facebook.com/events/1101939969951548/\">Facebook event</a>.<br />\n<br />\nOn a side note: <strong>male attendants</strong> are as usual cordially welcome.<br />\nHope to see you all there!</p>\n"
+field_event_duration: {  }
+field_event_image:
+  -
+    target_type: media
+    target_uuid: a760ec8d-d7a5-4736-aac1-3a541f816375
+field_event_intro_image:
+  -
+    target_type: media
+    target_uuid: a760ec8d-d7a5-4736-aac1-3a541f816375
+field_event_introduction:
+  -
+    value: "<p>We thought some pitching training could be useful for all of us EIT students and Alumni, that are always working on exciting new business cases!</p>\r\n"
+    format: full_html
+    processed: "<p>We thought some pitching training could be useful for all of us EIT students and Alumni, that are always working on exciting new business cases!</p>\n"
+field_event_type:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8338ce99-2940-448d-9e57-7618a26fc16d
+field_map: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    media:
+      - media.image.a760ec8d-d7a5-4736-aac1-3a541f816375
+    taxonomy_term:
+      - taxonomy_term.event_type.8338ce99-2940-448d-9e57-7618a26fc16d

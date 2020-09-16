@@ -1,0 +1,69 @@
+uuid:
+  -
+    value: 95758fca-6715-43b3-86fe-8eddda3a3da6
+langcode:
+  -
+    value: en
+bundle:
+  -
+    target_id: image
+    target_type: media_type
+    target_uuid: 25e6c4cf-9290-4598-a374-942dd3406ee3
+revision_created:
+  -
+    value: '2020-06-04T20:06:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 7a10687b-9aea-4694-8fbf-d354bafa749a
+name:
+  -
+    value: leuven-646032_1920.jpg
+thumbnail:
+  -
+    alt: Leuven
+    title: null
+    width: 1920
+    height: 1279
+    target_type: file
+    target_uuid: a82e9d2e-fd34-4bec-8d48-cc0264f3a2eb
+created:
+  -
+    value: '2020-05-05T08:17:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-05-05T08:17:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+field_media_image:
+  -
+    alt: Leuven
+    title: ''
+    width: 1920
+    height: 1279
+    target_type: file
+    target_uuid: a82e9d2e-fd34-4bec-8d48-cc0264f3a2eb
+_content_sync:
+  entity_type: media
+  entity_dependencies:
+    user:
+      - user.user.7a10687b-9aea-4694-8fbf-d354bafa749a
+    file:
+      - file.image.a82e9d2e-fd34-4bec-8d48-cc0264f3a2eb

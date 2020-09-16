@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 580aa2e9-d0ab-4db6-8658-47127013b1a2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/144
+alias:
+  -
+    value: /candidate/burak-kelginlioglu
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

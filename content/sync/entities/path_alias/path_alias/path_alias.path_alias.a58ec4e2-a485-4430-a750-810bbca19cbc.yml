@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a58ec4e2-a485-4430-a750-810bbca19cbc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/187
+alias:
+  -
+    value: /summer-schools/2019-munich-iot-platforms-industry-40
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

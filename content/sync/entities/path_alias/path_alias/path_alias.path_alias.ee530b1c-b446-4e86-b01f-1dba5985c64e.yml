@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ee530b1c-b446-4e86-b01f-1dba5985c64e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/555
+alias:
+  -
+    value: /job/rd-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

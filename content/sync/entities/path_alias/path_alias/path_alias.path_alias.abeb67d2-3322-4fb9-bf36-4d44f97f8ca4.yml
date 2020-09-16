@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: abeb67d2-3322-4fb9-bf36-4d44f97f8ca4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/557
+alias:
+  -
+    value: /job/mobile-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

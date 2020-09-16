@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 26d7f8de-9d08-4831-aa6c-c60bde863f0d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/471
+alias:
+  -
+    value: /job/graduate-trainee
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias
