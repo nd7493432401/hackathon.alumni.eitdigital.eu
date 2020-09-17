@@ -32,6 +32,7 @@ node_modules/
 # Ignore specific components of docker4drupal
 /docker-compose.override.yml
 /.env
+.docker-sync
 
 # Ignore the backup files
 /backup/*
