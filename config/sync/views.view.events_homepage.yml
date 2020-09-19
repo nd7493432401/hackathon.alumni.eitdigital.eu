@@ -240,7 +240,7 @@ display:
             suffix: ''
             target: ''
             nl2br: false
-            max_length: 0
+            max_length: 170
             word_boundary: true
             ellipsis: true
             more_link: false

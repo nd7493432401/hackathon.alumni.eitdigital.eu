@@ -12,6 +12,6 @@ name: Carousel
 type: carousel
 description: 'Homepage carousel item'
 help: ''
-new_revision: true
+new_revision: false
 preview_mode: 0
 display_submitted: false

@@ -52,12 +52,12 @@ filters:
     weight: 100
     settings:
       default_view_mode: default
+      allowed_view_modes:
+        default: default
       allowed_media_types:
         audio: audio
         document: document
         image: image
-      allowed_view_modes:
-        default: default
   entity_embed:
     id: entity_embed
     provider: entity_embed
