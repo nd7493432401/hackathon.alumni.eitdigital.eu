@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 457da89a-8198-47ac-937b-8f14666cc8a8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/698
+alias:
+  -
+    value: /group/helsinki-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

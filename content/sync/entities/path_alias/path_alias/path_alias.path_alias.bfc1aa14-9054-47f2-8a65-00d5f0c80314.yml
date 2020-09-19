@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: bfc1aa14-9054-47f2-8a65-00d5f0c80314
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/76
+alias:
+  -
+    value: /entry-universities/university-twente-twente-netherlands
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

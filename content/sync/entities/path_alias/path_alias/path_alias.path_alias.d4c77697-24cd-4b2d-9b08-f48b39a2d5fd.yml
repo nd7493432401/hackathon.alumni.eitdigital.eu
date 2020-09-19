@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d4c77697-24cd-4b2d-9b08-f48b39a2d5fd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/683
+alias:
+  -
+    value: /event/board-meeting
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

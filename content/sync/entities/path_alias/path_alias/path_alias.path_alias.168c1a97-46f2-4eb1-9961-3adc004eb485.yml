@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 168c1a97-46f2-4eb1-9961-3adc004eb485
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/41
+alias:
+  -
+    value: /event-type/mcaa-alumni
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

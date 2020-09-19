@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 37142b49-2f23-4a27-bed5-6d97408912df
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/675
+alias:
+  -
+    value: /event/eit-conference
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

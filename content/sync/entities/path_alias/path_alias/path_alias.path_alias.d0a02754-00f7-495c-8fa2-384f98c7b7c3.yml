@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d0a02754-00f7-495c-8fa2-384f98c7b7c3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/696
+alias:
+  -
+    value: /group/budapest-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

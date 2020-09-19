@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: c9d0ac31-dc86-426e-959b-f7f366d7985a
+hash:
+  -
+    value: hR9nDA1svnuTt64Dtp06wa1R-l1lSWaoeO3ENWIY3fM
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: group/cogo-immitto-vereor
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/695'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T12:43:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a237e9d3-aa84-4892-ba79-a7029f53b84a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/149
+alias:
+  -
+    value: /summer-schools/2018-trento-cybersecurity-and-privacy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

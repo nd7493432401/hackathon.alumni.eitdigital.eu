@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0936e17a-b6c2-4885-a02c-a90321f94350
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/123
+alias:
+  -
+    value: /exit-universities/polimi-polytechnic-university-milan-milano-italy
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

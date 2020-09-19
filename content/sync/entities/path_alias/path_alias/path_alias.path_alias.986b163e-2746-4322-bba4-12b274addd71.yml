@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 986b163e-2746-4322-bba4-12b274addd71
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/66
+alias:
+  -
+    value: /entry-universities/university-nice-sophia-antipolis-nice-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

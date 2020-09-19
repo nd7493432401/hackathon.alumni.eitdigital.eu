@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5b58eb07-586f-49a3-8ee1-4f1eb4aede52
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/703
+alias:
+  -
+    value: /group/paris-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

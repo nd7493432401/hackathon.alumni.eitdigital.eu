@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3de59b59-cbac-45b2-ac8e-f567fc21296e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/27
+alias:
+  -
+    value: /event-type/womeneit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

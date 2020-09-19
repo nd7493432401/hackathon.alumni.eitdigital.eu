@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ee7edd68-9232-4e4f-b8b2-fd7731a267b4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/88
+alias:
+  -
+    value: /event-type/cyber-week
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

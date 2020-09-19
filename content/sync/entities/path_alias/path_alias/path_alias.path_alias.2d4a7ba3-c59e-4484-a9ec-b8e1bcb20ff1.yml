@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2d4a7ba3-c59e-4484-a9ec-b8e1bcb20ff1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/682
+alias:
+  -
+    value: /event/hackathon
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

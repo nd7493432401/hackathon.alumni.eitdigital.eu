@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e88879a4-2a0d-4b46-8a95-c44153bfeb35
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/694
+alias:
+  -
+    value: /group/london-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

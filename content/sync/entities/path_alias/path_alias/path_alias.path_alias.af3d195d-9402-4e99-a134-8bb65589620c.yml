@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: af3d195d-9402-4e99-a134-8bb65589620c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/669
+alias:
+  -
+    value: /article/mos-pertineo-rusticus
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

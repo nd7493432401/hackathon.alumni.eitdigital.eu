@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 30c10749-5dd7-46e9-855b-7e52639496e8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/74
+alias:
+  -
+    value: /entry-universities/ups-universite-paris-sud-paris-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

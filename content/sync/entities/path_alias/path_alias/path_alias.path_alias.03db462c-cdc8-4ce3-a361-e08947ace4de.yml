@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 03db462c-cdc8-4ce3-a361-e08947ace4de
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/9
+alias:
+  -
+    value: /users/gicrefr
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

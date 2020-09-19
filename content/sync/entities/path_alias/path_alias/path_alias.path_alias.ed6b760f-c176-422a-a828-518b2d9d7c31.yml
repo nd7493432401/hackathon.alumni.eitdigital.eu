@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ed6b760f-c176-422a-a828-518b2d9d7c31
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/166
+alias:
+  -
+    value: /summer-schools/2017-eindhoven-independent-living-and-long-term-care
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

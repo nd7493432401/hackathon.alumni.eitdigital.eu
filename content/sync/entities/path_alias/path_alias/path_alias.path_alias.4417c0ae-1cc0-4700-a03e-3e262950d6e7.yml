@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4417c0ae-1cc0-4700-a03e-3e262950d6e7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/667
+alias:
+  -
+    value: /article/ex-odio-oppeto
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

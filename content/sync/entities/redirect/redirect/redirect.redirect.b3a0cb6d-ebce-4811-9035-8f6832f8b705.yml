@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: b3a0cb6d-ebce-4811-9035-8f6832f8b705
+hash:
+  -
+    value: Zf-UIpJr9pdyGwqH7AIUYFbZNOfQKiivxuz7k6xnKSY
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: eros-sit
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/692'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T13:22:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

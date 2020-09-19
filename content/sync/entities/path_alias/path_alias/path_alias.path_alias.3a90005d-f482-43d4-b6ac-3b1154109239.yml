@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3a90005d-f482-43d4-b6ac-3b1154109239
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/199
+alias:
+  -
+    value: /summer-schools/2014-stockholmkarlsruhe-smart-energy-systems
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

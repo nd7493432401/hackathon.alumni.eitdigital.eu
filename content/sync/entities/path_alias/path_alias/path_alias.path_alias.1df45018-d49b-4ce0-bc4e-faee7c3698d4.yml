@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1df45018-d49b-4ce0-bc4e-faee7c3698d4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/677
+alias:
+  -
+    value: /event/local-representatives-gathering
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

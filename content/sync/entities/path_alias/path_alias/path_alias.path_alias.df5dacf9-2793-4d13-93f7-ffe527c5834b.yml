@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: df5dacf9-2793-4d13-93f7-ffe527c5834b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/112
+alias:
+  -
+    value: /exit-universities/delft-university-technology-delft-netherlands
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

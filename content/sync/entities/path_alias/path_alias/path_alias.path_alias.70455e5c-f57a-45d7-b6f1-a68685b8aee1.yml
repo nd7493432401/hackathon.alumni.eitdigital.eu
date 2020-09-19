@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 70455e5c-f57a-45d7-b6f1-a68685b8aee1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/208
+alias:
+  -
+    value: /tracks-master-school/cloud-and-network-infrastructures-cni
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

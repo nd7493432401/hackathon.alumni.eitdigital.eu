@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a32e4a87-d948-447f-b257-07080686c0e1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/120
+alias:
+  -
+    value: /exit-universities/university-rennes-1-rennes-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

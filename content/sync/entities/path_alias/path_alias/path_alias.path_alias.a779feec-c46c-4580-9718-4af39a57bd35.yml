@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a779feec-c46c-4580-9718-4af39a57bd35
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/68
+alias:
+  -
+    value: /entry-universities/bme-budapest-university-technology-and-economics-budapest-hungary
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

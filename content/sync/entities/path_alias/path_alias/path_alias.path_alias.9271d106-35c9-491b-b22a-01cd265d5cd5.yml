@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9271d106-35c9-491b-b22a-01cd265d5cd5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/142
+alias:
+  -
+    value: /question-tags/design
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

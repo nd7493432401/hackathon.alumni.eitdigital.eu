@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: db5f565e-301d-4960-885c-f53c71e168dc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/5
+alias:
+  -
+    value: /event-type/talk-social-gathering-company-visit-shared-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

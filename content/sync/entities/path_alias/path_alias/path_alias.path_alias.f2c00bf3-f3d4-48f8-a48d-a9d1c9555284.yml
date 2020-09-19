@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f2c00bf3-f3d4-48f8-a48d-a9d1c9555284
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/144
+alias:
+  -
+    value: /summer-schools/2015-stockholm-cyber-physical-systems
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

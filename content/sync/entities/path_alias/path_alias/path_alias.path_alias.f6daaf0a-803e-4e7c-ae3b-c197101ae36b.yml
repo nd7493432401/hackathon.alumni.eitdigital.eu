@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f6daaf0a-803e-4e7c-ae3b-c197101ae36b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/664
+alias:
+  -
+    value: /article/validus
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

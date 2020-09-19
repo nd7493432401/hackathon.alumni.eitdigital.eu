@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 115bf89f-7162-4b81-99c1-02747da4a81b
+hash:
+  -
+    value: uouEIFreKnbP6u6Ucy26pL0hd8zW4tC0P_oor31xpbk
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: event/facilisi-loquor
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/675'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T12:04:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

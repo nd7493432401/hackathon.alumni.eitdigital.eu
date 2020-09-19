@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6b7de3c5-7659-4224-80c4-1ef860e04fee
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/683
+alias:
+  -
+    value: /node-683-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

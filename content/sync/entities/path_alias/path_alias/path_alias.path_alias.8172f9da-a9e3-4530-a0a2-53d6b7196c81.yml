@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8172f9da-a9e3-4530-a0a2-53d6b7196c81
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/4
+alias:
+  -
+    value: /event-type/local-reps-gathering
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

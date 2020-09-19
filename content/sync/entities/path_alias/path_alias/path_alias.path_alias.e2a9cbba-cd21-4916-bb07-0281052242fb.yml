@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e2a9cbba-cd21-4916-bb07-0281052242fb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/17
+alias:
+  -
+    value: /event-type/workshop
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a9dcda4a-7a5c-4f63-9dd7-ebe7a844d0e9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/54
+alias:
+  -
+    value: /doctoral-training-centre-dtc/dtc-helsinki
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

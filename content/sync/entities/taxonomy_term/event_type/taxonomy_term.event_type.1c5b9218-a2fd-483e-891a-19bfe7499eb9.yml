@@ -44,7 +44,7 @@ revision_translation_affected:
     value: true
 path:
   -
-    alias: /event-type/kickoff
+    alias: /event-type/bootcamp
 depth_level:
   -
     value: 1

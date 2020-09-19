@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c2bda5ee-2dfe-40ad-96d1-3b39c4628472
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/164
+alias:
+  -
+    value: /summer-schools/2017-nice-urban-mobility-safety-and-exploration
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

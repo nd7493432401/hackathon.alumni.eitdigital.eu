@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8434df0f-9749-4609-93af-ab87f828ac18
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/678
+alias:
+  -
+    value: /event/networking
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

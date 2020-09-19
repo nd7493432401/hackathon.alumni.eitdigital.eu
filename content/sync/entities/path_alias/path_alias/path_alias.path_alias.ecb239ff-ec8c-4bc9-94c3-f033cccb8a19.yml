@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ecb239ff-ec8c-4bc9-94c3-f033cccb8a19
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/205
+alias:
+  -
+    value: /tracks-master-school/internet-technology-and-architecture-ita
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

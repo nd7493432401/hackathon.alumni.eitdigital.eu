@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 600ac848-4317-4186-83d5-1c64bd8aa0a2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/104
+alias:
+  -
+    value: /exit-universities/tu-darmstadt-darmstadt-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

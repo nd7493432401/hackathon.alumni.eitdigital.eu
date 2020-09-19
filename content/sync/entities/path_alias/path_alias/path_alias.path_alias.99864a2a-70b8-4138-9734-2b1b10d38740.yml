@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 99864a2a-70b8-4138-9734-2b1b10d38740
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/686
+alias:
+  -
+    value: /node-686-carousel
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

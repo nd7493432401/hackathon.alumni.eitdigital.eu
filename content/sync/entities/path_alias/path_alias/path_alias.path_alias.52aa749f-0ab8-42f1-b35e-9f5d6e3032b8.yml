@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 52aa749f-0ab8-42f1-b35e-9f5d6e3032b8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/219
+alias:
+  -
+    value: /tracks-master-school/security-and-privacy-sap
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

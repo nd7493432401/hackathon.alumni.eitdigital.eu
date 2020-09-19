@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 52f97dbe-1481-4d3b-84d4-018672c0c745
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/666
+alias:
+  -
+    value: /article/jus-pertineo-tamen-volutpat
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

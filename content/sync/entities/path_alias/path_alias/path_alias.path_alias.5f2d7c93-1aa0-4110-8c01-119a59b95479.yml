@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 5f2d7c93-1aa0-4110-8c01-119a59b95479
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/672
+alias:
+  -
+    value: /article/cui-quadrum-quidne-vereor
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f45ef10a-22cf-4510-a957-a198c0ccc995
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/82
+alias:
+  -
+    value: /entry-year/2016
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

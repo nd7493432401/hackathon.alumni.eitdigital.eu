@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3669cc43-59a8-4fbf-8161-d8b3348cb3e3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/12
+alias:
+  -
+    value: /event-type/meetup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

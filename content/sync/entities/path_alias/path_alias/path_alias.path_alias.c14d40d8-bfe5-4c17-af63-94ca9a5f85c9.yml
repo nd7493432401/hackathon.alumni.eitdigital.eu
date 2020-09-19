@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c14d40d8-bfe5-4c17-af63-94ca9a5f85c9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/55
+alias:
+  -
+    value: /doctoral-training-centre-dtc/dtc-budapest
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

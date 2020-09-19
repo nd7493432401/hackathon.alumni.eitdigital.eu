@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 617d1136-bd52-43d4-944d-d483ecbd8b85
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/124
+alias:
+  -
+    value: /exit-universities/universite-pierre-et-marie-curie-paris-france
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

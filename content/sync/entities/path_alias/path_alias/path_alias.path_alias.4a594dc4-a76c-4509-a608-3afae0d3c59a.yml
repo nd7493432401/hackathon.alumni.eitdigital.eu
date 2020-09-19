@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4a594dc4-a76c-4509-a608-3afae0d3c59a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/46
+alias:
+  -
+    value: /alumni-group-type/local-communities
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

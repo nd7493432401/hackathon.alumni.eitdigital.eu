@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d578b506-9525-4449-8bb0-22d20cc18a93
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/138
+alias:
+  -
+    value: /local-representative/paris-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

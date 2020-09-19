@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 98bbdbd1-16d8-48b2-a473-8447a43521cc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/21
+alias:
+  -
+    value: /event-type/graduation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

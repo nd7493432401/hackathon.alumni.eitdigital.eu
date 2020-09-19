@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4cc43822-1185-4c68-b3c6-10f9fe029886
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/47
+alias:
+  -
+    value: /alumni-group-type/working-groups
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

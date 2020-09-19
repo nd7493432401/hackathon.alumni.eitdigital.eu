@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: cad075b3-06b5-4346-9005-235c15853b28
+hash:
+  -
+    value: QbCiavRj10M0yAqxsY7G4NFj_5qT7H3tun-Tg5x3ti4
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: patria-virtus
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/690'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T13:20:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3eb204cd-1fe7-4ea5-bba1-e6994d018978
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/665
+alias:
+  -
+    value: /article/brevitas-jus-nutus
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 187603e3-2b38-4bbd-81c6-584d151277c1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/165
+alias:
+  -
+    value: /summer-schools/2018-helsinki-retail-markets-consumer-engagement
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

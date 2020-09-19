@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 556aef44-368c-4993-a01e-b71d9a52407f
+hash:
+  -
+    value: SsKEadSJ2iiy6vJ9nG4kFrb6pXSTmOovLGClLBPm65w
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: dolor-vulpes
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/691'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T13:23:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

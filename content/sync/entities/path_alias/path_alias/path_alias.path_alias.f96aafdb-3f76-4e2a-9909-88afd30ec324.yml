@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f96aafdb-3f76-4e2a-9909-88afd30ec324
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/97
+alias:
+  -
+    value: /exit-year/2014
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 160f54b5-b03d-4ef5-8719-02c3f5e03d0e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/218
+alias:
+  -
+    value: /tracks-master-school/cloud-computing-and-services-ccs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

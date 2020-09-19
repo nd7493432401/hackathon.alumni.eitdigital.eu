@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0cc6507e-063c-4fef-9c14-03112e507ee7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/33
+alias:
+  -
+    value: /event-type/eit-alumni-connect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

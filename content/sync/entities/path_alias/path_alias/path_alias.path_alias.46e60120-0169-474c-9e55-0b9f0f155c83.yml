@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 46e60120-0169-474c-9e55-0b9f0f155c83
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/702
+alias:
+  -
+    value: /group/berlin-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

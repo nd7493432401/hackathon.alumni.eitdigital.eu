@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: dc46dfad-c34f-4661-a97b-fc11154455f9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/130
+alias:
+  -
+    value: /local-representative/london-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

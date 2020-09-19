@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 095d26e5-4a6b-4803-bb3e-cef5ccc14b8a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/678
+alias:
+  -
+    value: /node-678-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 86877234-3c5d-46d0-aad7-28194d38bd5c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/135
+alias:
+  -
+    value: /local-representative/annual-meeting-2020-group
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

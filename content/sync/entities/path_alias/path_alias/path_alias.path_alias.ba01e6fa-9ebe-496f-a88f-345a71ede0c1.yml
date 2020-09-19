@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ba01e6fa-9ebe-496f-a88f-345a71ede0c1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/11
+alias:
+  -
+    value: /users/mawrimi
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

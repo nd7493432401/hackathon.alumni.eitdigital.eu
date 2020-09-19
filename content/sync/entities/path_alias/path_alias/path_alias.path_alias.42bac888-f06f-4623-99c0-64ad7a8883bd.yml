@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 42bac888-f06f-4623-99c0-64ad7a8883bd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/659
+alias:
+  -
+    value: /article/dignissim-sino-utrum
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

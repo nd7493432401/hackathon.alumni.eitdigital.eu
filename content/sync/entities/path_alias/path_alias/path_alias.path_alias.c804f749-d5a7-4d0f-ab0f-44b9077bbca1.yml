@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c804f749-d5a7-4d0f-ab0f-44b9077bbca1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/661
+alias:
+  -
+    value: /article/abico-diam-gravis
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

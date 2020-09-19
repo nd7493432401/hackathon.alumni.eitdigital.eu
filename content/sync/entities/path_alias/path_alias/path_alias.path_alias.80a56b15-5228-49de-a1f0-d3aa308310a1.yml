@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 80a56b15-5228-49de-a1f0-d3aa308310a1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/681
+alias:
+  -
+    value: /event/master-graduation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

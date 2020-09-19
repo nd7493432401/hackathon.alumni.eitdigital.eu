@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 506b8c47-8c9c-4d4e-8d00-46ec9c62848c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/126
+alias:
+  -
+    value: /local-representative/budapest-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2ac485b0-d322-4e08-b3b6-e9b6d0297ca4
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/14
+alias:
+  -
+    value: /event-type/bootcamp
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

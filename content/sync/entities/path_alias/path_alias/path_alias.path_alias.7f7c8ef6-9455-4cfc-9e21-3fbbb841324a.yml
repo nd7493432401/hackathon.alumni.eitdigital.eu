@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7f7c8ef6-9455-4cfc-9e21-3fbbb841324a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/679
+alias:
+  -
+    value: /event/alumni-summit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

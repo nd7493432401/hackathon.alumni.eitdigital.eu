@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e70a7005-c482-4d21-a566-2124356d0e7e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/663
+alias:
+  -
+    value: /article/consectetuer-facilisis
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

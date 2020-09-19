@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 22a21de7-2e37-47e3-8ac5-2af78b4315bc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/115
+alias:
+  -
+    value: /exit-universities/utu-university-turku-turku-finland
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

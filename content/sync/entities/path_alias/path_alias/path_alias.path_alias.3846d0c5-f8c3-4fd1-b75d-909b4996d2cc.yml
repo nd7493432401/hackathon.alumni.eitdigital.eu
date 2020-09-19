@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3846d0c5-f8c3-4fd1-b75d-909b4996d2cc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/667
+alias:
+  -
+    value: /node-667-article
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

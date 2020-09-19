@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 768d53a4-2314-44a3-92d8-31f0e3b67ff2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/662
+alias:
+  -
+    value: /article/distineo-eros-veniam-volutpat
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

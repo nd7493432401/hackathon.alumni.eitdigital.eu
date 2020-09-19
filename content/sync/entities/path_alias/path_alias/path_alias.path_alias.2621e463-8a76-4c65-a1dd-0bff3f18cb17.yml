@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2621e463-8a76-4c65-a1dd-0bff3f18cb17
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/141
+alias:
+  -
+    value: /question-tags/graduation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

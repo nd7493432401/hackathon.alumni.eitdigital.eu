@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f3124d3f-f79b-40be-b4d0-23af42cddccf
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/22
+alias:
+  -
+    value: /event-type/picnic
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

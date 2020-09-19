@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4c728ba2-fc02-47e9-af42-8606fd3aa967
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/30
+alias:
+  -
+    value: /event-type/talk-social-gathering
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

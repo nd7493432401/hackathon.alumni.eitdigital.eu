@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8f024228-55a8-422e-a4cf-1980b55de300
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/700
+alias:
+  -
+    value: /group/usa-local-community
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

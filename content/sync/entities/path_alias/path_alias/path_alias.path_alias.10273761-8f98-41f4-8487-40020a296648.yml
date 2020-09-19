@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 10273761-8f98-41f4-8487-40020a296648
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/180
+alias:
+  -
+    value: /summer-schools/2019-rennes-unleashing-power-data-better-cities
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

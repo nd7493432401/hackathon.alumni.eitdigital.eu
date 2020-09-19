@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 57087c88-4b6a-41d2-befe-89706f78764c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/705
+alias:
+  -
+    value: /node-705-group
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

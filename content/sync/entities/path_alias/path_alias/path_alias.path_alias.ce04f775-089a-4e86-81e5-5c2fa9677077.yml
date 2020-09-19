@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ce04f775-089a-4e86-81e5-5c2fa9677077
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/711
+alias:
+  -
+    value: /event-guidelines-tools
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

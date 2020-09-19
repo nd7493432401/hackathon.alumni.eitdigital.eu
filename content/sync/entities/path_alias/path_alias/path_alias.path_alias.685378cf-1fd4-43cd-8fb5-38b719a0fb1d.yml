@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 685378cf-1fd4-43cd-8fb5-38b719a0fb1d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/106
+alias:
+  -
+    value: /exit-universities/upm-universidad-politecnica-de-madrid-madrid-spain
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

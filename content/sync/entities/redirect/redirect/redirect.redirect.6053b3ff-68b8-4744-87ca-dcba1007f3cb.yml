@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 6053b3ff-68b8-4744-87ca-dcba1007f3cb
+hash:
+  -
+    value: ewhDTSAMUj7hen-X2tR0HKGS1hzDk1h3C1MmEAJTgN4
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: luctus-macto-natu-usitas
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/689'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T13:28:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

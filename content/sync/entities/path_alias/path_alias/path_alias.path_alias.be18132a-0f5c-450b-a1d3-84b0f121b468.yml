@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: be18132a-0f5c-450b-a1d3-84b0f121b468
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/89
+alias:
+  -
+    value: /event-type/summit
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

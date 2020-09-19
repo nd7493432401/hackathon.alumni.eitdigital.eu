@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 00516a62-2e82-4819-a54a-1c881d82df9e
+hash:
+  -
+    value: 4wrQEsbjfpM4qHmp8-QGXVpSn76qnaCI30CE-hKT9KI
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: group/decet-ideo-jus-paulatim
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/696'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T12:42:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

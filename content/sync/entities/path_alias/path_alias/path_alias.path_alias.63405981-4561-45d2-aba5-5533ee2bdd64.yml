@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 63405981-4561-45d2-aba5-5533ee2bdd64
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/676
+alias:
+  -
+    value: /event/startup-contect
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

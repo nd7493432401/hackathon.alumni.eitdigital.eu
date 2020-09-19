@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d8db2662-6d0d-4731-9506-599bce6a2ceb
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/181
+alias:
+  -
+    value: /summer-schools/2019-helsinki-disrupting-retail-digitalisation-growth-and-user-engagement
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

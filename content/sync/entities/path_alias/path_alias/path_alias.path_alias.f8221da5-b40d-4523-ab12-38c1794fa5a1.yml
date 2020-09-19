@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f8221da5-b40d-4523-ab12-38c1794fa5a1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/676
+alias:
+  -
+    value: /node-676-event
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

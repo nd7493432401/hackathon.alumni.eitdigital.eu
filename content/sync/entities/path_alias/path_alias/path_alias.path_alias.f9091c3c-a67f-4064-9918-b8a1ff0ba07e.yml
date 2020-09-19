@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f9091c3c-a67f-4064-9918-b8a1ff0ba07e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/671
+alias:
+  -
+    value: /article/veniam
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

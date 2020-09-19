@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b7996ba7-a52f-4dad-a71a-5d9d26f27cf2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/214
+alias:
+  -
+    value: /tracks-master-school/service-design-and-engineering-sde
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 479026ff-7e39-44d9-bbb7-5e2bf720bf7e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/39
+alias:
+  -
+    value: /event-type/welcome-day
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

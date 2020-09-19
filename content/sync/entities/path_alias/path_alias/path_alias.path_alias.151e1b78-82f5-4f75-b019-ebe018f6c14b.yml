@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 151e1b78-82f5-4f75-b019-ebe018f6c14b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/119
+alias:
+  -
+    value: /exit-universities/tu-berlin-berlin-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

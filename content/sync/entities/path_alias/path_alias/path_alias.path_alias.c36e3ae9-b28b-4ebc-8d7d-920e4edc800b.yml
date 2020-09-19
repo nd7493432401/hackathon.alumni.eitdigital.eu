@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c36e3ae9-b28b-4ebc-8d7d-920e4edc800b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/1
+alias:
+  -
+    value: /article-categories/community-news
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

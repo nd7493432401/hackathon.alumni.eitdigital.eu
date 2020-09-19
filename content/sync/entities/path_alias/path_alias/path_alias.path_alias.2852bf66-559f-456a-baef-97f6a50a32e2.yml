@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2852bf66-559f-456a-baef-97f6a50a32e2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/125
+alias:
+  -
+    value: /exit-universities/tu-eindhoven-eindhoven-netherlands
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

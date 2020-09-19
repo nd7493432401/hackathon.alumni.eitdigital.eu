@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b7435810-9d59-4257-86ee-ceb4b82c479e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/173
+alias:
+  -
+    value: /summer-schools/2016-paris-urban-life-and-mobility
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

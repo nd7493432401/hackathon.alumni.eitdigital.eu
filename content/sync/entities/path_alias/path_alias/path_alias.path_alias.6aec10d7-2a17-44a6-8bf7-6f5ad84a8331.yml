@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6aec10d7-2a17-44a6-8bf7-6f5ad84a8331
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /taxonomy/term/158
+alias:
+  -
+    value: /summer-schools/2019-trento-digital-cities-infrastructures-smart-mobility
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

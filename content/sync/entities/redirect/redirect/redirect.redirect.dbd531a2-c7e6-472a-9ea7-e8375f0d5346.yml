@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: dbd531a2-c7e6-472a-9ea7-e8375f0d5346
+hash:
+  -
+    value: 5DAsJ7jCl69jQqe-sV2xNufFQojxQRQ_Bjr_Upk_96w
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: event/accumsan-nostrud
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/676'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-19T12:00:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

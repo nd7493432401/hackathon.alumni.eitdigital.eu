@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 831cf33c-f09a-446f-bef0-9c5580c8fc83
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/668
+alias:
+  -
+    value: /article/conventio-virtus
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

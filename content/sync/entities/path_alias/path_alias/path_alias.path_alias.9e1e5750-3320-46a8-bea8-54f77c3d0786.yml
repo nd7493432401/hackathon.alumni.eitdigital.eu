@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9e1e5750-3320-46a8-bea8-54f77c3d0786
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /webform/contact/confirmation
+alias:
+  -
+    value: /form/contact/confirmation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias
