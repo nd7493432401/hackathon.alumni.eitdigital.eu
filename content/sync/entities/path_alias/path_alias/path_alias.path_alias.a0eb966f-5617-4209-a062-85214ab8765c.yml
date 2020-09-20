@@ -9,7 +9,7 @@ path:
     value: /taxonomy/term/16
 alias:
   -
-    value: /event-type/workshop
+    value: /event-type/hackathon-0
 status:
   -
     value: true

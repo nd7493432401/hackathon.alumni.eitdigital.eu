@@ -9,7 +9,7 @@ path:
     value: /taxonomy/term/14
 alias:
   -
-    value: /event-type/talk
+    value: /event-type/bootcamp-0
 status:
   -
     value: true

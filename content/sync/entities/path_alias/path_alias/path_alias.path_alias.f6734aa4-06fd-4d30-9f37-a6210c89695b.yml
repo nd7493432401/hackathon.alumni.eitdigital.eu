@@ -9,7 +9,7 @@ path:
     value: /taxonomy/term/10
 alias:
   -
-    value: /event-type/talkdiscussion-forum
+    value: /event-type/slush-0
 status:
   -
     value: true

@@ -9,7 +9,7 @@ path:
     value: /node/713
 alias:
   -
-    value: /group/eit-kicouchsurfing-0
+    value: /group/eit-kicouchsurfing
 status:
   -
     value: true

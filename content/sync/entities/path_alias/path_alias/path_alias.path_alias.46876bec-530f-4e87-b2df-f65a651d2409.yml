@@ -9,7 +9,7 @@ path:
     value: /node/712
 alias:
   -
-    value: /group/stockholm-local-community-0
+    value: /group/stockholm-local-community
 status:
   -
     value: true

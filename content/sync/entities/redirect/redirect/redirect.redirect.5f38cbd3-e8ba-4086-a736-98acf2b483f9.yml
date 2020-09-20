@@ -1,9 +1,9 @@
 uuid:
   -
-    value: c01c5917-7ce9-4127-8859-fc42e8d617f1
+    value: 5f38cbd3-e8ba-4086-a736-98acf2b483f9
 hash:
   -
-    value: QCOoYYlSou9_OU3CRoqCDLd8QfhqIJ3Xaa18ccxZ3Dg
+    value: fz9SZqTdcvfH2aiPKmbIkjGpAZX9rLlpja-HlDwX60M
 type:
   -
     value: redirect
@@ -13,11 +13,11 @@ uid:
     target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
 redirect_source:
   -
-    path: article/tuesday-afterwork
+    path: event-type/bootcamp
     query: {  }
 redirect_redirect:
   -
-    uri: 'internal:/node/661'
+    uri: 'internal:/taxonomy/term/13'
     title: null
     options: {  }
 language:
@@ -28,7 +28,7 @@ status_code:
     value: 301
 created:
   -
-    value: '2020-09-20T11:41:11+00:00'
+    value: '2020-09-20T16:56:04+00:00'
     format: 'Y-m-d\TH:i:sP'
 _content_sync:
   entity_type: redirect

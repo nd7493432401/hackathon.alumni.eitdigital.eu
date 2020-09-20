@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: f02aafd8-5cc0-4d6a-b2ea-020466d95c71
+hash:
+  -
+    value: bNTo4KH4a3cFqHv6s67269v6iP0E7Jpmn4Kaf1cRRmA
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: event-type/kickoff
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/taxonomy/term/12'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T16:56:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

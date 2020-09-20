@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: f934fd23-1658-43e1-a1ca-d80fa9b4fc92
+hash:
+  -
+    value: Uq14d0yuckbwpddH-GWyXD9CKskZVTDiHtmIaQ3Y8Ko
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: event-type/workshop
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/taxonomy/term/16'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T16:56:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f
