@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4a2bebdb-70f8-46e7-972a-9dad3b25d39d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/723
+alias:
+  -
+    value: /node-723-job
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

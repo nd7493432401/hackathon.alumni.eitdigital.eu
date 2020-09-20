@@ -2431,6 +2431,10 @@ h2.alumni-week-h2 {
   margin: auto;
 }
 
+.node-job.view-mode-teaser .field-job-location p {
+  display: inline;
+}
+
 .node-job.view-mode-teaser .field-node-link {
   padding-left: 10px;
 }

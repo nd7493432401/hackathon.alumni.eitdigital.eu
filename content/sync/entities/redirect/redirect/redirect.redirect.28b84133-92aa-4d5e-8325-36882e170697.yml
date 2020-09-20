@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 28b84133-92aa-4d5e-8325-36882e170697
+hash:
+  -
+    value: 4xY6LF9y_WU-TkBAsLs7C4n_XeXLF3iltpZqUIu0o8k
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: job/pecus-quadrum-qui-saepius
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/721'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T10:52:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

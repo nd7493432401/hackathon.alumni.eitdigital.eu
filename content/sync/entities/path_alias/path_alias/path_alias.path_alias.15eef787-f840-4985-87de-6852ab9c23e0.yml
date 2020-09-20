@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 15eef787-f840-4985-87de-6852ab9c23e0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/718
+alias:
+  -
+    value: /node-718-job
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

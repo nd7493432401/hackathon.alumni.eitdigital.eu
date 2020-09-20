@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 966aad1d-fc66-419f-aba6-bd0a66630ab3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/718
+alias:
+  -
+    value: /job/angular-developer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

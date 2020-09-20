@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2a19006a-1e4b-4ee2-bd17-c248ffa6c2c7
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/722
+alias:
+  -
+    value: /job/security-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

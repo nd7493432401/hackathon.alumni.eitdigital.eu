@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c926dbcf-08ce-44dc-b022-dba3a82b70b5
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/715
+alias:
+  -
+    value: /job/full-stack-engineer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

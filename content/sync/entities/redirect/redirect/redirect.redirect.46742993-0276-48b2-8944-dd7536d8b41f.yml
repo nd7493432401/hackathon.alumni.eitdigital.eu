@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 46742993-0276-48b2-8944-dd7536d8b41f
+hash:
+  -
+    value: 4iR60M29tQ5GTCFphG5_pLqE7YEPAqHpLkcwGesh13A
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: job/abico-luptatum-neo
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/716'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T10:49:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

@@ -66,7 +66,6 @@ third_party_settings:
             attributes: job-call-to-action
     regions:
       top:
-        - node_title
         - field_job_description
       left:
         - field_company
@@ -77,19 +76,13 @@ third_party_settings:
       bottom:
         - field_apply_link
         - field_more_details_link
-    fields:
-      node_title:
-        plugin_id: node_title
-        weight: 0
-        label: hidden
-        formatter: default
 id: node.job.default
 targetEntityType: node
 bundle: job
 mode: default
 content:
   field_apply_link:
-    weight: 5
+    weight: 4
     label: hidden
     settings:
       trim_length: 80
@@ -101,14 +94,14 @@ content:
     type: link
     region: bottom
   field_company:
-    weight: 2
+    weight: 1
     label: above
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: left
   field_expiration_date:
-    weight: 4
+    weight: 3
     label: above
     settings:
       timezone_override: ''
@@ -125,20 +118,20 @@ content:
     region: right
   field_job_description:
     type: text_default
-    weight: 1
+    weight: 0
     region: top
     label: above
     settings: {  }
     third_party_settings: {  }
   field_job_location:
-    weight: 3
+    weight: 2
     label: above
     settings: {  }
     third_party_settings: {  }
     type: text_default
     region: middle
   field_more_details_link:
-    weight: 6
+    weight: 5
     label: hidden
     settings:
       trim_length: 80

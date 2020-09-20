@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 38ef5e63-41b7-48f9-b322-bf1fd6297c2b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/722
+alias:
+  -
+    value: /node-722-job
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

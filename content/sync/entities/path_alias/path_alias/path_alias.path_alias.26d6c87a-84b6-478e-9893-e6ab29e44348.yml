@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 26d6c87a-84b6-478e-9893-e6ab29e44348
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/720
+alias:
+  -
+    value: /node-720-job
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

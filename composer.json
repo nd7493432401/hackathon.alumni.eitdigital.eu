@@ -91,7 +91,6 @@
         "drupal/twig_field_value": "1.2",
         "drupal/views_bootstrap": "4.3",
         "drupal/views_bulk_operations": "3.9",
-        "drupal/webform": "5.19",
         "drupal/wysiwyg_mediaembed": "1.0-alpha3",
         "drush/drush": "^9.7.1 | ^10.0.0",
         "npm-asset/select2": "^4.0",
