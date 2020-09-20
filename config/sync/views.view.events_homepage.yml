@@ -7,6 +7,7 @@ dependencies:
     - field.storage.node.field_event_intro_image
     - field.storage.node.field_event_introduction
     - node.type.event
+    - system.menu.main
   module:
     - datetime
     - datetime_range
@@ -587,6 +588,15 @@ display:
     display_options:
       display_extenders: {  }
       path: events
+      menu:
+        type: normal
+        title: 'Latest Events'
+        description: ''
+        expanded: false
+        parent: 'menu_link_content:df964d64-7cc4-4893-bdae-ce7ad7480928'
+        weight: -50
+        context: '0'
+        menu_name: main
     cache_metadata:
       max-age: -1
       contexts:

@@ -6,6 +6,7 @@ dependencies:
     - field.storage.node.field_company
     - field.storage.node.field_job_location
     - node.type.job
+    - system.menu.main
     - user.role.authenticated
   module:
     - better_exposed_filters
@@ -671,6 +672,15 @@ display:
     display_options:
       display_extenders: {  }
       path: jobs
+      menu:
+        type: normal
+        title: 'Job Portal'
+        description: ''
+        expanded: false
+        parent: 'menu_link_content:406fd704-31ad-41b7-b7b3-553e330ef20c'
+        weight: -48
+        context: '0'
+        menu_name: main
     cache_metadata:
       max-age: -1
       contexts:
