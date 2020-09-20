@@ -7,7 +7,7 @@ All the configuration and content is present in this repository and no database 
 
 In order to test this profile, follow these steps:
 
-    git clone git@github.com:EIT-Digital-Alumni/alumni.eitdigital.eu.git
+    git clone git@github.com:EIT-Digital-Alumni/hackathon.alumni.eitdigital.eu.git
     cd alumni.eitdigital.eu
     cp .env.example .env
     nano .env
