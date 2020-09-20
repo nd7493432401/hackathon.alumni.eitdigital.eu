@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cfd889d7-effb-422c-a037-4da8d164bbe9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/724
+alias:
+  -
+    value: /signup
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

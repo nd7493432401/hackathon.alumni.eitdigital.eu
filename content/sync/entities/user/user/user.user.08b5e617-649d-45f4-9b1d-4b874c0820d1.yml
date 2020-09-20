@@ -13,7 +13,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2020-09-20T16:45:38+00:00'
+    value: '2020-09-20T17:07:25+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -52,7 +52,7 @@ field_address:
     family_name: null
 field_current_job:
   -
-    value: Freelancer
+    value: Company
 field_current_professional_statu:
   -
     value: 'Business owner'

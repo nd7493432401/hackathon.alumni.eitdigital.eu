@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 438ac1e8-178f-4cc8-96d2-c2831401daf6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/725
+alias:
+  -
+    value: /restricted-page
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias
