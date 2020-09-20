@@ -2601,6 +2601,7 @@ h2.alumni-week-h2 {
   margin: 10px auto;
   height: 120px;
   border-radius: 100%;
+  object-fit: cover;
 }
 
 .directory-item .directory-item-name {
@@ -2676,8 +2677,10 @@ h2.alumni-week-h2 {
 }
 
 .userprofile-picture img {
+  max-width: 325px;
   border-radius: 100%;
   display: inline-block;
+  margin-top: 20px;
   margin-bottom: 16px;
 }
 
