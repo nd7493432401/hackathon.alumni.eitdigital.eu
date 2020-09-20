@@ -1,6 +1,6 @@
 uuid:
   -
-    value: 9efb5027-6b13-45ed-a047-30429bcf3801
+    value: ff8c2a09-f8a1-4099-b498-7aaece819aaf
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:32:01+00:00'
+    value: '2020-09-20T20:46:53+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'FAQs about organizing events'
+    value: 'Career Support'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'entity:node/689'
     title: ''
     options: {  }
 external:
@@ -33,22 +33,22 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: -48
+    value: -49
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:7807e448-4e79-492f-94fc-924ea6361dd5'
+    value: 'menu_link_content:f29ace55-bd14-4f97-8f92-ec12c3020c55'
   -
     target_type: menu_link_content
-    target_uuid: 7807e448-4e79-492f-94fc-924ea6361dd5
+    target_uuid: f29ace55-bd14-4f97-8f92-ec12c3020c55
 changed:
   -
-    value: '2020-03-26T10:33:01+00:00'
+    value: '2020-09-20T20:46:57+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -58,6 +58,10 @@ revision_translation_affected:
     value: true
 _content_sync:
   entity_type: menu_link_content
+  menu_entity_link:
+    node: d5284d33-a6b1-48ab-ad0c-b5d8ffb8c8a3
   entity_dependencies:
+    node:
+      - node.page.d5284d33-a6b1-48ab-ad0c-b5d8ffb8c8a3
     menu_link_content:
-      - menu_link_content.menu_link_content.7807e448-4e79-492f-94fc-924ea6361dd5
+      - menu_link_content.menu_link_content.f29ace55-bd14-4f97-8f92-ec12c3020c55

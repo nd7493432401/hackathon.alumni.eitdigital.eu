@@ -1,6 +1,6 @@
 uuid:
   -
-    value: bb0669be-3755-4d80-9ad8-0f4ad653aa31
+    value: 6cfc7db7-86ec-4a95-a523-df441b07bd99
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:28:15+00:00'
+    value: '2020-09-20T20:51:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: By-Laws
+    value: Statutes
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'entity:node/691'
     title: ''
     options: {  }
 external:
@@ -33,22 +33,22 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: -47
+    value: -46
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3'
+    value: 'menu_link_content:cf690183-c127-44e7-90c9-8ff684f37f40'
   -
     target_type: menu_link_content
-    target_uuid: e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+    target_uuid: cf690183-c127-44e7-90c9-8ff684f37f40
 changed:
   -
-    value: '2020-03-26T10:29:01+00:00'
+    value: '2020-09-20T20:51:39+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -58,6 +58,10 @@ revision_translation_affected:
     value: true
 _content_sync:
   entity_type: menu_link_content
+  menu_entity_link:
+    node: 05b73bd6-c3e4-45cb-bac7-68669247f12a
   entity_dependencies:
+    node:
+      - node.page.05b73bd6-c3e4-45cb-bac7-68669247f12a
     menu_link_content:
-      - menu_link_content.menu_link_content.e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+      - menu_link_content.menu_link_content.cf690183-c127-44e7-90c9-8ff684f37f40

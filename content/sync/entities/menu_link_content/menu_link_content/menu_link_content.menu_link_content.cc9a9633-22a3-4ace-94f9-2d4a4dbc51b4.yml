@@ -1,6 +1,6 @@
 uuid:
   -
-    value: 6cd910f6-0b5e-45e5-93b5-745280217d52
+    value: cc9a9633-22a3-4ace-94f9-2d4a4dbc51b4
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:28:31+00:00'
+    value: '2020-09-20T20:44:55+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'EIT Ecosystem'
+    value: 'Alumni Directory'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'internal:/alumni-directory'
     title: ''
     options: {  }
 external:
@@ -36,19 +36,19 @@ rediscover:
     value: true
 weight:
   -
-    value: -46
+    value: -50
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3'
+    value: 'menu_link_content:05659119-2a75-4df2-8633-772826049a39'
   -
     target_type: menu_link_content
-    target_uuid: e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+    target_uuid: 05659119-2a75-4df2-8633-772826049a39
 changed:
   -
-    value: '2020-03-26T10:29:01+00:00'
+    value: '2020-09-20T20:44:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -60,4 +60,4 @@ _content_sync:
   entity_type: menu_link_content
   entity_dependencies:
     menu_link_content:
-      - menu_link_content.menu_link_content.e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+      - menu_link_content.menu_link_content.05659119-2a75-4df2-8633-772826049a39

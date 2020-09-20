@@ -1,6 +1,6 @@
 uuid:
   -
-    value: 66f14de0-46b3-4173-ab92-0b5dc60676e7
+    value: 9d97dc0b-c5c8-47f8-b5f8-472651e8de3a
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:30:24+00:00'
+    value: '2020-09-20T20:50:44+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'Flixbus discount'
+    value: 'EIT Ecosystem'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'entity:node/693'
     title: ''
     options: {  }
 external:
@@ -33,22 +33,22 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: -48
+    value: -49
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:ab1ffa5b-5707-48ae-a548-b6732b99d748'
+    value: 'menu_link_content:cf690183-c127-44e7-90c9-8ff684f37f40'
   -
     target_type: menu_link_content
-    target_uuid: ab1ffa5b-5707-48ae-a548-b6732b99d748
+    target_uuid: cf690183-c127-44e7-90c9-8ff684f37f40
 changed:
   -
-    value: '2020-03-26T10:30:50+00:00'
+    value: '2020-09-20T20:50:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -58,6 +58,10 @@ revision_translation_affected:
     value: true
 _content_sync:
   entity_type: menu_link_content
+  menu_entity_link:
+    node: 29e19a6c-4c4d-4475-b864-3586b1eb09b7
   entity_dependencies:
+    node:
+      - node.page.29e19a6c-4c4d-4475-b864-3586b1eb09b7
     menu_link_content:
-      - menu_link_content.menu_link_content.ab1ffa5b-5707-48ae-a548-b6732b99d748
+      - menu_link_content.menu_link_content.cf690183-c127-44e7-90c9-8ff684f37f40

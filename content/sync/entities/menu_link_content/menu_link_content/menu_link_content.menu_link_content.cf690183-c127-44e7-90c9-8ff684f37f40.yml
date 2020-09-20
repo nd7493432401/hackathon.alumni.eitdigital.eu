@@ -1,6 +1,6 @@
 uuid:
   -
-    value: 59ed11a6-8758-4454-aa65-7519c445e537
+    value: cf690183-c127-44e7-90c9-8ff684f37f40
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:27:42+00:00'
+    value: '2020-09-20T20:50:08+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: Governance
+    value: 'Who we are'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'route:<nolink>'
     title: ''
     options: {  }
 external:
@@ -33,22 +33,17 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: -49
+    value: -46
 expanded:
   -
-    value: false
-parent:
-  -
-    value: 'menu_link_content:e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3'
-  -
-    target_type: menu_link_content
-    target_uuid: e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+    value: true
+parent: {  }
 changed:
   -
-    value: '2020-03-26T10:29:01+00:00'
+    value: '2020-09-20T20:50:29+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -58,6 +53,3 @@ revision_translation_affected:
     value: true
 _content_sync:
   entity_type: menu_link_content
-  entity_dependencies:
-    menu_link_content:
-      - menu_link_content.menu_link_content.e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3

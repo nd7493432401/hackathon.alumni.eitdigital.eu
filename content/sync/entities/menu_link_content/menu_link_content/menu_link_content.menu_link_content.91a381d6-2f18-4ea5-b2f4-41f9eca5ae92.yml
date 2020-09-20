@@ -25,7 +25,7 @@ menu_name:
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'route:<nolink>'
     title: ''
     options: {  }
 external:
@@ -33,17 +33,17 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: 0
+    value: -47
 expanded:
   -
     value: true
 parent: {  }
 changed:
   -
-    value: '2020-03-26T10:35:00+00:00'
+    value: '2020-09-20T20:47:37+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -

@@ -1,6 +1,6 @@
 uuid:
   -
-    value: cec03db2-9173-4fce-80da-fe59fa018dae
+    value: 694b642f-04fa-4bcb-b801-25fc3ecdbcb5
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:34:33+00:00'
+    value: '2020-09-20T20:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'Success Stories'
+    value: 'Working Groups'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'internal:/groups'
     title: ''
     options: {  }
 external:
@@ -36,19 +36,19 @@ rediscover:
     value: true
 weight:
   -
-    value: -48
+    value: -49
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:c926ccee-190b-4d6e-b290-1ffe23676130'
+    value: 'menu_link_content:91a381d6-2f18-4ea5-b2f4-41f9eca5ae92'
   -
     target_type: menu_link_content
-    target_uuid: c926ccee-190b-4d6e-b290-1ffe23676130
+    target_uuid: 91a381d6-2f18-4ea5-b2f4-41f9eca5ae92
 changed:
   -
-    value: '2020-03-26T10:34:39+00:00'
+    value: '2020-09-20T20:49:52+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -60,4 +60,4 @@ _content_sync:
   entity_type: menu_link_content
   entity_dependencies:
     menu_link_content:
-      - menu_link_content.menu_link_content.c926ccee-190b-4d6e-b290-1ffe23676130
+      - menu_link_content.menu_link_content.91a381d6-2f18-4ea5-b2f4-41f9eca5ae92

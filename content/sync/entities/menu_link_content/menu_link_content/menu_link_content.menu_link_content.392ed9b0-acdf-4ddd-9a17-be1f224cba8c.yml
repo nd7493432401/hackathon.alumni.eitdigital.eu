@@ -1,6 +1,6 @@
 uuid:
   -
-    value: d6514766-0504-467d-b979-e83fbbe796da
+    value: 392ed9b0-acdf-4ddd-9a17-be1f224cba8c
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:27:26+00:00'
+    value: '2020-09-20T20:51:00+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'About us'
+    value: Governance
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'entity:node/692'
     title: ''
     options: {  }
 external:
@@ -33,22 +33,22 @@ external:
     value: false
 rediscover:
   -
-    value: true
+    value: false
 weight:
   -
-    value: -50
+    value: -48
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3'
+    value: 'menu_link_content:cf690183-c127-44e7-90c9-8ff684f37f40'
   -
     target_type: menu_link_content
-    target_uuid: e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+    target_uuid: cf690183-c127-44e7-90c9-8ff684f37f40
 changed:
   -
-    value: '2020-03-26T10:28:43+00:00'
+    value: '2020-09-20T20:51:04+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -58,6 +58,10 @@ revision_translation_affected:
     value: true
 _content_sync:
   entity_type: menu_link_content
+  menu_entity_link:
+    node: 58956dc9-ae18-4102-9afe-4fb93c754f0c
   entity_dependencies:
+    node:
+      - node.page.58956dc9-ae18-4102-9afe-4fb93c754f0c
     menu_link_content:
-      - menu_link_content.menu_link_content.e1cbeed9-abc8-4998-b60d-bc53e8a3d4c3
+      - menu_link_content.menu_link_content.cf690183-c127-44e7-90c9-8ff684f37f40

@@ -1,6 +1,6 @@
 uuid:
   -
-    value: bdd3ce7f-db84-4542-aa9a-e40261e1a0a1
+    value: a81d4a4a-2236-4a04-9e38-c168b5b9614f
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:32:25+00:00'
+    value: '2020-09-20T20:47:18+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,14 +18,14 @@ enabled:
     value: true
 title:
   -
-    value: 'Working groups'
+    value: 'Job Portal'
 description: {  }
 menu_name:
   -
     value: hamburger-menu
 link:
   -
-    uri: 'internal:#'
+    uri: 'internal:/jobs'
     title: ''
     options: {  }
 external:
@@ -36,19 +36,19 @@ rediscover:
     value: true
 weight:
   -
-    value: -47
+    value: -48
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:7807e448-4e79-492f-94fc-924ea6361dd5'
+    value: 'menu_link_content:f29ace55-bd14-4f97-8f92-ec12c3020c55'
   -
     target_type: menu_link_content
-    target_uuid: 7807e448-4e79-492f-94fc-924ea6361dd5
+    target_uuid: f29ace55-bd14-4f97-8f92-ec12c3020c55
 changed:
   -
-    value: '2020-03-26T10:33:01+00:00'
+    value: '2020-09-20T20:47:23+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -60,4 +60,4 @@ _content_sync:
   entity_type: menu_link_content
   entity_dependencies:
     menu_link_content:
-      - menu_link_content.menu_link_content.7807e448-4e79-492f-94fc-924ea6361dd5
+      - menu_link_content.menu_link_content.f29ace55-bd14-4f97-8f92-ec12c3020c55

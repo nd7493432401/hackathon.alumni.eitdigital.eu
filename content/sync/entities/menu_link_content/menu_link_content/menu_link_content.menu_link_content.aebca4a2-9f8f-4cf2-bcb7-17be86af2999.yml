@@ -1,6 +1,6 @@
 uuid:
   -
-    value: 6b6e8e8d-e89f-44f0-b2e9-db7dae8d2c47
+    value: aebca4a2-9f8f-4cf2-bcb7-17be86af2999
 langcode:
   -
     value: en
@@ -9,7 +9,7 @@ bundle:
     value: menu_link_content
 revision_created:
   -
-    value: '2020-03-26T10:33:54+00:00'
+    value: '2020-09-20T20:45:46+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user: {  }
 revision_log_message: {  }
@@ -18,7 +18,7 @@ enabled:
     value: true
 title:
   -
-    value: 'Community News'
+    value: Spotlight
 description: {  }
 menu_name:
   -
@@ -36,19 +36,19 @@ rediscover:
     value: true
 weight:
   -
-    value: -50
+    value: -49
 expanded:
   -
     value: false
 parent:
   -
-    value: 'menu_link_content:c926ccee-190b-4d6e-b290-1ffe23676130'
+    value: 'menu_link_content:05659119-2a75-4df2-8633-772826049a39'
   -
     target_type: menu_link_content
-    target_uuid: c926ccee-190b-4d6e-b290-1ffe23676130
+    target_uuid: 05659119-2a75-4df2-8633-772826049a39
 changed:
   -
-    value: '2020-03-26T10:34:00+00:00'
+    value: '2020-09-20T20:45:52+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -60,4 +60,4 @@ _content_sync:
   entity_type: menu_link_content
   entity_dependencies:
     menu_link_content:
-      - menu_link_content.menu_link_content.c926ccee-190b-4d6e-b290-1ffe23676130
+      - menu_link_content.menu_link_content.05659119-2a75-4df2-8633-772826049a39
