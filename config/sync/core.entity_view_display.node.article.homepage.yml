@@ -109,7 +109,7 @@ content:
     region: main
     label: visually_hidden
     settings:
-      trim_length: 140
+      trim_length: 100
       trim_type: chars
       trim_suffix: ''
       wrap_class: trimmed

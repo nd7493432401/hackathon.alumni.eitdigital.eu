@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.storage.user.field_address
     - field.storage.user.field_current_job
     - field.storage.user.field_first_name
     - field.storage.user.field_last_name
@@ -20,6 +21,7 @@ dependencies:
     - user.role.potential_member_master
     - user.role.potential_member_phd
   module:
+    - address
     - better_exposed_filters
     - profile
     - svg_image
@@ -119,6 +121,68 @@ display:
       row:
         type: fields
       fields:
+        field_address:
+          id: field_address
+          table: user__field_address
+          field: field_address
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: ''
+          exclude: true
+          alter:
+            alter_text: true
+            text: '{{ field_address__locality }}'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: langcode
+          type: address_default
+          settings: {  }
+          group_column: ''
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
         field_first_name:
           id: field_first_name
           table: user__field_first_name
@@ -387,7 +451,7 @@ display:
           exclude: false
           alter:
             alter_text: true
-            text: "{{ field_user_picture }}\r\n\t<div class=\"directory-item-inner\">\r\n\t\t<div class=\"directory-item-name\">{{ field_first_name }}</div>\r\n\t\t<div class=\"directory-item-name\">{{ field_last_name }}</div>\r\n                <div class=\"directory-item-job\">{{ field_current_job }}</div>\r\n\t</div>"
+            text: "{{ field_user_picture }}\r\n\t<div class=\"directory-item-inner\">\r\n\t\t<div class=\"directory-item-name\">{{ field_first_name }}</div>\r\n\t\t<div class=\"directory-item-name\">{{ field_last_name }}</div>\r\n                <div class=\"directory-item-job\">{{ field_address }}</div>\r\n\t</div>"
             make_link: false
             path: ''
             absolute: false
@@ -443,59 +507,6 @@ display:
             operator_limit_selection: false
             operator_list: {  }
           group: 1
-        roles_target_id:
-          id: roles_target_id
-          table: user__roles
-          field: roles_target_id
-          relationship: none
-          group_type: group
-          admin_label: ''
-          operator: or
-          value:
-            potential_member_master: potential_member_master
-            potential_member_phd: potential_member_phd
-            potential_member_employee: potential_member_employee
-            associate_member_master: associate_member_master
-            associate_member_phd: associate_member_phd
-            alumni_member_employee: alumni_member_employee
-            associate_member_summer_school: associate_member_summer_school
-            associate_member_professional_school: associate_member_professional_school
-            alumni_member_master: alumni_member_master
-            alumni_member_phd: alumni_member_phd
-            friend_member: friend_member
-          group: 1
-          exposed: false
-          expose:
-            operator_id: ''
-            label: ''
-            description: ''
-            use_operator: false
-            operator: ''
-            operator_limit_selection: false
-            operator_list: {  }
-            identifier: ''
-            required: false
-            remember: false
-            multiple: false
-            remember_roles:
-              authenticated: authenticated
-            reduce: false
-          is_grouped: false
-          group_info:
-            label: ''
-            description: ''
-            identifier: ''
-            optional: true
-            widget: select
-            multiple: false
-            remember: false
-            default_group: All
-            default_group_multiple: {  }
-            group_items: {  }
-          reduce_duplicates: false
-          entity_type: user
-          entity_field: roles
-          plugin_id: user_roles
         field_first_name_value:
           id: field_first_name_value
           table: user__field_first_name
@@ -604,6 +615,128 @@ display:
             default_group_multiple: {  }
             group_items: {  }
           plugin_id: string
+        roles_target_id:
+          id: roles_target_id
+          table: user__roles
+          field: roles_target_id
+          relationship: none
+          group_type: group
+          admin_label: ''
+          operator: or
+          value:
+            potential_member_master: potential_member_master
+            potential_member_phd: potential_member_phd
+            potential_member_employee: potential_member_employee
+            associate_member_master: associate_member_master
+            associate_member_phd: associate_member_phd
+            alumni_member_employee: alumni_member_employee
+            associate_member_summer_school: associate_member_summer_school
+            associate_member_professional_school: associate_member_professional_school
+            alumni_member_master: alumni_member_master
+            alumni_member_phd: alumni_member_phd
+            friend_member: friend_member
+          group: 1
+          exposed: false
+          expose:
+            operator_id: roles_target_id_op
+            label: Roles
+            description: ''
+            use_operator: false
+            operator: roles_target_id_op
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: roles_target_id
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+              anonymous: '0'
+              administrator: '0'
+              potential_member_master: '0'
+              potential_member_phd: '0'
+              potential_member_employee: '0'
+              associate_member_master: '0'
+              associate_member_phd: '0'
+              alumni_member_employee: '0'
+              associate_member_summer_school: '0'
+              associate_member_professional_school: '0'
+              alumni_member_master: '0'
+              alumni_member_phd: '0'
+              friend_member: '0'
+              board_member: '0'
+              editor: '0'
+            reduce: false
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
+          reduce_duplicates: false
+          entity_type: user
+          entity_field: roles
+          plugin_id: user_roles
+        field_address_locality:
+          id: field_address_locality
+          table: user__field_address
+          field: field_address_locality
+          relationship: none
+          group_type: group
+          admin_label: ''
+          operator: contains
+          value: ''
+          group: 1
+          exposed: true
+          expose:
+            operator_id: field_address_locality_op
+            label: City
+            description: ''
+            use_operator: false
+            operator: field_address_locality_op
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: field_address_locality
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+              anonymous: '0'
+              administrator: '0'
+              potential_member_master: '0'
+              potential_member_phd: '0'
+              potential_member_employee: '0'
+              associate_member_master: '0'
+              associate_member_phd: '0'
+              alumni_member_employee: '0'
+              associate_member_summer_school: '0'
+              associate_member_professional_school: '0'
+              alumni_member_master: '0'
+              alumni_member_phd: '0'
+              friend_member: '0'
+              board_member: '0'
+              editor: '0'
+            placeholder: ''
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
+          plugin_id: string
       sorts:
         field_first_name_value:
           id: field_first_name_value
@@ -634,6 +767,10 @@ display:
           plugin_id: standard
       arguments: {  }
       display_extenders: {  }
+      filter_groups:
+        operator: AND
+        groups:
+          1: AND
     cache_metadata:
       max-age: -1
       contexts:
@@ -643,6 +780,7 @@ display:
         - url.query_args
         - user.roles
       tags:
+        - 'config:field.storage.user.field_address'
         - 'config:field.storage.user.field_current_job'
         - 'config:field.storage.user.field_first_name'
         - 'config:field.storage.user.field_last_name'
@@ -664,6 +802,7 @@ display:
         - url.query_args
         - user.roles
       tags:
+        - 'config:field.storage.user.field_address'
         - 'config:field.storage.user.field_current_job'
         - 'config:field.storage.user.field_first_name'
         - 'config:field.storage.user.field_last_name'
