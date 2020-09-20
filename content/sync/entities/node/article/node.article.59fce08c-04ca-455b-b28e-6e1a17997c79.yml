@@ -11,7 +11,7 @@ type:
     target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
 revision_timestamp:
   -
-    value: '2020-09-19T10:02:22+00:00'
+    value: '2020-09-20T15:17:17+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   -
@@ -27,14 +27,14 @@ uid:
     target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
 title:
   -
-    value: 'Commodo Ullamcorper'
+    value: 'Cybersecurity Alumni Talks'
 created:
   -
     value: '2020-09-16T00:38:00+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2020-09-19T10:02:22+00:00'
+    value: '2020-09-20T15:17:17+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -51,7 +51,7 @@ revision_translation_affected:
 ds_switch: {  }
 path:
   -
-    alias: /article/commodo-ullamcorper
+    alias: /article/cybersecurity-alumni-talks
 body:
   -
     value: "Accumsan decet duis loquor luptatum nobis nostrud refoveo te usitas. Abigo abluo accumsan caecus cui obruo pala tamen. Comis elit huic ille magna.\r\n\r\nAt nisl pagus praemitto quis usitas vel. Consequat pertineo praesent sagaciter. Blandit consequat ex imputo lucidus nostrud quadrum quia sino. Abigo antehabeo bene cui euismod letalis pagus pertineo si verto.\r\n\r\nAbico augue blandit esca eum molior nisl refoveo volutpat. Dolor esse populus sed. Nostrud plaga veniam zelus. Illum jumentum lucidus tego veniam. Abluo nobis quibus uxor. Capto damnum eligo saluto voco.\r\n\r\nAccumsan capto commoveo diam huic premo quadrum quidne. Autem humo obruo os quia. Ad dignissim distineo euismod neque paulatim validus. Facilisi meus minim.\r\n\r\nIaceo persto tego. Enim facilisi feugiat natu populus suscipit vereor. Cogo ea quidne. Comis importunus in melior nunc obruo pala sino vulpes vulputate.\r\n\r\nCausa consequat iriure populus rusticus saluto secundum singularis te vicis. Comis conventio ideo importunus rusticus sed tum ulciscor. At euismod feugiat in iustum mos praemitto refero ulciscor. Aptent iustum laoreet natu similis valde. Esse fere huic humo importunus ratis uxor. Ad distineo mos odio probo valde. Bene cui iriure neo pagus saluto.\r\n\r\nAccumsan acsi esca jumentum macto pagus refero. Consectetuer eum vereor. Iriure natu nibh patria ulciscor verto. Blandit camur comis damnum eros jus paratus sed. Nisl probo qui sino te vulpes wisi. Decet inhibeo nimis premo probo valetudo virtus. Ad aptent brevitas cui eligo erat laoreet pneum typicus vero. Accumsan gravis importunus paulatim tum utinam. Abico acsi mauris occuro odio.\r\n\r\nAbbas damnum defui esca haero ibidem sino ulciscor uxor vulputate. Comis ulciscor valetudo. At erat exerci huic interdico oppeto pecus premo singularis. Aptent augue haero ille immitto pala ratis torqueo volutpat.\r\n\r\nBene persto populus proprius sed validus. Nostrud quadrum refero sagaciter. Abbas aptent decet ea luctus populus refero verto. Hendrerit lenis nimis nunc suscipere vulpes. Gilvus haero importunus neo occuro paulatim premo. Ideo interdico ludus metuo pecus suscipit. Ad at hendrerit neo velit. Augue consectetuer defui diam distineo eros esca inhibeo odio ulciscor. Aliquip facilisi hos natu paratus rusticus valetudo velit.\r\n\r\nEx nibh usitas vel. Commoveo facilisi illum immitto molior natu praemitto quia vindico. Consectetuer euismod ille iriure lucidus nibh proprius quis uxor. Cogo exputo premo quidem sit. Feugiat melior neque nunc vicis vulpes.\r\n\r\nAccumsan aliquip amet ludus neo quibus saluto tamen. Ea facilisi jumentum meus neque nimis pagus pneum si verto. Eu humo incassum quae velit. Duis facilisi ibidem ludus probo quis. Distineo ea feugiat lucidus luctus magna mauris pertineo vulputate wisi. Appellatio elit paratus verto. Pecus sit torqueo ut. Abbas blandit typicus volutpat vulputate.\r\n\r\nDolus et facilisis magna minim tum vereor vulputate. Consequat enim inhibeo virtus vulputate. Duis ea meus. Hos magna modo nimis paratus praesent proprius usitas ymo. Acsi aliquip sagaciter ulciscor volutpat. Decet dignissim luptatum molior odio olim quae. Autem bene hendrerit immitto lobortis odio pala sudo valetudo.\r\n\r\n"
@@ -75,11 +75,11 @@ field_article_introduction:
 field_image:
   -
     target_type: media
-    target_uuid: f72b78bf-7786-4bbc-b0b3-40a0b3acdba9
+    target_uuid: 862373ba-2649-42ae-8f5f-ba8c42b28924
 field_introduction_image:
   -
     target_type: media
-    target_uuid: f6914920-2500-4cd9-881c-bfb16f2d2d64
+    target_uuid: 862373ba-2649-42ae-8f5f-ba8c42b28924
 _content_sync:
   entity_type: node
   entity_dependencies:
@@ -88,5 +88,4 @@ _content_sync:
     taxonomy_term:
       - taxonomy_term.article_categories.fab27a7b-5060-4b5f-9349-29df150cc43a
     media:
-      - media.image.f72b78bf-7786-4bbc-b0b3-40a0b3acdba9
-      - media.image.f6914920-2500-4cd9-881c-bfb16f2d2d64
+      - media.image.862373ba-2649-42ae-8f5f-ba8c42b28924

@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 305a3010-7ed9-4100-a448-dcc3e345fdb9
+hash:
+  -
+    value: iAJDodfcYeKNYWamsXIimTA2I5VGbHK1rMJDobF9Cbs
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/working-groups-meeting-2020-february
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/671'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T11:30:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

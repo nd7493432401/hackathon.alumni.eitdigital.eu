@@ -9,7 +9,7 @@ path:
     value: /user/10
 alias:
   -
-    value: /users/madrefram
+    value: /users/declan
 status:
   -
     value: true

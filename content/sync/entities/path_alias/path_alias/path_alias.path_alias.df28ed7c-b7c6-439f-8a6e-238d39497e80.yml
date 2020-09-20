@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: df28ed7c-b7c6-439f-8a6e-238d39497e80
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/18
+alias:
+  -
+    value: /users/imaan
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

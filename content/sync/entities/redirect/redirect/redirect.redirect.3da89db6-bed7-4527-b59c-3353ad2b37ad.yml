@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 3da89db6-bed7-4527-b59c-3353ad2b37ad
+hash:
+  -
+    value: Pn5c4J4UcWC70eatsoC-2CY66-tnOxFhAggRDjp2rJc
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: users/kukijuuevo
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/user/21'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T16:02:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

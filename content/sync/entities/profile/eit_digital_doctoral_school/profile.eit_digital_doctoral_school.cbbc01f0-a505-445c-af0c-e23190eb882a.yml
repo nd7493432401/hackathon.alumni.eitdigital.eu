@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: cbbc01f0-a505-445c-af0c-e23190eb882a
+type:
+  -
+    target_id: eit_digital_doctoral_school
+    target_type: profile_type
+    target_uuid: 7dce9230-a390-4b2a-956c-d9d79269bb4f
+revision_created:
+  -
+    value: '2020-09-20T16:15:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_type: user
+    target_uuid: 9734d37b-eef6-41ca-bfa1-d2cb883a0657
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 9734d37b-eef6-41ca-bfa1-d2cb883a0657
+is_default:
+  -
+    value: true
+data: {  }
+created:
+  -
+    value: '2020-09-20T16:15:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-20T16:15:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_doctoral_training_centre:
+  -
+    target_type: taxonomy_term
+    target_uuid: 4dadb3d9-62e5-4a64-9aa2-41fac822ab0f
+field_entry_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6668a231-a554-4f9b-827d-9d6d5b63660d
+field_graduation_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6cecf86a-f9cf-4fa2-8537-8822deeaa7d5
+field_summer_school_attended:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8cb49e01-119f-4ded-86b2-36225048844e
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.9734d37b-eef6-41ca-bfa1-d2cb883a0657
+    taxonomy_term:
+      - taxonomy_term.doctoral_training_centre_dtc_.4dadb3d9-62e5-4a64-9aa2-41fac822ab0f
+      - taxonomy_term.entry_y.6668a231-a554-4f9b-827d-9d6d5b63660d
+      - taxonomy_term.exit_.6cecf86a-f9cf-4fa2-8537-8822deeaa7d5
+      - taxonomy_term.summer_schools.8cb49e01-119f-4ded-86b2-36225048844e

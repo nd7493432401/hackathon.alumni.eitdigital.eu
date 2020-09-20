@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 4affe68b-4ce4-4556-8040-57853845810e
+hash:
+  -
+    value: DW_eOLG6DXTr-FotqXbn-yPJ2hzmORHc68KzSlqjLOI
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/jus-pertineo-tamen-volutpat
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/666'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T11:18:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

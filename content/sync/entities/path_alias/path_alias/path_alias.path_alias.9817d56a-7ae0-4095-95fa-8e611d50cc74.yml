@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9817d56a-7ae0-4095-95fa-8e611d50cc74
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/22
+alias:
+  -
+    value: /users/jaskaran
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

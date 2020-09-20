@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 15c1920f-d383-463c-9b2c-3789c21148ea
+hash:
+  -
+    value: fCNrqsW-c7B5QomUo5RAmzjpwuUIFajzYsy2TouciLY
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/quick-recap-2019
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/666'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T15:24:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

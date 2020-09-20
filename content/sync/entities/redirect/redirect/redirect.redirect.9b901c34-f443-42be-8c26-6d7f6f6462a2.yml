@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 9b901c34-f443-42be-8c26-6d7f6f6462a2
+hash:
+  -
+    value: jVZAN8xArwEcHTnqu9NXMCw-YOvjJz3Ni-FlopguQVE
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: users/jegocr
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/user/19'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T15:53:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

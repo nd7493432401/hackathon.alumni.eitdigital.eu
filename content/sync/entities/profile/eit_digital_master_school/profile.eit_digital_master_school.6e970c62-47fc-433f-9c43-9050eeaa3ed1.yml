@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: 6e970c62-47fc-433f-9c43-9050eeaa3ed1
+type:
+  -
+    target_id: eit_digital_master_school
+    target_type: profile_type
+    target_uuid: 777ce66a-4b67-4fb7-9b90-c8aff8b6cbc3
+revision_created:
+  -
+    value: '2020-09-20T16:16:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_type: user
+    target_uuid: 57030cf1-a689-40d3-a3d4-199e1e75dc53
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 57030cf1-a689-40d3-a3d4-199e1e75dc53
+is_default:
+  -
+    value: true
+data: {  }
+created:
+  -
+    value: '2020-09-20T16:16:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-20T16:16:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_entry_university:
+  -
+    target_type: taxonomy_term
+    target_uuid: f729f263-b872-440e-b6d8-8de6b40039e0
+field_entry_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: f8a0a414-3652-4c63-baa3-60b0b6d84c6c
+field_exit_university:
+  -
+    target_type: taxonomy_term
+    target_uuid: c4268ae8-7c88-4e55-bbb2-80cc3a9588df
+field_graduation_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: a9128431-d013-4c2f-9500-cc7773db40b6
+field_summer_school_attended:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7612f751-083b-49e3-896f-76dd71dc3d4e
+field_track:
+  -
+    target_type: taxonomy_term
+    target_uuid: 7dc77615-398a-4c1e-9fdf-76f097e00627
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.57030cf1-a689-40d3-a3d4-199e1e75dc53
+    taxonomy_term:
+      - taxonomy_term.entry_universities.f729f263-b872-440e-b6d8-8de6b40039e0
+      - taxonomy_term.entry_y.f8a0a414-3652-4c63-baa3-60b0b6d84c6c
+      - taxonomy_term.exit_universities.c4268ae8-7c88-4e55-bbb2-80cc3a9588df
+      - taxonomy_term.exit_.a9128431-d013-4c2f-9500-cc7773db40b6
+      - taxonomy_term.summer_schools.7612f751-083b-49e3-896f-76dd71dc3d4e
+      - taxonomy_term.tracks_master_school_.7dc77615-398a-4c1e-9fdf-76f097e00627

@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 9c172dd9-6b36-4ca0-a3d0-0c8e73af692e
+hash:
+  -
+    value: n6zB5v64U-tpGStUg7cDb1tLEqIb3rXPcSd06e0EKE4
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/physical-board-meeting-2020-aug-0
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/663'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T15:13:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

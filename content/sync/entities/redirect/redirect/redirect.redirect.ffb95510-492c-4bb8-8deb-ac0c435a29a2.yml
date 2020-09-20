@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: ffb95510-492c-4bb8-8deb-ac0c435a29a2
+hash:
+  -
+    value: 6z9Cc7NFLU-GesDCweI2bvNx0B7tCnl4T7HjHKiyWyg
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: users/mawrimi
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/user/11'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T15:41:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

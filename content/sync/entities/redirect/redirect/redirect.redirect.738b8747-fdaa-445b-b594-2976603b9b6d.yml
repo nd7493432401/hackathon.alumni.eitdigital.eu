@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: 738b8747-fdaa-445b-b594-2976603b9b6d
+hash:
+  -
+    value: 3Pi0V_w_OTubc1Om5q5OVVO6ovhB-2TEqMpZ6ES80QQ
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: users/kaspokikecle
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/user/20'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T15:59:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

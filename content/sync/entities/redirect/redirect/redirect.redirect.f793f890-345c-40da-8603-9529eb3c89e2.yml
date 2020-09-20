@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: f793f890-345c-40da-8603-9529eb3c89e2
+hash:
+  -
+    value: zYD5WI2vSvSQ82EiE_GlRGageCBYObpMpnCBJdu6AZE
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/commodo-ullamcorper
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/673'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T11:31:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

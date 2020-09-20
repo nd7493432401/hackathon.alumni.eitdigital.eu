@@ -1,0 +1,37 @@
+uuid:
+  -
+    value: d51505fa-04bb-47c8-a26b-0697b37d8590
+hash:
+  -
+    value: Fo0gBHPzanFxg2Sbzwu1MBX19T8FW3sbnVvNNkyB4_w
+type:
+  -
+    value: redirect
+uid:
+  -
+    target_type: user
+    target_uuid: cfb521d9-0f29-461f-8d99-efbca255fc3f
+redirect_source:
+  -
+    path: article/cui-quadrum-quidne-vereor
+    query: {  }
+redirect_redirect:
+  -
+    uri: 'internal:/node/672'
+    title: null
+    options: {  }
+language:
+  -
+    value: en
+status_code:
+  -
+    value: 301
+created:
+  -
+    value: '2020-09-20T11:31:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: redirect
+  entity_dependencies:
+    user:
+      - user.user.cfb521d9-0f29-461f-8d99-efbca255fc3f

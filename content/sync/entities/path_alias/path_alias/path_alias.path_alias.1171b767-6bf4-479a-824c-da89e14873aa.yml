@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1171b767-6bf4-479a-824c-da89e14873aa
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/19
+alias:
+  -
+    value: /users/zaynah
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

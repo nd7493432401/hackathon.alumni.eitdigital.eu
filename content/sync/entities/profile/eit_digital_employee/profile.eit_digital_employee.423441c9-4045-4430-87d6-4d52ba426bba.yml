@@ -1,0 +1,64 @@
+uuid:
+  -
+    value: 423441c9-4045-4430-87d6-4d52ba426bba
+type:
+  -
+    target_id: eit_digital_employee
+    target_type: profile_type
+    target_uuid: 8641e864-a124-46d1-9133-a02492b426a6
+revision_created:
+  -
+    value: '2020-09-20T16:12:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_type: user
+    target_uuid: 08b5e617-649d-45f4-9b1d-4b874c0820d1
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: 08b5e617-649d-45f4-9b1d-4b874c0820d1
+is_default:
+  -
+    value: true
+data: {  }
+created:
+  -
+    value: '2020-09-20T16:12:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-20T16:12:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_eit_connection:
+  -
+    value: 'Current Employee'
+field_employee_from:
+  -
+    target_type: taxonomy_term
+    target_uuid: 0a8ce763-0f8a-419f-8ceb-b91f10af19a7
+field_employee_role:
+  -
+    value: 'Business Developer'
+    format: basic_html
+    processed: 'Business Developer'
+field_employee_to:
+  -
+    target_type: taxonomy_term
+    target_uuid: 8c92c420-1740-472d-aac0-43d3a03c5d70
+field_extra_information: {  }
+field_office:
+  -
+    value: 'Munich Satellite'
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.08b5e617-649d-45f4-9b1d-4b874c0820d1
+    taxonomy_term:
+      - taxonomy_term.entry_y.0a8ce763-0f8a-419f-8ceb-b91f10af19a7
+      - taxonomy_term.exit_.8c92c420-1740-472d-aac0-43d3a03c5d70
