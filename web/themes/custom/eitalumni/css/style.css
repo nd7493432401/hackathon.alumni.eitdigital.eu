@@ -2697,6 +2697,10 @@ h1.userprofile-fullname {
   margin-bottom: 20px;
 }
 
+.userprofile-job-city #address {
+  margin-left: 5px;
+}
+
 .userprofile-social a {
   margin: 10px 2px 10px 0;
   display: inline-block;
