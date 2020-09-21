@@ -14,8 +14,9 @@ In order to test this profile, follow these steps:
 
 Change the necessary environment variables, according to the comments in the file.
 
-## Step 2 / Option 1: Running the website in a docker container (recommended)
+## Step 2 / Option 1: Running the website in a docker container - Linux / MacOS (Recommended)
 
+*Currently this option is only available on Linux & MacOS*
 Make sure that you have [Docker](https://docs.docker.com/get-docker/) installed.
 
 ### Preliminary steps for MacOS Users
@@ -42,7 +43,7 @@ You can stop the containrers by running `make stop`.
 
 For MacOS users, also stop the Mutagen project my running `mutagen project terminate -f config.yml`.
 
-## Step 2 / Option 2: Running the website in LAMP/XAMPP/WAMP
+## Step 2 / Option 2: Running the website in LAMP/XAMPP/WAMP - Windows / Linux / MacOS
 
 *If you run the website in a container all these applications are pre-installed in the container*
 
