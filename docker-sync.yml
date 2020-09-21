@@ -1,7 +1,7 @@
 version: "2"
 
 syncs:
-  hackathondigitalumni_sync:
+  hackathon_digitalumni_sync:
     src: './'
     sync_userid: '501'
     sync_excludes: ['.gitignore', '.git/', '.idea/']

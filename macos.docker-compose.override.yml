@@ -1,25 +1,26 @@
-version: "3"
+version: "3.7"
 
 services:
+  mutagen:
+    build:
+      context: .
+      dockerfile: mutagen.Dockerfile
+    init: true
+    container_name: "mutagen"
+    volumes:
+    - hackathon_digitalumni:/var/www/html
+
   php:
     volumes:
-## For macOS users (https://wodby.com/docs/stacks/drupal/local#docker-for-mac)
-#      - ./:/var/www/html:cached # User-guided caching
-      - hackathondigitalumni_sync:/var/www/html # Docker-sync
+    - hackathon_digitalumni:/var/www/html
+
+  crond:
+    volumes:
+    - hackathon_digitalumni:/var/www/html
 
   nginx:
     volumes:
-# For macOS users (https://wodby.com/docs/stacks/drupal/local#docker-for-mac)
-#      - ./:/var/www/html:cached # User-guided caching
-      - hackathondigitalumni_sync:/var/www/html # Docker-sync
-
-#  apache:
-#    volumes:
-## For macOS users (https://wodby.com/docs/stacks/drupal/local#docker-for-mac)
-##      - ./:/var/www/html:cached # User-guided caching
-##      - digitalumni_sync:/var/www/html # Docker-sync
+    - hackathon_digitalumni:/var/www/html
 
 volumes:
-## Docker-sync for macOS users
-  digitalumni_sync:
-    external: true
+  hackathon_digitalumni:
