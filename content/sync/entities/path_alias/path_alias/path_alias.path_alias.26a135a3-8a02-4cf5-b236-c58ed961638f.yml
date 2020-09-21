@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 26a135a3-8a02-4cf5-b236-c58ed961638f
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/alumni_member_phd
+alias:
+  -
+    value: /doctoral-alumni/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5d0d8d1b21fbea378f74ffef70f2bd48",
+    "content-hash": "2df8e44e86f0606445740c168f3e31c0",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2555,67 +2555,6 @@
             }
         },
         {
-            "name": "drupal/business_rules",
-            "version": "1.0.0-beta10",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/business_rules.git",
-                "reference": "8.x-1.0-beta10"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/business_rules-8.x-1.0-beta10.zip",
-                "reference": "8.x-1.0-beta10",
-                "shasum": "0c2974a5e8c25626a19262ff33f110af2de7fa97"
-            },
-            "require": {
-                "drupal/core": "~8.0",
-                "drupal/dbug": "*"
-            },
-            "require-dev": {
-                "drupal/group": "*",
-                "drupal/sms-sms": "*"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "8.x-1.0-beta10",
-                    "datestamp": "1588003782",
-                    "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Beta releases are not covered by Drupal security advisories."
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "C.E.A",
-                    "homepage": "https://www.drupal.org/user/3189629"
-                },
-                {
-                    "name": "colan",
-                    "homepage": "https://www.drupal.org/user/58704"
-                },
-                {
-                    "name": "pratik_kamble",
-                    "homepage": "https://www.drupal.org/user/3204909"
-                },
-                {
-                    "name": "yuriseki",
-                    "homepage": "https://www.drupal.org/user/1523064"
-                }
-            ],
-            "description": "Business Rules",
-            "homepage": "https://www.drupal.org/project/business_rules",
-            "support": {
-                "source": "https://git.drupalcode.org/project/business_rules"
-            }
-        },
-        {
             "name": "drupal/captcha",
             "version": "1.1.0",
             "source": {
@@ -3892,50 +3831,6 @@
             "homepage": "https://www.drupal.org/project/date_popup",
             "support": {
                 "source": "https://git.drupalcode.org/project/date_popup"
-            }
-        },
-        {
-            "name": "drupal/dbug",
-            "version": "1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/dbug.git",
-                "reference": "8.x-1.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/dbug-8.x-1.0.zip",
-                "reference": "8.x-1.0",
-                "shasum": "47297ae9a1ee478a9d51d2213347f01ac167aff8"
-            },
-            "require": {
-                "drupal/core": "~8.0"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "drupal": {
-                    "version": "8.x-1.0",
-                    "datestamp": "1490823784",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "yuriseki",
-                    "homepage": "https://www.drupal.org/user/1523064"
-                }
-            ],
-            "description": "Drupal version of ColdFusion's cfdump",
-            "homepage": "https://www.drupal.org/project/dbug",
-            "support": {
-                "source": "https://git.drupalcode.org/project/dbug"
             }
         },
         {
@@ -5995,7 +5890,7 @@
             "extra": {
                 "drupal": {
                     "version": "8.x-3.0-alpha6",
-                    "datestamp": "1595222442",
+                    "datestamp": "1595975406",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Alpha releases are not covered by Drupal security advisories."
@@ -6578,7 +6473,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/typed_data.git",
-                "reference": "465eece2366bba22cda5bee8cc6f78aec82c14e2"
+                "reference": "66ddeadd42b42df9587c45ca634741fccfae2d54"
             },
             "require": {
                 "drupal/core": "^8.8.2 || ^9"
@@ -6589,8 +6484,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "8.x-1.0-alpha5+16-dev",
-                    "datestamp": "1599333864",
+                    "version": "8.x-1.0-alpha5+20-dev",
+                    "datestamp": "1600640183",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
@@ -6622,7 +6517,7 @@
                 "source": "https://git.drupalcode.org/project/typed_data",
                 "issues": "https://www.drupal.org/project/issues/typed_data"
             },
-            "time": "2020-09-05T19:47:05+00:00"
+            "time": "2020-09-21T20:14:46+00:00"
         },
         {
             "name": "drupal/views_bootstrap",
@@ -7862,16 +7757,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v4.9.1",
+            "version": "v4.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28"
+                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/88e519766fc58bd46b8265561fb79b54e2e00b28",
-                "reference": "88e519766fc58bd46b8265561fb79b54e2e00b28",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/1c13d05035deff45f1230ca68bd7d74d621762d9",
+                "reference": "1c13d05035deff45f1230ca68bd7d74d621762d9",
                 "shasum": ""
             },
             "require": {
@@ -7910,7 +7805,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2020-08-30T16:15:20+00:00"
+            "time": "2020-09-19T14:52:48+00:00"
         },
         {
             "name": "npm-asset/select2",
@@ -14955,9 +14850,9 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal/business_rules": 10,
         "drupal/content_sync": 20,
         "drupal/country": 10,
+        "drupal/rules": 15,
         "drupal/migrate_run": 10
     },
     "prefer-stable": true,

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ac4bb5d4-ecd7-4748-92ef-fb94e2a1493f
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/potential_member_phd
+alias:
+  -
+    value: /doctoral-school/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

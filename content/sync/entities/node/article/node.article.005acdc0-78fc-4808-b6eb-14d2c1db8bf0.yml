@@ -11,7 +11,7 @@ type:
     target_uuid: 1ff87174-4aef-4c3a-9886-96097e2873f8
 revision_timestamp:
   -
-    value: '2020-09-20T15:24:19+00:00'
+    value: '2020-09-21T18:58:45+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_uid:
   -
@@ -34,7 +34,7 @@ created:
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2020-09-20T15:24:19+00:00'
+    value: '2020-09-21T18:58:45+00:00'
     format: 'Y-m-d\TH:i:sP'
 promote:
   -
@@ -73,9 +73,9 @@ field_alumni_week_link:
     options: {  }
 field_alumni_week_title:
   -
-    value: 'Huic lenis nunc quae'
+    value: 'EIT Digital'
     format: plain_text
-    processed: "<p>Huic lenis nunc quae</p>\n"
+    processed: "<p>EIT Digital</p>\n"
 field_article_category:
   -
     target_type: taxonomy_term

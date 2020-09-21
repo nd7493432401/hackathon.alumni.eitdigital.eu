@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d3ecc546-530a-4ce3-9edc-661a4362acf8
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/associate_member_summer_school
+alias:
+  -
+    value: /summer-school/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

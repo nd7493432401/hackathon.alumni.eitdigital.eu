@@ -25,6 +25,7 @@ dependencies:
     - field.field.user.user.field_website
     - image.style.thumbnail
   module:
+    - imce
     - profile
     - svg_image
     - user
@@ -68,9 +69,11 @@ content:
     weight: 3
     region: content
     settings:
-      progress_indicator: throbber
       preview_image_style: thumbnail
-    third_party_settings: {  }
+      progress_indicator: throbber
+    third_party_settings:
+      imce:
+        enabled: false
 hidden:
   contact: true
   eit_digital_employee_profiles: true

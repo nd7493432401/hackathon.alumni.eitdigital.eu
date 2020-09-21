@@ -11,14 +11,27 @@ dependencies:
 third_party_settings:
   multiple_registration:
     user_additional_register_form:
+      authenticated: authenticated
       potential_member_master: potential_member_master
       potential_member_phd: potential_member_phd
       potential_member_employee: potential_member_employee
+      alumni_member_employee: alumni_member_employee
       associate_member_summer_school: associate_member_summer_school
       associate_member_professional_school: associate_member_professional_school
+      alumni_member_master: alumni_member_master
+      alumni_member_phd: alumni_member_phd
       friend_member: friend_member
+    user_additional_register_form_required:
       authenticated: 0
-    user_additional_register_form_required: null
+      potential_member_master: 0
+      potential_member_phd: 0
+      potential_member_employee: 0
+      alumni_member_employee: 0
+      associate_member_summer_school: 0
+      associate_member_professional_school: 0
+      alumni_member_master: 0
+      alumni_member_phd: 0
+      friend_member: 0
 id: user.user.field_user_picture
 field_name: field_user_picture
 entity_type: user

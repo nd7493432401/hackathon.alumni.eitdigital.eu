@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 4ae06685-9ce9-4bcb-917a-65a731575e91
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/potential_member_master
+alias:
+  -
+    value: /master-school/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

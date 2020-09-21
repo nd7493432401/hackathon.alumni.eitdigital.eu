@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: f45b3ce4-7952-41ca-bbd0-bab803cbfb18
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/alumni_member_master
+alias:
+  -
+    value: /master-alumni/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 813a2ca4-6f5a-4df8-b178-2dd887dcf9e5
+langcode:
+  -
+    value: und
+path:
+  -
+    value: /user/register/associate_member_professional_school
+alias:
+  -
+    value: /professional_school/register
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

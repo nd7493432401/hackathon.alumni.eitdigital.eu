@@ -124,7 +124,6 @@ module:
   recaptcha: 0
   redirect: 0
   rest: 0
-  rules: 0
   search: 0
   select2: 0
   serialization: 0
@@ -143,7 +142,6 @@ module:
   toolbar: 0
   tour: 0
   twig_field_value: 0
-  typed_data: 0
   update: 0
   user: 0
   views_bootstrap: 0

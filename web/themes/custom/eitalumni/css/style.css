@@ -2086,6 +2086,10 @@ h2.alumni-week-h2 {
   padding-right: 8px;
 }
 
+.user-password .tabs--primary {
+  display: none;
+}
+
 .user-register .main-container,
 .user-password .main-container,
 .user-login .main-container {
@@ -2106,7 +2110,7 @@ h2.alumni-week-h2 {
 }
 
 .page-node-type-job #page-header {
-  background-image: url(https://alumni.eitdigital.eu/sites/all/themes/eitalumni/assets/images/default-banner.jpg) !important;
+  background-image: url(../images/default-banner.jpg) !important;
 }
 
 .page-node-type-page.page-jobs .node-page.view-mode-full
