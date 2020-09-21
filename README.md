@@ -94,11 +94,6 @@ Simpy run the installation from configuration again:
 
 The EIT Digital Alumni Website uses [Drupal 8 Confuration Management](https://www.drupal.org/docs/configuration-management).
 
-Specify the content directory in settings.php by adding the following lines to the end of the file:
-
-    global $content_directories;
-    $content_directories['sync'] = $app_root.'/../content/sync';
-
 ### Importing the configuration from ../config/sync into the database
 
     ../vendor/bin/drush cim
@@ -112,6 +107,11 @@ Specify the content directory in settings.php by adding the following lines to t
 As most of the functionality in our website is defined as custom blocks, all site content is also provided in the repository and can be imported.
 
 ### Preparations for importing content
+
+Specify the content directory in settings.php by adding the following lines to the end of the file:
+
+    global $content_directories;
+    $content_directories['sync'] = $app_root.'/../content/sync';
 
 As content is linked to the UUID of the admin and anonymous user, it is needed to update the uuid of the users. 
 **Only do this after a fresh install and before creating any other content manually**
