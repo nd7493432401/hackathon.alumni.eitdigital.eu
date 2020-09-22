@@ -130,12 +130,21 @@ Head over to the import tab and upload the `example_db.dump` file to load all th
 
 In order to import all the images into your installation:
 Copy the contents of the `example_files` folder to `/web/sites/default/files`. 
+
+    cp -R example_files/* web/sites/default/files/
     
 ### Clear the cache
 
 Run the following command inside your container shell to clear the Drupal cache
 
     ../vendor/bin/drush cr
+    
+### Login to the website
+
+Now we have imported a database with content, you can login with the following credentials 
+    
+    User: theadmin
+    Pass: admin
     
 ## Troubleshooting
 
