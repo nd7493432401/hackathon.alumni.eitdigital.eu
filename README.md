@@ -26,6 +26,10 @@ In order to achieve the best performance for file operations, we use Mutagen for
 Install Mutagen
 
     brew install mutagen-io/mutagen/mutagen
+    
+Copy the `macos.docker-compose.override.yml` file `into docker-compose.override.yml`.
+
+    cp macos.docker-compose.override.yml docker-compose.override.yml
 
 Start the Mutagen container 
 
@@ -125,7 +129,7 @@ Head over to the import tab and upload the `example_db.dump` file to load all th
 ### Importing the files
 
 In order to import all the images into your installation:
-Extract the contents of `example_files.zip` to `/web/sites/default/files`. 
+Copy the contents of the `example_files` folder to `/web/sites/default/files`. 
     
 ### Clear the cache
 
