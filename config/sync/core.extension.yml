@@ -31,7 +31,6 @@ module:
   config: 0
   contact: 0
   content_access: 0
-  content_sync: 0
   contentimport: 0
   context: 0
   context_entity_field: 0

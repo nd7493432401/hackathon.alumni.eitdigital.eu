@@ -37,7 +37,6 @@
         "drupal/captcha": "1.1",
         "drupal/console": "^1.0.2",
         "drupal/content_access": "1.0-alpha3",
-        "drupal/content_sync": "2.x-dev#5164f8a88149eea74e92808884dd9d04335d6d40",
         "drupal/context": "4.0-beta4",
         "drupal/context_entity_field": "1.0-alpha1",
         "drupal/context_layout": "1.0-beta2",

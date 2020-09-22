@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2df8e44e86f0606445740c168f3e31c0",
+    "content-hash": "d96b81786e19c2353bcd6d67ec049e6d",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2943,74 +2943,6 @@
             "support": {
                 "source": "https://git.drupalcode.org/project/content_access"
             }
-        },
-        {
-            "name": "drupal/content_sync",
-            "version": "dev-2.x",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/content_sync.git",
-                "reference": "5164f8a88149eea74e92808884dd9d04335d6d40"
-            },
-            "require": {
-                "drupal/core": "^8.6.10"
-            },
-            "type": "drupal-module",
-            "extra": {
-                "branch-alias": {
-                    "dev-2.x": "2.x-dev"
-                },
-                "drupal": {
-                    "version": "8.x-2.1+64-dev",
-                    "datestamp": "1589222283",
-                    "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Dev releases are not covered by Drupal security advisories."
-                    }
-                },
-                "drush": {
-                    "services": {
-                        "drush.services.yml": "^9"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0+"
-            ],
-            "authors": [
-                {
-                    "name": "Blanca.Esqueda",
-                    "homepage": "https://www.drupal.org/u/blancaesqueda",
-                    "role": "Maintainer"
-                },
-                {
-                    "name": "David Gil Hidalgo",
-                    "homepage": "https://www.drupal.org/u/dabito",
-                    "role": "Maintainer"
-                },
-                {
-                    "name": "David Nova",
-                    "homepage": "https://www.drupal.org/u/david4lim",
-                    "role": "Maintainer"
-                },
-                {
-                    "name": "Andrés Moncada",
-                    "homepage": "https://www.drupal.org/u/acmoncadab4",
-                    "role": "Contributor"
-                },
-                {
-                    "name": "See contributors",
-                    "homepage": "https://www.drupal.org/node/2865869/committers"
-                }
-            ],
-            "description": "Content Sync functionality.",
-            "homepage": "http://drupal.org/project/content_sync",
-            "support": {
-                "source": "https://git.drupalcode.org/project/content_sync",
-                "issues": "http://drupal.org/project/content_sync"
-            },
-            "time": "2020-05-11T20:06:32+00:00"
         },
         {
             "name": "drupal/context",
@@ -14850,7 +14782,6 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
-        "drupal/content_sync": 20,
         "drupal/country": 10,
         "drupal/rules": 15,
         "drupal/migrate_run": 10
