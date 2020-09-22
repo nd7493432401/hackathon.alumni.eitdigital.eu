@@ -23,6 +23,11 @@ up:
 	docker-compose up -d --remove-orphans
 	@echo "Find the site at http://$(PROJECT_BASE_URL):8000"
 
+.PHONY: mutagen
+mutagen:
+	docker-compose up -d mutagen
+	mutagen project start -f mutagen-config.yml
+
 ## down	:	Stop containers.
 .PHONY: down
 down: stop

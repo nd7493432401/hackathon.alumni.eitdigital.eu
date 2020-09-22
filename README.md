@@ -3,7 +3,7 @@
 This is the repository for the EIT Digital Alumni Project. This branch is built upon the [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) and [docker4drupal](https://github.com/wodby/docker4drupal) - refer to the respective documentations whenever necessary.
 All the configuration and content is present in this repository and no database dump is required.
 
-## Usage
+## Step 1: Preparation
 
 In order to test this profile, follow these steps:
 
@@ -14,19 +14,46 @@ In order to test this profile, follow these steps:
 
 Change the necessary environment variables, according to the comments in the file.
 
+## Step 2 / Option 1: Running the website in a docker container - Linux / MacOS (Recommended)
+
+*Currently this option is only available on Linux & MacOS*
+Make sure that you have [Docker](https://docs.docker.com/get-docker/) installed.
+
+### Preliminary steps for MacOS Users
+
+In order to achieve the best performance for file operations, we use Mutagen for file syncronisation. This can be enabled with a couple of simple steps:
+
+Install Mutagen
+
+    brew install mutagen-io/mutagen/mutagen
+
+Start the Mutagen container 
+
+    make mutagen
+
 ### Launching docker4drupal
-
-For macos users some extra steps are required:
-
-  - `cp macos.docker-compose.override.yml docker-compose.override.yml`
-  - run `docker-sync start --foreground` in a separate shell
-  - change the PHP container definitions in `.env`
 
 To launch the containers, simply run `make up`.
 
-Then start a shell inside the main container with `make shell`.
+Then start a shell inside the main container with `make shell`. Execute all the following steps inside this shell (incide the container)
 
-### Inside the container OR on a normal LAMP stack
+### Stopping the containers
+
+You can stop the containrers by running `make stop`.
+
+For MacOS users, also stop the Mutagen project my running `mutagen project terminate -f config.yml`.
+
+## Step 2 / Option 2: Running the website in LAMP/XAMPP/WAMP - Windows / Linux / MacOS
+
+*If you run the website in a container all these applications are pre-installed in the container*
+
+Install [LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)/[XAMPP](https://www.apachefriends.org/index.html)/[WAMP](https://www.wampserver.com/en/) depending on your choice. 
+
+Install [Composer](https://getcomposer.org/download/) on your machine.
+
+Install [Drush](https://docs.drush.org/en/8.x/install-alternative/) on your machine.
+
+## Step 3: Install the website
 
 To download the necessary dependencies:
 
@@ -67,11 +94,6 @@ Simpy run the installation from configuration again:
 
 The EIT Digital Alumni Website uses [Drupal 8 Confuration Management](https://www.drupal.org/docs/configuration-management).
 
-Specify the content directory in settings.php by adding the following lines to the end of the file:
-
-    global $content_directories;
-    $content_directories['sync'] = $app_root.'/../content/sync';
-
 ### Importing the configuration from ../config/sync into the database
 
     ../vendor/bin/drush cim
@@ -85,6 +107,11 @@ Specify the content directory in settings.php by adding the following lines to t
 As most of the functionality in our website is defined as custom blocks, all site content is also provided in the repository and can be imported.
 
 ### Preparations for importing content
+
+Specify the content directory in settings.php by adding the following lines to the end of the file:
+
+    global $content_directories;
+    $content_directories['sync'] = $app_root.'/../content/sync';
 
 As content is linked to the UUID of the admin and anonymous user, it is needed to update the uuid of the users. 
 **Only do this after a fresh install and before creating any other content manually**

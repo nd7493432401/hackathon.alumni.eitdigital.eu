@@ -1,0 +1,74 @@
+uuid:
+  -
+    value: 1ca56a31-ed58-4350-9df4-9f6e7a27bab9
+type:
+  -
+    target_id: eit_digital_master_school
+    target_type: profile_type
+    target_uuid: 777ce66a-4b67-4fb7-9b90-c8aff8b6cbc3
+revision_created:
+  -
+    value: '2020-09-22T18:51:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 9639581f-7ccc-4168-a0fa-5ff204d2157b
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: e6f94173-9db7-4f7e-9ec3-84ecf1b15d6f
+is_default:
+  -
+    value: true
+data: {  }
+created:
+  -
+    value: '2020-09-22T18:51:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-22T18:51:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+field_entry_university:
+  -
+    target_type: taxonomy_term
+    target_uuid: 1d96ec9e-21f0-4aa5-bf44-b282f7a9177d
+field_entry_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: 6668a231-a554-4f9b-827d-9d6d5b63660d
+field_exit_university:
+  -
+    target_type: taxonomy_term
+    target_uuid: bee455fc-72ca-4d56-a0fa-768f91136c6a
+field_graduation_year:
+  -
+    target_type: taxonomy_term
+    target_uuid: 39946b2f-6860-4d77-a38b-794bc3e4c3c6
+field_summer_school_attended:
+  -
+    target_type: taxonomy_term
+    target_uuid: ce2e5f0e-c6df-4ddc-901e-1b6e1e1a66c4
+field_track:
+  -
+    target_type: taxonomy_term
+    target_uuid: 5f1b9702-db05-49b1-880a-75e0e380df1f
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.9639581f-7ccc-4168-a0fa-5ff204d2157b
+      - user.user.e6f94173-9db7-4f7e-9ec3-84ecf1b15d6f
+    taxonomy_term:
+      - taxonomy_term.entry_universities.1d96ec9e-21f0-4aa5-bf44-b282f7a9177d
+      - taxonomy_term.entry_y.6668a231-a554-4f9b-827d-9d6d5b63660d
+      - taxonomy_term.exit_universities.bee455fc-72ca-4d56-a0fa-768f91136c6a
+      - taxonomy_term.exit_.39946b2f-6860-4d77-a38b-794bc3e4c3c6
+      - taxonomy_term.summer_schools.ce2e5f0e-c6df-4ddc-901e-1b6e1e1a66c4
+      - taxonomy_term.tracks_master_school_.5f1b9702-db05-49b1-880a-75e0e380df1f

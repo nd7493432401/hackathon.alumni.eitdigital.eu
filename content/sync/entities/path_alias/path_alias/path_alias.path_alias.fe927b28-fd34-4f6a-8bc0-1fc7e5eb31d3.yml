@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fe927b28-fd34-4f6a-8bc0-1fc7e5eb31d3
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /user/35
+alias:
+  -
+    value: /users/damian
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

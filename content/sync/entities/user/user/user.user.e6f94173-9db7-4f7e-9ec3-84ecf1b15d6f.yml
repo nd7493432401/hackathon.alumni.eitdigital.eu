@@ -1,0 +1,84 @@
+uuid:
+  -
+    value: e6f94173-9db7-4f7e-9ec3-84ecf1b15d6f
+langcode:
+  -
+    value: en
+name:
+  -
+    value: damian
+created:
+  -
+    value: '2020-09-22T18:51:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-09-22T19:14:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+eit_digital_doctoral_school_profiles: {  }
+eit_digital_employee_profiles: {  }
+eit_digital_friend_profiles: {  }
+eit_digital_master_school_profiles:
+  -
+    target_id: 12
+    target_type: profile
+    target_uuid: 1ca56a31-ed58-4350-9df4-9f6e7a27bab9
+    url: /profile/12
+eit_digital_professional_school_profiles: {  }
+eit_digital_summer_school_profiles: {  }
+path:
+  -
+    alias: /users/damian
+field_about_me: {  }
+field_address: {  }
+field_current_job: {  }
+field_current_professional_statu: {  }
+field_education: {  }
+field_expertise: {  }
+field_facebook: {  }
+field_first_name:
+  -
+    value: Damiano
+field_geolocation: {  }
+field_introduction:
+  -
+    value: Intro
+field_languages: {  }
+field_last_name:
+  -
+    value: Fossa
+field_linkedin: {  }
+field_local_representative: {  }
+field_mentorship_status: {  }
+field_projects: {  }
+field_twitter: {  }
+field_user_picture:
+  -
+    alt: ''
+    title: ''
+    width: 960
+    height: 960
+    target_type: file
+    target_uuid: 03edfbc7-f216-4f46-b271-fad87c131c80
+field_website: {  }
+_content_sync:
+  entity_type: user
+  entity_dependencies:
+    profile:
+      - profile.eit_digital_master_school.1ca56a31-ed58-4350-9df4-9f6e7a27bab9
+    file:
+      - file.image.03edfbc7-f216-4f46-b271-fad87c131c80
+pass:
+  -
+    value: $S$E/cObygjGhbcpjhdCEbensEb25RtFhLHpvxGz6Cj9Zl6tpeq.2G5
+    pre_hashed: true
+mail:
+  value: fossa.damiano@gmail.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - potential_member_master

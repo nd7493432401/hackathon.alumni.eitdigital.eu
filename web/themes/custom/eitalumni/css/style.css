@@ -2819,16 +2819,14 @@ a.tabledrag-handle .handle {
 }
 
 .user-profile.view-mode-full .group-header > h3 {
-  /*display: none;*/
-  /*display: block;*/
   font-size: 28px;
   font-weight: 600;
   line-height: 1.1;
 }
 
-.page-user .main-container .tabs--primary.nav-tabs li:first-of-type {
+/*.page-user .main-container .tabs--primary.nav-tabs li:first-of-type {
   display: none !important;
-}
+}*/
 
 .signup-question {
   font-size: 32px;
