@@ -130,6 +130,8 @@ Head over to the import tab and upload the `example_db.dump` file to load all th
 
 In order to import all the images into your installation:
 Copy the contents of the `example_files` folder to `/web/sites/default/files`. 
+
+    cp -R example_files/* web/sites/default/files/
     
 ### Clear the cache
 
