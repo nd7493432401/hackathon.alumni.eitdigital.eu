@@ -6,4 +6,6 @@ id: associate_member_phd
 label: 'Associate Member (PHD)'
 weight: 7
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_doctoral_school profile'
+  - 'view own eit_digital_doctoral_school profile'

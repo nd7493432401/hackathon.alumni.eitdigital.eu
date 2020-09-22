@@ -6,4 +6,7 @@ id: potential_member_phd
 label: 'Potential Member (PHD)'
 weight: 4
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_doctoral_school profile'
+  - 'view own eit_digital_doctoral_school profile'
+  - 'view own profile'

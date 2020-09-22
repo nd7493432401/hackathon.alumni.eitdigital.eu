@@ -6,4 +6,7 @@ id: potential_member_employee
 label: 'Potential Member (Employee)'
 weight: 5
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_employee profile'
+  - 'view own eit_digital_employee profile'
+  - 'view own profile'

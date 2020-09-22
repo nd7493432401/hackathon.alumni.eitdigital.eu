@@ -6,4 +6,7 @@ id: friend_member
 label: 'Friend Member'
 weight: 13
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_friend profile'
+  - 'view own eit_digital_friend profile'
+  - 'view own profile'

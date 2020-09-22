@@ -6,4 +6,7 @@ id: associate_member_summer_school
 label: 'Associate Member (Summer School)'
 weight: 9
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_summer_school profile'
+  - 'view own eit_digital_summer_school profile'
+  - 'view own profile'

@@ -6,4 +6,7 @@ id: associate_member_professional_school
 label: 'Associate Member (Professional School)'
 weight: 10
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_professional_school profile'
+  - 'view own eit_digital_professional_school profile'
+  - 'view own profile'

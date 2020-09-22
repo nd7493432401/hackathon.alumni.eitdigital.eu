@@ -6,4 +6,7 @@ id: potential_member_master
 label: 'Potential Member (Master)'
 weight: 3
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_master_school profile'
+  - 'view own eit_digital_master_school profile'
+  - 'view own profile'

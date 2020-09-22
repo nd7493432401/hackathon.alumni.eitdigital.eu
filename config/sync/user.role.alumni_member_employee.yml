@@ -6,4 +6,7 @@ id: alumni_member_employee
 label: 'Alumni Member (Employee)'
 weight: 8
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_employee profile'
+  - 'view own eit_digital_employee profile'
+  - 'view own profile'

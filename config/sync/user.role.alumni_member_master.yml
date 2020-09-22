@@ -6,4 +6,7 @@ id: alumni_member_master
 label: 'Alumni Member (Master)'
 weight: 11
 is_admin: null
-permissions: {  }
+permissions:
+  - 'update own eit_digital_master_school profile'
+  - 'view own eit_digital_master_school profile'
+  - 'view own profile'
