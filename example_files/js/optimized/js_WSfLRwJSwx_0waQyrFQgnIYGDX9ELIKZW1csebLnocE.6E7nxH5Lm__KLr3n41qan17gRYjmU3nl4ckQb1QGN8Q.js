@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/modules/contrib/geolocation/js/MapCenter/static-location.js. */
+(function(Drupal){'use strict';Drupal.geolocation=Drupal.geolocation||{};Drupal.geolocation.mapCenter=Drupal.geolocation.mapCenter||{};Drupal.geolocation.mapCenter.location_plugins=function(map,centerOption){if(typeof centerOption.success!=="undefined"&&centerOption.success)return true;return false}})(Drupal)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/modules/contrib/geolocation/js/MapCenter/static-location.js. */

@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://alumni.docker.localhost:8000/core/modules/editor/js/editor.dialog.js. */
+(function($,Drupal){Drupal.AjaxCommands.prototype.editorDialogSave=function(ajax,response,status){$(window).trigger('editor:dialogsave',[response.values])}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://alumni.docker.localhost:8000/core/modules/editor/js/editor.dialog.js. */

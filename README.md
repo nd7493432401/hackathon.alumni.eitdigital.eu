@@ -102,30 +102,36 @@ The EIT Digital Alumni Website uses [Drupal 8 Confuration Management](https://ww
 
     ../vendor/bin/drush cex
     
-## Working with the content
+## Importing example content
 
-As most of the functionality in our website is defined as custom blocks, all site content is also provided in the repository and can be imported.
+As a site without content looks very empty, we have provided a database dump with example content to get you started. 
 
-### Preparations for importing content
+### Importing the database dump
 
-Specify the content directory in settings.php by adding the following lines to the end of the file:
+If you are using the website installation in a docker container, you can simply head to: 
 
-    global $content_directories;
-    $content_directories['sync'] = $app_root.'/../content/sync';
+    http://pma.hackathon.docker.localhost:8000/ 
 
-As content is linked to the UUID of the admin and anonymous user, it is needed to update the uuid of the users. 
-**Only do this after a fresh install and before creating any other content manually**
+*Adding pma. in front of the domain you are using.*
 
-    ../vendor/bin/drush sqlq "UPDATE users SET uuid = '7a10687b-9aea-4694-8fbf-d354bafa749a' WHERE uid = 1"
-    ../vendor/bin/drush sqlq "UPDATE users SET uuid = '9639581f-7ccc-4168-a0fa-5ff204d2157b' WHERE uid = 0"
+If you are using the installation on LAMP/XAMPP/WAMP head to
 
-### Importing the content from ../content/sync into the database
+    http://localhost/phpmyadmin
 
-    ../vendor/bin/drush csi
+Drop all the tables in your drupal database. **Be careful, this will delete all the existing site data**
+
+Head over to the import tab and upload the `example_db.dump` file to load all the example data.
+
+### Importing the files
+
+In order to import all the images into your installation:
+Extract the contents of `example_files.zip` to `/web/sites/default/files`. 
     
-### Exporting the content from the database into ../content/sync
+### Clear the cache
 
-    ../vendor/bin/drush cse
+Run the following command inside your container shell to clear the Drupal cache
+
+    ../vendor/bin/drush cr
     
 ## Troubleshooting
 

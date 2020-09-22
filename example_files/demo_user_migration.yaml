@@ -1,0 +1,20 @@
+id: demo_user_migration
+migration_tags: null
+migration_group: null
+label: 'User migration from CSV'
+source:
+  plugin: csv
+  path: /var/www/html/web/sites/default/files/users.csv
+  ids: 
+    - Uid
+process:
+  name: Name
+  mail: E-mail
+  field_last_name: First Name
+  field_first_name: Last Name
+  status: Active status
+destination:
+  plugin: 'entity:user'
+migration_dependencies:
+  required: {  }
+  optional: {  }

@@ -1,0 +1,5 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/modules/views_ui/js/views_ui.listing.js. */
+(function($,Drupal){Drupal.behaviors.viewTableFilterByText={attach:function attach(context,settings){var $input=$('input.views-filter-text').once('views-filter-text'),$table=$($input.attr('data-table')),$rows=void(0)
+function filterViewList(e){var query=$(e.target).val().toLowerCase()
+function showViewRow(index,row){var $row=$(row),$sources=$row.find('[data-drupal-selector="views-table-filter-text-source"]'),textMatch=$sources.text().toLowerCase().indexOf(query)!==-1;$row.closest('tr').toggle(textMatch)};if(query.length>=2){$rows.each(showViewRow)}else $rows.show()};if($table.length){$rows=$table.find('tbody tr');$input.on('keyup',filterViewList)}}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/modules/views_ui/js/views_ui.listing.js. */

@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/assets/vendor/jquery.ui/ui/disable-selection-min.js. */
+!function(a){"function"==typeof define&&define.amd?define(["jquery","./version"],a):a(jQuery)}(function(a){return a.fn.extend({disableSelection:function(){var a="onselectstart"in document.createElement("div")?"selectstart":"mousedown";return function(){return this.on(a+".ui-disableSelection",function(a){a.preventDefault()})}}(),enableSelection:function(){return this.off(".ui-disableSelection")}})})
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/assets/vendor/jquery.ui/ui/disable-selection-min.js. */

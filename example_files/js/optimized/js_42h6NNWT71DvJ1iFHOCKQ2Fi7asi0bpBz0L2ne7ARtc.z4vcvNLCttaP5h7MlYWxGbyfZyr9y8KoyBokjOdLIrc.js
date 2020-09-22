@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/modules/history/js/mark-as-read.js. */
+(function(window,Drupal,drupalSettings){window.addEventListener('load',function(){if(drupalSettings.history&&drupalSettings.history.nodesToMarkAsRead)Object.keys(drupalSettings.history.nodesToMarkAsRead).forEach(Drupal.history.markAsRead)})})(window,Drupal,drupalSettings)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/modules/history/js/mark-as-read.js. */

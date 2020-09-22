@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/misc/debounce.js. */
+Drupal.debounce=function(func,wait,immediate){var timeout=void(0),result=void(0);return function(){for(var _len=arguments.length,args=Array(_len),_key=0;_key<_len;_key++)args[_key]=arguments[_key];var context=this,later=function later(){timeout=null;if(!immediate)result=func.apply(context,args)},callNow=immediate&&!timeout;clearTimeout(timeout);timeout=setTimeout(later,wait);if(callNow)result=func.apply(context,args);return result}}
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/misc/debounce.js. */

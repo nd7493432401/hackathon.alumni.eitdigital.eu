@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/themes/contrib/bootstrap/js/modules/filter/filter.js. */
+(function($){'use strict'
+function updateFilterHelpLink(){var $link=$(this).parents('.filter-wrapper').find('.filter-help > a'),originalLink=$link.data('originalLink');if(!originalLink){originalLink=$link.attr('href');$link.data('originalLink',originalLink)};$link.attr('href',originalLink+'/'+$(this).find(':selected').val())};$(document).on('change','.filter-wrapper select.filter-list',updateFilterHelpLink);Drupal.behaviors.filterGuidelines={attach:function(context){$(context).find('.filter-wrapper select.filter-list').once('filter-list').each(updateFilterHelpLink)}}})(jQuery)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/themes/contrib/bootstrap/js/modules/filter/filter.js. */

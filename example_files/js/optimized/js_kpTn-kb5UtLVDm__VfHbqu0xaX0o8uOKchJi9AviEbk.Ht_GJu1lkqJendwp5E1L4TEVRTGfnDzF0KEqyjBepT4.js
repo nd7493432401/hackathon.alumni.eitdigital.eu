@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://alumni.docker.localhost:8000/core/modules/path/path.js. */
+(function($,Drupal){Drupal.behaviors.pathDetailsSummaries={attach:function attach(context){$(context).find('.path-form').drupalSetSummary(function(context){var path=$('.js-form-item-path-0-alias input').val();return path?Drupal.t('Alias: @alias',{'@alias':path}):Drupal.t('No alias')})}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://alumni.docker.localhost:8000/core/modules/path/path.js. */

@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://alumni.docker.localhost:8000/core/modules/quickedit/js/views/EntityDecorationView.js. */
+(function(Drupal,$,Backbone){Drupal.quickedit.EntityDecorationView=Backbone.View.extend({initialize:function initialize(){this.listenTo(this.model,'change',this.render)},render:function render(){this.$el.toggleClass('quickedit-entity-active',this.model.get('isActive'))},remove:function remove(){this.setElement(null);Backbone.View.prototype.remove.call(this)}})})(Drupal,jQuery,Backbone)
+/* Source and licensing information for the above line(s) can be found at http://alumni.docker.localhost:8000/core/modules/quickedit/js/views/EntityDecorationView.js. */

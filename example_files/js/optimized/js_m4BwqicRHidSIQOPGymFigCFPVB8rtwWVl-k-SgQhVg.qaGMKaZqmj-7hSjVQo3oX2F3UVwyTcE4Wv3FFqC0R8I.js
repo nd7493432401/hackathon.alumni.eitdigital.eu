@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/modules/contrib/webform/js/webform.help.js. */
+(function($,Drupal){'use strict';Drupal.behaviors.webformHelpDialog={attach:function(context){$(context).find('.button-webform-play').once('webform-help-dialog').on('click',function(event){if($(window).width()<768)event.stopImmediatePropagation()}).each(function(){var handlers=$._data(this,'events')['click'],handler=handlers.pop();handlers.splice(0,0,handler)})}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/modules/contrib/webform/js/webform.help.js. */

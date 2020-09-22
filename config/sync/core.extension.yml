@@ -79,6 +79,7 @@ module:
   help: 0
   history: 0
   image: 0
+  image_export_import: 0
   imce: 0
   kint: 0
   language: 0

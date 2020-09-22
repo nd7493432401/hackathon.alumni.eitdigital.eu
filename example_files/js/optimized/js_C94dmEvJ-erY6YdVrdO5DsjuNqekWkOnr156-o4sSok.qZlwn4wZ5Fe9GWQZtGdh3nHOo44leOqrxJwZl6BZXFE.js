@@ -1,0 +1,4 @@
+/* Source and licensing information for the line(s) below can be found at http://alumni.docker.localhost:8000/modules/contrib/webform/js/webform.block.js. */
+(function($,window,Drupal){'use strict';Drupal.behaviors.webformBlockSettingsSummary={attach:function(){if(typeof $.fn.drupalSetSummary==='undefined')return
+function selectSummary(context){return $(context).find('#edit-visibility-webform-webforms option:selected').map(function(){return Drupal.checkPlain(this.text)}).get().join(', ')||Drupal.t('Not restricted')};$('[data-drupal-selector="edit-visibility-webform"]').drupalSetSummary(selectSummary)}}})(jQuery,window,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://alumni.docker.localhost:8000/modules/contrib/webform/js/webform.block.js. */

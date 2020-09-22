@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/assets/vendor/jquery.ui/ui/version-min.js. */
+!function(a){"function"==typeof define&&define.amd?define(["jquery"],a):a(jQuery)}(function(a){return a.ui=a.ui||{},a.ui.version="1.12.1"})
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/assets/vendor/jquery.ui/ui/version-min.js. */

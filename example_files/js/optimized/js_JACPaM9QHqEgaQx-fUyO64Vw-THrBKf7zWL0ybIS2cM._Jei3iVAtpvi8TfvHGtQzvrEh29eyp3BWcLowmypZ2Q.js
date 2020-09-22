@@ -1,0 +1,3 @@
+/* Source and licensing information for the line(s) below can be found at http://hackathondigitalumni.docker.localhost:8000/core/misc/details-aria.js. */
+(function($,Drupal){Drupal.behaviors.detailsAria={attach:function attach(){$('body').once('detailsAria').on('click.detailsAria','summary',function(event){var $summary=$(event.currentTarget),open=$(event.currentTarget.parentNode).attr('open')==='open'?'false':'true';$summary.attr({'aria-expanded':open,'aria-pressed':open})})}}})(jQuery,Drupal)
+/* Source and licensing information for the above line(s) can be found at http://hackathondigitalumni.docker.localhost:8000/core/misc/details-aria.js. */
