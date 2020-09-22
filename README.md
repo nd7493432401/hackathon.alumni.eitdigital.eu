@@ -139,6 +139,13 @@ Run the following command inside your container shell to clear the Drupal cache
 
     ../vendor/bin/drush cr
     
+### Login to the website
+
+Now we have imported a database with content, you can login with the following credentials 
+    
+    User: theadmin
+    Pass: admin
+    
 ## Troubleshooting
 
 Some common issues and quick solutions...
