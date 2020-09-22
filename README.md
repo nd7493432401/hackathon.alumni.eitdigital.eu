@@ -45,7 +45,7 @@ Then start a shell inside the main container with `make shell`. Execute all the 
 
 You can stop the containrers by running `make stop`.
 
-For MacOS users, also stop the Mutagen project my running `mutagen project terminate -f config.yml`.
+For MacOS users, also stop the Mutagen project my running `mutagen project terminate -f mutagen-config.yml`.
 
 ## Step 2 / Option 2: Running the website in LAMP/XAMPP/WAMP - Windows / Linux / MacOS
 
