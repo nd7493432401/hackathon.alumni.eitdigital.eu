@@ -1,0 +1,18 @@
+uuid: 94a49e8a-7e39-4718-bf3d-7189757e5a33
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: Start-up
+type: start_up
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

@@ -1,0 +1,23 @@
+uuid: 14d93fce-f852-4165-94bb-e962637a162f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_website
+    - node.type.start_up
+  module:
+    - link
+id: node.start_up.field_website
+field_name: field_website
+entity_type: node
+bundle: start_up
+label: Website
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 1
+field_type: link

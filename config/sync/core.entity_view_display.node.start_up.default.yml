@@ -1,0 +1,43 @@
+uuid: 07da3bff-ac2e-4656-a822-dc8802346ad2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.start_up.field_description
+    - field.field.node.start_up.field_website
+    - node.type.start_up
+  module:
+    - link
+    - text
+    - user
+id: node.start_up.default
+targetEntityType: node
+bundle: start_up
+mode: default
+content:
+  field_description:
+    weight: 101
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_website:
+    weight: 102
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

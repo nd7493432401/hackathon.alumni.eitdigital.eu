@@ -1,0 +1,25 @@
+uuid: 591a334b-b15a-4a89-b50f-6bbd14a066ee
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.start_up.field_description
+    - field.field.node.start_up.field_website
+    - node.type.start_up
+  module:
+    - user
+id: node.start_up.teaser
+targetEntityType: node
+bundle: start_up
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_description: true
+  field_website: true
+  langcode: true
