@@ -3,6 +3,8 @@
 This is the repository for the EIT Digital Alumni Project. This branch is built upon the [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) and [docker4drupal](https://github.com/wodby/docker4drupal) - refer to the respective documentations whenever necessary.
 All the configuration and content is present in this repository and no database dump is required.
 
+[Click here for video instructions](https://youtu.be/s8JZpT6XKOw)
+
 ## Step 1: Preparation
 
 In order to test this profile, follow these steps:
