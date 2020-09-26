@@ -13,6 +13,7 @@ dependencies:
     - field.field.user.user.field_facebook
     - field.field.user.user.field_first_name
     - field.field.user.user.field_geolocation
+    - field.field.user.user.field_interests
     - field.field.user.user.field_introduction
     - field.field.user.user.field_languages
     - field.field.user.user.field_last_name
@@ -740,6 +741,7 @@ hidden:
   eit_digital_master_school_profiles: true
   eit_digital_professional_school_profiles: true
   eit_digital_summer_school_profiles: true
+  field_interests: true
   language: true
   path: true
   timezone: true

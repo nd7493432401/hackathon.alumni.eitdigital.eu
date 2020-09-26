@@ -12,6 +12,7 @@ dependencies:
     - field.field.user.user.field_facebook
     - field.field.user.user.field_first_name
     - field.field.user.user.field_geolocation
+    - field.field.user.user.field_interests
     - field.field.user.user.field_introduction
     - field.field.user.user.field_languages
     - field.field.user.user.field_last_name
@@ -637,6 +638,12 @@ content:
           administrative-area: false
           postal-code: false
     type: geolocation_leaflet
+    region: content
+  field_interests:
+    weight: 22
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
     region: content
   field_introduction:
     weight: 4

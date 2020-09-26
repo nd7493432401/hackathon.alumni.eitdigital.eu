@@ -13,6 +13,7 @@ dependencies:
     - field.field.user.user.field_facebook
     - field.field.user.user.field_first_name
     - field.field.user.user.field_geolocation
+    - field.field.user.user.field_interests
     - field.field.user.user.field_introduction
     - field.field.user.user.field_languages
     - field.field.user.user.field_last_name
@@ -86,6 +87,7 @@ hidden:
   field_expertise: true
   field_facebook: true
   field_geolocation: true
+  field_interests: true
   field_introduction: true
   field_languages: true
   field_linkedin: true

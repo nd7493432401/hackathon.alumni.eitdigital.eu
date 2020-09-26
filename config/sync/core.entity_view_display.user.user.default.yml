@@ -12,6 +12,7 @@ dependencies:
     - field.field.user.user.field_facebook
     - field.field.user.user.field_first_name
     - field.field.user.user.field_geolocation
+    - field.field.user.user.field_interests
     - field.field.user.user.field_introduction
     - field.field.user.user.field_languages
     - field.field.user.user.field_last_name
@@ -28,6 +29,7 @@ dependencies:
     - entity_reference_revisions
     - fences
     - languagefield
+    - options
     - user
 third_party_settings:
   ds:
@@ -177,6 +179,13 @@ content:
     third_party_settings: {  }
     type: string
     region: right
+  field_interests:
+    weight: 13
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+    region: content
   field_languages:
     type: languagefield_default
     weight: 11
