@@ -1,0 +1,21 @@
+uuid: 5defab78-693c-4fd5-ba40-6da63f7b3bf4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_topic
+    - node.type.event
+  module:
+    - options
+id: node.event.field_topic
+field_name: field_topic
+entity_type: node
+bundle: event
+label: Topic
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

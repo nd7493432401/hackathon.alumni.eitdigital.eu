@@ -1,0 +1,45 @@
+uuid: 181e9d35-d4e6-4e88-a4dd-2784c0c28f99
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_topic
+field_name: field_topic
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Data Science'
+      label: 'Data Science'
+    -
+      value: Robotics
+      label: Robotics
+    -
+      value: Entrepreneurship
+      label: Entrepreneurship
+    -
+      value: Blogging
+      label: Blogging
+    -
+      value: Sports
+      label: Sports
+    -
+      value: Art
+      label: Art
+    -
+      value: Gaming
+      label: Gaming
+    -
+      value: Traveling
+      label: Traveling
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

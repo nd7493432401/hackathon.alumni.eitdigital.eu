@@ -1,0 +1,45 @@
+uuid: 06094f6b-06d6-42b1-acdd-4838e1aca944
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - user
+id: user.field_interests
+field_name: field_interests
+entity_type: user
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: 'Data Science'
+      label: 'Data Science'
+    -
+      value: Robotics
+      label: Robotics
+    -
+      value: Entrepreneurship
+      label: Entrepreneurship
+    -
+      value: Blogging
+      label: Blogging
+    -
+      value: Sports
+      label: Sports
+    -
+      value: Art
+      label: Art
+    -
+      value: Gaming
+      label: Gaming
+    -
+      value: Traveling
+      label: Traveling
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 3
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

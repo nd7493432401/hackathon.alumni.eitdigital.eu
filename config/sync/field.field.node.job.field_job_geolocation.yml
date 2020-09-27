@@ -1,0 +1,21 @@
+uuid: a666fcc6-c4f3-4c23-9413-b308837b0adf
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_job_geolocation
+    - node.type.job
+  module:
+    - geolocation
+id: node.job.field_job_geolocation
+field_name: field_job_geolocation
+entity_type: node
+bundle: job
+label: 'Job Geolocation'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: geolocation
