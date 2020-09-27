@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.user.user.field_about_me
+    - field.field.user.user.field_achievements
     - field.field.user.user.field_address
     - field.field.user.user.field_current_job
     - field.field.user.user.field_current_professional_statu
@@ -53,6 +54,14 @@ content:
       placeholder: ''
     third_party_settings: {  }
     type: string_textarea
+    region: content
+  field_achievements:
+    weight: 23
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
     region: content
   field_address:
     weight: 10

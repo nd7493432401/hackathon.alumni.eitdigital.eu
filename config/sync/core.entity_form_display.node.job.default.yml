@@ -8,11 +8,14 @@ dependencies:
     - field.field.node.job.field_company
     - field.field.node.job.field_expiration_date
     - field.field.node.job.field_job_description
+    - field.field.node.job.field_job_geolocation
     - field.field.node.job.field_job_location
+    - field.field.node.job.field_keywords
     - field.field.node.job.field_more_details_link
     - node.type.job
   module:
     - datetime
+    - geolocation
     - link
     - path
     - text
@@ -57,6 +60,12 @@ content:
     third_party_settings: {  }
     type: text_textarea
     region: content
+  field_job_geolocation:
+    weight: 52
+    settings: {  }
+    third_party_settings: {  }
+    type: geolocation_latlng
+    region: content
   field_job_location:
     weight: 3
     settings:
@@ -64,6 +73,12 @@ content:
       placeholder: ''
     third_party_settings: {  }
     type: text_textfield
+    region: content
+  field_keywords:
+    weight: 51
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
     region: content
   field_more_details_link:
     weight: 6

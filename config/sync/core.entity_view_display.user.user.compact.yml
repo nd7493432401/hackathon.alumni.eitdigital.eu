@@ -5,6 +5,7 @@ dependencies:
   config:
     - core.entity_view_mode.user.compact
     - field.field.user.user.field_about_me
+    - field.field.user.user.field_achievements
     - field.field.user.user.field_address
     - field.field.user.user.field_current_job
     - field.field.user.user.field_current_professional_statu
@@ -41,6 +42,7 @@ hidden:
   eit_digital_professional_school_profiles: true
   eit_digital_summer_school_profiles: true
   field_about_me: true
+  field_achievements: true
   field_address: true
   field_current_job: true
   field_current_professional_statu: true

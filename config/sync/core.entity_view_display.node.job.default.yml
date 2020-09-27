@@ -8,14 +8,18 @@ dependencies:
     - field.field.node.job.field_company
     - field.field.node.job.field_expiration_date
     - field.field.node.job.field_job_description
+    - field.field.node.job.field_job_geolocation
     - field.field.node.job.field_job_location
+    - field.field.node.job.field_keywords
     - field.field.node.job.field_more_details_link
     - node.type.job
   module:
     - datetime
     - ds
     - fences
+    - geolocation
     - link
+    - options
     - text
     - user
 third_party_settings:
@@ -123,6 +127,13 @@ content:
     label: above
     settings: {  }
     third_party_settings: {  }
+  field_job_geolocation:
+    weight: 7
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: geolocation_latlng
+    region: content
   field_job_location:
     weight: 2
     label: above
@@ -130,6 +141,13 @@ content:
     third_party_settings: {  }
     type: text_default
     region: middle
+  field_keywords:
+    weight: 6
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+    region: content
   field_more_details_link:
     weight: 5
     label: hidden

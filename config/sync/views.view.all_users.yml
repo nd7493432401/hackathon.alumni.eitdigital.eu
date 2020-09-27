@@ -43,7 +43,7 @@ display:
         type: views_query
         options:
           disable_sql_rewrite: false
-          distinct: false
+          distinct: true
           replica: false
           query_comment: ''
           query_tags: {  }
@@ -596,6 +596,64 @@ display:
             reduce: false
           is_grouped: false
           group_info:
+            label: 'Interests (field_interests)'
+            description: null
+            identifier: field_interests_value
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items:
+              1: {  }
+              2: {  }
+              3: {  }
+          reduce_duplicates: true
+          plugin_id: list_field
+        field_first_name_value:
+          id: field_first_name_value
+          table: user__field_first_name
+          field: field_first_name_value
+          relationship: none
+          group_type: group
+          admin_label: ''
+          operator: '='
+          value: ''
+          group: 1
+          exposed: true
+          expose:
+            operator_id: field_first_name_value_op
+            label: 'First Name'
+            description: ''
+            use_operator: false
+            operator: field_first_name_value_op
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: field_first_name_value
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+              anonymous: '0'
+              administrator: '0'
+              potential_member_master: '0'
+              potential_member_phd: '0'
+              potential_member_employee: '0'
+              associate_member_master: '0'
+              associate_member_phd: '0'
+              alumni_member_employee: '0'
+              associate_member_summer_school: '0'
+              associate_member_professional_school: '0'
+              alumni_member_master: '0'
+              alumni_member_phd: '0'
+              friend_member: '0'
+              board_member: '0'
+              editor: '0'
+            placeholder: ''
+          is_grouped: false
+          group_info:
             label: ''
             description: ''
             identifier: ''
@@ -606,8 +664,61 @@ display:
             default_group: All
             default_group_multiple: {  }
             group_items: {  }
-          reduce_duplicates: true
-          plugin_id: list_field
+          plugin_id: string
+        field_last_name_value:
+          id: field_last_name_value
+          table: user__field_last_name
+          field: field_last_name_value
+          relationship: none
+          group_type: group
+          admin_label: ''
+          operator: '='
+          value: ''
+          group: 1
+          exposed: true
+          expose:
+            operator_id: field_last_name_value_op
+            label: 'Last Name (field_last_name)'
+            description: ''
+            use_operator: false
+            operator: field_last_name_value_op
+            operator_limit_selection: false
+            operator_list: {  }
+            identifier: field_last_name_value
+            required: false
+            remember: false
+            multiple: false
+            remember_roles:
+              authenticated: authenticated
+              anonymous: '0'
+              administrator: '0'
+              potential_member_master: '0'
+              potential_member_phd: '0'
+              potential_member_employee: '0'
+              associate_member_master: '0'
+              associate_member_phd: '0'
+              alumni_member_employee: '0'
+              associate_member_summer_school: '0'
+              associate_member_professional_school: '0'
+              alumni_member_master: '0'
+              alumni_member_phd: '0'
+              friend_member: '0'
+              board_member: '0'
+              editor: '0'
+            placeholder: ''
+          is_grouped: false
+          group_info:
+            label: ''
+            description: ''
+            identifier: ''
+            optional: true
+            widget: select
+            multiple: false
+            remember: false
+            default_group: All
+            default_group_multiple: {  }
+            group_items: {  }
+          plugin_id: string
       sorts:
         field_interests_value:
           id: field_interests_value
@@ -662,37 +773,16 @@ display:
     display_plugin: block
     id: block_1
     display_title: Block
-    position: 2
+    position: 3
     display_options:
       display_extenders: {  }
       block_description: 'Alumni Directory Block'
       group_by: false
       defaults:
         group_by: false
+        title: false
+      title: 'Interesting Members'
     deleted: false
-    cache_metadata:
-      max-age: -1
-      contexts:
-        - 'languages:language_content'
-        - 'languages:language_interface'
-        - url
-        - url.query_args
-        - user.roles
-      tags:
-        - 'config:field.storage.user.field_address'
-        - 'config:field.storage.user.field_current_job'
-        - 'config:field.storage.user.field_first_name'
-        - 'config:field.storage.user.field_interests'
-        - 'config:field.storage.user.field_last_name'
-        - 'config:field.storage.user.field_user_picture'
-  page_1:
-    display_plugin: page
-    id: page_1
-    display_title: Page
-    position: 1
-    display_options:
-      display_extenders: {  }
-      path: alumni-directory
     cache_metadata:
       max-age: -1
       contexts:

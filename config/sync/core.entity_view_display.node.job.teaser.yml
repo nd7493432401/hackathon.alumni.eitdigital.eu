@@ -9,7 +9,9 @@ dependencies:
     - field.field.node.job.field_company
     - field.field.node.job.field_expiration_date
     - field.field.node.job.field_job_description
+    - field.field.node.job.field_job_geolocation
     - field.field.node.job.field_job_location
+    - field.field.node.job.field_keywords
     - field.field.node.job.field_more_details_link
     - node.type.job
   module:
@@ -38,6 +40,8 @@ hidden:
   field_company: true
   field_expiration_date: true
   field_job_description: true
+  field_job_geolocation: true
   field_job_location: true
+  field_keywords: true
   field_more_details_link: true
   langcode: true

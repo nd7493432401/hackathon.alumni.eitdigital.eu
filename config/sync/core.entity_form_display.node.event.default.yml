@@ -12,6 +12,7 @@ dependencies:
     - field.field.node.event.field_event_intro_image
     - field.field.node.event.field_event_introduction
     - field.field.node.event.field_event_type
+    - field.field.node.event.field_topic
     - node.type.event
   module:
     - datetime_range
@@ -87,6 +88,12 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_topic:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
   langcode:
     type: language_select
     weight: 2

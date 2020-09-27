@@ -12,9 +12,11 @@ dependencies:
     - field.field.node.event.field_event_intro_image
     - field.field.node.event.field_event_introduction
     - field.field.node.event.field_event_type
+    - field.field.node.event.field_topic
     - node.type.event
   module:
     - datetime_range
+    - options
     - text
     - user
 id: node.event.default
@@ -45,6 +47,13 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: text_default
+    region: content
+  field_topic:
+    weight: 3
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
     region: content
 hidden:
   body: true
